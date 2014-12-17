@@ -1,6 +1,6 @@
-JavaScript-News
-===============
-Try to build a repo to hold all (well... most) of the hot news around JavaScript and mobile web development.
+Front-End Development News
+==========================
+Try to build a repo to hold most of the interesting news around Java Script and mobile web development.
 
 ### JS News
   * [Nov 2014](https://github.com/greenido/JavaScript-News/blob/master/2014-11.md)
