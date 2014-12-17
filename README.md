@@ -10,4 +10,5 @@ Try to build a repo to hold all (well... most) of the hot news around JS.
 
 #### News
   * [Nov 2014](https://github.com/greenido/JavaScript-News/blob/master/2014-11.md)
-  * [Dec 2014]todo
+  * [Dec 2014](https://github.com/greenido/JavaScript-News/blob/master/2014-12.md)
+  * 
