@@ -1,6 +1,29 @@
-## Updated news for 2014-12-17 
+## Updated news for 2014-12-18 
 
 ==========
+## This Week in Mobile Web Development (#37)
+#### http://mobilewebweekly.co/issues/37
+
+==========
+  1. [http://ionicframework.com/blog/the-final-beta/](http://ionicframework.com/blog/the-final-beta/) 
+  2. [http://24ways.org/2014/making-sites-more-responsive-responsibly/](http://24ways.org/2014/making-sites-more-responsive-responsibly/) 
+  3. [http://www.filamentgroup.com/lab/mv-initial-load-times.html](http://www.filamentgroup.com/lab/mv-initial-load-times.html) 
+  4. [http://www.scottlogic.com/blog/2014/12/12/html5-android-optimisation.html](http://www.scottlogic.com/blog/2014/12/12/html5-android-optimisation.html) 
+  5. [http://infil00p.org/cordova/phonegap/2014/12/12/cordova-mozilla/](http://infil00p.org/cordova/phonegap/2014/12/12/cordova-mozilla/) 
+  6. [http://touchstonejs.io/](http://touchstonejs.io/) 
+  7. [http://www.sitepoint.com/better-responsive-website-testing-google-chrome/](http://www.sitepoint.com/better-responsive-website-testing-google-chrome/) 
+  8. [http://www.infoq.com/news/2014/12/supersonic-hybrid-apps-dev](http://www.infoq.com/news/2014/12/supersonic-hybrid-apps-dev) 
+  9. [http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/](http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/) 
+  10. [http://www.htmlcenter.com/blog/phonegap-plugins-mobile-application-projects/](http://www.htmlcenter.com/blog/phonegap-plugins-mobile-application-projects/) 
+  11. [https://blog.nraboy.com/2014/12/understanding-tabs-ionic-framework/](https://blog.nraboy.com/2014/12/understanding-tabs-ionic-framework/) 
+  12. [https://hacks.mozilla.org/2014/12/videos-and-firefox-os/](https://hacks.mozilla.org/2014/12/videos-and-firefox-os/) 
+  13. [http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/) 
+  14. [http://ionicframework.com/blog/ionic-lab/](http://ionicframework.com/blog/ionic-lab/) 
+  15. [http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/](http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#36)
 #### http://mobilewebweekly.co/issues/36
 
@@ -201,27 +224,5 @@
   13. [http://www.raymondcamden.com/2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats](http://www.raymondcamden.com/2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats) 
   14. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   15. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#27)
-#### http://mobilewebweekly.co/issues/27
-
-==========
-  1. [http://www.sitepoint.com/5-mobile-design-patterns-successful-app/](http://www.sitepoint.com/5-mobile-design-patterns-successful-app/) 
-  2. [http://mobiforge.com/news-comment/mobile-web-has-now-overtaken-pc-40-nations-including-india-nigeria-and-bangladesh](http://mobiforge.com/news-comment/mobile-web-has-now-overtaken-pc-40-nations-including-india-nigeria-and-bangladesh) 
-  3. [https://hacks.mozilla.org/2014/10/the-missing-sdk-for-hybrid-app-development/](https://hacks.mozilla.org/2014/10/the-missing-sdk-for-hybrid-app-development/) 
-  4. [https://raygun.io/landing/error-tracking-software](https://raygun.io/landing/error-tracking-software) 
-  6. [http://seesparkbox.com/foundry/responsive_web_design_tips](http://seesparkbox.com/foundry/responsive_web_design_tips) 
-  7. [http://www.theverge.com/2014/10/7/6934381/ios-8-adoption-slows-statistics](http://www.theverge.com/2014/10/7/6934381/ios-8-adoption-slows-statistics) 
-  8. [https://github.com/mcarella/wormhole](https://github.com/mcarella/wormhole) 
-  9. [https://software.intel.com/en-us/html5/articles/html5-hybrid-apps-with-admob-cordova-plugin](https://software.intel.com/en-us/html5/articles/html5-hybrid-apps-with-admob-cordova-plugin) 
-  10. [https://www.meteor.com/blog/2014/10/02/Apple-hot-code-push-mobile](https://www.meteor.com/blog/2014/10/02/Apple-hot-code-push-mobile) 
-  11. [http://rethinkdb.com/blog/beerthink/](http://rethinkdb.com/blog/beerthink/) 
-  12. [http://blogs.telerik.com/appbuilder/posts/14-09-29/native-performance-in-a-hybrid-app-with-native-page-transitions](http://blogs.telerik.com/appbuilder/posts/14-09-29/native-performance-in-a-hybrid-app-with-native-page-transitions) 
-  13. [http://www.sitepoint.com/radar-week-apple-apis-web-apps/](http://www.sitepoint.com/radar-week-apple-apis-web-apps/) 
-  14. [http://www.smashingmagazine.com/2014/10/02/what-every-app-developer-should-know-about-android/](http://www.smashingmagazine.com/2014/10/02/what-every-app-developer-should-know-about-android/) 
-  15. [http://phonegap.com/blog/2014/10/01/upcoming-deprecations/](http://phonegap.com/blog/2014/10/01/upcoming-deprecations/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
