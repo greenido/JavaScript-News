@@ -1,4 +1,4 @@
-## Updated news for 2014-12-27 
+## Updated news for 2014-12-31 
 
 ==========
 ## Web Design Weekly #167
