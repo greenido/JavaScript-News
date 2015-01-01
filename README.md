@@ -5,6 +5,9 @@ Try to build a repo to hold most of the interesting news around Java Script, HTM
 ### JS News
   * [Nov 2014](https://github.com/greenido/JavaScript-News/blob/master/2014-11.md)
   * [Dec 2014](https://github.com/greenido/JavaScript-News/blob/master/JS_2014-12.md)
+
+### NodeJS News
+  * [Jan 2015](https://github.com/greenido/JavaScript-News/blob/master/NodeJS_2015-01.md)
   
 ### Mobile Web News
   * [Dec 2014](https://github.com/greenido/JavaScript-News/blob/master/mobileweb_2014-12.md)
