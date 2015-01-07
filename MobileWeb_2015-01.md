@@ -1,6 +1,28 @@
-## Updated news for 2015-01-03 
+## Updated news for 2015-01-07 
 
 ==========
+## This Week in Mobile Web Development (#38)
+#### http://mobilewebweekly.co/issues/38
+
+==========
+  1. [http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/) 
+  2. [https://econsultancy.com/blog/65511-hamburger-menus-for-mobile-navigation-do-they-work](https://econsultancy.com/blog/65511-hamburger-menus-for-mobile-navigation-do-they-work) 
+  3. [http://developer.telerik.com/featured/300-ms-click-delay-ios-8/](http://developer.telerik.com/featured/300-ms-click-delay-ios-8/) 
+  4. [http://qz.com/314285/30-smartphones-are-here-and-theyre-getting-better-every-day/](http://qz.com/314285/30-smartphones-are-here-and-theyre-getting-better-every-day/) 
+  5. [http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/](http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/) 
+  6. [http://phonegap.com/blog/2014/12/19/phonegap-year-in-review-2014/](http://phonegap.com/blog/2014/12/19/phonegap-year-in-review-2014/) 
+  7. [http://thenextweb.com/dd/2015/01/04/practical-tips-web-mobile-usability-tests/2/](http://thenextweb.com/dd/2015/01/04/practical-tips-web-mobile-usability-tests/2/) 
+  8. [http://www.toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase](http://www.toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase) 
+  9. [https://medium.com/@saniyusuf/hands-on-with-ionic-beta-14-1bb65a770919](https://medium.com/@saniyusuf/hands-on-with-ionic-beta-14-1bb65a770919) 
+  10. [http://rangle.io/blog/two-ways-to-build-a-location-picker-for-a-mobile-angularjs-application/](http://rangle.io/blog/two-ways-to-build-a-location-picker-for-a-mobile-angularjs-application/) 
+  11. [http://ionicframework.com/blog/automating-icons-and-splash-screens/](http://ionicframework.com/blog/automating-icons-and-splash-screens/) 
+  12. [http://html5hub.com/how-to-make-a-mobile-virtual-pet-game-with-html5-and-cordova/](http://html5hub.com/how-to-make-a-mobile-virtual-pet-game-with-html5-and-cordova/) 
+  13. [http://developer.telerik.com/featured/powering-hybrid-mobile-apps-couchbase/](http://developer.telerik.com/featured/powering-hybrid-mobile-apps-couchbase/) 
+  14. [http://apppresser.com/introducing-reactor/](http://apppresser.com/introducing-reactor/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#37)
 #### http://mobilewebweekly.co/issues/37
 
@@ -200,27 +222,6 @@
   11. [http://www.raymondcamden.com/2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application](http://www.raymondcamden.com/2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application) 
   12. [http://mcgivery.com/ionic-master-detail-pattern/](http://mcgivery.com/ionic-master-detail-pattern/) 
   13. [http://searchenginewatch.com/article/2375397/Androids-New-Feature-Paves-Way-for-Apps-Replacing-Web](http://searchenginewatch.com/article/2375397/Androids-New-Feature-Paves-Way-for-Apps-Replacing-Web) 
-  14. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  15. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#28)
-#### http://mobilewebweekly.co/issues/28
-
-==========
-  1. [http://www.smashingmagazine.com/2014/10/13/wayfinding-for-the-mobile-web/](http://www.smashingmagazine.com/2014/10/13/wayfinding-for-the-mobile-web/) 
-  2. [http://furbo.org/2014/09/24/in-app-browsers-considered-harmful](http://furbo.org/2014/09/24/in-app-browsers-considered-harmful) 
-  3. [https://www.scirra.com/blog/ashley/12/html5-does-not-have-a-new-best-friend](https://www.scirra.com/blog/ashley/12/html5-does-not-have-a-new-best-friend) 
-  4. [http://9to5google.com/2014/10/13/google-testing-new-non-mobile-friendly-web-search-icon/](http://9to5google.com/2014/10/13/google-testing-new-non-mobile-friendly-web-search-icon/) 
-  5. [http://www.raymondcamden.com/2014/10/10/My-review-of-Ionics-Visual-Application-Builder](http://www.raymondcamden.com/2014/10/10/My-review-of-Ionics-Visual-Application-Builder) 
-  6. [http://www.sitepoint.com/firefox-os-application-primer/](http://www.sitepoint.com/firefox-os-application-primer/) 
-  7. [http://www.sitepoint.com/onsen-ui-answer-cordova-ui-development/](http://www.sitepoint.com/onsen-ui-answer-cordova-ui-development/) 
-  8. [http://convolv.es/blog/2014/10/14/debug-fxos-tabs/](http://convolv.es/blog/2014/10/14/debug-fxos-tabs/) 
-  9. [http://chrisgriffith.wordpress.com/2014/10/10/phonegap-development-mistakes-and-how-to-avoid-them/](http://chrisgriffith.wordpress.com/2014/10/10/phonegap-development-mistakes-and-how-to-avoid-them/) 
-  10. [https://github.com/AlexDisler/ng-special-offer](https://github.com/AlexDisler/ng-special-offer) 
-  11. [http://www.agingcoder.com/programming/2014/10/11/mobile-frameworks-ionic/](http://www.agingcoder.com/programming/2014/10/11/mobile-frameworks-ionic/) 
-  12. [http://blog.nparashuram.com/2014/10/measuring-rendering-performance-metrics.html](http://blog.nparashuram.com/2014/10/measuring-rendering-performance-metrics.html) 
-  13. [http://www.raymondcamden.com/2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats](http://www.raymondcamden.com/2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats) 
   14. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   15. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
