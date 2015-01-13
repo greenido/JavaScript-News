@@ -1,6 +1,12 @@
-## Updated news for 2015-01-10 
+## Updated news for 2015-01-13 
 
 ==========
+## The Low Down on Lo-Dash
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fKFSpb41IM8/
+
+==========
+
+====
 ## Web Design Weekly #168
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/8WOFYKgEH8Q/
 
@@ -51,12 +57,6 @@
 ====
 ## Viewport units: vw, vh, vmin, vmax
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/iSwelGHFEi8/
-
-==========
-
-====
-## Shaking Hands with RequireJS
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/R24Nl8wYCV0/
 
 ==========
 
