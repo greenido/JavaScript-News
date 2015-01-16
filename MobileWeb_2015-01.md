@@ -1,6 +1,27 @@
-## Updated news for 2015-01-14 
+## Updated news for 2015-01-16 
 
 ==========
+## This Week in Mobile Web Development (#39)
+#### http://mobilewebweekly.co/issues/39
+
+==========
+  1. [http://andregarzia.com/posts/en/smartvrevolution/](http://andregarzia.com/posts/en/smartvrevolution/) 
+  2. [http://developer.telerik.com/featured/getting-started-nativescript/](http://developer.telerik.com/featured/getting-started-nativescript/) 
+  3. [http://www.creativebloq.com/web-design/build-responsive-sites-foundation-11513848](http://www.creativebloq.com/web-design/build-responsive-sites-foundation-11513848) 
+  4. [https://www.paymentspring.com/blog/hacking-form-cardscan](https://www.paymentspring.com/blog/hacking-form-cardscan) 
+  5. [http://developer.telerik.com/products/mobile-deep-linking-web-hybrid-apps/](http://developer.telerik.com/products/mobile-deep-linking-web-hybrid-apps/) 
+  7. [http://monaca.mobi/en/blog/crosswalk-performance/](http://monaca.mobi/en/blog/crosswalk-performance/) 
+  8. [http://cordova.apache.org/news/2015/01/09/tools-release.html](http://cordova.apache.org/news/2015/01/09/tools-release.html) 
+  9. [http://ostatic.com/blog/reports-google-stops-patching-old-android-browser-vulnerabilities](http://ostatic.com/blog/reports-google-stops-patching-old-android-browser-vulnerabilities) 
+  10. [http://www.sitepoint.com/taking-mootor-html5-framework/](http://www.sitepoint.com/taking-mootor-html5-framework/) 
+  11. [http://webstandardssherpa.com/reviews/responsive-discovery/](http://webstandardssherpa.com/reviews/responsive-discovery/) 
+  12. [http://ionicframework.com/blog/minifying-your-source-code/](http://ionicframework.com/blog/minifying-your-source-code/) 
+  13. [http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/](http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/) 
+  14. [http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/](http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#38)
 #### http://mobilewebweekly.co/issues/38
 
@@ -201,27 +222,6 @@
   11. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
   12. [http://www.sitepoint.com/taking-cordova-app-onsen-ui/](http://www.sitepoint.com/taking-cordova-app-onsen-ui/) 
   13. [http://thejackalofjavascript.com/phonegap-smart-mouth-app/](http://thejackalofjavascript.com/phonegap-smart-mouth-app/) 
-  14. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  15. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#29)
-#### http://mobilewebweekly.co/issues/29
-
-==========
-  1. [http://www.smashingmagazine.com/2014/10/21/providing-a-native-experience-with-web-technologies/](http://www.smashingmagazine.com/2014/10/21/providing-a-native-experience-with-web-technologies/) 
-  2. [https://www.scirra.com/blog/ashley/13/chrome-and-android-push-html5-further](https://www.scirra.com/blog/ashley/13/chrome-and-android-push-html5-further) 
-  3. [https://www.discovermeteor.com/blog/meteor-cordova-famous-the-chill-way-to-build-apps/](https://www.discovermeteor.com/blog/meteor-cordova-famous-the-chill-way-to-build-apps/) 
-  4. [http://ionicframework.com/blog/tinder-for-x/](http://ionicframework.com/blog/tinder-for-x/) 
-  5. [http://www.smashingmagazine.com/2014/10/15/create-assets-for-multiple-scale-factors/](http://www.smashingmagazine.com/2014/10/15/create-assets-for-multiple-scale-factors/) 
-  6. [https://hacks.mozilla.org/2014/10/creating-a-mobile-app-from-a-simple-html-site/](https://hacks.mozilla.org/2014/10/creating-a-mobile-app-from-a-simple-html-site/) 
-  7. [http://developer.telerik.com/featured/ship-app/](http://developer.telerik.com/featured/ship-app/) 
-  8. [http://www.kirupa.com/html5/the_battery_status_api_js.htm](http://www.kirupa.com/html5/the_battery_status_api_js.htm) 
-  9. [http://instantwebp2p.github.io/node-android/](http://instantwebp2p.github.io/node-android/) 
-  10. [http://demosthenes.info/blog/944/Responsive-Images-For-Retina-Using-HTML5s-srcset](http://demosthenes.info/blog/944/Responsive-Images-For-Retina-Using-HTML5s-srcset) 
-  11. [http://www.raymondcamden.com/2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application](http://www.raymondcamden.com/2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application) 
-  12. [http://mcgivery.com/ionic-master-detail-pattern/](http://mcgivery.com/ionic-master-detail-pattern/) 
-  13. [http://searchenginewatch.com/article/2375397/Androids-New-Feature-Paves-Way-for-Apps-Replacing-Web](http://searchenginewatch.com/article/2375397/Androids-New-Feature-Paves-Way-for-Apps-Replacing-Web) 
   14. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   15. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
