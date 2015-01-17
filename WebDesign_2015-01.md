@@ -1,4 +1,4 @@
-## Updated news for 2015-01-16 
+## Updated news for 2015-01-17 
 
 ==========
 ## The Low Down on Lo-Dash
