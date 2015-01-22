@@ -1,6 +1,27 @@
-## Updated news for 2015-01-17 
+## Updated news for 2015-01-22 
 
 ==========
+## This Week in Mobile Web Development (#40)
+#### http://mobilewebweekly.co/issues/40
+
+==========
+  1. [http://www.brucelawson.co.uk/2015/why-we-cant-do-real-responsive-images-with-css-or-javascript/](http://www.brucelawson.co.uk/2015/why-we-cant-do-real-responsive-images-with-css-or-javascript/) 
+  2. [http://codingclinton.com/blog/building-with-ionic](http://codingclinton.com/blog/building-with-ionic) 
+  3. [http://www.webperformancetoday.com/2015/01/14/mobile-page-growth/](http://www.webperformancetoday.com/2015/01/14/mobile-page-growth/) 
+  4. [https://start.heroku.com/node](https://start.heroku.com/node) 
+  6. [http://updates.html5rocks.com/2015/01/virtual-viewport](http://updates.html5rocks.com/2015/01/virtual-viewport) 
+  7. [http://www.sitepoint.com/super-fast-responsive-layouts-jeet/](http://www.sitepoint.com/super-fast-responsive-layouts-jeet/) 
+  8. [http://viget.com/inspire/responsive-design-with-spread](http://viget.com/inspire/responsive-design-with-spread) 
+  9. [http://phonegap.com/blog/2015/01/20/ios-64bit-support/](http://phonegap.com/blog/2015/01/20/ios-64bit-support/) 
+  10. [http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/) 
+  11. [http://phonegap.com/blog/2015/01/14/phonegap-cli-4-2-0/](http://phonegap.com/blog/2015/01/14/phonegap-cli-4-2-0/) 
+  12. [https://redbooth.com/blog/hamburger-menu-iphone-app](https://redbooth.com/blog/hamburger-menu-iphone-app) 
+  13. [http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/](http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/) 
+  14. [http://ubertesters.com/sdk-cordova/](http://ubertesters.com/sdk-cordova/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#39)
 #### http://mobilewebweekly.co/issues/39
 
@@ -65,30 +86,5 @@
   15. [http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/](http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#36)
-#### http://mobilewebweekly.co/issues/36
-
-==========
-  1. [http://calendar.perfplanet.com/2014/bursting-our-bubble-mobile-performance-outside-the-first-world/](http://calendar.perfplanet.com/2014/bursting-our-bubble-mobile-performance-outside-the-first-world/) 
-  2. [http://updates.html5rocks.com/2014/12/fundamental-of-web-dev](http://updates.html5rocks.com/2014/12/fundamental-of-web-dev) 
-  3. [http://zurb.com/article/1362/foundation-for-apps-is-here](http://zurb.com/article/1362/foundation-for-apps-is-here) 
-  4. [http://www.hackreactor.com/](http://www.hackreactor.com/) 
-  6. [https://github.com/ben-ng/phonegap-air](https://github.com/ben-ng/phonegap-air) 
-  7. [http://24ways.org/2014/collaborative-responsive-design-workflows/](http://24ways.org/2014/collaborative-responsive-design-workflows/) 
-  8. [http://www.mobilecommercedaily.com/mobile-web-is-retails-big-winner-and-loser-during-thanksgiving-weekend](http://www.mobilecommercedaily.com/mobile-web-is-retails-big-winner-and-loser-during-thanksgiving-weekend) 
-  9. [http://www.raymondcamden.com/2014/12/8/my-cordovaphonegap-developer-setup-fall-2014](http://www.raymondcamden.com/2014/12/8/my-cordovaphonegap-developer-setup-fall-2014) 
-  10. [http://www.sitepoint.com/mootor-html5-framework-mobile-development/](http://www.sitepoint.com/mootor-html5-framework-mobile-development/) 
-  11. [http://benfrain.com/large-scale-responsive-web-design-projects-considerations-concerns-new-approaches/](http://benfrain.com/large-scale-responsive-web-design-projects-considerations-concerns-new-approaches/) 
-  12. [http://ionicframework.com/blog/moving-forward-with-ngcordova/](http://ionicframework.com/blog/moving-forward-with-ngcordova/) 
-  13. [http://phonegap.com/blog/2014/12/09/phonegap-build-new-features/](http://phonegap.com/blog/2014/12/09/phonegap-build-new-features/) 
-  14. [http://uk.businessinsider.com/retailers-look-at-mobile-web-opportunity-2014-12](http://uk.businessinsider.com/retailers-look-at-mobile-web-opportunity-2014-12) 
-  15. [https://github.com/antonshevchenko/ionic-contrib-icon](https://github.com/antonshevchenko/ionic-contrib-icon) 
-  16. [https://github.com/pbernasconi/chrome-cordova](https://github.com/pbernasconi/chrome-cordova) 
-  17. [http://danmartines.com/2014/12/01/what-technology-skills-you-should-focus-next/](http://danmartines.com/2014/12/01/what-technology-skills-you-should-focus-next/) 
-  18. [http://monaca.mobi/en/blog/combining-our-cloud-based-ide-with-local-development-tools/](http://monaca.mobi/en/blog/combining-our-cloud-based-ide-with-local-development-tools/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

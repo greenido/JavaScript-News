@@ -1,6 +1,24 @@
-## Updated news for 2015-01-17 
+## Updated news for 2015-01-22 
 
 ==========
+## GSS: Layout Reimagined
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/QR-9NP1Oh-c/
+
+==========
+
+====
+## RICG-Responsive-Images Plugin
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/i4cUIWVsuTI/
+
+==========
+
+====
+## Web Design Weekly #169
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TSe4eueaKzw/
+
+==========
+
+====
 ## The Low Down on Lo-Dash
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fKFSpb41IM8/
 
@@ -39,24 +57,6 @@
 ====
 ## Web Design Weekly #164
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VKCo9Bpwx4A/
-
-==========
-
-====
-## CSS Stats
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/EYiQyu5ZeHM/
-
-==========
-
-====
-## ngInclude and SVGs = 
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/esVMbcNjL6w/
-
-==========
-
-====
-## Viewport units: vw, vh, vmin, vmax
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/iSwelGHFEi8/
 
 ==========
 
