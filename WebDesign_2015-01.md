@@ -1,4 +1,4 @@
-## Updated news for 2015-01-22 
+## Updated news for 2015-01-23 
 
 ==========
 ## GSS: Layout Reimagined
