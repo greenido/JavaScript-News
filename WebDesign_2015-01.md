@@ -1,6 +1,12 @@
-## Updated news for 2015-01-26 
+## Updated news for 2015-01-28 
 
 ==========
+## Web Design Weekly #170
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/IT7F4e_bT50/
+
+==========
+
+====
 ## GSS: Layout Reimagined
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/QR-9NP1Oh-c/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #165
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/EDY0MPw6SWY/
-
-==========
-
-====
-## Web Design Weekly #164
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VKCo9Bpwx4A/
 
 ==========
 

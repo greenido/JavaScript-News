@@ -1,6 +1,27 @@
-## Updated news for 2015-01-26 
+## Updated news for 2015-01-28 
 
 ==========
+## This Week in Mobile Web Development (#41)
+#### http://mobilewebweekly.co/issues/41
+
+==========
+  1. [http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html](http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) 
+  2. [http://alistapart.com/blog/post/variable-fonts-for-responsive-design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design) 
+  3. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  4. [http://www.redisgreen.net/](http://www.redisgreen.net/) 
+  6. [http://developer.telerik.com/featured/securing-phonegapcordova-hybrid-mobile-app/](http://developer.telerik.com/featured/securing-phonegapcordova-hybrid-mobile-app/) 
+  7. [http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/](http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/) 
+  8. [https://www.npmjs.com/package/generator-angularjs-cordova](https://www.npmjs.com/package/generator-angularjs-cordova) 
+  9. [http://testdroid.com/testdroid/9298/using-selenium-webdriver-to-run-mobile-web-tests](http://testdroid.com/testdroid/9298/using-selenium-webdriver-to-run-mobile-web-tests) 
+  10. [http://developer.telerik.com/featured/built-ios-android-app-week/](http://developer.telerik.com/featured/built-ios-android-app-week/) 
+  12. [http://phonegap.com/blog/2015/01/27/hydration-now-available-for-windows-phone-8-on-build/](http://phonegap.com/blog/2015/01/27/hydration-now-available-for-windows-phone-8-on-build/) 
+  13. [http://next.theguardian.com/blog/responsive-takeover/](http://next.theguardian.com/blog/responsive-takeover/) 
+  14. [https://chrisgriffith.wordpress.com/2015/01/21/ionic-framework-code-hinting-in-brackets/](https://chrisgriffith.wordpress.com/2015/01/21/ionic-framework-code-hinting-in-brackets/) 
+  15. [http://www.sitepoint.com/5-mobile-app-testing-tools/](http://www.sitepoint.com/5-mobile-app-testing-tools/) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#40)
 #### http://mobilewebweekly.co/issues/40
 
@@ -63,28 +84,5 @@
   14. [http://apppresser.com/introducing-reactor/](http://apppresser.com/introducing-reactor/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#37)
-#### http://mobilewebweekly.co/issues/37
-
-==========
-  1. [http://ionicframework.com/blog/the-final-beta/](http://ionicframework.com/blog/the-final-beta/) 
-  2. [http://24ways.org/2014/making-sites-more-responsive-responsibly/](http://24ways.org/2014/making-sites-more-responsive-responsibly/) 
-  3. [http://www.filamentgroup.com/lab/mv-initial-load-times.html](http://www.filamentgroup.com/lab/mv-initial-load-times.html) 
-  4. [http://www.scottlogic.com/blog/2014/12/12/html5-android-optimisation.html](http://www.scottlogic.com/blog/2014/12/12/html5-android-optimisation.html) 
-  5. [http://infil00p.org/cordova/phonegap/2014/12/12/cordova-mozilla/](http://infil00p.org/cordova/phonegap/2014/12/12/cordova-mozilla/) 
-  6. [http://touchstonejs.io/](http://touchstonejs.io/) 
-  7. [http://www.sitepoint.com/better-responsive-website-testing-google-chrome/](http://www.sitepoint.com/better-responsive-website-testing-google-chrome/) 
-  8. [http://www.infoq.com/news/2014/12/supersonic-hybrid-apps-dev](http://www.infoq.com/news/2014/12/supersonic-hybrid-apps-dev) 
-  9. [http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/](http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/) 
-  10. [http://www.htmlcenter.com/blog/phonegap-plugins-mobile-application-projects/](http://www.htmlcenter.com/blog/phonegap-plugins-mobile-application-projects/) 
-  11. [https://blog.nraboy.com/2014/12/understanding-tabs-ionic-framework/](https://blog.nraboy.com/2014/12/understanding-tabs-ionic-framework/) 
-  12. [https://hacks.mozilla.org/2014/12/videos-and-firefox-os/](https://hacks.mozilla.org/2014/12/videos-and-firefox-os/) 
-  13. [http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/) 
-  14. [http://ionicframework.com/blog/ionic-lab/](http://ionicframework.com/blog/ionic-lab/) 
-  15. [http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/](http://www.smashingmagazine.com/2014/12/15/understanding-mobile-back-end-as-a-service/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
