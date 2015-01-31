@@ -1,4 +1,4 @@
-## Updated news for 2015-01-29 
+## Updated news for 2015-01-31 
 
 ==========
 ## An opinionated guide to React.js best practices and conventions
