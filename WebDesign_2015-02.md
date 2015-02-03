@@ -1,6 +1,12 @@
-## Updated news for 2015-02-01 
+## Updated news for 2015-02-03 
 
 ==========
+## Web Design Weekly #171
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/21ZMSGBD-FU/
+
+==========
+
+====
 ## An opinionated guide to React.js best practices and conventions
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Yo7mzJFezO8/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #166
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/pyVlTkgdVts/
-
-==========
-
-====
-## The Challenging Period
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/FAaZujqm3G8/
 
 ==========
 
