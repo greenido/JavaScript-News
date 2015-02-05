@@ -1,6 +1,29 @@
-## Updated news for 2015-02-03 
+## Updated news for 2015-02-05 
 
 ==========
+## This Week in Mobile Web Development (#42)
+#### http://mobilewebweekly.co/issues/42
+
+==========
+  1. [http://www.sitepoint.com/beginners-guide-mobile-development-meteor/](http://www.sitepoint.com/beginners-guide-mobile-development-meteor/) 
+  2. [http://www.w3.org/2015/01/mobile-web-app-state/](http://www.w3.org/2015/01/mobile-web-app-state/) 
+  3. [https://www.linkedin.com/pulse/4-reasons-your-app-should-take-hybrid-route-sara-allen](https://www.linkedin.com/pulse/4-reasons-your-app-should-take-hybrid-route-sara-allen) 
+  4. [http://thenextweb.com/dd/2015/01/25/9-often-overlooked-things-consider-going-mobile-first/](http://thenextweb.com/dd/2015/01/25/9-often-overlooked-things-consider-going-mobile-first/) 
+  5. [http://www.smashingmagazine.com/2015/02/04/product-design-unification-case-study-mobile-web-framework/](http://www.smashingmagazine.com/2015/02/04/product-design-unification-case-study-mobile-web-framework/) 
+  6. [https://msdn.microsoft.com/en-us/magazine/dn904667.aspx](https://msdn.microsoft.com/en-us/magazine/dn904667.aspx) 
+  7. [http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html](http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html) 
+  8. [http://www.sitepoint.com/5-proven-tips-improve-app-marketplace-ranking/](http://www.sitepoint.com/5-proven-tips-improve-app-marketplace-ranking/) 
+  9. [http://devgirl.org/2015/01/28/interactive-config-guide-for-phonegapcordova/](http://devgirl.org/2015/01/28/interactive-config-guide-for-phonegapcordova/) 
+  10. [https://www.crittercism.com/blog/top-5-reasons-to-try-cordova](https://www.crittercism.com/blog/top-5-reasons-to-try-cordova) 
+  11. [http://blogs.adobe.com/digitalmarketing/mobile/make-manage-measure-monetize-mobile-apps/](http://blogs.adobe.com/digitalmarketing/mobile/make-manage-measure-monetize-mobile-apps/) 
+  14. [http://kevinold.com/2015/01/31/takeaways-from-reactjs-conf-2015.html](http://kevinold.com/2015/01/31/takeaways-from-reactjs-conf-2015.html) 
+  15. [http://www.bleathem.ca/blog/2015/01/cordova-splashscreen.html](http://www.bleathem.ca/blog/2015/01/cordova-splashscreen.html) 
+  16. [http://meteoric.github.io/](http://meteoric.github.io/) 
+  17. [https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/](https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#41)
 #### http://mobilewebweekly.co/issues/41
 
@@ -60,28 +83,6 @@
   12. [http://ionicframework.com/blog/minifying-your-source-code/](http://ionicframework.com/blog/minifying-your-source-code/) 
   13. [http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/](http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/) 
   14. [http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/](http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#38)
-#### http://mobilewebweekly.co/issues/38
-
-==========
-  1. [http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/) 
-  2. [https://econsultancy.com/blog/65511-hamburger-menus-for-mobile-navigation-do-they-work](https://econsultancy.com/blog/65511-hamburger-menus-for-mobile-navigation-do-they-work) 
-  3. [http://developer.telerik.com/featured/300-ms-click-delay-ios-8/](http://developer.telerik.com/featured/300-ms-click-delay-ios-8/) 
-  4. [http://qz.com/314285/30-smartphones-are-here-and-theyre-getting-better-every-day/](http://qz.com/314285/30-smartphones-are-here-and-theyre-getting-better-every-day/) 
-  5. [http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/](http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/) 
-  6. [http://phonegap.com/blog/2014/12/19/phonegap-year-in-review-2014/](http://phonegap.com/blog/2014/12/19/phonegap-year-in-review-2014/) 
-  7. [http://thenextweb.com/dd/2015/01/04/practical-tips-web-mobile-usability-tests/2/](http://thenextweb.com/dd/2015/01/04/practical-tips-web-mobile-usability-tests/2/) 
-  8. [http://www.toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase](http://www.toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase) 
-  9. [https://medium.com/@saniyusuf/hands-on-with-ionic-beta-14-1bb65a770919](https://medium.com/@saniyusuf/hands-on-with-ionic-beta-14-1bb65a770919) 
-  10. [http://rangle.io/blog/two-ways-to-build-a-location-picker-for-a-mobile-angularjs-application/](http://rangle.io/blog/two-ways-to-build-a-location-picker-for-a-mobile-angularjs-application/) 
-  11. [http://ionicframework.com/blog/automating-icons-and-splash-screens/](http://ionicframework.com/blog/automating-icons-and-splash-screens/) 
-  12. [http://html5hub.com/how-to-make-a-mobile-virtual-pet-game-with-html5-and-cordova/](http://html5hub.com/how-to-make-a-mobile-virtual-pet-game-with-html5-and-cordova/) 
-  13. [http://developer.telerik.com/featured/powering-hybrid-mobile-apps-couchbase/](http://developer.telerik.com/featured/powering-hybrid-mobile-apps-couchbase/) 
-  14. [http://apppresser.com/introducing-reactor/](http://apppresser.com/introducing-reactor/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
