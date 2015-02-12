@@ -1,6 +1,29 @@
-## Updated news for 2015-02-07 
+## Updated news for 2015-02-12 
 
 ==========
+## This Week in Mobile Web Development (#43)
+#### http://mobilewebweekly.co/issues/43
+
+==========
+  1. [http://engineering.flipboard.com/2015/02/mobile-web/](http://engineering.flipboard.com/2015/02/mobile-web/) 
+  2. [http://www.usertesting.com/blog/2015/02/03/responsive-web-design-resources/](http://www.usertesting.com/blog/2015/02/03/responsive-web-design-resources/) 
+  3. [http://www.oreilly.com/pub/e/3339](http://www.oreilly.com/pub/e/3339) 
+  4. [https://www.telerik.com/campaigns/platform/run-hybrid-app](https://www.telerik.com/campaigns/platform/run-hybrid-app) 
+  6. [http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/](http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/) 
+  7. [http://www.quirksmode.org/blog/archives/2015/02/safari_ios_bigg.html](http://www.quirksmode.org/blog/archives/2015/02/safari_ios_bigg.html) 
+  8. [http://www.phocuswright.com/Travel-Research/Research-Updates/2015/The-Web-Is-Dead-Long-Live-the-Mobile-Web](http://www.phocuswright.com/Travel-Research/Research-Updates/2015/The-Web-Is-Dead-Long-Live-the-Mobile-Web) 
+  9. [http://www.webperformancetoday.com/2015/02/04/11-reasons-care-mobile-performance-2015-infographic/](http://www.webperformancetoday.com/2015/02/04/11-reasons-care-mobile-performance-2015-infographic/) 
+  10. [http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/) 
+  11. [http://reapp.io/](http://reapp.io/) 
+  12. [http://blogs.adobe.com/experiencedelivers/experience-management/managing-mobile-apps-made-easy-adobe-phonegap-enterprise/](http://blogs.adobe.com/experiencedelivers/experience-management/managing-mobile-apps-made-easy-adobe-phonegap-enterprise/) 
+  13. [http://readwrite.com/2015/01/28/end-of-apps-era-of-notifications](http://readwrite.com/2015/01/28/end-of-apps-era-of-notifications) 
+  14. [http://www.sitepoint.com/top-10-personalization-strategies-non-retail-apps/](http://www.sitepoint.com/top-10-personalization-strategies-non-retail-apps/) 
+  15. [http://www.sitepoint.com/mobile-commerce-trends-2015/](http://www.sitepoint.com/mobile-commerce-trends-2015/) 
+  16. [http://developer.telerik.com/featured/kendo-ui-mobile-guidance/](http://developer.telerik.com/featured/kendo-ui-mobile-guidance/) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#42)
 #### http://mobilewebweekly.co/issues/42
 
@@ -62,27 +85,6 @@
   12. [https://redbooth.com/blog/hamburger-menu-iphone-app](https://redbooth.com/blog/hamburger-menu-iphone-app) 
   13. [http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/](http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/) 
   14. [http://ubertesters.com/sdk-cordova/](http://ubertesters.com/sdk-cordova/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#39)
-#### http://mobilewebweekly.co/issues/39
-
-==========
-  1. [http://andregarzia.com/posts/en/smartvrevolution/](http://andregarzia.com/posts/en/smartvrevolution/) 
-  2. [http://developer.telerik.com/featured/getting-started-nativescript/](http://developer.telerik.com/featured/getting-started-nativescript/) 
-  3. [http://www.creativebloq.com/web-design/build-responsive-sites-foundation-11513848](http://www.creativebloq.com/web-design/build-responsive-sites-foundation-11513848) 
-  4. [https://www.paymentspring.com/blog/hacking-form-cardscan](https://www.paymentspring.com/blog/hacking-form-cardscan) 
-  5. [http://developer.telerik.com/products/mobile-deep-linking-web-hybrid-apps/](http://developer.telerik.com/products/mobile-deep-linking-web-hybrid-apps/) 
-  7. [http://monaca.mobi/en/blog/crosswalk-performance/](http://monaca.mobi/en/blog/crosswalk-performance/) 
-  8. [http://cordova.apache.org/news/2015/01/09/tools-release.html](http://cordova.apache.org/news/2015/01/09/tools-release.html) 
-  9. [http://ostatic.com/blog/reports-google-stops-patching-old-android-browser-vulnerabilities](http://ostatic.com/blog/reports-google-stops-patching-old-android-browser-vulnerabilities) 
-  10. [http://www.sitepoint.com/taking-mootor-html5-framework/](http://www.sitepoint.com/taking-mootor-html5-framework/) 
-  11. [http://webstandardssherpa.com/reviews/responsive-discovery/](http://webstandardssherpa.com/reviews/responsive-discovery/) 
-  12. [http://ionicframework.com/blog/minifying-your-source-code/](http://ionicframework.com/blog/minifying-your-source-code/) 
-  13. [http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/](http://recode.net/2015/01/13/theres-an-app-for-that-but-how-much-are-you-actually-using-it/) 
-  14. [http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/](http://www.cringely.com/2015/01/12/2015-will-year-nothing-happened/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 

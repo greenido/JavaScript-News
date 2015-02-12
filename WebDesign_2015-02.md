@@ -1,6 +1,12 @@
-## Updated news for 2015-02-07 
+## Updated news for 2015-02-12 
 
 ==========
+## Web Design Weekly #172
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/hAGcOCImS98/
+
+==========
+
+====
 ## Applying React.js CSS Transitions on initial render
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/4g8rXTmeBvc/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #168
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/8WOFYKgEH8Q/
-
-==========
-
-====
-## Web Design Weekly #167
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/x8p1KTvSmck/
 
 ==========
 
