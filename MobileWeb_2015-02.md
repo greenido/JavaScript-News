@@ -1,6 +1,30 @@
-## Updated news for 2015-02-14 
+## Updated news for 2015-02-20 
 
 ==========
+## This Week in Mobile Web Development (#44)
+#### http://mobilewebweekly.co/issues/44
+
+==========
+  1. [https://medium.com/@aaronjbarker/responsive-navigation-for-73-languages-83eec588db28](https://medium.com/@aaronjbarker/responsive-navigation-for-73-languages-83eec588db28) 
+  2. [http://www.sitepoint.com/decide-mobile-web-strategy/](http://www.sitepoint.com/decide-mobile-web-strategy/) 
+  3. [https://github.com/Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) 
+  4. [http://www.redisgreen.net/docs.html](http://www.redisgreen.net/docs.html) 
+  6. [http://phonegap.com/blog/2015/02/17/phonegap-3_7_0-now-on-build/](http://phonegap.com/blog/2015/02/17/phonegap-3_7_0-now-on-build/) 
+  7. [http://monaca.mobi/en/blog/build-a-hacker-news-mobile-app-with-firebase/](http://monaca.mobi/en/blog/build-a-hacker-news-mobile-app-with-firebase/) 
+  8. [http://www.uie.com/articles/curse_of_mobile_strategy/](http://www.uie.com/articles/curse_of_mobile_strategy/) 
+  9. [http://www.smashingmagazine.com/2015/02/09/carousel-usage-exploration-on-mobile-e-commerce-websites/](http://www.smashingmagazine.com/2015/02/09/carousel-usage-exploration-on-mobile-e-commerce-websites/) 
+  10. [http://android-developers.blogspot.com/2015/02/beta-channel-for-android-webview.html](http://android-developers.blogspot.com/2015/02/beta-channel-for-android-webview.html) 
+  11. [http://www.smashingmagazine.com/2015/02/17/deep-dive-into-adobe-edge-reflow/](http://www.smashingmagazine.com/2015/02/17/deep-dive-into-adobe-edge-reflow/) 
+  12. [http://developer.telerik.com/featured/nativescript-works/](http://developer.telerik.com/featured/nativescript-works/) 
+  13. [http://ionicframework.com/blog/displaying-the-twitter-feed-within-your-ionic-app/](http://ionicframework.com/blog/displaying-the-twitter-feed-within-your-ionic-app/) 
+  14. [http://onsen.io/blog/sneak-peeking-1-2-2-pull-hook/](http://onsen.io/blog/sneak-peeking-1-2-2-pull-hook/) 
+  15. [http://openui5.org/](http://openui5.org/) 
+  16. [http://cordova.apache.org/news/2015/02/10/plugins-release.html](http://cordova.apache.org/news/2015/02/10/plugins-release.html) 
+  17. [http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/](http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#43)
 #### http://mobilewebweekly.co/issues/43
 
@@ -66,26 +90,5 @@
   15. [http://www.sitepoint.com/5-mobile-app-testing-tools/](http://www.sitepoint.com/5-mobile-app-testing-tools/) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#40)
-#### http://mobilewebweekly.co/issues/40
-
-==========
-  1. [http://www.brucelawson.co.uk/2015/why-we-cant-do-real-responsive-images-with-css-or-javascript/](http://www.brucelawson.co.uk/2015/why-we-cant-do-real-responsive-images-with-css-or-javascript/) 
-  2. [http://codingclinton.com/blog/building-with-ionic](http://codingclinton.com/blog/building-with-ionic) 
-  3. [http://www.webperformancetoday.com/2015/01/14/mobile-page-growth/](http://www.webperformancetoday.com/2015/01/14/mobile-page-growth/) 
-  4. [https://start.heroku.com/node](https://start.heroku.com/node) 
-  6. [http://updates.html5rocks.com/2015/01/virtual-viewport](http://updates.html5rocks.com/2015/01/virtual-viewport) 
-  7. [http://www.sitepoint.com/super-fast-responsive-layouts-jeet/](http://www.sitepoint.com/super-fast-responsive-layouts-jeet/) 
-  8. [http://viget.com/inspire/responsive-design-with-spread](http://viget.com/inspire/responsive-design-with-spread) 
-  9. [http://phonegap.com/blog/2015/01/20/ios-64bit-support/](http://phonegap.com/blog/2015/01/20/ios-64bit-support/) 
-  10. [http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/) 
-  11. [http://phonegap.com/blog/2015/01/14/phonegap-cli-4-2-0/](http://phonegap.com/blog/2015/01/14/phonegap-cli-4-2-0/) 
-  12. [https://redbooth.com/blog/hamburger-menu-iphone-app](https://redbooth.com/blog/hamburger-menu-iphone-app) 
-  13. [http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/](http://www.tricedesigns.com/2015/01/08/mbaas-ibm-mobile-cloud-services-bluemix-mobilefirst/) 
-  14. [http://ubertesters.com/sdk-cordova/](http://ubertesters.com/sdk-cordova/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

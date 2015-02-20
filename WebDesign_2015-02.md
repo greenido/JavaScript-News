@@ -1,6 +1,18 @@
-## Updated news for 2015-02-14 
+## Updated news for 2015-02-20 
 
 ==========
+## Preparing for ECMAScript6
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SaE_5FoJnHg/
+
+==========
+
+====
+## Web Design Weekly #173
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/vGoedQp6PNk/
+
+==========
+
+====
 ## Web Design Weekly #172
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/hAGcOCImS98/
 
@@ -45,18 +57,6 @@
 ====
 ## Web Design Weekly #169
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TSe4eueaKzw/
-
-==========
-
-====
-## The Low Down on Lo-Dash
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fKFSpb41IM8/
-
-==========
-
-====
-## Web Design Weekly #168
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/8WOFYKgEH8Q/
 
 ==========
 
