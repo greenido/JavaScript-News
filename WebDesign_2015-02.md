@@ -1,4 +1,4 @@
-## Updated news for 2015-02-20 
+## Updated news for 2015-02-21 
 
 ==========
 ## Preparing for ECMAScript6
