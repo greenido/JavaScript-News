@@ -1,7 +1,7 @@
-## Updated news for 2015-02-21 
+## Updated news for 2015-02-22 
 
 ==========
-## Preparing for ECMAScript6
+## Preparing for ECMAScript 6
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SaE_5FoJnHg/
 
 ==========
