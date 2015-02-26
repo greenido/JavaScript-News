@@ -1,6 +1,18 @@
-## Updated news for 2015-02-22 
+## Updated news for 2015-02-26 
 
 ==========
+## Newsletter Sponsorship Opening
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/22XsJ17c6Us/
+
+==========
+
+====
+## Web Design Weekly #174
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/zldCYPhDCII/
+
+==========
+
+====
 ## Preparing for ECMAScript 6
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SaE_5FoJnHg/
 
@@ -45,18 +57,6 @@
 ====
 ## GSS: Layout Reimagined
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/QR-9NP1Oh-c/
-
-==========
-
-====
-## RICG-Responsive-Images Plugin
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/i4cUIWVsuTI/
-
-==========
-
-====
-## Web Design Weekly #169
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TSe4eueaKzw/
 
 ==========
 

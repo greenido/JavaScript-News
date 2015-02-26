@@ -1,6 +1,30 @@
-## Updated news for 2015-02-22 
+## Updated news for 2015-02-26 
 
 ==========
+## This Week in Mobile Web Development (#45)
+#### http://mobilewebweekly.co/issues/45
+
+==========
+  1. [https://blog.nraboy.com/2015/02/ive-gone-hybrid-native-mobile-apps/](https://blog.nraboy.com/2015/02/ive-gone-hybrid-native-mobile-apps/) 
+  2. [http://jlongster.com/Radical-Statements-about-the-Mobile-Web](http://jlongster.com/Radical-Statements-about-the-Mobile-Web) 
+  3. [http://www.raymondcamden.com/2015/02/20/using-the-mobilefirst-mobile-browser-simulator](http://www.raymondcamden.com/2015/02/20/using-the-mobilefirst-mobile-browser-simulator) 
+  4. [http://www.telerik.com/campaigns/nativescript](http://www.telerik.com/campaigns/nativescript) 
+  6. [http://www.infoq.com/articles/matthew-carver-responsive-web](http://www.infoq.com/articles/matthew-carver-responsive-web) 
+  7. [http://onsen.io/blog/onsen-ui-google-maps-javascript-api-v3-angularjs-sample-application/](http://onsen.io/blog/onsen-ui-google-maps-javascript-api-v3-angularjs-sample-application/) 
+  8. [http://jxcore.com/jxcore-is-now-open-sourced/](http://jxcore.com/jxcore-is-now-open-sourced/) 
+  9. [http://ionicframework.com/blog/handling-cors-issues-in-ionic/](http://ionicframework.com/blog/handling-cors-issues-in-ionic/) 
+  10. [http://onsen.io/blog/developing-hybrid-mobile-apps-with-onsen-ui/](http://onsen.io/blog/developing-hybrid-mobile-apps-with-onsen-ui/) 
+  11. [http://thinkapps.com/blog/design/how-to-design-for-iphone-6-plus-phablets/](http://thinkapps.com/blog/design/how-to-design-for-iphone-6-plus-phablets/) 
+  12. [http://9to5mac.com/2015/02/20/ios-9-public-beta/](http://9to5mac.com/2015/02/20/ios-9-public-beta/) 
+  13. [http://www.quirksmode.org/blog/archives/2015/02/android_webview.html](http://www.quirksmode.org/blog/archives/2015/02/android_webview.html) 
+  14. [http://blog.universalmind.com/technology-trends-2015-part-5-hybrid-apps/](http://blog.universalmind.com/technology-trends-2015-part-5-hybrid-apps/) 
+  15. [https://www.genuitec.com/ci11-myeclipse2015/](https://www.genuitec.com/ci11-myeclipse2015/) 
+  16. [http://regrid.finelysliced.com.au/](http://regrid.finelysliced.com.au/) 
+  17. [http://lukyvj.github.io/menu-to-cross-icon/](http://lukyvj.github.io/menu-to-cross-icon/) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#44)
 #### http://mobilewebweekly.co/issues/44
 
@@ -69,26 +93,5 @@
   17. [https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/](https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#41)
-#### http://mobilewebweekly.co/issues/41
-
-==========
-  1. [http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html](http://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) 
-  2. [http://alistapart.com/blog/post/variable-fonts-for-responsive-design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design) 
-  3. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
-  4. [http://www.redisgreen.net/](http://www.redisgreen.net/) 
-  6. [http://developer.telerik.com/featured/securing-phonegapcordova-hybrid-mobile-app/](http://developer.telerik.com/featured/securing-phonegapcordova-hybrid-mobile-app/) 
-  7. [http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/](http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/) 
-  8. [https://www.npmjs.com/package/generator-angularjs-cordova](https://www.npmjs.com/package/generator-angularjs-cordova) 
-  9. [http://testdroid.com/testdroid/9298/using-selenium-webdriver-to-run-mobile-web-tests](http://testdroid.com/testdroid/9298/using-selenium-webdriver-to-run-mobile-web-tests) 
-  10. [http://developer.telerik.com/featured/built-ios-android-app-week/](http://developer.telerik.com/featured/built-ios-android-app-week/) 
-  12. [http://phonegap.com/blog/2015/01/27/hydration-now-available-for-windows-phone-8-on-build/](http://phonegap.com/blog/2015/01/27/hydration-now-available-for-windows-phone-8-on-build/) 
-  13. [http://next.theguardian.com/blog/responsive-takeover/](http://next.theguardian.com/blog/responsive-takeover/) 
-  14. [https://chrisgriffith.wordpress.com/2015/01/21/ionic-framework-code-hinting-in-brackets/](https://chrisgriffith.wordpress.com/2015/01/21/ionic-framework-code-hinting-in-brackets/) 
-  15. [http://www.sitepoint.com/5-mobile-app-testing-tools/](http://www.sitepoint.com/5-mobile-app-testing-tools/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
