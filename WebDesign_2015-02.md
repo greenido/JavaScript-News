@@ -1,4 +1,4 @@
-## Updated news for 2015-02-26 
+## Updated news for 2015-02-27 
 
 ==========
 ## Newsletter Sponsorship Opening
