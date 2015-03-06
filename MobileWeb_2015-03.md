@@ -1,6 +1,32 @@
-## Updated news for 2015-03-04 
+## Updated news for 2015-03-06 
 
 ==========
+## This Week in Mobile Web Development (#46)
+#### http://mobilewebweekly.co/issues/46
+
+==========
+  1. [https://www.seroundtable.com/google-mobile-friendly-search-ranking-factors-19926.html](https://www.seroundtable.com/google-mobile-friendly-search-ranking-factors-19926.html) 
+  2. [http://www.pcworld.com/article/2890712/firefox-os-coming-to-us-developed-markets-in-2016.html](http://www.pcworld.com/article/2890712/firefox-os-coming-to-us-developed-markets-in-2016.html) 
+  3. [http://www.sitepoint.com/5-ionic-app-development-tips-tricks/](http://www.sitepoint.com/5-ionic-app-development-tips-tricks/) 
+  4. [http://www.telerik.com/campaigns/nativescript](http://www.telerik.com/campaigns/nativescript) 
+  6. [http://www.agingcoder.com/programming/2015/02/21/lessons-learned-from-5-years-of-phonegapcordova-development/](http://www.agingcoder.com/programming/2015/02/21/lessons-learned-from-5-years-of-phonegapcordova-development/) 
+  7. [http://www.theverge.com/2015/3/2/8131997/windows-10-project-spartan-browser-preview](http://www.theverge.com/2015/3/2/8131997/windows-10-project-spartan-browser-preview) 
+  8. [https://shazronatadobe.wordpress.com/2015/03/03/wkwebview-and-apache-cordova/](https://shazronatadobe.wordpress.com/2015/03/03/wkwebview-and-apache-cordova/) 
+  9. [https://mango.github.io/slideout/](https://mango.github.io/slideout/) 
+  10. [http://www.emarketer.com/Article/Mobile-Web-Outpaces-Apps-Retail-Transactions/1012138](http://www.emarketer.com/Article/Mobile-Web-Outpaces-Apps-Retail-Transactions/1012138) 
+  11. [http://microsoft-news.com/microsoft-is-improving-touch-performance-in-project-spartan-web-browser-by-removing-the-300ms-tap-delay/](http://microsoft-news.com/microsoft-is-improving-touch-performance-in-project-spartan-web-browser-by-removing-the-300ms-tap-delay/) 
+  12. [https://github.com/formly-js/angular-formly-templates-ionic](https://github.com/formly-js/angular-formly-templates-ionic) 
+  13. [http://mashable.com/2015/02/26/ios-android-record-market-share/](http://mashable.com/2015/02/26/ios-android-record-market-share/) 
+  14. [http://developer.mobilecaddy.net/docs/tutorials/accounts-contact-explorer/](http://developer.mobilecaddy.net/docs/tutorials/accounts-contact-explorer/) 
+  15. [http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/](http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/) 
+  16. [https://blog.nraboy.com/2015/02/get-available-free-disk-space-using-apache-cordova/](https://blog.nraboy.com/2015/02/get-available-free-disk-space-using-apache-cordova/) 
+  17. [http://developer.telerik.com/featured/android-permissions-explained/](http://developer.telerik.com/featured/android-permissions-explained/) 
+  18. [http://www.scientiamobile.com/page/movr-mobile-overview-report](http://www.scientiamobile.com/page/movr-mobile-overview-report) 
+  19. [http://www.nauapp.com/6-lessons-learned-from-an-app-launch/](http://www.nauapp.com/6-lessons-learned-from-an-app-launch/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#45)
 #### http://mobilewebweekly.co/issues/45
 
@@ -70,28 +96,5 @@
   16. [http://developer.telerik.com/featured/kendo-ui-mobile-guidance/](http://developer.telerik.com/featured/kendo-ui-mobile-guidance/) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#42)
-#### http://mobilewebweekly.co/issues/42
-
-==========
-  1. [http://www.sitepoint.com/beginners-guide-mobile-development-meteor/](http://www.sitepoint.com/beginners-guide-mobile-development-meteor/) 
-  2. [http://www.w3.org/2015/01/mobile-web-app-state/](http://www.w3.org/2015/01/mobile-web-app-state/) 
-  3. [https://www.linkedin.com/pulse/4-reasons-your-app-should-take-hybrid-route-sara-allen](https://www.linkedin.com/pulse/4-reasons-your-app-should-take-hybrid-route-sara-allen) 
-  4. [http://thenextweb.com/dd/2015/01/25/9-often-overlooked-things-consider-going-mobile-first/](http://thenextweb.com/dd/2015/01/25/9-often-overlooked-things-consider-going-mobile-first/) 
-  5. [http://www.smashingmagazine.com/2015/02/04/product-design-unification-case-study-mobile-web-framework/](http://www.smashingmagazine.com/2015/02/04/product-design-unification-case-study-mobile-web-framework/) 
-  6. [https://msdn.microsoft.com/en-us/magazine/dn904667.aspx](https://msdn.microsoft.com/en-us/magazine/dn904667.aspx) 
-  7. [http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html](http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html) 
-  8. [http://www.sitepoint.com/5-proven-tips-improve-app-marketplace-ranking/](http://www.sitepoint.com/5-proven-tips-improve-app-marketplace-ranking/) 
-  9. [http://devgirl.org/2015/01/28/interactive-config-guide-for-phonegapcordova/](http://devgirl.org/2015/01/28/interactive-config-guide-for-phonegapcordova/) 
-  10. [https://www.crittercism.com/blog/top-5-reasons-to-try-cordova](https://www.crittercism.com/blog/top-5-reasons-to-try-cordova) 
-  11. [http://blogs.adobe.com/digitalmarketing/mobile/make-manage-measure-monetize-mobile-apps/](http://blogs.adobe.com/digitalmarketing/mobile/make-manage-measure-monetize-mobile-apps/) 
-  14. [http://kevinold.com/2015/01/31/takeaways-from-reactjs-conf-2015.html](http://kevinold.com/2015/01/31/takeaways-from-reactjs-conf-2015.html) 
-  15. [http://www.bleathem.ca/blog/2015/01/cordova-splashscreen.html](http://www.bleathem.ca/blog/2015/01/cordova-splashscreen.html) 
-  16. [http://meteoric.github.io/](http://meteoric.github.io/) 
-  17. [https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/](https://gigaom.com/2015/02/02/responsive-web-design-is-coming-to-vr/) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
