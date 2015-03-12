@@ -1,6 +1,28 @@
-## Updated news for 2015-03-11 
+## Updated news for 2015-03-12 
 
 ==========
+## This Week in Mobile Web Development (#47)
+#### http://mobilewebweekly.co/issues/47
+
+==========
+  1. [https://www.nativescript.org/](https://www.nativescript.org/) 
+  2. [http://www.pubnub.com/blog/build-a-mobile-ios-chat-app-with-angularjs-and-phonegap/](http://www.pubnub.com/blog/build-a-mobile-ios-chat-app-with-angularjs-and-phonegap/) 
+  3. [https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/](https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/) 
+  4. [http://www.quirksmode.org/blog/archives/2015/03/better_modern_i.html](http://www.quirksmode.org/blog/archives/2015/03/better_modern_i.html) 
+  5. [https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) 
+  6. [http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1/](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1/) 
+  7. [http://blog.newrelic.com/2015/03/10/mobile-developer-trends/](http://blog.newrelic.com/2015/03/10/mobile-developer-trends/) 
+  8. [http://phonegap.com/blog/2015/03/10/making-an-app-builder-with-phonegapbuild-ionic-wordpress/](http://phonegap.com/blog/2015/03/10/making-an-app-builder-with-phonegapbuild-ionic-wordpress/) 
+  9. [http://www.smashingmagazine.com/2015/03/10/continuous-input-in-mobile-devices-pain-or-gain/](http://www.smashingmagazine.com/2015/03/10/continuous-input-in-mobile-devices-pain-or-gain/) 
+  10. [https://github.com/lightningtgc/material-refresh/](https://github.com/lightningtgc/material-refresh/) 
+  11. [http://ionicframework.com/blog/airpair-writing-competition/](http://ionicframework.com/blog/airpair-writing-competition/) 
+  12. [https://github.com/leecrossley/cordova-plugin-apple-watch](https://github.com/leecrossley/cordova-plugin-apple-watch) 
+  13. [http://www.get-maze.co.uk/](http://www.get-maze.co.uk/) 
+  14. [http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/](http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#46)
 #### http://mobilewebweekly.co/issues/46
 
@@ -73,28 +95,5 @@
   17. [http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/](http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#43)
-#### http://mobilewebweekly.co/issues/43
-
-==========
-  1. [http://engineering.flipboard.com/2015/02/mobile-web/](http://engineering.flipboard.com/2015/02/mobile-web/) 
-  2. [http://www.usertesting.com/blog/2015/02/03/responsive-web-design-resources/](http://www.usertesting.com/blog/2015/02/03/responsive-web-design-resources/) 
-  3. [http://www.oreilly.com/pub/e/3339](http://www.oreilly.com/pub/e/3339) 
-  4. [https://www.telerik.com/campaigns/platform/run-hybrid-app](https://www.telerik.com/campaigns/platform/run-hybrid-app) 
-  6. [http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/](http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/) 
-  7. [http://www.quirksmode.org/blog/archives/2015/02/safari_ios_bigg.html](http://www.quirksmode.org/blog/archives/2015/02/safari_ios_bigg.html) 
-  8. [http://www.phocuswright.com/Travel-Research/Research-Updates/2015/The-Web-Is-Dead-Long-Live-the-Mobile-Web](http://www.phocuswright.com/Travel-Research/Research-Updates/2015/The-Web-Is-Dead-Long-Live-the-Mobile-Web) 
-  9. [http://www.webperformancetoday.com/2015/02/04/11-reasons-care-mobile-performance-2015-infographic/](http://www.webperformancetoday.com/2015/02/04/11-reasons-care-mobile-performance-2015-infographic/) 
-  10. [http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/) 
-  11. [http://reapp.io/](http://reapp.io/) 
-  12. [http://blogs.adobe.com/experiencedelivers/experience-management/managing-mobile-apps-made-easy-adobe-phonegap-enterprise/](http://blogs.adobe.com/experiencedelivers/experience-management/managing-mobile-apps-made-easy-adobe-phonegap-enterprise/) 
-  13. [http://readwrite.com/2015/01/28/end-of-apps-era-of-notifications](http://readwrite.com/2015/01/28/end-of-apps-era-of-notifications) 
-  14. [http://www.sitepoint.com/top-10-personalization-strategies-non-retail-apps/](http://www.sitepoint.com/top-10-personalization-strategies-non-retail-apps/) 
-  15. [http://www.sitepoint.com/mobile-commerce-trends-2015/](http://www.sitepoint.com/mobile-commerce-trends-2015/) 
-  16. [http://developer.telerik.com/featured/kendo-ui-mobile-guidance/](http://developer.telerik.com/featured/kendo-ui-mobile-guidance/) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
