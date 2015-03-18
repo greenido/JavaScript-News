@@ -1,6 +1,29 @@
-## Updated news for 2015-03-17 
+## Updated news for 2015-03-18 
 
 ==========
+## This Week in Mobile Web Development (#48)
+#### http://mobilewebweekly.co/issues/48
+
+==========
+  1. [http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web) 
+  2. [http://www.sitepoint.com/media-queries-width-vs-device-width/](http://www.sitepoint.com/media-queries-width-vs-device-width/) 
+  3. [http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/](http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/) 
+  4. [http://www.oreilly.com/pub/e/3378](http://www.oreilly.com/pub/e/3378) 
+  6. [https://medium.com/@saniyusuf/first-look-at-ionic-1-0-rc-release-candidate-40f6f18308f4](https://medium.com/@saniyusuf/first-look-at-ionic-1-0-rc-release-candidate-40f6f18308f4) 
+  7. [http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/](http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/) 
+  8. [http://googlechromereleases.blogspot.com/2015/03/android-webview-update.html](http://googlechromereleases.blogspot.com/2015/03/android-webview-update.html) 
+  9. [https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic](https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic) 
+  10. [http://ionicframework.com/blog/invite-a-friend/](http://ionicframework.com/blog/invite-a-friend/) 
+  11. [http://www.idangero.us/swiper/](http://www.idangero.us/swiper/) 
+  12. [http://kingsfleet.blogspot.com/2015/02/hows-many-steps-did-i-walk-yesterday.html](http://kingsfleet.blogspot.com/2015/02/hows-many-steps-did-i-walk-yesterday.html) 
+  13. [http://www.sitepoint.com/11-free-mobile-icon-sets-use-app/](http://www.sitepoint.com/11-free-mobile-icon-sets-use-app/) 
+  14. [http://www.nirandfar.com/2015/03/notifications-that-work.html](http://www.nirandfar.com/2015/03/notifications-that-work.html) 
+  15. [http://readwrite.com/2015/03/13/mobile-future-notifications-not-apps](http://readwrite.com/2015/03/13/mobile-future-notifications-not-apps) 
+  16. [http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google](http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#47)
 #### http://mobilewebweekly.co/issues/47
 
@@ -69,30 +92,6 @@
   15. [https://www.genuitec.com/ci11-myeclipse2015/](https://www.genuitec.com/ci11-myeclipse2015/) 
   16. [http://regrid.finelysliced.com.au/](http://regrid.finelysliced.com.au/) 
   17. [http://lukyvj.github.io/menu-to-cross-icon/](http://lukyvj.github.io/menu-to-cross-icon/) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#44)
-#### http://mobilewebweekly.co/issues/44
-
-==========
-  1. [https://medium.com/@aaronjbarker/responsive-navigation-for-73-languages-83eec588db28](https://medium.com/@aaronjbarker/responsive-navigation-for-73-languages-83eec588db28) 
-  2. [http://www.sitepoint.com/decide-mobile-web-strategy/](http://www.sitepoint.com/decide-mobile-web-strategy/) 
-  3. [https://github.com/Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) 
-  4. [http://www.redisgreen.net/docs.html](http://www.redisgreen.net/docs.html) 
-  6. [http://phonegap.com/blog/2015/02/17/phonegap-3_7_0-now-on-build/](http://phonegap.com/blog/2015/02/17/phonegap-3_7_0-now-on-build/) 
-  7. [http://monaca.mobi/en/blog/build-a-hacker-news-mobile-app-with-firebase/](http://monaca.mobi/en/blog/build-a-hacker-news-mobile-app-with-firebase/) 
-  8. [http://www.uie.com/articles/curse_of_mobile_strategy/](http://www.uie.com/articles/curse_of_mobile_strategy/) 
-  9. [http://www.smashingmagazine.com/2015/02/09/carousel-usage-exploration-on-mobile-e-commerce-websites/](http://www.smashingmagazine.com/2015/02/09/carousel-usage-exploration-on-mobile-e-commerce-websites/) 
-  10. [http://android-developers.blogspot.com/2015/02/beta-channel-for-android-webview.html](http://android-developers.blogspot.com/2015/02/beta-channel-for-android-webview.html) 
-  11. [http://www.smashingmagazine.com/2015/02/17/deep-dive-into-adobe-edge-reflow/](http://www.smashingmagazine.com/2015/02/17/deep-dive-into-adobe-edge-reflow/) 
-  12. [http://developer.telerik.com/featured/nativescript-works/](http://developer.telerik.com/featured/nativescript-works/) 
-  13. [http://ionicframework.com/blog/displaying-the-twitter-feed-within-your-ionic-app/](http://ionicframework.com/blog/displaying-the-twitter-feed-within-your-ionic-app/) 
-  14. [http://onsen.io/blog/sneak-peeking-1-2-2-pull-hook/](http://onsen.io/blog/sneak-peeking-1-2-2-pull-hook/) 
-  15. [http://openui5.org/](http://openui5.org/) 
-  16. [http://cordova.apache.org/news/2015/02/10/plugins-release.html](http://cordova.apache.org/news/2015/02/10/plugins-release.html) 
-  17. [http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/](http://brucelefebvre.com/blog/2015/02/05/summit-2015-mobile-app-dev-and-content-management-with-aem/) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
