@@ -1,4 +1,4 @@
-## Updated news for 2015-03-21 
+## Updated news for 2015-03-22 
 
 ==========
 ## Barebones ES6 project using Gulp
