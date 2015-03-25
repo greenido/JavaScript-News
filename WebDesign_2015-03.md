@@ -1,6 +1,12 @@
-## Updated news for 2015-03-23 
+## Updated news for 2015-03-25 
 
 ==========
+## Web Design Weekly #178
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VlWdUQD-Vqg/
+
+==========
+
+====
 ## Barebones ES6 project using Gulp
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/uq2TGqU5kPA/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #172
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fJVC8WA5nLg/
-
-==========
-
-====
-## Applying React.js CSS Transitions on initial render
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/WjnSfUUjVXY/
 
 ==========
 

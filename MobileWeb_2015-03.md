@@ -1,6 +1,30 @@
-## Updated news for 2015-03-23 
+## Updated news for 2015-03-25 
 
 ==========
+## This Week in Mobile Web Development (#49)
+#### http://mobilewebweekly.co/issues/49
+
+==========
+  1. [http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/](http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/) 
+  2. [http://www.sitepoint.com/debugging-mobile-websites-firefox/](http://www.sitepoint.com/debugging-mobile-websites-firefox/) 
+  3. [http://reapp.io/2015/03/08/Welcome-to-Reapp/](http://reapp.io/2015/03/08/Welcome-to-Reapp/) 
+  4. [https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes) 
+  5. [http://www.redisgreen.net/docs.html](http://www.redisgreen.net/docs.html) 
+  7. [http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/](http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/) 
+  8. [http://www.sitepoint.com/security-risks-html5-apps/](http://www.sitepoint.com/security-risks-html5-apps/) 
+  9. [http://thewebplatform.libsyn.com/36-understanding-phonegap](http://thewebplatform.libsyn.com/36-understanding-phonegap) 
+  10. [http://thetomorrowlab.com/2013/05/the-business-case-for-responsive-web-design/](http://thetomorrowlab.com/2013/05/the-business-case-for-responsive-web-design/) 
+  11. [http://www.intertech.com/Blog/phonegap-tutorial-building-a-camera-app-with-phonegap-and-visual-studio-2015/](http://www.intertech.com/Blog/phonegap-tutorial-building-a-camera-app-with-phonegap-and-visual-studio-2015/) 
+  12. [http://vodkabears.github.io/interdimensional/](http://vodkabears.github.io/interdimensional/) 
+  13. [http://www.tricedesigns.com/2015/03/20/updated-parallax-effects-in-hybridweb-apps/](http://www.tricedesigns.com/2015/03/20/updated-parallax-effects-in-hybridweb-apps/) 
+  14. [http://reapp.io/docs-themes.html](http://reapp.io/docs-themes.html) 
+  15. [http://www.theverge.com/2015/3/17/8103593/golden-krishna-best-interface-is-no-interface-excerpt](http://www.theverge.com/2015/3/17/8103593/golden-krishna-best-interface-is-no-interface-excerpt) 
+  16. [http://pgday.phonegap.com/eu2015/](http://pgday.phonegap.com/eu2015/) 
+  17. [http://blog.vanamco.com/ghostlab-2-is-here/](http://blog.vanamco.com/ghostlab-2-is-here/) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#48)
 #### http://mobilewebweekly.co/issues/48
 
@@ -70,29 +94,5 @@
   19. [http://www.nauapp.com/6-lessons-learned-from-an-app-launch/](http://www.nauapp.com/6-lessons-learned-from-an-app-launch/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#45)
-#### http://mobilewebweekly.co/issues/45
-
-==========
-  1. [https://blog.nraboy.com/2015/02/ive-gone-hybrid-native-mobile-apps/](https://blog.nraboy.com/2015/02/ive-gone-hybrid-native-mobile-apps/) 
-  2. [http://jlongster.com/Radical-Statements-about-the-Mobile-Web](http://jlongster.com/Radical-Statements-about-the-Mobile-Web) 
-  3. [http://www.raymondcamden.com/2015/02/20/using-the-mobilefirst-mobile-browser-simulator](http://www.raymondcamden.com/2015/02/20/using-the-mobilefirst-mobile-browser-simulator) 
-  4. [http://www.telerik.com/campaigns/nativescript](http://www.telerik.com/campaigns/nativescript) 
-  6. [http://www.infoq.com/articles/matthew-carver-responsive-web](http://www.infoq.com/articles/matthew-carver-responsive-web) 
-  7. [http://onsen.io/blog/onsen-ui-google-maps-javascript-api-v3-angularjs-sample-application/](http://onsen.io/blog/onsen-ui-google-maps-javascript-api-v3-angularjs-sample-application/) 
-  8. [http://jxcore.com/jxcore-is-now-open-sourced/](http://jxcore.com/jxcore-is-now-open-sourced/) 
-  9. [http://ionicframework.com/blog/handling-cors-issues-in-ionic/](http://ionicframework.com/blog/handling-cors-issues-in-ionic/) 
-  10. [http://onsen.io/blog/developing-hybrid-mobile-apps-with-onsen-ui/](http://onsen.io/blog/developing-hybrid-mobile-apps-with-onsen-ui/) 
-  11. [http://thinkapps.com/blog/design/how-to-design-for-iphone-6-plus-phablets/](http://thinkapps.com/blog/design/how-to-design-for-iphone-6-plus-phablets/) 
-  12. [http://9to5mac.com/2015/02/20/ios-9-public-beta/](http://9to5mac.com/2015/02/20/ios-9-public-beta/) 
-  13. [http://www.quirksmode.org/blog/archives/2015/02/android_webview.html](http://www.quirksmode.org/blog/archives/2015/02/android_webview.html) 
-  14. [http://blog.universalmind.com/technology-trends-2015-part-5-hybrid-apps/](http://blog.universalmind.com/technology-trends-2015-part-5-hybrid-apps/) 
-  15. [https://www.genuitec.com/ci11-myeclipse2015/](https://www.genuitec.com/ci11-myeclipse2015/) 
-  16. [http://regrid.finelysliced.com.au/](http://regrid.finelysliced.com.au/) 
-  17. [http://lukyvj.github.io/menu-to-cross-icon/](http://lukyvj.github.io/menu-to-cross-icon/) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
