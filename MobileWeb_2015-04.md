@@ -1,6 +1,29 @@
-## Updated news for 2015-04-01 
+## Updated news for 2015-04-02 
 
 ==========
+## This Week in Mobile Web Development (#50)
+#### http://mobilewebweekly.co/issues/50
+
+==========
+  1. [http://www.smashingmagazine.com/2015/03/25/assessing-mobile-usability-google-webmaster-tools/](http://www.smashingmagazine.com/2015/03/25/assessing-mobile-usability-google-webmaster-tools/) 
+  2. [http://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/](http://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/) 
+  3. [http://readwrite.com/2015/03/26/react-native-web-development](http://readwrite.com/2015/03/26/react-native-web-development) 
+  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
+  6. [https://paul.kinlan.me/communications-apps-on-the-web/](https://paul.kinlan.me/communications-apps-on-the-web/) 
+  7. [http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript) 
+  8. [http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app](http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app) 
+  9. [http://www.nngroup.com/articles/hamburger-menu-vs-pizza/](http://www.nngroup.com/articles/hamburger-menu-vs-pizza/) 
+  10. [http://techcrunch.com/2015/03/30/drifty-grabs-2-6-million-to-turn-web-developers-into-mobile-app-makers/](http://techcrunch.com/2015/03/30/drifty-grabs-2-6-million-to-turn-web-developers-into-mobile-app-makers/) 
+  11. [http://developer.telerik.com/featured/build-a-native-mobile-app-with-nativescript-and-sitefinity-cms/](http://developer.telerik.com/featured/build-a-native-mobile-app-with-nativescript-and-sitefinity-cms/) 
+  12. [http://blog.scottlogic.com/2015/03/26/react-native-retrospective.html](http://blog.scottlogic.com/2015/03/26/react-native-retrospective.html) 
+  13. [http://www.sitepoint.com/create-password-manager-app-cordova/](http://www.sitepoint.com/create-password-manager-app-cordova/) 
+  14. [https://blogs.adobe.com/accessibility/2015/03/g3ict-phonegap-accessibility-white-paper.html](https://blogs.adobe.com/accessibility/2015/03/g3ict-phonegap-accessibility-white-paper.html) 
+  15. [https://github.com/jed/react-swipe](https://github.com/jed/react-swipe) 
+  16. [http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push](http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#49)
 #### http://mobilewebweekly.co/issues/49
 
@@ -68,31 +91,5 @@
   14. [http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/](http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#46)
-#### http://mobilewebweekly.co/issues/46
-
-==========
-  1. [https://www.seroundtable.com/google-mobile-friendly-search-ranking-factors-19926.html](https://www.seroundtable.com/google-mobile-friendly-search-ranking-factors-19926.html) 
-  2. [http://www.pcworld.com/article/2890712/firefox-os-coming-to-us-developed-markets-in-2016.html](http://www.pcworld.com/article/2890712/firefox-os-coming-to-us-developed-markets-in-2016.html) 
-  3. [http://www.sitepoint.com/5-ionic-app-development-tips-tricks/](http://www.sitepoint.com/5-ionic-app-development-tips-tricks/) 
-  4. [http://www.telerik.com/campaigns/nativescript](http://www.telerik.com/campaigns/nativescript) 
-  6. [http://www.agingcoder.com/programming/2015/02/21/lessons-learned-from-5-years-of-phonegapcordova-development/](http://www.agingcoder.com/programming/2015/02/21/lessons-learned-from-5-years-of-phonegapcordova-development/) 
-  7. [http://www.theverge.com/2015/3/2/8131997/windows-10-project-spartan-browser-preview](http://www.theverge.com/2015/3/2/8131997/windows-10-project-spartan-browser-preview) 
-  8. [https://shazronatadobe.wordpress.com/2015/03/03/wkwebview-and-apache-cordova/](https://shazronatadobe.wordpress.com/2015/03/03/wkwebview-and-apache-cordova/) 
-  9. [https://mango.github.io/slideout/](https://mango.github.io/slideout/) 
-  10. [http://www.emarketer.com/Article/Mobile-Web-Outpaces-Apps-Retail-Transactions/1012138](http://www.emarketer.com/Article/Mobile-Web-Outpaces-Apps-Retail-Transactions/1012138) 
-  11. [http://microsoft-news.com/microsoft-is-improving-touch-performance-in-project-spartan-web-browser-by-removing-the-300ms-tap-delay/](http://microsoft-news.com/microsoft-is-improving-touch-performance-in-project-spartan-web-browser-by-removing-the-300ms-tap-delay/) 
-  12. [https://github.com/formly-js/angular-formly-templates-ionic](https://github.com/formly-js/angular-formly-templates-ionic) 
-  13. [http://mashable.com/2015/02/26/ios-android-record-market-share/](http://mashable.com/2015/02/26/ios-android-record-market-share/) 
-  14. [http://developer.mobilecaddy.net/docs/tutorials/accounts-contact-explorer/](http://developer.mobilecaddy.net/docs/tutorials/accounts-contact-explorer/) 
-  15. [http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/](http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/) 
-  16. [https://blog.nraboy.com/2015/02/get-available-free-disk-space-using-apache-cordova/](https://blog.nraboy.com/2015/02/get-available-free-disk-space-using-apache-cordova/) 
-  17. [http://developer.telerik.com/featured/android-permissions-explained/](http://developer.telerik.com/featured/android-permissions-explained/) 
-  18. [http://www.scientiamobile.com/page/movr-mobile-overview-report](http://www.scientiamobile.com/page/movr-mobile-overview-report) 
-  19. [http://www.nauapp.com/6-lessons-learned-from-an-app-launch/](http://www.nauapp.com/6-lessons-learned-from-an-app-launch/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
