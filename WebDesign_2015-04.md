@@ -1,6 +1,12 @@
-## Updated news for 2015-04-06 
+## Updated news for 2015-04-07 
 
 ==========
+## Web Design Weekly #180
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/HyTZJBOJXvQ/
+
+==========
+
+====
 ## Web Design Weekly #179
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/HAsVSJQuLNU/
 
@@ -51,12 +57,6 @@
 ====
 ## Preparing for ECMAScript 6
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/bpHjJ5oBjZY/
-
-==========
-
-====
-## Web Design Weekly #173
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jhCh8J6M9WQ/
 
 ==========
 
