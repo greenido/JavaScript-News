@@ -1,6 +1,31 @@
 ## Updated news for 2015-04-08 
 
 ==========
+## This Week in Mobile Web Development (#51)
+#### http://mobilewebweekly.co/issues/51
+
+==========
+  1. [http://www.sencha.com/blog/top-5-reasons-the-web-will-win-on-mobile/](http://www.sencha.com/blog/top-5-reasons-the-web-will-win-on-mobile/) 
+  2. [https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework](https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework) 
+  3. [http://superdevresources.com/material-design-web-ui-frameworks/](http://superdevresources.com/material-design-web-ui-frameworks/) 
+  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
+  6. [http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/](http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/) 
+  7. [http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) 
+  8. [http://developer.telerik.com/featured/native-or-hybrid-the-path-of-least-resistance/](http://developer.telerik.com/featured/native-or-hybrid-the-path-of-least-resistance/) 
+  9. [https://scotch.io/bar-talk/10-blissful-bootstraps-tools-and-templates-for-quality-jquery-mobile-development](https://scotch.io/bar-talk/10-blissful-bootstraps-tools-and-templates-for-quality-jquery-mobile-development) 
+  10. [https://css-tricks.com/probably-use-initial-scale1/](https://css-tricks.com/probably-use-initial-scale1/) 
+  11. [https://github.com/SniperGER/Framework7-WatchUI](https://github.com/SniperGER/Framework7-WatchUI) 
+  12. [http://phonegap.com/blog/2015/04/01/CraftAR-guest-post/](http://phonegap.com/blog/2015/04/01/CraftAR-guest-post/) 
+  13. [http://www.sitepoint.com/test-internet-explorer-android-ios-mac-os-x/](http://www.sitepoint.com/test-internet-explorer-android-ios-mac-os-x/) 
+  14. [http://blog.ionic.io/ionic-docs-from-your-cli/](http://blog.ionic.io/ionic-docs-from-your-cli/) 
+  15. [http://readwrite.com/2015/04/03/ios-apps-promote-timing-apple-developers-marketing-app-store](http://readwrite.com/2015/04/03/ios-apps-promote-timing-apple-developers-marketing-app-store) 
+  16. [http://multisensory.github.io/](http://multisensory.github.io/) 
+  17. [http://onsen.io/blog/onsenui-1-3-released/](http://onsen.io/blog/onsenui-1-3-released/) 
+  18. [http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/](http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#50)
 #### http://mobilewebweekly.co/issues/50
 
@@ -69,27 +94,5 @@
   16. [http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google](http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#47)
-#### http://mobilewebweekly.co/issues/47
-
-==========
-  1. [https://www.nativescript.org/](https://www.nativescript.org/) 
-  2. [http://www.pubnub.com/blog/build-a-mobile-ios-chat-app-with-angularjs-and-phonegap/](http://www.pubnub.com/blog/build-a-mobile-ios-chat-app-with-angularjs-and-phonegap/) 
-  3. [https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/](https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/) 
-  4. [http://www.quirksmode.org/blog/archives/2015/03/better_modern_i.html](http://www.quirksmode.org/blog/archives/2015/03/better_modern_i.html) 
-  5. [https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) 
-  6. [http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1/](http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-1/) 
-  7. [http://blog.newrelic.com/2015/03/10/mobile-developer-trends/](http://blog.newrelic.com/2015/03/10/mobile-developer-trends/) 
-  8. [http://phonegap.com/blog/2015/03/10/making-an-app-builder-with-phonegapbuild-ionic-wordpress/](http://phonegap.com/blog/2015/03/10/making-an-app-builder-with-phonegapbuild-ionic-wordpress/) 
-  9. [http://www.smashingmagazine.com/2015/03/10/continuous-input-in-mobile-devices-pain-or-gain/](http://www.smashingmagazine.com/2015/03/10/continuous-input-in-mobile-devices-pain-or-gain/) 
-  10. [https://github.com/lightningtgc/material-refresh/](https://github.com/lightningtgc/material-refresh/) 
-  11. [http://ionicframework.com/blog/airpair-writing-competition/](http://ionicframework.com/blog/airpair-writing-competition/) 
-  12. [https://github.com/leecrossley/cordova-plugin-apple-watch](https://github.com/leecrossley/cordova-plugin-apple-watch) 
-  13. [http://www.get-maze.co.uk/](http://www.get-maze.co.uk/) 
-  14. [http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/](http://clubmate.fi/a-lesson-in-sass-maps-make-sass-media-queries-talk-to-javascript/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
