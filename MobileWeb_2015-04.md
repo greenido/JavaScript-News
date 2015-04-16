@@ -1,6 +1,28 @@
-## Updated news for 2015-04-15 
+## Updated news for 2015-04-16 
 
 ==========
+## This Week in Mobile Web Development (#52)
+#### http://mobilewebweekly.co/issues/52
+
+==========
+  1. [http://www.joshmorony.com/7-lessons-from-3-years-of-html5-mobile-application-development/](http://www.joshmorony.com/7-lessons-from-3-years-of-html5-mobile-application-development/) 
+  2. [https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/) 
+  3. [https://hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration-apis/](https://hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration-apis/) 
+  4. [https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework) 
+  5. [http://www.theverge.com/2015/4/10/8382913/windows-10-for-phones-preview-new-apps-project-spartan](http://www.theverge.com/2015/4/10/8382913/windows-10-for-phones-preview-new-apps-project-spartan) 
+  6. [https://www.igvita.com/2015/04/10/fixing-the-blank-text-problem/](https://www.igvita.com/2015/04/10/fixing-the-blank-text-problem/) 
+  7. [http://code.tutsplus.com/tutorials/getting-started-with-firefox-os-app-development--cms-23744](http://code.tutsplus.com/tutorials/getting-started-with-firefox-os-app-development--cms-23744) 
+  8. [http://readwrite.com/2015/04/10/internet-of-things-developers-apple-google](http://readwrite.com/2015/04/10/internet-of-things-developers-apple-google) 
+  9. [https://medium.com/philosophie-is-thinking/designing-in-browser-a-real-workflow-5320e31fa7ca](https://medium.com/philosophie-is-thinking/designing-in-browser-a-real-workflow-5320e31fa7ca) 
+  10. [https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic](https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic) 
+  11. [http://www.raymondcamden.com/2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova](http://www.raymondcamden.com/2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova) 
+  12. [https://github.com/t4t5/react-native-router](https://github.com/t4t5/react-native-router) 
+  13. [http://www.c-sharpcorner.com/UploadFile/020f8f/windows-phone-8-app-development-using-phonegap-cordova-pa/](http://www.c-sharpcorner.com/UploadFile/020f8f/windows-phone-8-app-development-using-phonegap-cordova-pa/) 
+  14. [http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/](http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#51)
 #### http://mobilewebweekly.co/issues/51
 
@@ -71,28 +93,5 @@
   17. [http://blog.vanamco.com/ghostlab-2-is-here/](http://blog.vanamco.com/ghostlab-2-is-here/) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#48)
-#### http://mobilewebweekly.co/issues/48
-
-==========
-  1. [http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web) 
-  2. [http://www.sitepoint.com/media-queries-width-vs-device-width/](http://www.sitepoint.com/media-queries-width-vs-device-width/) 
-  3. [http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/](http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/) 
-  4. [http://www.oreilly.com/pub/e/3378](http://www.oreilly.com/pub/e/3378) 
-  6. [https://medium.com/@saniyusuf/first-look-at-ionic-1-0-rc-release-candidate-40f6f18308f4](https://medium.com/@saniyusuf/first-look-at-ionic-1-0-rc-release-candidate-40f6f18308f4) 
-  7. [http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/](http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/) 
-  8. [http://googlechromereleases.blogspot.com/2015/03/android-webview-update.html](http://googlechromereleases.blogspot.com/2015/03/android-webview-update.html) 
-  9. [https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic](https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic) 
-  10. [http://ionicframework.com/blog/invite-a-friend/](http://ionicframework.com/blog/invite-a-friend/) 
-  11. [http://www.idangero.us/swiper/](http://www.idangero.us/swiper/) 
-  12. [http://kingsfleet.blogspot.com/2015/02/hows-many-steps-did-i-walk-yesterday.html](http://kingsfleet.blogspot.com/2015/02/hows-many-steps-did-i-walk-yesterday.html) 
-  13. [http://www.sitepoint.com/11-free-mobile-icon-sets-use-app/](http://www.sitepoint.com/11-free-mobile-icon-sets-use-app/) 
-  14. [http://www.nirandfar.com/2015/03/notifications-that-work.html](http://www.nirandfar.com/2015/03/notifications-that-work.html) 
-  15. [http://readwrite.com/2015/03/13/mobile-future-notifications-not-apps](http://readwrite.com/2015/03/13/mobile-future-notifications-not-apps) 
-  16. [http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google](http://www.theverge.com/2015/3/17/8231125/android-apps-now-reviewed-by-google) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
