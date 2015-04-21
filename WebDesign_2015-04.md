@@ -1,6 +1,12 @@
-## Updated news for 2015-04-20 
+## Updated news for 2015-04-21 
 
 ==========
+## Web Design Weekly #182
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/QomRsZCkjHI/
+
+==========
+
+====
 ## Web Design Weekly #181
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/rXL1sN-RoUY/
 
@@ -51,12 +57,6 @@
 ====
 ## Newsletter Sponsorship Opening
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/pQkfohO1x-c/
-
-==========
-
-====
-## Web Design Weekly #174
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/kDPQyi023sQ/
 
 ==========
 
