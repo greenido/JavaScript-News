@@ -1,6 +1,27 @@
-## Updated news for 2015-04-22 
+## Updated news for 2015-04-23 
 
 ==========
+## This Week in Mobile Web Development (#53)
+#### http://mobilewebweekly.co/issues/53
+
+==========
+  1. [http://callahad.github.io/fluent-web-debugging/](http://callahad.github.io/fluent-web-debugging/) 
+  2. [http://webreflection.blogspot.com/2015/04/is-anyone-testing-on-mobile.html](http://webreflection.blogspot.com/2015/04/is-anyone-testing-on-mobile.html) 
+  3. [http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) 
+  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
+  6. [https://github.com/Rapid-Application-Development-JS/RAD.JS](https://github.com/Rapid-Application-Development-JS/RAD.JS) 
+  7. [http://www.theverge.com/2015/4/20/8454613/push-notifications-android-chrome-42-mobile-web](http://www.theverge.com/2015/4/20/8454613/push-notifications-android-chrome-42-mobile-web) 
+  8. [https://cordova.apache.org/announcements/2015/04/15/cordova-android-4.0.0.html](https://cordova.apache.org/announcements/2015/04/15/cordova-android-4.0.0.html) 
+  9. [http://www.raymondcamden.com/2015/04/21/big-updates-to-apache-cordova](http://www.raymondcamden.com/2015/04/21/big-updates-to-apache-cordova) 
+  10. [https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/) 
+  11. [http://updates.html5rocks.com/2015/04/permissions-api-for-the-web](http://updates.html5rocks.com/2015/04/permissions-api-for-the-web) 
+  12. [https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/](https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/) 
+  13. [https://www.visualstudio.com/en-us/features/cordova-vs.aspx](https://www.visualstudio.com/en-us/features/cordova-vs.aspx) 
+  14. [https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/](https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/) 
+  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#52)
 #### http://mobilewebweekly.co/issues/52
 
@@ -69,29 +90,5 @@
   16. [http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push](http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#49)
-#### http://mobilewebweekly.co/issues/49
-
-==========
-  1. [http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/](http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/) 
-  2. [http://www.sitepoint.com/debugging-mobile-websites-firefox/](http://www.sitepoint.com/debugging-mobile-websites-firefox/) 
-  3. [http://reapp.io/2015/03/08/Welcome-to-Reapp/](http://reapp.io/2015/03/08/Welcome-to-Reapp/) 
-  4. [https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes) 
-  5. [http://www.redisgreen.net/docs.html](http://www.redisgreen.net/docs.html) 
-  7. [http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/](http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/) 
-  8. [http://www.sitepoint.com/security-risks-html5-apps/](http://www.sitepoint.com/security-risks-html5-apps/) 
-  9. [http://thewebplatform.libsyn.com/36-understanding-phonegap](http://thewebplatform.libsyn.com/36-understanding-phonegap) 
-  10. [http://thetomorrowlab.com/2013/05/the-business-case-for-responsive-web-design/](http://thetomorrowlab.com/2013/05/the-business-case-for-responsive-web-design/) 
-  11. [http://www.intertech.com/Blog/phonegap-tutorial-building-a-camera-app-with-phonegap-and-visual-studio-2015/](http://www.intertech.com/Blog/phonegap-tutorial-building-a-camera-app-with-phonegap-and-visual-studio-2015/) 
-  12. [http://vodkabears.github.io/interdimensional/](http://vodkabears.github.io/interdimensional/) 
-  13. [http://www.tricedesigns.com/2015/03/20/updated-parallax-effects-in-hybridweb-apps/](http://www.tricedesigns.com/2015/03/20/updated-parallax-effects-in-hybridweb-apps/) 
-  14. [http://reapp.io/docs-themes.html](http://reapp.io/docs-themes.html) 
-  15. [http://www.theverge.com/2015/3/17/8103593/golden-krishna-best-interface-is-no-interface-excerpt](http://www.theverge.com/2015/3/17/8103593/golden-krishna-best-interface-is-no-interface-excerpt) 
-  16. [http://pgday.phonegap.com/eu2015/](http://pgday.phonegap.com/eu2015/) 
-  17. [http://blog.vanamco.com/ghostlab-2-is-here/](http://blog.vanamco.com/ghostlab-2-is-here/) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
