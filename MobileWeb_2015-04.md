@@ -1,6 +1,31 @@
-## Updated news for 2015-04-29 
+## Updated news for 2015-04-30 
 
 ==========
+## This Week in Mobile Web Development (#54)
+#### http://mobilewebweekly.co/issues/54
+
+==========
+  1. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  2. [http://www.broken-links.com/2015/04/28/the-future-of-the-open-web/](http://www.broken-links.com/2015/04/28/the-future-of-the-open-web/) 
+  3. [http://www.quirksmode.org/blog/archives/2015/04/the_problems_wi.html](http://www.quirksmode.org/blog/archives/2015/04/the_problems_wi.html) 
+  4. [http://red-badger.com/blog/2015/04/23/react-native-when-the-mobile-web-isnt-enough/](http://red-badger.com/blog/2015/04/23/react-native-when-the-mobile-web-isnt-enough/) 
+  5. [http://devgirl.org/2015/04/24/apache-cordova-newsflash/](http://devgirl.org/2015/04/24/apache-cordova-newsflash/) 
+  6. [http://www.filamentgroup.com/lab/weight-wait.html](http://www.filamentgroup.com/lab/weight-wait.html) 
+  7. [https://www.airpair.com/javascript/posts/a-year-using-ionic-to-build-hybrid-applications](https://www.airpair.com/javascript/posts/a-year-using-ionic-to-build-hybrid-applications) 
+  8. [https://hacks.mozilla.org/2015/04/network-activity-and-battery-drain-in-mobile-web-apps/](https://hacks.mozilla.org/2015/04/network-activity-and-battery-drain-in-mobile-web-apps/) 
+  9. [http://phonegap.com/blog/2015/04/16/pg-day-eu-2015-announcements/](http://phonegap.com/blog/2015/04/16/pg-day-eu-2015-announcements/) 
+  10. [https://thinkster.io/mean-stack-tutorial/](https://thinkster.io/mean-stack-tutorial/) 
+  11. [http://www.dtelepathy.com/blog/design/responsive-or-bust-googles-focus-on-mobile-how-to-design-for-it](http://www.dtelepathy.com/blog/design/responsive-or-bust-googles-focus-on-mobile-how-to-design-for-it) 
+  12. [http://www.webdesignerdepot.com/2015/04/does-responsive-web-design-make-you-more-money/](http://www.webdesignerdepot.com/2015/04/does-responsive-web-design-make-you-more-money/) 
+  13. [http://www.itworld.com/article/2912880/mobile/has-the-native-vs-html5-mobile-debate-changed.html](http://www.itworld.com/article/2912880/mobile/has-the-native-vs-html5-mobile-debate-changed.html) 
+  14. [http://www.raymondcamden.com/2015/04/27/testing-camera-quality-settings-and-phonegapcordova](http://www.raymondcamden.com/2015/04/27/testing-camera-quality-settings-and-phonegapcordova) 
+  15. [https://github.com/Rapid-Application-Development-JS/Gesture](https://github.com/Rapid-Application-Development-JS/Gesture) 
+  16. [https://github.com/richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) 
+  17. [https://github.com/reapp/reapp-todo-mvc](https://github.com/reapp/reapp-todo-mvc) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#53)
 #### http://mobilewebweekly.co/issues/53
 
@@ -67,28 +92,5 @@
   18. [http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/](http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#50)
-#### http://mobilewebweekly.co/issues/50
-
-==========
-  1. [http://www.smashingmagazine.com/2015/03/25/assessing-mobile-usability-google-webmaster-tools/](http://www.smashingmagazine.com/2015/03/25/assessing-mobile-usability-google-webmaster-tools/) 
-  2. [http://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/](http://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/) 
-  3. [http://readwrite.com/2015/03/26/react-native-web-development](http://readwrite.com/2015/03/26/react-native-web-development) 
-  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
-  6. [https://paul.kinlan.me/communications-apps-on-the-web/](https://paul.kinlan.me/communications-apps-on-the-web/) 
-  7. [http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript) 
-  8. [http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app](http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app) 
-  9. [http://www.nngroup.com/articles/hamburger-menu-vs-pizza/](http://www.nngroup.com/articles/hamburger-menu-vs-pizza/) 
-  10. [http://techcrunch.com/2015/03/30/drifty-grabs-2-6-million-to-turn-web-developers-into-mobile-app-makers/](http://techcrunch.com/2015/03/30/drifty-grabs-2-6-million-to-turn-web-developers-into-mobile-app-makers/) 
-  11. [http://developer.telerik.com/featured/build-a-native-mobile-app-with-nativescript-and-sitefinity-cms/](http://developer.telerik.com/featured/build-a-native-mobile-app-with-nativescript-and-sitefinity-cms/) 
-  12. [http://blog.scottlogic.com/2015/03/26/react-native-retrospective.html](http://blog.scottlogic.com/2015/03/26/react-native-retrospective.html) 
-  13. [http://www.sitepoint.com/create-password-manager-app-cordova/](http://www.sitepoint.com/create-password-manager-app-cordova/) 
-  14. [https://blogs.adobe.com/accessibility/2015/03/g3ict-phonegap-accessibility-white-paper.html](https://blogs.adobe.com/accessibility/2015/03/g3ict-phonegap-accessibility-white-paper.html) 
-  15. [https://github.com/jed/react-swipe](https://github.com/jed/react-swipe) 
-  16. [http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push](http://www.raymondcamden.com/2015/03/31/an-early-look-at-ionic-push) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
