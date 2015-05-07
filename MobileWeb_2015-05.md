@@ -1,6 +1,29 @@
-## Updated news for 2015-05-06 
+## Updated news for 2015-05-07 
 
 ==========
+## This Week in Mobile Web Development (#55)
+#### http://mobilewebweekly.co/issues/55
+
+==========
+  1. [http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/](http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/) 
+  2. [http://www.manifoldjs.com/](http://www.manifoldjs.com/) 
+  3. [http://blog.production.invision.works/5-ways-to-bridge-the-designer-developer-gap-on-responsive-web-projects/](http://blog.production.invision.works/5-ways-to-bridge-the-designer-developer-gap-on-responsive-web-projects/) 
+  4. [http://blog.ionic.io/announcing-ionic-templates-for-visual-studio/](http://blog.ionic.io/announcing-ionic-templates-for-visual-studio/) 
+  5. [http://blogs.msdn.com/b/visualstudio/archive/2015/05/01/tools-for-apache-cordova-in-visual-studio-2015-rc.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/05/01/tools-for-apache-cordova-in-visual-studio-2015-rc.aspx) 
+  6. [http://www.joshmorony.com/top-10-tools-for-html5-mobile-app-developers/](http://www.joshmorony.com/top-10-tools-for-html5-mobile-app-developers/) 
+  7. [http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/](http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/) 
+  8. [https://github.com/mishk0/swiped](https://github.com/mishk0/swiped) 
+  9. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  10. [https://hacks.mozilla.org/2015/04/wifi-debugging-for-firefox-os/](https://hacks.mozilla.org/2015/04/wifi-debugging-for-firefox-os/) 
+  11. [https://tabrisjs.com/](https://tabrisjs.com/) 
+  12. [https://github.com/ABB-Austin/cordova-plugin-indexeddb-async](https://github.com/ABB-Austin/cordova-plugin-indexeddb-async) 
+  13. [http://www.raymondcamden.com/2015/05/01/phonegap-cli-and-templates](http://www.raymondcamden.com/2015/05/01/phonegap-cli-and-templates) 
+  14. [http://briantroncone.com/](http://briantroncone.com/) 
+  15. [http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html](http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#54)
 #### http://mobilewebweekly.co/issues/54
 
@@ -67,30 +90,5 @@
   14. [http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/](http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#51)
-#### http://mobilewebweekly.co/issues/51
-
-==========
-  1. [http://www.sencha.com/blog/top-5-reasons-the-web-will-win-on-mobile/](http://www.sencha.com/blog/top-5-reasons-the-web-will-win-on-mobile/) 
-  2. [https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework](https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework) 
-  3. [http://superdevresources.com/material-design-web-ui-frameworks/](http://superdevresources.com/material-design-web-ui-frameworks/) 
-  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
-  6. [http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/](http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/) 
-  7. [http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) 
-  8. [http://developer.telerik.com/featured/native-or-hybrid-the-path-of-least-resistance/](http://developer.telerik.com/featured/native-or-hybrid-the-path-of-least-resistance/) 
-  9. [https://scotch.io/bar-talk/10-blissful-bootstraps-tools-and-templates-for-quality-jquery-mobile-development](https://scotch.io/bar-talk/10-blissful-bootstraps-tools-and-templates-for-quality-jquery-mobile-development) 
-  10. [https://css-tricks.com/probably-use-initial-scale1/](https://css-tricks.com/probably-use-initial-scale1/) 
-  11. [https://github.com/SniperGER/Framework7-WatchUI](https://github.com/SniperGER/Framework7-WatchUI) 
-  12. [http://phonegap.com/blog/2015/04/01/CraftAR-guest-post/](http://phonegap.com/blog/2015/04/01/CraftAR-guest-post/) 
-  13. [http://www.sitepoint.com/test-internet-explorer-android-ios-mac-os-x/](http://www.sitepoint.com/test-internet-explorer-android-ios-mac-os-x/) 
-  14. [http://blog.ionic.io/ionic-docs-from-your-cli/](http://blog.ionic.io/ionic-docs-from-your-cli/) 
-  15. [http://readwrite.com/2015/04/03/ios-apps-promote-timing-apple-developers-marketing-app-store](http://readwrite.com/2015/04/03/ios-apps-promote-timing-apple-developers-marketing-app-store) 
-  16. [http://multisensory.github.io/](http://multisensory.github.io/) 
-  17. [http://onsen.io/blog/onsenui-1-3-released/](http://onsen.io/blog/onsenui-1-3-released/) 
-  18. [http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/](http://thejackalofjavascript.com/ionic-framework-cordova-and-file-api-a-media-player-app/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
