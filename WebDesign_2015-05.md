@@ -1,6 +1,12 @@
-## Updated news for 2015-05-11 
+## Updated news for 2015-05-12 
 
 ==========
+## Web Design Weekly #185
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Y3km92hcy1w/
+
+==========
+
+====
 ## Web Design Weekly #184
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/LyEWJulmj1o/
 
@@ -51,12 +57,6 @@
 ====
 ## Barebones ES6 project using Gulp
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/uq2TGqU5kPA/
-
-==========
-
-====
-## Web Design Weekly #177
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/ZOInPJi6TLY/
 
 ==========
 
