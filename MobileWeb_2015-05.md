@@ -1,6 +1,30 @@
 ## Updated news for 2015-05-13 
 
 ==========
+## This Week in Mobile Web Development (#56)
+#### http://mobilewebweekly.co/issues/56
+
+==========
+  1. [http://blog.ionic.io/announcing-ionic-1-0/](http://blog.ionic.io/announcing-ionic-1-0/) 
+  2. [http://blogs.intel.com/evangelists/2015/05/12/build-high-performance-html5-cordova-apps-with-crosswalk/](http://blogs.intel.com/evangelists/2015/05/12/build-high-performance-html5-cordova-apps-with-crosswalk/) 
+  3. [http://www.uxmatters.com/mt/archives/2015/05/why-its-totally-okay-to-use-a-hamburger-icon.php](http://www.uxmatters.com/mt/archives/2015/05/why-its-totally-okay-to-use-a-hamburger-icon.php) 
+  4. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
+  6. [http://www.sitepoint.com/creating-mobile-application-reapp/](http://www.sitepoint.com/creating-mobile-application-reapp/) 
+  7. [http://www.infoq.com/articles/continuous-quality-for-mobile-apps](http://www.infoq.com/articles/continuous-quality-for-mobile-apps) 
+  8. [http://www.theverge.com/2015/5/10/8581743/apple-watch-hack-os-browser-comex](http://www.theverge.com/2015/5/10/8581743/apple-watch-hack-os-browser-comex) 
+  9. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  10. [http://www-03.ibm.com/press/us/en/pressrelease/46623.wss](http://www-03.ibm.com/press/us/en/pressrelease/46623.wss) 
+  11. [http://mcgivery.com/100-ionic-framework-resources/](http://mcgivery.com/100-ionic-framework-resources/) 
+  12. [https://github.com/MobileChromeApps/cordova-plugin-background-app](https://github.com/MobileChromeApps/cordova-plugin-background-app) 
+  13. [https://www.firebase.com/blog/2015-05-04-ionic-screencast.html](https://www.firebase.com/blog/2015-05-04-ionic-screencast.html) 
+  14. [http://recode.net/2015/05/06/the-tablet-story-isnt-over-but-its-changing/](http://recode.net/2015/05/06/the-tablet-story-isnt-over-but-its-changing/) 
+  15. [http://readwrite.com/2015/04/30/deep-links-deep-data-mike-fyall](http://readwrite.com/2015/04/30/deep-links-deep-data-mike-fyall) 
+  16. [http://digest.telerik.com/](http://digest.telerik.com/) 
+  17. [http://digest.telerik.com/issues/6](http://digest.telerik.com/issues/6) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#55)
 #### http://mobilewebweekly.co/issues/55
 
@@ -66,28 +90,6 @@
   12. [https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/](https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/) 
   13. [https://www.visualstudio.com/en-us/features/cordova-vs.aspx](https://www.visualstudio.com/en-us/features/cordova-vs.aspx) 
   14. [https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/](https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#52)
-#### http://mobilewebweekly.co/issues/52
-
-==========
-  1. [http://www.joshmorony.com/7-lessons-from-3-years-of-html5-mobile-application-development/](http://www.joshmorony.com/7-lessons-from-3-years-of-html5-mobile-application-development/) 
-  2. [https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/) 
-  3. [https://hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration-apis/](https://hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration-apis/) 
-  4. [https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework) 
-  5. [http://www.theverge.com/2015/4/10/8382913/windows-10-for-phones-preview-new-apps-project-spartan](http://www.theverge.com/2015/4/10/8382913/windows-10-for-phones-preview-new-apps-project-spartan) 
-  6. [https://www.igvita.com/2015/04/10/fixing-the-blank-text-problem/](https://www.igvita.com/2015/04/10/fixing-the-blank-text-problem/) 
-  7. [http://code.tutsplus.com/tutorials/getting-started-with-firefox-os-app-development--cms-23744](http://code.tutsplus.com/tutorials/getting-started-with-firefox-os-app-development--cms-23744) 
-  8. [http://readwrite.com/2015/04/10/internet-of-things-developers-apple-google](http://readwrite.com/2015/04/10/internet-of-things-developers-apple-google) 
-  9. [https://medium.com/philosophie-is-thinking/designing-in-browser-a-real-workflow-5320e31fa7ca](https://medium.com/philosophie-is-thinking/designing-in-browser-a-real-workflow-5320e31fa7ca) 
-  10. [https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic](https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic) 
-  11. [http://www.raymondcamden.com/2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova](http://www.raymondcamden.com/2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova) 
-  12. [https://github.com/t4t5/react-native-router](https://github.com/t4t5/react-native-router) 
-  13. [http://www.c-sharpcorner.com/UploadFile/020f8f/windows-phone-8-app-development-using-phonegap-cordova-pa/](http://www.c-sharpcorner.com/UploadFile/020f8f/windows-phone-8-app-development-using-phonegap-cordova-pa/) 
-  14. [http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/](http://developer.telerik.com/featured/connect-a-mobile-app-and-a-spark-core-an-international-iot-day-project/) 
   15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
