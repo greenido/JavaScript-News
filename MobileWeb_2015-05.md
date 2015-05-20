@@ -1,6 +1,29 @@
 ## Updated news for 2015-05-20 
 
 ==========
+## This Week in Mobile Web Development (#57)
+#### http://mobilewebweekly.co/issues/57
+
+==========
+  1. [https://blog.intercom.io/why-mobile-first-may-already-be-outdated/](https://blog.intercom.io/why-mobile-first-may-already-be-outdated/) 
+  2. [http://www.smashingmagazine.com/2015/05/19/testing-for-windows-phone/](http://www.smashingmagazine.com/2015/05/19/testing-for-windows-phone/) 
+  3. [http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/) 
+  4. [http://webperformance.io/mobile-friendly-data](http://webperformance.io/mobile-friendly-data) 
+  5. [http://www.raymondcamden.com/2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code](http://www.raymondcamden.com/2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code) 
+  6. [http://openness.microsoft.com/en-cee/blog/2015/05/10/build2015-open-source-interoperability-announcements-whats-new-for-developers/](http://openness.microsoft.com/en-cee/blog/2015/05/10/build2015-open-source-interoperability-announcements-whats-new-for-developers/) 
+  7. [https://medium.com/backchannel/what-the-apple-watch-means-for-the-age-of-notifications-1f0409a0c8e0](https://medium.com/backchannel/what-the-apple-watch-means-for-the-age-of-notifications-1f0409a0c8e0) 
+  8. [http://trydesignlab.com/responsive-web-design/](http://trydesignlab.com/responsive-web-design/) 
+  9. [http://www.raymondcamden.com/2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin](http://www.raymondcamden.com/2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin) 
+  10. [http://hollyschinsky.github.io/pocket-guide/](http://hollyschinsky.github.io/pocket-guide/) 
+  11. [http://developer.telerik.com/featured/server-side-responsive-design-with-asp-net-mvc-and-interchange/](http://developer.telerik.com/featured/server-side-responsive-design-with-asp-net-mvc-and-interchange/) 
+  12. [http://www.slideshare.net/mwbrooks/phonegap-daymwbrooks](http://www.slideshare.net/mwbrooks/phonegap-daymwbrooks) 
+  13. [https://github.com/phonegap/phonegap-plugin-contentsync/](https://github.com/phonegap/phonegap-plugin-contentsync/) 
+  14. [https://github.com/Microsoft/cordova-samples](https://github.com/Microsoft/cordova-samples) 
+  15. [http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/](http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#56)
 #### http://mobilewebweekly.co/issues/56
 
@@ -71,26 +94,5 @@
   17. [https://github.com/reapp/reapp-todo-mvc](https://github.com/reapp/reapp-todo-mvc) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#53)
-#### http://mobilewebweekly.co/issues/53
-
-==========
-  1. [http://callahad.github.io/fluent-web-debugging/](http://callahad.github.io/fluent-web-debugging/) 
-  2. [http://webreflection.blogspot.com/2015/04/is-anyone-testing-on-mobile.html](http://webreflection.blogspot.com/2015/04/is-anyone-testing-on-mobile.html) 
-  3. [http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) 
-  4. [http://signal.twilio.com/](http://signal.twilio.com/) 
-  6. [https://github.com/Rapid-Application-Development-JS/RAD.JS](https://github.com/Rapid-Application-Development-JS/RAD.JS) 
-  7. [http://www.theverge.com/2015/4/20/8454613/push-notifications-android-chrome-42-mobile-web](http://www.theverge.com/2015/4/20/8454613/push-notifications-android-chrome-42-mobile-web) 
-  8. [https://cordova.apache.org/announcements/2015/04/15/cordova-android-4.0.0.html](https://cordova.apache.org/announcements/2015/04/15/cordova-android-4.0.0.html) 
-  9. [http://www.raymondcamden.com/2015/04/21/big-updates-to-apache-cordova](http://www.raymondcamden.com/2015/04/21/big-updates-to-apache-cordova) 
-  10. [https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/) 
-  11. [http://updates.html5rocks.com/2015/04/permissions-api-for-the-web](http://updates.html5rocks.com/2015/04/permissions-api-for-the-web) 
-  12. [https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/](https://blog.nraboy.com/2015/04/use-parse-core-in-ionic-framework-mobile-apps/) 
-  13. [https://www.visualstudio.com/en-us/features/cordova-vs.aspx](https://www.visualstudio.com/en-us/features/cordova-vs.aspx) 
-  14. [https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/](https://hacks.mozilla.org/2015/04/creating-a-mobile-app-from-a-simple-html-site-part-2/) 
-  15. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  16. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
