@@ -1,4 +1,4 @@
-## Updated news for 2015-05-30 
+## Updated news for 2015-05-31 
 
 ==========
 ## Web Design Weekly #187
