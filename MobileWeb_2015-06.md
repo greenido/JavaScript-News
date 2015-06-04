@@ -1,6 +1,29 @@
-## Updated news for 2015-06-03 
+## Updated news for 2015-06-04 
 
 ==========
+## This Week in Mobile Web Development (#59)
+#### http://mobilewebweekly.co/issues/59
+
+==========
+  1. [http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate](http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate) 
+  2. [http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html](http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html) 
+  3. [http://bitsofco.de/2015/viewport-vs-percentage-units/](http://bitsofco.de/2015/viewport-vs-percentage-units/) 
+  4. [http://arstechnica.com/gadgets/2015/05/google-announces-the-cloud-test-lab-a-free-automated-testing-service/](http://arstechnica.com/gadgets/2015/05/google-announces-the-cloud-test-lab-a-free-automated-testing-service/) 
+  5. [http://www.infoq.com/news/2015/05/tabrisjs-native-apps-javascript](http://www.infoq.com/news/2015/05/tabrisjs-native-apps-javascript) 
+  6. [https://www.airpair.com/ionic-framework/posts/ionic-socketio-chat-application-tutorial](https://www.airpair.com/ionic-framework/posts/ionic-socketio-chat-application-tutorial) 
+  7. [http://readwrite.com/2015/06/01/mobile-app-development-morass](http://readwrite.com/2015/06/01/mobile-app-development-morass) 
+  8. [http://phonegap.com/blog/2015/05/29/phonegap-day-eu-2015/](http://phonegap.com/blog/2015/05/29/phonegap-day-eu-2015/) 
+  9. [http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps](http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps) 
+  10. [http://blog.ionic.io/announcing-ionic-push-alpha/](http://blog.ionic.io/announcing-ionic-push-alpha/) 
+  11. [http://yahooeng.tumblr.com/post/120453453401/webbing-a-template-for-firefox-os-apps](http://yahooeng.tumblr.com/post/120453453401/webbing-a-template-for-firefox-os-apps) 
+  12. [https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c](https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c) 
+  13. [https://www.ibm.com/developerworks/library/se-remote-apache-cordova/index.html](https://www.ibm.com/developerworks/library/se-remote-apache-cordova/index.html) 
+  14. [https://jasonbrown.io/use-sass-in-your-ionic-app-like-a-pro/](https://jasonbrown.io/use-sass-in-your-ionic-app-like-a-pro/) 
+  15. [http://www.infoq.com/articles/mobile-apps-offline-support](http://www.infoq.com/articles/mobile-apps-offline-support) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#58)
 #### http://mobilewebweekly.co/issues/58
 
@@ -71,28 +94,5 @@
   17. [http://digest.telerik.com/issues/6](http://digest.telerik.com/issues/6) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#55)
-#### http://mobilewebweekly.co/issues/55
-
-==========
-  1. [http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/](http://developer.telerik.com/featured/nativescript-1-0-0-release-now-available/) 
-  2. [http://www.manifoldjs.com/](http://www.manifoldjs.com/) 
-  3. [http://blog.production.invision.works/5-ways-to-bridge-the-designer-developer-gap-on-responsive-web-projects/](http://blog.production.invision.works/5-ways-to-bridge-the-designer-developer-gap-on-responsive-web-projects/) 
-  4. [http://blog.ionic.io/announcing-ionic-templates-for-visual-studio/](http://blog.ionic.io/announcing-ionic-templates-for-visual-studio/) 
-  5. [http://blogs.msdn.com/b/visualstudio/archive/2015/05/01/tools-for-apache-cordova-in-visual-studio-2015-rc.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/05/01/tools-for-apache-cordova-in-visual-studio-2015-rc.aspx) 
-  6. [http://www.joshmorony.com/top-10-tools-for-html5-mobile-app-developers/](http://www.joshmorony.com/top-10-tools-for-html5-mobile-app-developers/) 
-  7. [http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/](http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/) 
-  8. [https://github.com/mishk0/swiped](https://github.com/mishk0/swiped) 
-  9. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
-  10. [https://hacks.mozilla.org/2015/04/wifi-debugging-for-firefox-os/](https://hacks.mozilla.org/2015/04/wifi-debugging-for-firefox-os/) 
-  11. [https://tabrisjs.com/](https://tabrisjs.com/) 
-  12. [https://github.com/ABB-Austin/cordova-plugin-indexeddb-async](https://github.com/ABB-Austin/cordova-plugin-indexeddb-async) 
-  13. [http://www.raymondcamden.com/2015/05/01/phonegap-cli-and-templates](http://www.raymondcamden.com/2015/05/01/phonegap-cli-and-templates) 
-  14. [http://briantroncone.com/](http://briantroncone.com/) 
-  15. [http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html](http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
