@@ -1,6 +1,29 @@
 ## Updated news for 2015-06-10 
 
 ==========
+## This Week in Mobile Web Development (#60)
+#### http://mobilewebweekly.co/issues/60
+
+==========
+  1. [http://www.sitepoint.com/building-native-app-javascript-using-nativescript/](http://www.sitepoint.com/building-native-app-javascript-using-nativescript/) 
+  2. [http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/](http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/) 
+  3. [http://www.nngroup.com/articles/mobile-accordions/](http://www.nngroup.com/articles/mobile-accordions/) 
+  4. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
+  6. [http://www.convinceandconvert.com/mobile/responsive-design/](http://www.convinceandconvert.com/mobile/responsive-design/) 
+  7. [https://rnplay.org/](https://rnplay.org/) 
+  8. [http://www.programmableweb.com/news/watchbench-builds-fully-functional-apple-watch-apps-javascript/2015/05/28](http://www.programmableweb.com/news/watchbench-builds-fully-functional-apple-watch-apps-javascript/2015/05/28) 
+  9. [https://iphonedevlog.wordpress.com/2015/06/08/implementing-crosswalks-chromium-webview-plugin-in-an-android-app/](https://iphonedevlog.wordpress.com/2015/06/08/implementing-crosswalks-chromium-webview-plugin-in-an-android-app/) 
+  10. [http://developer.telerik.com/featured/demystifying-nativescript-layouts/](http://developer.telerik.com/featured/demystifying-nativescript-layouts/) 
+  11. [http://blogs.msdn.com/b/vscode/archive/2015/06/05/mobile-hybrid-apps-with-vs-code-and-ionic.aspx](http://blogs.msdn.com/b/vscode/archive/2015/06/05/mobile-hybrid-apps-with-vs-code-and-ionic.aspx) 
+  12. [https://jasonbrown.io/announcing-the-release-of-an-opinionated-ionic-base-app/](https://jasonbrown.io/announcing-the-release-of-an-opinionated-ionic-base-app/) 
+  13. [https://visualstudiogallery.msdn.microsoft.com/407fc1f8-538b-4beb-b2b2-69afcb6fbd96](https://visualstudiogallery.msdn.microsoft.com/407fc1f8-538b-4beb-b2b2-69afcb6fbd96) 
+  14. [http://cordova-multiplatform-template.js.org/](http://cordova-multiplatform-template.js.org/) 
+  15. [https://www.firebase.com/docs/web/libraries/ionic/guide.html](https://www.firebase.com/docs/web/libraries/ionic/guide.html) 
+  16. [http://www.measuringu.com/blog/mobile-insights-2015.php](http://www.measuringu.com/blog/mobile-insights-2015.php) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#59)
 #### http://mobilewebweekly.co/issues/59
 
@@ -70,29 +93,5 @@
   15. [http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/](http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#56)
-#### http://mobilewebweekly.co/issues/56
-
-==========
-  1. [http://blog.ionic.io/announcing-ionic-1-0/](http://blog.ionic.io/announcing-ionic-1-0/) 
-  2. [http://blogs.intel.com/evangelists/2015/05/12/build-high-performance-html5-cordova-apps-with-crosswalk/](http://blogs.intel.com/evangelists/2015/05/12/build-high-performance-html5-cordova-apps-with-crosswalk/) 
-  3. [http://www.uxmatters.com/mt/archives/2015/05/why-its-totally-okay-to-use-a-hamburger-icon.php](http://www.uxmatters.com/mt/archives/2015/05/why-its-totally-okay-to-use-a-hamburger-icon.php) 
-  4. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
-  6. [http://www.sitepoint.com/creating-mobile-application-reapp/](http://www.sitepoint.com/creating-mobile-application-reapp/) 
-  7. [http://www.infoq.com/articles/continuous-quality-for-mobile-apps](http://www.infoq.com/articles/continuous-quality-for-mobile-apps) 
-  8. [http://www.theverge.com/2015/5/10/8581743/apple-watch-hack-os-browser-comex](http://www.theverge.com/2015/5/10/8581743/apple-watch-hack-os-browser-comex) 
-  9. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
-  10. [http://www-03.ibm.com/press/us/en/pressrelease/46623.wss](http://www-03.ibm.com/press/us/en/pressrelease/46623.wss) 
-  11. [http://mcgivery.com/100-ionic-framework-resources/](http://mcgivery.com/100-ionic-framework-resources/) 
-  12. [https://github.com/MobileChromeApps/cordova-plugin-background-app](https://github.com/MobileChromeApps/cordova-plugin-background-app) 
-  13. [https://www.firebase.com/blog/2015-05-04-ionic-screencast.html](https://www.firebase.com/blog/2015-05-04-ionic-screencast.html) 
-  14. [http://recode.net/2015/05/06/the-tablet-story-isnt-over-but-its-changing/](http://recode.net/2015/05/06/the-tablet-story-isnt-over-but-its-changing/) 
-  15. [http://readwrite.com/2015/04/30/deep-links-deep-data-mike-fyall](http://readwrite.com/2015/04/30/deep-links-deep-data-mike-fyall) 
-  16. [http://digest.telerik.com/](http://digest.telerik.com/) 
-  17. [http://digest.telerik.com/issues/6](http://digest.telerik.com/issues/6) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
