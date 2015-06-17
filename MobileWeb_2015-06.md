@@ -1,4 +1,4 @@
-## Updated news for 2015-06-16 
+## Updated news for 2015-06-17 
 
 ==========
 ## This Week in Mobile Web Development (#60)
