@@ -1,6 +1,29 @@
-## Updated news for 2015-06-17 
+## Updated news for 2015-06-18 
 
 ==========
+## This Week in Mobile Web Development (#61)
+#### http://mobilewebweekly.co/issues/61
+
+==========
+  1. [https://www.stonetemple.com/mobilegeddon-may-have-been-bigger-than-we-thought/](https://www.stonetemple.com/mobilegeddon-may-have-been-bigger-than-we-thought/) 
+  2. [http://phonegap.com/blog/2015/06/16/pgdayeu2015-making-high-performance-phonegap-apps/](http://phonegap.com/blog/2015/06/16/pgdayeu2015-making-high-performance-phonegap-apps/) 
+  3. [https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) 
+  4. [https://hacks.mozilla.org/2015/06/build-an-html5-game-and-distribute-it/](https://hacks.mozilla.org/2015/06/build-an-html5-game-and-distribute-it/) 
+  5. [http://www.telerik.com/blogs/telerik-appbuilder-with-cordova-4-and-crosswalk-support](http://www.telerik.com/blogs/telerik-appbuilder-with-cordova-4-and-crosswalk-support) 
+  6. [https://developer.apple.com/videos/wwdc/2015/](https://developer.apple.com/videos/wwdc/2015/) 
+  7. [http://nearsoft.com/blog/heres-how-you-can-leverage-community-for-hyper-growth/](http://nearsoft.com/blog/heres-how-you-can-leverage-community-for-hyper-growth/) 
+  8. [http://www.sitepoint.com/2mb-web-pages-whos-blame/](http://www.sitepoint.com/2mb-web-pages-whos-blame/) 
+  9. [https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee](https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee) 
+  10. [https://github.com/jariz/vibrant.js/](https://github.com/jariz/vibrant.js/) 
+  11. [http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/](http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/) 
+  12. [http://news.softpedia.com/news/Misconceptions-About-Responsive-Web-Design-483639.shtml](http://news.softpedia.com/news/Misconceptions-About-Responsive-Web-Design-483639.shtml) 
+  13. [http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) 
+  14. [http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/](http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/) 
+  15. [http://jobs.ionic.io/](http://jobs.ionic.io/) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#60)
 #### http://mobilewebweekly.co/issues/60
 
@@ -70,28 +93,5 @@
   18. [https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk/](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#57)
-#### http://mobilewebweekly.co/issues/57
-
-==========
-  1. [https://blog.intercom.io/why-mobile-first-may-already-be-outdated/](https://blog.intercom.io/why-mobile-first-may-already-be-outdated/) 
-  2. [http://www.smashingmagazine.com/2015/05/19/testing-for-windows-phone/](http://www.smashingmagazine.com/2015/05/19/testing-for-windows-phone/) 
-  3. [http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/) 
-  4. [http://webperformance.io/mobile-friendly-data](http://webperformance.io/mobile-friendly-data) 
-  5. [http://www.raymondcamden.com/2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code](http://www.raymondcamden.com/2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code) 
-  6. [http://openness.microsoft.com/en-cee/blog/2015/05/10/build2015-open-source-interoperability-announcements-whats-new-for-developers/](http://openness.microsoft.com/en-cee/blog/2015/05/10/build2015-open-source-interoperability-announcements-whats-new-for-developers/) 
-  7. [https://medium.com/backchannel/what-the-apple-watch-means-for-the-age-of-notifications-1f0409a0c8e0](https://medium.com/backchannel/what-the-apple-watch-means-for-the-age-of-notifications-1f0409a0c8e0) 
-  8. [http://trydesignlab.com/responsive-web-design/](http://trydesignlab.com/responsive-web-design/) 
-  9. [http://www.raymondcamden.com/2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin](http://www.raymondcamden.com/2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin) 
-  10. [http://hollyschinsky.github.io/pocket-guide/](http://hollyschinsky.github.io/pocket-guide/) 
-  11. [http://developer.telerik.com/featured/server-side-responsive-design-with-asp-net-mvc-and-interchange/](http://developer.telerik.com/featured/server-side-responsive-design-with-asp-net-mvc-and-interchange/) 
-  12. [http://www.slideshare.net/mwbrooks/phonegap-daymwbrooks](http://www.slideshare.net/mwbrooks/phonegap-daymwbrooks) 
-  13. [https://github.com/phonegap/phonegap-plugin-contentsync/](https://github.com/phonegap/phonegap-plugin-contentsync/) 
-  14. [https://github.com/Microsoft/cordova-samples](https://github.com/Microsoft/cordova-samples) 
-  15. [http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/](http://www.soasta.com/dev-blog/mobile-web-performance-testing-step-1/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

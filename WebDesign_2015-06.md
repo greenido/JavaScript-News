@@ -1,6 +1,42 @@
-## Updated news for 2015-06-17 
+## Updated news for 2015-06-18 
 
 ==========
+## Basic Performant Sharing Buttons
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VuuzOqGzSMI/
+
+==========
+
+====
+## Modify footer text in WordPress Admin area
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/BzaJ1EKrnpw/
+
+==========
+
+====
+## Remove / disable textarea resize image
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/2DC5k3EBHx4/
+
+==========
+
+====
+## Linking to an image folder within a WordPress theme
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/43vDFLAsr8g/
+
+==========
+
+====
+## Force up and down arrow for number input
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/n1og2M4Ybko/
+
+==========
+
+====
+## Better PHP Logging
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/0iHMI_UFvRI/
+
+==========
+
+====
 ## Web Design Weekly #190
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/LioBoCXYzeo/
 
@@ -21,42 +57,6 @@
 ====
 ## Web Design Weekly #187
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/eE9fQoLoZV0/
-
-==========
-
-====
-## Web Design Weekly #186
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/czHp5ierTi0/
-
-==========
-
-====
-## Web Design Weekly #185
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Y3km92hcy1w/
-
-==========
-
-====
-## Web Design Weekly #184
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/LyEWJulmj1o/
-
-==========
-
-====
-## Don’t Load it till it’s Needed
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/4TgQbsV4fxI/
-
-==========
-
-====
-## Web Design Weekly #183
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/B7xEPxX_ouE/
-
-==========
-
-====
-## Web Design Weekly #182
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/QomRsZCkjHI/
 
 ==========
 
