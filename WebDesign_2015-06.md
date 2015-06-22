@@ -1,4 +1,4 @@
-## Updated news for 2015-06-21 
+## Updated news for 2015-06-22 
 
 ==========
 ## Basic Performant Sharing Buttons
