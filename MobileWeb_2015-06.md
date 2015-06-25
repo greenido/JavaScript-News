@@ -1,6 +1,29 @@
-## Updated news for 2015-06-24 
+## Updated news for 2015-06-25 
 
 ==========
+## This Week in Mobile Web Development (#62)
+#### http://mobilewebweekly.co/issues/62
+
+==========
+  1. [https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide) 
+  2. [http://www.sitepoint.com/5-big-mobile-design-trends-of-2015/](http://www.sitepoint.com/5-big-mobile-design-trends-of-2015/) 
+  3. [https://github.com/facebook/nuclide](https://github.com/facebook/nuclide) 
+  4. [https://semaphoreapp.com/](https://semaphoreapp.com/) 
+  6. [http://developer.telerik.com/products/challenges-with-retrofitting-responsive-design/](http://developer.telerik.com/products/challenges-with-retrofitting-responsive-design/) 
+  7. [http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly) 
+  8. [https://medium.com/@saniyusuf/recipe-for-building-a-hybrid-mobile-app-506f34f54eb5](https://medium.com/@saniyusuf/recipe-for-building-a-hybrid-mobile-app-506f34f54eb5) 
+  9. [http://codepen.io/Tigt/blog/when-responsive-images-get-ugly](http://codepen.io/Tigt/blog/when-responsive-images-get-ugly) 
+  10. [http://www.sitepoint.com/cross-platform-literacy-matters/](http://www.sitepoint.com/cross-platform-literacy-matters/) 
+  11. [https://github.com/brianleroux/phonegap-easy-start](https://github.com/brianleroux/phonegap-easy-start) 
+  12. [http://roeierez.github.io/infinite-list/](http://roeierez.github.io/infinite-list/) 
+  13. [http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic](http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic) 
+  14. [https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin](https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin) 
+  15. [http://mobilehtml5.stungeye.com/2015/06/12/html5-native-app-part-three](http://mobilehtml5.stungeye.com/2015/06/12/html5-native-app-part-three) 
+  16. [http://cordova.apache.org/news/2015/06/22/plugins-release.html](http://cordova.apache.org/news/2015/06/22/plugins-release.html) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#61)
 #### http://mobilewebweekly.co/issues/61
 
@@ -68,30 +91,5 @@
   15. [http://www.infoq.com/articles/mobile-apps-offline-support](http://www.infoq.com/articles/mobile-apps-offline-support) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#58)
-#### http://mobilewebweekly.co/issues/58
-
-==========
-  1. [http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html](http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html) 
-  2. [http://www.sitepoint.com/7-mobile-ux-mistakes/](http://www.sitepoint.com/7-mobile-ux-mistakes/) 
-  3. [http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps/](http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps/) 
-  4. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
-  6. [http://devdactic.com/native-apps-with-tabris-js/](http://devdactic.com/native-apps-with-tabris-js/) 
-  7. [http://ben-evans.com/benedictevans/2015/5/17/the-future-is-mobile-and-apps-except-that-it-isnt](http://ben-evans.com/benedictevans/2015/5/17/the-future-is-mobile-and-apps-except-that-it-isnt) 
-  8. [https://www.fourfront.us/blog/jquery-window-width-and-media-queries](https://www.fourfront.us/blog/jquery-window-width-and-media-queries) 
-  9. [http://reactor.apppresser.com/blog/wordpress-api-ionic-app/](http://reactor.apppresser.com/blog/wordpress-api-ionic-app/) 
-  10. [https://hacks.mozilla.org/2015/05/creating-a-mobile-app-from-a-simple-html-site-part-4/](https://hacks.mozilla.org/2015/05/creating-a-mobile-app-from-a-simple-html-site-part-4/) 
-  11. [http://www.bbc.com/news/magazine-31602745](http://www.bbc.com/news/magazine-31602745) 
-  12. [https://speakerdeck.com/deanohume/faster-mobile-websites](https://speakerdeck.com/deanohume/faster-mobile-websites) 
-  13. [https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/](https://hacks.mozilla.org/2015/05/lets-get-charged-updates-to-the-battery-status-api/) 
-  14. [http://www.raymondcamden.com/2015/05/25/important-information-about-cordova-5](http://www.raymondcamden.com/2015/05/25/important-information-about-cordova-5) 
-  15. [http://onsen.io/blog/tutorial-todo-app-with-onsen-ui-and-azure/](http://onsen.io/blog/tutorial-todo-app-with-onsen-ui-and-azure/) 
-  16. [https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/](https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/) 
-  17. [http://developer.mobilecaddy.net/2015/05/announcing-protractor-ionic-locator/](http://developer.mobilecaddy.net/2015/05/announcing-protractor-ionic-locator/) 
-  18. [https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk/](https://baxeico.wordpress.com/2015/05/20/how-to-automatically-sign-your-android-apk-using-ionic-framework-and-crosswalk/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
