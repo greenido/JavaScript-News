@@ -1,6 +1,32 @@
-## Updated news for 2015-07-01 
+## Updated news for 2015-07-02 
 
 ==========
+## This Week in Mobile Web Development (#63)
+#### http://mobilewebweekly.co/issues/63
+
+==========
+  1. [http://www.w3.org/blog/validator/2015/06/23/the-new-w3c-mobile-checkers-alpha-release-be-mobile-friendly/](http://www.w3.org/blog/validator/2015/06/23/the-new-w3c-mobile-checkers-alpha-release-be-mobile-friendly/) 
+  2. [http://www.macstories.net/stories/ios-9-and-safari-view-controller-the-future-of-web-views/](http://www.macstories.net/stories/ios-9-and-safari-view-controller-the-future-of-web-views/) 
+  3. [http://blog.venturepact.com/8-high-performance-apps-you-never-knew-were-hybrid/](http://blog.venturepact.com/8-high-performance-apps-you-never-knew-were-hybrid/) 
+  4. [https://www.thinkful.com/a/dlp/learn-blue/base/IOS-002](https://www.thinkful.com/a/dlp/learn-blue/base/IOS-002) 
+  6. [http://developer.telerik.com/featured/the-dna-of-responsive-web-design/](http://developer.telerik.com/featured/the-dna-of-responsive-web-design/) 
+  7. [https://www.airpair.com/ionic-framework/posts/using-web-audio-api-for-precision-audio-in-ionic](https://www.airpair.com/ionic-framework/posts/using-web-audio-api-for-precision-audio-in-ionic) 
+  8. [http://blogs.windows.com/msedgedev/2015/06/17/building-a-more-interoperable-web-with-microsoft-edge/](http://blogs.windows.com/msedgedev/2015/06/17/building-a-more-interoperable-web-with-microsoft-edge/) 
+  9. [https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html) 
+  10. [http://docs.phonegap.com/develop/embed-webview/](http://docs.phonegap.com/develop/embed-webview/) 
+  11. [https://github.com/Financial-Times/o-grid](https://github.com/Financial-Times/o-grid) 
+  12. [https://dev.opera.com/blog/installable-web-apps/](https://dev.opera.com/blog/installable-web-apps/) 
+  13. [http://readwrite.com/2015/06/23/mobile-data-apps-necessity](http://readwrite.com/2015/06/23/mobile-data-apps-necessity) 
+  14. [https://storify.com/lukew/drop-downs-are-the-ui-of-last-resort](https://storify.com/lukew/drop-downs-are-the-ui-of-last-resort) 
+  15. [http://www.raymondcamden.com/2015/06/24/working-with-ionic-box-and-ibm-mobilefirst](http://www.raymondcamden.com/2015/06/24/working-with-ionic-box-and-ibm-mobilefirst) 
+  16. [https://github.com/DaveVoyles/famous-angular-Pokemon](https://github.com/DaveVoyles/famous-angular-Pokemon) 
+  17. [http://www.inserthtml.com/2015/06/marvell-brings-javascript-to-the-smallest-devices-ever/](http://www.inserthtml.com/2015/06/marvell-brings-javascript-to-the-smallest-devices-ever/) 
+  18. [http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world](http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world) 
+  19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#62)
 #### http://mobilewebweekly.co/issues/62
 
@@ -68,28 +94,5 @@
   16. [http://www.measuringu.com/blog/mobile-insights-2015.php](http://www.measuringu.com/blog/mobile-insights-2015.php) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#59)
-#### http://mobilewebweekly.co/issues/59
-
-==========
-  1. [http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate](http://blog.teamtreehouse.com/ionic-reigniting-native-vs-html5-debate) 
-  2. [http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html](http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html) 
-  3. [http://bitsofco.de/2015/viewport-vs-percentage-units/](http://bitsofco.de/2015/viewport-vs-percentage-units/) 
-  4. [http://arstechnica.com/gadgets/2015/05/google-announces-the-cloud-test-lab-a-free-automated-testing-service/](http://arstechnica.com/gadgets/2015/05/google-announces-the-cloud-test-lab-a-free-automated-testing-service/) 
-  5. [http://www.infoq.com/news/2015/05/tabrisjs-native-apps-javascript](http://www.infoq.com/news/2015/05/tabrisjs-native-apps-javascript) 
-  6. [https://www.airpair.com/ionic-framework/posts/ionic-socketio-chat-application-tutorial](https://www.airpair.com/ionic-framework/posts/ionic-socketio-chat-application-tutorial) 
-  7. [http://readwrite.com/2015/06/01/mobile-app-development-morass](http://readwrite.com/2015/06/01/mobile-app-development-morass) 
-  8. [http://phonegap.com/blog/2015/05/29/phonegap-day-eu-2015/](http://phonegap.com/blog/2015/05/29/phonegap-day-eu-2015/) 
-  9. [http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps](http://www.joshmorony.com/how-to-make-high-performance-phonegap-apps) 
-  10. [http://blog.ionic.io/announcing-ionic-push-alpha/](http://blog.ionic.io/announcing-ionic-push-alpha/) 
-  11. [http://yahooeng.tumblr.com/post/120453453401/webbing-a-template-for-firefox-os-apps](http://yahooeng.tumblr.com/post/120453453401/webbing-a-template-for-firefox-os-apps) 
-  12. [https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c](https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c) 
-  13. [https://www.ibm.com/developerworks/library/se-remote-apache-cordova/index.html](https://www.ibm.com/developerworks/library/se-remote-apache-cordova/index.html) 
-  14. [https://jasonbrown.io/use-sass-in-your-ionic-app-like-a-pro/](https://jasonbrown.io/use-sass-in-your-ionic-app-like-a-pro/) 
-  15. [http://www.infoq.com/articles/mobile-apps-offline-support](http://www.infoq.com/articles/mobile-apps-offline-support) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
