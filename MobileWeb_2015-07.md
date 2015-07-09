@@ -1,6 +1,29 @@
-## Updated news for 2015-07-08 
+## Updated news for 2015-07-09 
 
 ==========
+## This Week in Mobile Web Development (#64)
+#### http://mobilewebweekly.co/issues/64
+
+==========
+  1. [http://uxmag.com/articles/why-web-design-is-dead](http://uxmag.com/articles/why-web-design-is-dead) 
+  2. [https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework/](https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework/) 
+  3. [http://www.google.com/design/tool/devices/](http://www.google.com/design/tool/devices/) 
+  4. [http://www.cnet.com/news/how-photo-app-polarr-topped-the-app-store-the-uncommon-way/](http://www.cnet.com/news/how-photo-app-polarr-topped-the-app-store-the-uncommon-way/) 
+  5. [http://responsivenews.co.uk/post/123104512468/13-tips-for-making-responsive-web-design](http://responsivenews.co.uk/post/123104512468/13-tips-for-making-responsive-web-design) 
+  6. [http://blog.gospodarets.com/css-scroll-snap/](http://blog.gospodarets.com/css-scroll-snap/) 
+  7. [http://www.gajotres.net/must-have-plugins-for-ionic-framework/](http://www.gajotres.net/must-have-plugins-for-ionic-framework/) 
+  8. [http://www.htmlcenter.com/blog/how-framework7-and-phonegap-fit-together/](http://www.htmlcenter.com/blog/how-framework7-and-phonegap-fit-together/) 
+  9. [http://onsen.io/blog/onsen-ui-roadmap-new-release-onsen-2-0/](http://onsen.io/blog/onsen-ui-roadmap-new-release-onsen-2-0/) 
+  10. [http://developer.telerik.com/featured/the-webs-cruft-problem/](http://developer.telerik.com/featured/the-webs-cruft-problem/) 
+  11. [http://blog.ionic.io/adding-social-login-with-firebase/](http://blog.ionic.io/adding-social-login-with-firebase/) 
+  12. [https://software.intel.com/en-us/xdk/docs/choosing-crosswalk-build-options-shared-or-embedded](https://software.intel.com/en-us/xdk/docs/choosing-crosswalk-build-options-shared-or-embedded) 
+  13. [http://arstechnica.com/information-technology/2015/06/op-ed-safari-is-the-new-internet-explorer/](http://arstechnica.com/information-technology/2015/06/op-ed-safari-is-the-new-internet-explorer/) 
+  14. [https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/) 
+  15. [http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/](http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/) 
+  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#63)
 #### http://mobilewebweekly.co/issues/63
 
@@ -71,28 +94,5 @@
   15. [http://jobs.ionic.io/](http://jobs.ionic.io/) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#60)
-#### http://mobilewebweekly.co/issues/60
-
-==========
-  1. [http://www.sitepoint.com/building-native-app-javascript-using-nativescript/](http://www.sitepoint.com/building-native-app-javascript-using-nativescript/) 
-  2. [http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/](http://blogs.windows.com/msedgedev/2015/06/08/introducing-srcset-responsive-images-in-microsoft-edge/) 
-  3. [http://www.nngroup.com/articles/mobile-accordions/](http://www.nngroup.com/articles/mobile-accordions/) 
-  4. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
-  6. [http://www.convinceandconvert.com/mobile/responsive-design/](http://www.convinceandconvert.com/mobile/responsive-design/) 
-  7. [https://rnplay.org/](https://rnplay.org/) 
-  8. [http://www.programmableweb.com/news/watchbench-builds-fully-functional-apple-watch-apps-javascript/2015/05/28](http://www.programmableweb.com/news/watchbench-builds-fully-functional-apple-watch-apps-javascript/2015/05/28) 
-  9. [https://iphonedevlog.wordpress.com/2015/06/08/implementing-crosswalks-chromium-webview-plugin-in-an-android-app/](https://iphonedevlog.wordpress.com/2015/06/08/implementing-crosswalks-chromium-webview-plugin-in-an-android-app/) 
-  10. [http://developer.telerik.com/featured/demystifying-nativescript-layouts/](http://developer.telerik.com/featured/demystifying-nativescript-layouts/) 
-  11. [http://blogs.msdn.com/b/vscode/archive/2015/06/05/mobile-hybrid-apps-with-vs-code-and-ionic.aspx](http://blogs.msdn.com/b/vscode/archive/2015/06/05/mobile-hybrid-apps-with-vs-code-and-ionic.aspx) 
-  12. [https://jasonbrown.io/announcing-the-release-of-an-opinionated-ionic-base-app/](https://jasonbrown.io/announcing-the-release-of-an-opinionated-ionic-base-app/) 
-  13. [https://visualstudiogallery.msdn.microsoft.com/407fc1f8-538b-4beb-b2b2-69afcb6fbd96](https://visualstudiogallery.msdn.microsoft.com/407fc1f8-538b-4beb-b2b2-69afcb6fbd96) 
-  14. [http://cordova-multiplatform-template.js.org/](http://cordova-multiplatform-template.js.org/) 
-  15. [https://www.firebase.com/docs/web/libraries/ionic/guide.html](https://www.firebase.com/docs/web/libraries/ionic/guide.html) 
-  16. [http://www.measuringu.com/blog/mobile-insights-2015.php](http://www.measuringu.com/blog/mobile-insights-2015.php) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
