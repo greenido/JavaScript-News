@@ -1,6 +1,12 @@
-## Updated news for 2015-07-13 
+## Updated news for 2015-07-14 
 
 ==========
+## Web Design Weekly #194
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TM3sWpOtJCE/
+
+==========
+
+====
 ## Web Design Weekly #193
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/sGX3czNeCUg/
 
@@ -51,12 +57,6 @@
 ====
 ## Better PHP Logging
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/0iHMI_UFvRI/
-
-==========
-
-====
-## Web Design Weekly #190
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/LioBoCXYzeo/
 
 ==========
 
