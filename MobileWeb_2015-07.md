@@ -1,6 +1,31 @@
-## Updated news for 2015-07-15 
+## Updated news for 2015-07-16 
 
 ==========
+## This Week in Mobile Web Development (#65)
+#### http://mobilewebweekly.co/issues/65
+
+==========
+  1. [https://aws.amazon.com/device-farm/](https://aws.amazon.com/device-farm/) 
+  2. [http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/](http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/) 
+  3. [http://reactkungfu.com/2015/07/going-mobile-with-react-native/](http://reactkungfu.com/2015/07/going-mobile-with-react-native/) 
+  4. [https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Tools-for-Apache-Cordova](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Tools-for-Apache-Cordova) 
+  5. [https://hired.com/](https://hired.com/) 
+  7. [https://blog.svpino.com/2015/04/13/its-a-matter-of-time-the-web-will-also-win-the-mobile-development-battle](https://blog.svpino.com/2015/04/13/its-a-matter-of-time-the-web-will-also-win-the-mobile-development-battle) 
+  8. [http://blogs.walkingtree.in/2015/07/03/ios-application-with-polymer-1-0/](http://blogs.walkingtree.in/2015/07/03/ios-application-with-polymer-1-0/) 
+  9. [http://ionicmaterial.com/](http://ionicmaterial.com/) 
+  10. [http://www.smashingmagazine.com/2015/07/08/material-design-icons-templates-tools/](http://www.smashingmagazine.com/2015/07/08/material-design-icons-templates-tools/) 
+  12. [http://www.networkworld.com/article/2947334/applications/appery-wants-to-deliver-the-holy-grail-html5-apps-with-native-performance.html](http://www.networkworld.com/article/2947334/applications/appery-wants-to-deliver-the-holy-grail-html5-apps-with-native-performance.html) 
+  13. [http://www.developerdrive.com/2015/06/can-you-overuse-media-queries/](http://www.developerdrive.com/2015/06/can-you-overuse-media-queries/) 
+  14. [https://blog.nraboy.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app/](https://blog.nraboy.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app/) 
+  15. [http://readwrite.com/2015/07/14/smartwatch-platform-lock-in](http://readwrite.com/2015/07/14/smartwatch-platform-lock-in) 
+  16. [http://developer.telerik.com/featured/5-tips-for-a-successful-app-store-optimization-strategy/](http://developer.telerik.com/featured/5-tips-for-a-successful-app-store-optimization-strategy/) 
+  17. [http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb](http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb) 
+  18. [http://onsen.io/blog/lokijs-nosql-db-cordova/](http://onsen.io/blog/lokijs-nosql-db-cordova/) 
+  19. [http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/](http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#64)
 #### http://mobilewebweekly.co/issues/64
 
@@ -71,28 +96,5 @@
   16. [http://cordova.apache.org/news/2015/06/22/plugins-release.html](http://cordova.apache.org/news/2015/06/22/plugins-release.html) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#61)
-#### http://mobilewebweekly.co/issues/61
-
-==========
-  1. [https://www.stonetemple.com/mobilegeddon-may-have-been-bigger-than-we-thought/](https://www.stonetemple.com/mobilegeddon-may-have-been-bigger-than-we-thought/) 
-  2. [http://phonegap.com/blog/2015/06/16/pgdayeu2015-making-high-performance-phonegap-apps/](http://phonegap.com/blog/2015/06/16/pgdayeu2015-making-high-performance-phonegap-apps/) 
-  3. [https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) 
-  4. [https://hacks.mozilla.org/2015/06/build-an-html5-game-and-distribute-it/](https://hacks.mozilla.org/2015/06/build-an-html5-game-and-distribute-it/) 
-  5. [http://www.telerik.com/blogs/telerik-appbuilder-with-cordova-4-and-crosswalk-support](http://www.telerik.com/blogs/telerik-appbuilder-with-cordova-4-and-crosswalk-support) 
-  6. [https://developer.apple.com/videos/wwdc/2015/](https://developer.apple.com/videos/wwdc/2015/) 
-  7. [http://nearsoft.com/blog/heres-how-you-can-leverage-community-for-hyper-growth/](http://nearsoft.com/blog/heres-how-you-can-leverage-community-for-hyper-growth/) 
-  8. [http://www.sitepoint.com/2mb-web-pages-whos-blame/](http://www.sitepoint.com/2mb-web-pages-whos-blame/) 
-  9. [https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee](https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee) 
-  10. [https://github.com/jariz/vibrant.js/](https://github.com/jariz/vibrant.js/) 
-  11. [http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/](http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/) 
-  12. [http://news.softpedia.com/news/Misconceptions-About-Responsive-Web-Design-483639.shtml](http://news.softpedia.com/news/Misconceptions-About-Responsive-Web-Design-483639.shtml) 
-  13. [http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) 
-  14. [http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/](http://www.sitepoint.com/introducing-pure-css-lightweight-responsive-framework/) 
-  15. [http://jobs.ionic.io/](http://jobs.ionic.io/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
