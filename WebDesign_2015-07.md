@@ -1,6 +1,12 @@
-## Updated news for 2015-07-19 
+## Updated news for 2015-07-20 
 
 ==========
+## Post Pagination in WordPress
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jGqOvFM9LGc/
+
+==========
+
+====
 ## Web Design Weekly #194
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TM3sWpOtJCE/
 
@@ -51,12 +57,6 @@
 ====
 ## Force up and down arrow for number input
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/n1og2M4Ybko/
-
-==========
-
-====
-## Better PHP Logging
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/0iHMI_UFvRI/
 
 ==========
 
