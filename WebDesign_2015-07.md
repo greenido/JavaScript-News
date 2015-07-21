@@ -1,6 +1,18 @@
-## Updated news for 2015-07-20 
+## Updated news for 2015-07-21 
 
 ==========
+## Creating Better CSS
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CMlZ9V2xvvk/
+
+==========
+
+====
+## Web Design Weekly #195
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/XIVk8bk2S2Y/
+
+==========
+
+====
 ## Post Pagination in WordPress
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jGqOvFM9LGc/
 
@@ -45,18 +57,6 @@
 ====
 ## Remove / disable textarea resize image
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/2DC5k3EBHx4/
-
-==========
-
-====
-## Linking to an image folder within a WordPress theme
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/43vDFLAsr8g/
-
-==========
-
-====
-## Force up and down arrow for number input
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/n1og2M4Ybko/
 
 ==========
 
