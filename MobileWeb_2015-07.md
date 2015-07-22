@@ -1,6 +1,29 @@
 ## Updated news for 2015-07-22 
 
 ==========
+## This Week in Mobile Web Development (#66)
+#### http://mobilewebweekly.co/issues/66
+
+==========
+  1. [http://mobile-frameworks-comparison-chart.com/](http://mobile-frameworks-comparison-chart.com/) 
+  2. [http://blog.carbonfive.com/2015/07/21/flexing-the-rules-of-material-design/](http://blog.carbonfive.com/2015/07/21/flexing-the-rules-of-material-design/) 
+  3. [http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks) 
+  4. [http://www.pubnub.com/blog/tutorial-how-to-build-android-group-chat-application/](http://www.pubnub.com/blog/tutorial-how-to-build-android-group-chat-application/) 
+  6. [http://www.debuggap.com/](http://www.debuggap.com/) 
+  7. [https://joshmorony.com/mobile-development-for-web-developers/](https://joshmorony.com/mobile-development-for-web-developers/) 
+  8. [http://www.theguardian.com/media/2015/jul/19/ad-tech-online-experience-facebook-apple-news](http://www.theguardian.com/media/2015/jul/19/ad-tech-online-experience-facebook-apple-news) 
+  9. [http://gonehybrid.com/](http://gonehybrid.com/) 
+  10. [http://mcgivery.com/unit-testing-ionic-app/](http://mcgivery.com/unit-testing-ionic-app/) 
+  11. [http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1) 
+  12. [https://github.com/JakeSidSmith/react-fastclick](https://github.com/JakeSidSmith/react-fastclick) 
+  13. [http://developer.mobilecaddy.net/2015/07/introducing-the-mobilecaddy-cli/](http://developer.mobilecaddy.net/2015/07/introducing-the-mobilecaddy-cli/) 
+  14. [http://www.gajotres.net/understanding-ionic-view-lifecycle/](http://www.gajotres.net/understanding-ionic-view-lifecycle/) 
+  15. [http://www.daveramsey.com/careers/opportunities](http://www.daveramsey.com/careers/opportunities) 
+  17. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#65)
 #### http://mobilewebweekly.co/issues/65
 
@@ -73,28 +96,5 @@
   19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#62)
-#### http://mobilewebweekly.co/issues/62
-
-==========
-  1. [https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide) 
-  2. [http://www.sitepoint.com/5-big-mobile-design-trends-of-2015/](http://www.sitepoint.com/5-big-mobile-design-trends-of-2015/) 
-  3. [https://github.com/facebook/nuclide](https://github.com/facebook/nuclide) 
-  4. [https://semaphoreapp.com/](https://semaphoreapp.com/) 
-  6. [http://developer.telerik.com/products/challenges-with-retrofitting-responsive-design/](http://developer.telerik.com/products/challenges-with-retrofitting-responsive-design/) 
-  7. [http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly) 
-  8. [https://medium.com/@saniyusuf/recipe-for-building-a-hybrid-mobile-app-506f34f54eb5](https://medium.com/@saniyusuf/recipe-for-building-a-hybrid-mobile-app-506f34f54eb5) 
-  9. [http://codepen.io/Tigt/blog/when-responsive-images-get-ugly](http://codepen.io/Tigt/blog/when-responsive-images-get-ugly) 
-  10. [http://www.sitepoint.com/cross-platform-literacy-matters/](http://www.sitepoint.com/cross-platform-literacy-matters/) 
-  11. [https://github.com/brianleroux/phonegap-easy-start](https://github.com/brianleroux/phonegap-easy-start) 
-  12. [http://roeierez.github.io/infinite-list/](http://roeierez.github.io/infinite-list/) 
-  13. [http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic](http://www.raymondcamden.com/2015/06/22/an-update-to-my-rss-reader-built-with-ionic) 
-  14. [https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin](https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin) 
-  15. [http://mobilehtml5.stungeye.com/2015/06/12/html5-native-app-part-three](http://mobilehtml5.stungeye.com/2015/06/12/html5-native-app-part-three) 
-  16. [http://cordova.apache.org/news/2015/06/22/plugins-release.html](http://cordova.apache.org/news/2015/06/22/plugins-release.html) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
