@@ -1,4 +1,4 @@
-## Updated news for 2015-07-23 
+## Updated news for 2015-07-24 
 
 ==========
 ## Creating Better CSS
