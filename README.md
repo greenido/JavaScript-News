@@ -38,3 +38,8 @@ Try to build a repo to hold most of the interesting news around Java Script, HTM
   * Mark the 'top' links with meta data that will help users to understand what they will gain from this source.
   * Remove duplicate links.
   * Build a list of md files per topic.
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-65622529-1/JavaScript-News/main)](https://github.com/igrigorik/ga-beacon)
+
+
