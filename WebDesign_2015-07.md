@@ -1,6 +1,12 @@
-## Updated news for 2015-07-27 
+## Updated news for 2015-07-28 
 
 ==========
+## Web Design Weekly #196
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/PfPzxYwGiUI/
+
+==========
+
+====
 ## Creating Better CSS
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CMlZ9V2xvvk/
 
@@ -51,12 +57,6 @@
 ====
 ## Modify footer text in WordPress Admin area
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/BzaJ1EKrnpw/
-
-==========
-
-====
-## Remove / disable textarea resize image
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/2DC5k3EBHx4/
 
 ==========
 
