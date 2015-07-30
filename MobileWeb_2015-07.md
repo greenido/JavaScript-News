@@ -1,6 +1,31 @@
-## Updated news for 2015-07-29 
+## Updated news for 2015-07-30 
 
 ==========
+## This Week in Mobile Web Development (#67)
+#### http://mobilewebweekly.co/issues/67
+
+==========
+  1. [http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/](http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/) 
+  2. [http://tjvantoll.com/2015/07/27/mobile-safari-performance/](http://tjvantoll.com/2015/07/27/mobile-safari-performance/) 
+  3. [http://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/](http://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web) 
+  7. [https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Live-QA-Cross-Platform-Mobile-Development](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Live-QA-Cross-Platform-Mobile-Development) 
+  8. [https://medium.com/@maxlynch/the-web-is-too-low-level-7a4ea4933366](https://medium.com/@maxlynch/the-web-is-too-low-level-7a4ea4933366) 
+  9. [https://developers.google.com/web/updates/2015/07/using-rotationAngle-and-touchRadius](https://developers.google.com/web/updates/2015/07/using-rotationAngle-and-touchRadius) 
+  10. [https://foobartel.com/2015/07/google-web-light/](https://foobartel.com/2015/07/google-web-light/) 
+  11. [http://www.broken-links.com/2015/07/23/hardware-apis-coming-to-browsers/](http://www.broken-links.com/2015/07/23/hardware-apis-coming-to-browsers/) 
+  12. [http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692) 
+  13. [http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications](http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications) 
+  14. [http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2) 
+  15. [http://www.idangero.us/framework7/kitchen-sink-material/](http://www.idangero.us/framework7/kitchen-sink-material/) 
+  16. [http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/](http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/) 
+  17. [http://www.trilibis.com/responsivewebdesign2015.jsp](http://www.trilibis.com/responsivewebdesign2015.jsp) 
+  18. [https://github.com/delta98/ionic-material-design-lite](https://github.com/delta98/ionic-material-design-lite) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#66)
 #### http://mobilewebweekly.co/issues/66
 
@@ -70,31 +95,5 @@
   15. [http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/](http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/) 
   16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#63)
-#### http://mobilewebweekly.co/issues/63
-
-==========
-  1. [http://www.w3.org/blog/validator/2015/06/23/the-new-w3c-mobile-checkers-alpha-release-be-mobile-friendly/](http://www.w3.org/blog/validator/2015/06/23/the-new-w3c-mobile-checkers-alpha-release-be-mobile-friendly/) 
-  2. [http://www.macstories.net/stories/ios-9-and-safari-view-controller-the-future-of-web-views/](http://www.macstories.net/stories/ios-9-and-safari-view-controller-the-future-of-web-views/) 
-  3. [http://blog.venturepact.com/8-high-performance-apps-you-never-knew-were-hybrid/](http://blog.venturepact.com/8-high-performance-apps-you-never-knew-were-hybrid/) 
-  4. [https://www.thinkful.com/a/dlp/learn-blue/base/IOS-002](https://www.thinkful.com/a/dlp/learn-blue/base/IOS-002) 
-  6. [http://developer.telerik.com/featured/the-dna-of-responsive-web-design/](http://developer.telerik.com/featured/the-dna-of-responsive-web-design/) 
-  7. [https://www.airpair.com/ionic-framework/posts/using-web-audio-api-for-precision-audio-in-ionic](https://www.airpair.com/ionic-framework/posts/using-web-audio-api-for-precision-audio-in-ionic) 
-  8. [http://blogs.windows.com/msedgedev/2015/06/17/building-a-more-interoperable-web-with-microsoft-edge/](http://blogs.windows.com/msedgedev/2015/06/17/building-a-more-interoperable-web-with-microsoft-edge/) 
-  9. [https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html) 
-  10. [http://docs.phonegap.com/develop/embed-webview/](http://docs.phonegap.com/develop/embed-webview/) 
-  11. [https://github.com/Financial-Times/o-grid](https://github.com/Financial-Times/o-grid) 
-  12. [https://dev.opera.com/blog/installable-web-apps/](https://dev.opera.com/blog/installable-web-apps/) 
-  13. [http://readwrite.com/2015/06/23/mobile-data-apps-necessity](http://readwrite.com/2015/06/23/mobile-data-apps-necessity) 
-  14. [https://storify.com/lukew/drop-downs-are-the-ui-of-last-resort](https://storify.com/lukew/drop-downs-are-the-ui-of-last-resort) 
-  15. [http://www.raymondcamden.com/2015/06/24/working-with-ionic-box-and-ibm-mobilefirst](http://www.raymondcamden.com/2015/06/24/working-with-ionic-box-and-ibm-mobilefirst) 
-  16. [https://github.com/DaveVoyles/famous-angular-Pokemon](https://github.com/DaveVoyles/famous-angular-Pokemon) 
-  17. [http://www.inserthtml.com/2015/06/marvell-brings-javascript-to-the-smallest-devices-ever/](http://www.inserthtml.com/2015/06/marvell-brings-javascript-to-the-smallest-devices-ever/) 
-  18. [http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world](http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world) 
-  19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

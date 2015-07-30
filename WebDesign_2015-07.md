@@ -1,62 +1,62 @@
-## Updated news for 2015-07-29 
+## Updated news for 2015-07-30 
 
 ==========
+## The Battle Royale: Atom vs. Sublime
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/GVSirmQ5-Lg/
+
+==========
+
+====
 ## Web Design Weekly #196
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/PfPzxYwGiUI/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/XlCIbOACGpg/
 
 ==========
 
 ====
 ## Creating Better CSS
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CMlZ9V2xvvk/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Zx1oyxHduuw/
 
 ==========
 
 ====
 ## Web Design Weekly #195
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/XIVk8bk2S2Y/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/04_9qAH7dtY/
 
 ==========
 
 ====
 ## Post Pagination in WordPress
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jGqOvFM9LGc/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/uFfDDPTW9Fw/
 
 ==========
 
 ====
 ## Web Design Weekly #194
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TM3sWpOtJCE/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/V9CM6bNSONc/
 
 ==========
 
 ====
 ## Web Design Weekly #193
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/sGX3czNeCUg/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/d3TjQFvua5U/
 
 ==========
 
 ====
 ## Web Design Weekly #192
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/OPe4X-wXzgQ/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/KQlfXEbZiUg/
 
 ==========
 
 ====
 ## Web Design Weekly #191
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/x8UnmKxwfMI/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/UGkvUoZFj3I/
 
 ==========
 
 ====
 ## Basic Performant Sharing Buttons
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VuuzOqGzSMI/
-
-==========
-
-====
-## Modify footer text in WordPress Admin area
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/BzaJ1EKrnpw/
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/B9veypGI-VQ/
 
 ==========
 
