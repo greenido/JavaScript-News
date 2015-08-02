@@ -1,4 +1,4 @@
-## Updated news for 2015-08-01 
+## Updated news for 2015-08-02 
 
 ==========
 ## The Battle Royale: Atom vs. Sublime
