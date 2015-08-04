@@ -1,6 +1,12 @@
-## Updated news for 2015-08-03 
+## Updated news for 2015-08-04 
 
 ==========
+## Web Design Weekly #197
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/I7-IHYBNWlY/
+
+==========
+
+====
 ## The Battle Royale: Atom vs. Sublime
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/GVSirmQ5-Lg/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #191
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/UGkvUoZFj3I/
-
-==========
-
-====
-## Basic Performant Sharing Buttons
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/B9veypGI-VQ/
 
 ==========
 
