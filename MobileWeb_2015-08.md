@@ -1,6 +1,32 @@
-## Updated news for 2015-08-05 
+## Updated news for 2015-08-06 
 
 ==========
+## This Week in Mobile Web Development (#68)
+#### http://mobilewebweekly.co/issues/68
+
+==========
+  1. [http://speckyboy.com/2015/07/23/18-free-mobile-apis-developers-should-consider/](http://speckyboy.com/2015/07/23/18-free-mobile-apis-developers-should-consider/) 
+  2. [http://breakpointtester.com/](http://breakpointtester.com/) 
+  3. [http://qz.com/466089/the-fastest-growing-mobile-phone-markets-barely-use-apps/](http://qz.com/466089/the-fastest-growing-mobile-phone-markets-barely-use-apps/) 
+  4. [https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe](https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe) 
+  5. [http://www.appcelerator.com/product/](http://www.appcelerator.com/product/) 
+  7. [http://www.alphasoftware.com/blog/building-and-testing-phonegap-apps-made-easier-by-alpha-anywhere/](http://www.alphasoftware.com/blog/building-and-testing-phonegap-apps-made-easier-by-alpha-anywhere/) 
+  8. [http://plugins.cordova.io/npm/index.html](http://plugins.cordova.io/npm/index.html) 
+  9. [http://blogs.adobe.com/dreamweaver/2015/08/create-a-responsive-website-from-scratch-with-dreamweaver-cc.html](http://blogs.adobe.com/dreamweaver/2015/08/create-a-responsive-website-from-scratch-with-dreamweaver-cc.html) 
+  10. [http://eclipsesource.com/blogs/2015/07/29/tabris-js-1-1-is-here/](http://eclipsesource.com/blogs/2015/07/29/tabris-js-1-1-is-here/) 
+  11. [http://cordova.apache.org/announcements/2015/08/04/cordova-ios-3.9.0.html](http://cordova.apache.org/announcements/2015/08/04/cordova-ios-3.9.0.html) 
+  12. [https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/) 
+  13. [http://blogs.msdn.com/b/visualstudio/archive/2015/07/29/targeting-windows-10-with-your-apache-cordova-app.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/07/29/targeting-windows-10-with-your-apache-cordova-app.aspx) 
+  14. [http://appindex.com/blog/monaca-launches-localkit-ready-for-local-mobile-app-development-using-cordova/](http://appindex.com/blog/monaca-launches-localkit-ready-for-local-mobile-app-development-using-cordova/) 
+  15. [https://github.com/mmacmillan/cordova-imaging](https://github.com/mmacmillan/cordova-imaging) 
+  16. [http://developer.telerik.com/featured/whats-wrong-with-the-web/](http://developer.telerik.com/featured/whats-wrong-with-the-web/) 
+  17. [http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron) 
+  18. [http://angular-meteor.com/tutorialIntro](http://angular-meteor.com/tutorialIntro) 
+  19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#67)
 #### http://mobilewebweekly.co/issues/67
 
@@ -72,28 +98,5 @@
   19. [http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/](http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#64)
-#### http://mobilewebweekly.co/issues/64
-
-==========
-  1. [http://uxmag.com/articles/why-web-design-is-dead](http://uxmag.com/articles/why-web-design-is-dead) 
-  2. [https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework/](https://blog.nraboy.com/2015/07/monitor-device-battery-status-using-ionic-framework/) 
-  3. [http://www.google.com/design/tool/devices/](http://www.google.com/design/tool/devices/) 
-  4. [http://www.cnet.com/news/how-photo-app-polarr-topped-the-app-store-the-uncommon-way/](http://www.cnet.com/news/how-photo-app-polarr-topped-the-app-store-the-uncommon-way/) 
-  5. [http://responsivenews.co.uk/post/123104512468/13-tips-for-making-responsive-web-design](http://responsivenews.co.uk/post/123104512468/13-tips-for-making-responsive-web-design) 
-  6. [http://blog.gospodarets.com/css-scroll-snap/](http://blog.gospodarets.com/css-scroll-snap/) 
-  7. [http://www.gajotres.net/must-have-plugins-for-ionic-framework/](http://www.gajotres.net/must-have-plugins-for-ionic-framework/) 
-  8. [http://www.htmlcenter.com/blog/how-framework7-and-phonegap-fit-together/](http://www.htmlcenter.com/blog/how-framework7-and-phonegap-fit-together/) 
-  9. [http://onsen.io/blog/onsen-ui-roadmap-new-release-onsen-2-0/](http://onsen.io/blog/onsen-ui-roadmap-new-release-onsen-2-0/) 
-  10. [http://developer.telerik.com/featured/the-webs-cruft-problem/](http://developer.telerik.com/featured/the-webs-cruft-problem/) 
-  11. [http://blog.ionic.io/adding-social-login-with-firebase/](http://blog.ionic.io/adding-social-login-with-firebase/) 
-  12. [https://software.intel.com/en-us/xdk/docs/choosing-crosswalk-build-options-shared-or-embedded](https://software.intel.com/en-us/xdk/docs/choosing-crosswalk-build-options-shared-or-embedded) 
-  13. [http://arstechnica.com/information-technology/2015/06/op-ed-safari-is-the-new-internet-explorer/](http://arstechnica.com/information-technology/2015/06/op-ed-safari-is-the-new-internet-explorer/) 
-  14. [https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/) 
-  15. [http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/](http://www.sitepoint.com/augmented-reality-in-the-browser-with-awe-js/) 
-  16. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  17. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
