@@ -1,6 +1,32 @@
-## Updated news for 2015-08-13 
+## Updated news for 2015-08-14 
 
 ==========
+## This Week in Mobile Web Development (#69)
+#### http://mobilewebweekly.co/issues/69
+
+==========
+  1. [http://www.marianoviola.com/blog/mobile-web-isnt-broken-yet](http://www.marianoviola.com/blog/mobile-web-isnt-broken-yet) 
+  2. [http://www.nngroup.com/articles/mobile-input-checklist/](http://www.nngroup.com/articles/mobile-input-checklist/) 
+  3. [https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app) 
+  4. [http://deep.design/the-hamburger-menu/](http://deep.design/the-hamburger-menu/) 
+  5. [https://www.thinkful.com/a/dlp/learn-blue/base/UXD-001](https://www.thinkful.com/a/dlp/learn-blue/base/UXD-001) 
+  7. [http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128) 
+  8. [http://developer.telerik.com/featured/the-future-of-beacons-and-mobile/](http://developer.telerik.com/featured/the-future-of-beacons-and-mobile/) 
+  9. [http://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova](http://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova) 
+  10. [http://phonegap.com/blog/2015/08/03/mobile-choices-part2/](http://phonegap.com/blog/2015/08/03/mobile-choices-part2/) 
+  11. [https://blog.nraboy.com/2015/08/using-charts-in-your-ionic-framework-mobile-app/](https://blog.nraboy.com/2015/08/using-charts-in-your-ionic-framework-mobile-app/) 
+  12. [http://phonegap.com/blog/2015/08/07/uxcam-guest-post/](http://phonegap.com/blog/2015/08/07/uxcam-guest-post/) 
+  13. [https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1) 
+  14. [https://github.com/juarezpaf/ionic-adventures](https://github.com/juarezpaf/ionic-adventures) 
+  15. [http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-2/](http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-2/) 
+  16. [http://www.adobe.com/news-room/pressreleases/201508/080615AdobeMagicQuadrantMobileApplicationDevelopment.html](http://www.adobe.com/news-room/pressreleases/201508/080615AdobeMagicQuadrantMobileApplicationDevelopment.html) 
+  17. [http://timo-ernst.net/blog/2015/08/07/why-i-am-still-in-love-with-framework7/](http://timo-ernst.net/blog/2015/08/07/why-i-am-still-in-love-with-framework7/) 
+  18. [http://www.raymondcamden.com/2015/07/30/cordovaionic-sample-app-my-sound-board](http://www.raymondcamden.com/2015/07/30/cordovaionic-sample-app-my-sound-board) 
+  19. [http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/](http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#68)
 #### http://mobilewebweekly.co/issues/68
 
@@ -73,30 +99,5 @@
   17. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#65)
-#### http://mobilewebweekly.co/issues/65
-
-==========
-  1. [https://aws.amazon.com/device-farm/](https://aws.amazon.com/device-farm/) 
-  2. [http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/](http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/) 
-  3. [http://reactkungfu.com/2015/07/going-mobile-with-react-native/](http://reactkungfu.com/2015/07/going-mobile-with-react-native/) 
-  4. [https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Tools-for-Apache-Cordova](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Tools-for-Apache-Cordova) 
-  5. [https://hired.com/](https://hired.com/) 
-  7. [https://blog.svpino.com/2015/04/13/its-a-matter-of-time-the-web-will-also-win-the-mobile-development-battle](https://blog.svpino.com/2015/04/13/its-a-matter-of-time-the-web-will-also-win-the-mobile-development-battle) 
-  8. [http://blogs.walkingtree.in/2015/07/03/ios-application-with-polymer-1-0/](http://blogs.walkingtree.in/2015/07/03/ios-application-with-polymer-1-0/) 
-  9. [http://ionicmaterial.com/](http://ionicmaterial.com/) 
-  10. [http://www.smashingmagazine.com/2015/07/08/material-design-icons-templates-tools/](http://www.smashingmagazine.com/2015/07/08/material-design-icons-templates-tools/) 
-  12. [http://www.networkworld.com/article/2947334/applications/appery-wants-to-deliver-the-holy-grail-html5-apps-with-native-performance.html](http://www.networkworld.com/article/2947334/applications/appery-wants-to-deliver-the-holy-grail-html5-apps-with-native-performance.html) 
-  13. [http://www.developerdrive.com/2015/06/can-you-overuse-media-queries/](http://www.developerdrive.com/2015/06/can-you-overuse-media-queries/) 
-  14. [https://blog.nraboy.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app/](https://blog.nraboy.com/2015/07/modify-the-badge-number-of-an-ionic-framework-app/) 
-  15. [http://readwrite.com/2015/07/14/smartwatch-platform-lock-in](http://readwrite.com/2015/07/14/smartwatch-platform-lock-in) 
-  16. [http://developer.telerik.com/featured/5-tips-for-a-successful-app-store-optimization-strategy/](http://developer.telerik.com/featured/5-tips-for-a-successful-app-store-optimization-strategy/) 
-  17. [http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb](http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb) 
-  18. [http://onsen.io/blog/lokijs-nosql-db-cordova/](http://onsen.io/blog/lokijs-nosql-db-cordova/) 
-  19. [http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/](http://recode.net/2015/07/08/with-microsoft-layoffs-windows-phones-prospects-dim-further/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
