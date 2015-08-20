@@ -1,6 +1,32 @@
-## Updated news for 2015-08-19 
+## Updated news for 2015-08-20 
 
 ==========
+## This Week in Mobile Web Development (#70)
+#### http://mobilewebweekly.co/issues/70
+
+==========
+  1. [http://www.sitepoint.com/how-to-run-node-js-with-express-on-mobile-devices/](http://www.sitepoint.com/how-to-run-node-js-with-express-on-mobile-devices/) 
+  2. [http://www.sitepoint.com/using-healthkit-with-a-cordova-app/](http://www.sitepoint.com/using-healthkit-with-a-cordova-app/) 
+  3. [https://play.google.com/store/apps/details](https://play.google.com/store/apps/details) 
+  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
+  7. [http://demosthenes.info/blog/1059/Responsive-Image-Hinting-Using-the-w-Descriptor](http://demosthenes.info/blog/1059/Responsive-Image-Hinting-Using-the-w-Descriptor) 
+  8. [http://www.haykranen.nl/2015/08/09/tackling-video-and-audio-on-the-mobile-web/](http://www.haykranen.nl/2015/08/09/tackling-video-and-audio-on-the-mobile-web/) 
+  9. [http://phonegap.com/blog/2015/08/18/adding-analytics-to-your-phonegap-app/](http://phonegap.com/blog/2015/08/18/adding-analytics-to-your-phonegap-app/) 
+  10. [http://www.tonyhaile.com/2015/08/11/a-correction-around-the-death-of-the-mobile-web/](http://www.tonyhaile.com/2015/08/11/a-correction-around-the-death-of-the-mobile-web/) 
+  11. [http://developer.telerik.com/featured/here-are-the-reasons-i-deleted-your-mobile-app/](http://developer.telerik.com/featured/here-are-the-reasons-i-deleted-your-mobile-app/) 
+  12. [http://lucidlemon.github.io/paradeiser/](http://lucidlemon.github.io/paradeiser/) 
+  13. [http://www.quirksmode.org/blog/archives/2015/08/stop_pushing_re.html](http://www.quirksmode.org/blog/archives/2015/08/stop_pushing_re.html) 
+  14. [http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/](http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/) 
+  15. [http://tombuyse.com/improving-the-performance-of-your-ionic-application/](http://tombuyse.com/improving-the-performance-of-your-ionic-application/) 
+  16. [http://www.raymondcamden.com/2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1](http://www.raymondcamden.com/2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1) 
+  17. [https://medium.com/@pinkyBrayne/offline-apps-using-ionic-framework-pouchdb-and-angularjs-44070fe39cc0](https://medium.com/@pinkyBrayne/offline-apps-using-ionic-framework-pouchdb-and-angularjs-44070fe39cc0) 
+  18. [http://www.gajotres.net/whats-the-difference-between-cordova-and-ionic-ready-state/](http://www.gajotres.net/whats-the-difference-between-cordova-and-ionic-ready-state/) 
+  19. [http://www.phonegaptips.com/](http://www.phonegaptips.com/) 
+  20. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#69)
 #### http://mobilewebweekly.co/issues/69
 
@@ -74,29 +100,6 @@
   16. [http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/](http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/) 
   17. [http://www.trilibis.com/responsivewebdesign2015.jsp](http://www.trilibis.com/responsivewebdesign2015.jsp) 
   18. [https://github.com/delta98/ionic-material-design-lite](https://github.com/delta98/ionic-material-design-lite) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#66)
-#### http://mobilewebweekly.co/issues/66
-
-==========
-  1. [http://mobile-frameworks-comparison-chart.com/](http://mobile-frameworks-comparison-chart.com/) 
-  2. [http://blog.carbonfive.com/2015/07/21/flexing-the-rules-of-material-design/](http://blog.carbonfive.com/2015/07/21/flexing-the-rules-of-material-design/) 
-  3. [http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks) 
-  4. [http://www.pubnub.com/blog/tutorial-how-to-build-android-group-chat-application/](http://www.pubnub.com/blog/tutorial-how-to-build-android-group-chat-application/) 
-  6. [http://www.debuggap.com/](http://www.debuggap.com/) 
-  7. [https://joshmorony.com/mobile-development-for-web-developers/](https://joshmorony.com/mobile-development-for-web-developers/) 
-  8. [http://www.theguardian.com/media/2015/jul/19/ad-tech-online-experience-facebook-apple-news](http://www.theguardian.com/media/2015/jul/19/ad-tech-online-experience-facebook-apple-news) 
-  9. [http://gonehybrid.com/](http://gonehybrid.com/) 
-  10. [http://mcgivery.com/unit-testing-ionic-app/](http://mcgivery.com/unit-testing-ionic-app/) 
-  11. [http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1) 
-  12. [https://github.com/JakeSidSmith/react-fastclick](https://github.com/JakeSidSmith/react-fastclick) 
-  13. [http://developer.mobilecaddy.net/2015/07/introducing-the-mobilecaddy-cli/](http://developer.mobilecaddy.net/2015/07/introducing-the-mobilecaddy-cli/) 
-  14. [http://www.gajotres.net/understanding-ionic-view-lifecycle/](http://www.gajotres.net/understanding-ionic-view-lifecycle/) 
-  15. [http://www.daveramsey.com/careers/opportunities](http://www.daveramsey.com/careers/opportunities) 
-  17. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
