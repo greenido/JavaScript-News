@@ -1,4 +1,4 @@
-## Updated news for 2015-08-21 
+## Updated news for 2015-08-22 
 
 ==========
 ## WOW! Bringing you the 200th issue!
