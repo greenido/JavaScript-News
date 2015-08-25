@@ -1,6 +1,12 @@
-## Updated news for 2015-08-24 
+## Updated news for 2015-08-25 
 
 ==========
+## Web Design Weekly #200
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/NvHeYUxwH8w/
+
+==========
+
+====
 ## WOW! Bringing you the 200th issue!
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/xXDLRaMsH3k/
 
@@ -51,12 +57,6 @@
 ====
 ## Post Pagination in WordPress
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jGqOvFM9LGc/
-
-==========
-
-====
-## Web Design Weekly #194
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TM3sWpOtJCE/
 
 ==========
 
