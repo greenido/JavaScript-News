@@ -1,6 +1,28 @@
-## Updated news for 2015-08-26 
+## Updated news for 2015-08-27 
 
 ==========
+## This Week in Mobile Web Development (#71)
+#### http://mobilewebweekly.co/issues/71
+
+==========
+  1. [http://www.broken-links.com/2015/08/26/mobile-browsing-around-the-world/](http://www.broken-links.com/2015/08/26/mobile-browsing-around-the-world/) 
+  2. [http://www.creativebloq.com/web-design/web-design-trends-2015-16-long-scroll-81516343](http://www.creativebloq.com/web-design/web-design-trends-2015-16-long-scroll-81516343) 
+  3. [http://www.webdesignerdepot.com/2015/08/the-state-of-responsive-images/](http://www.webdesignerdepot.com/2015/08/the-state-of-responsive-images/) 
+  4. [https://attendee.gotowebinar.com/register/5594435377577297410](https://attendee.gotowebinar.com/register/5594435377577297410) 
+  7. [http://www.toptal.com/responsive-web/responsive-design-is-not-enough-we-need-responsive-performance](http://www.toptal.com/responsive-web/responsive-design-is-not-enough-we-need-responsive-performance) 
+  8. [http://gonehybrid.com/how-to-animate-your-ionic-app-with-animate-css-and-nganimate/](http://gonehybrid.com/how-to-animate-your-ionic-app-with-animate-css-and-nganimate/) 
+  9. [http://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/](http://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/) 
+  10. [http://www.gajotres.net/15-great-inspirational-ui-kits-for-ionic-framework/](http://www.gajotres.net/15-great-inspirational-ui-kits-for-ionic-framework/) 
+  11. [http://joshnh.com/weblog/getting-responsive-tables-to-behave/](http://joshnh.com/weblog/getting-responsive-tables-to-behave/) 
+  12. [http://blog.ionic.io/introducing-the-ionic-market-buy-and-sell-ionic-starters-plugins-and-themes/](http://blog.ionic.io/introducing-the-ionic-market-buy-and-sell-ionic-starters-plugins-and-themes/) 
+  13. [http://maxkatz.org/2015/08/17/tutorial-building-a-todo-mobile-app-with-ionic-angular-appery-io-visual-app-builder-and-database/](http://maxkatz.org/2015/08/17/tutorial-building-a-todo-mobile-app-with-ionic-angular-appery-io-visual-app-builder-and-database/) 
+  14. [http://verlok.github.io/lazyload/](http://verlok.github.io/lazyload/) 
+  15. [http://www.daveramsey.com/careers/opportunities](http://www.daveramsey.com/careers/opportunities) 
+  17. [https://hired.com/](https://hired.com/) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#70)
 #### http://mobilewebweekly.co/issues/70
 
@@ -77,30 +99,5 @@
   19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#67)
-#### http://mobilewebweekly.co/issues/67
-
-==========
-  1. [http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/](http://www.soasta.com/blog/mobile-web-performance-page-bloat-july-2015/) 
-  2. [http://tjvantoll.com/2015/07/27/mobile-safari-performance/](http://tjvantoll.com/2015/07/27/mobile-safari-performance/) 
-  3. [http://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/](http://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web) 
-  7. [https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Live-QA-Cross-Platform-Mobile-Development](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Live-QA-Cross-Platform-Mobile-Development) 
-  8. [https://medium.com/@maxlynch/the-web-is-too-low-level-7a4ea4933366](https://medium.com/@maxlynch/the-web-is-too-low-level-7a4ea4933366) 
-  9. [https://developers.google.com/web/updates/2015/07/using-rotationAngle-and-touchRadius](https://developers.google.com/web/updates/2015/07/using-rotationAngle-and-touchRadius) 
-  10. [https://foobartel.com/2015/07/google-web-light/](https://foobartel.com/2015/07/google-web-light/) 
-  11. [http://www.broken-links.com/2015/07/23/hardware-apis-coming-to-browsers/](http://www.broken-links.com/2015/07/23/hardware-apis-coming-to-browsers/) 
-  12. [http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692) 
-  13. [http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications](http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications) 
-  14. [http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2](http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2) 
-  15. [http://www.idangero.us/framework7/kitchen-sink-material/](http://www.idangero.us/framework7/kitchen-sink-material/) 
-  16. [http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/](http://developer.telerik.com/featured/choosing-a-responsive-framework-for-your-next-net-app/) 
-  17. [http://www.trilibis.com/responsivewebdesign2015.jsp](http://www.trilibis.com/responsivewebdesign2015.jsp) 
-  18. [https://github.com/delta98/ionic-material-design-lite](https://github.com/delta98/ionic-material-design-lite) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

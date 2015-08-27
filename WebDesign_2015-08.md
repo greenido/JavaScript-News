@@ -1,4 +1,4 @@
-## Updated news for 2015-08-26 
+## Updated news for 2015-08-27 
 
 ==========
 ## Web Design Weekly #200
