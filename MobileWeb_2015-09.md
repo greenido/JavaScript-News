@@ -1,6 +1,31 @@
 ## Updated news for 2015-09-02 
 
 ==========
+## This Week in Mobile Web Development (#72)
+#### http://mobilewebweekly.co/issues/72
+
+==========
+  1. [http://googlewebmastercentral.blogspot.de/2015/09/mobile-friendly-web-pages-using-app.html](http://googlewebmastercentral.blogspot.de/2015/09/mobile-friendly-web-pages-using-app.html) 
+  2. [http://blogs.intel.com/evangelists/2015/08/30/improving-android-4-x-performance-with-crosswalk/](http://blogs.intel.com/evangelists/2015/08/30/improving-android-4-x-performance-with-crosswalk/) 
+  3. [http://www.soasta.com/blog/23-stats-mobile-web-performance-monitoring/](http://www.soasta.com/blog/23-stats-mobile-web-performance-monitoring/) 
+  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
+  7. [http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/) 
+  8. [http://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/](http://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/) 
+  9. [https://sensortower.com/blog/how-to-write-compelling-push-notifications-to-increase-app-engagement-and-retention](https://sensortower.com/blog/how-to-write-compelling-push-notifications-to-increase-app-engagement-and-retention) 
+  10. [http://www.rootmetrics.com/us/blog/special-reports/2015-1h-national-us](http://www.rootmetrics.com/us/blog/special-reports/2015-1h-national-us) 
+  11. [http://www.gajotres.net/using-google-admob-in-your-android-ionic-application/](http://www.gajotres.net/using-google-admob-in-your-android-ionic-application/) 
+  12. [http://www.sitepoint.com/responsive-web-design-where-do-we-go-from-here/](http://www.sitepoint.com/responsive-web-design-where-do-we-go-from-here/) 
+  13. [http://cordova.apache.org/announcements/2015/08/18/cordova-windows-4.1.0.html](http://cordova.apache.org/announcements/2015/08/18/cordova-windows-4.1.0.html) 
+  14. [http://www.invisionapp.com/now](http://www.invisionapp.com/now) 
+  15. [https://github.com/jaing/react-page-transitions](https://github.com/jaing/react-page-transitions) 
+  16. [https://platypi.io/posts/platypi-takes-cross-platform-framework-open-source](https://platypi.io/posts/platypi-takes-cross-platform-framework-open-source) 
+  17. [http://market.ionic.io/starters/firebase-seed](http://market.ionic.io/starters/firebase-seed) 
+  18. [http://simonmacdonald.blogspot.com/2015/08/phonegap-plugin-push-version-120.html](http://simonmacdonald.blogspot.com/2015/08/phonegap-plugin-push-version-120.html) 
+  19. [http://www.oscon.com/open-source-eu-2015/](http://www.oscon.com/open-source-eu-2015/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#71)
 #### http://mobilewebweekly.co/issues/71
 
@@ -73,31 +98,5 @@
   19. [http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/](http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#68)
-#### http://mobilewebweekly.co/issues/68
-
-==========
-  1. [http://speckyboy.com/2015/07/23/18-free-mobile-apis-developers-should-consider/](http://speckyboy.com/2015/07/23/18-free-mobile-apis-developers-should-consider/) 
-  2. [http://breakpointtester.com/](http://breakpointtester.com/) 
-  3. [http://qz.com/466089/the-fastest-growing-mobile-phone-markets-barely-use-apps/](http://qz.com/466089/the-fastest-growing-mobile-phone-markets-barely-use-apps/) 
-  4. [https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe](https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe) 
-  5. [http://www.appcelerator.com/product/](http://www.appcelerator.com/product/) 
-  7. [http://www.alphasoftware.com/blog/building-and-testing-phonegap-apps-made-easier-by-alpha-anywhere/](http://www.alphasoftware.com/blog/building-and-testing-phonegap-apps-made-easier-by-alpha-anywhere/) 
-  8. [http://plugins.cordova.io/npm/index.html](http://plugins.cordova.io/npm/index.html) 
-  9. [http://blogs.adobe.com/dreamweaver/2015/08/create-a-responsive-website-from-scratch-with-dreamweaver-cc.html](http://blogs.adobe.com/dreamweaver/2015/08/create-a-responsive-website-from-scratch-with-dreamweaver-cc.html) 
-  10. [http://eclipsesource.com/blogs/2015/07/29/tabris-js-1-1-is-here/](http://eclipsesource.com/blogs/2015/07/29/tabris-js-1-1-is-here/) 
-  11. [http://cordova.apache.org/announcements/2015/08/04/cordova-ios-3.9.0.html](http://cordova.apache.org/announcements/2015/08/04/cordova-ios-3.9.0.html) 
-  12. [https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/) 
-  13. [http://blogs.msdn.com/b/visualstudio/archive/2015/07/29/targeting-windows-10-with-your-apache-cordova-app.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/07/29/targeting-windows-10-with-your-apache-cordova-app.aspx) 
-  14. [http://appindex.com/blog/monaca-launches-localkit-ready-for-local-mobile-app-development-using-cordova/](http://appindex.com/blog/monaca-launches-localkit-ready-for-local-mobile-app-development-using-cordova/) 
-  15. [https://github.com/mmacmillan/cordova-imaging](https://github.com/mmacmillan/cordova-imaging) 
-  16. [http://developer.telerik.com/featured/whats-wrong-with-the-web/](http://developer.telerik.com/featured/whats-wrong-with-the-web/) 
-  17. [http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron) 
-  18. [http://angular-meteor.com/tutorialIntro](http://angular-meteor.com/tutorialIntro) 
-  19. [http://www.toptal.com/developers](http://www.toptal.com/developers) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
