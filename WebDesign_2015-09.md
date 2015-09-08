@@ -1,6 +1,12 @@
-## Updated news for 2015-09-07 
+## Updated news for 2015-09-08 
 
 ==========
+## Web Design Weekly #202
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CUSv9UzdUEs/
+
+==========
+
+====
 ## Web Design Weekly #201
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/OVOqA32ZWKU/
 
@@ -51,12 +57,6 @@
 ====
 ## Creating Better CSS
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CMlZ9V2xvvk/
-
-==========
-
-====
-## Web Design Weekly #195
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/XIVk8bk2S2Y/
 
 ==========
 
