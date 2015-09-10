@@ -1,6 +1,32 @@
-## Updated news for 2015-09-09 
+## Updated news for 2015-09-10 
 
 ==========
+## This Week in Mobile Web Development (#73)
+#### http://mobilewebweekly.co/issues/73
+
+==========
+  1. [http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/](http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/) 
+  2. [https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/](https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/) 
+  3. [https://bloggeek.me/webrtc-plugin-free-world-is-almost-here-apple-and-microsoft-joining-the-crowd/](https://bloggeek.me/webrtc-plugin-free-world-is-almost-here-apple-and-microsoft-joining-the-crowd/) 
+  4. [https://attendee.gotowebinar.com/register/2572929046223111426](https://attendee.gotowebinar.com/register/2572929046223111426) 
+  7. [https://jakearchibald.com/2015/anatomy-of-responsive-images/](https://jakearchibald.com/2015/anatomy-of-responsive-images/) 
+  8. [http://www.schibsted.pl/2015/08/how-this-team-made-mobile-pages-for-2-million-norwegians-six-times-faster/](http://www.schibsted.pl/2015/08/how-this-team-made-mobile-pages-for-2-million-norwegians-six-times-faster/) 
+  9. [http://phonegap.com/blog/2015/09/08/phonegap-day-us-2016-save-the-date/](http://phonegap.com/blog/2015/09/08/phonegap-day-us-2016-save-the-date/) 
+  10. [https://gigaom.com/2015/09/03/googles-ad-penalties-are-more-significant-than-apples-ad-blocker/](https://gigaom.com/2015/09/03/googles-ad-penalties-are-more-significant-than-apples-ad-blocker/) 
+  11. [http://www.sitepoint.com/designing-web-code-native-app/](http://www.sitepoint.com/designing-web-code-native-app/) 
+  12. [http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html](http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html) 
+  13. [http://www.soasta.com/blog/mobile-web-performance-monitoring-conversion-rate/](http://www.soasta.com/blog/mobile-web-performance-monitoring-conversion-rate/) 
+  14. [http://blog.html5test.com/2015/08/the-problems-with-feature-detection/](http://blog.html5test.com/2015/08/the-problems-with-feature-detection/) 
+  15. [https://shazronatadobe.wordpress.com/2015/09/09/apache-cordova-ios-4-0-0-and-wkwebview-support/](https://shazronatadobe.wordpress.com/2015/09/09/apache-cordova-ios-4-0-0-and-wkwebview-support/) 
+  16. [https://hired.com/](https://hired.com/) 
+  18. [http://recode.net/2015/09/02/mobile-apps-have-a-short-half-life-use-falls-sharply-after-first-six-months/](http://recode.net/2015/09/02/mobile-apps-have-a-short-half-life-use-falls-sharply-after-first-six-months/) 
+  19. [https://deliciousbrains.com/creating-mobile-app-wp-api-react-native/](https://deliciousbrains.com/creating-mobile-app-wp-api-react-native/) 
+  20. [https://github.com/OfficeDev/Office-UI-Fabric](https://github.com/OfficeDev/Office-UI-Fabric) 
+  21. [http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/](http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#72)
 #### http://mobilewebweekly.co/issues/72
 
@@ -72,31 +98,5 @@
   20. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#69)
-#### http://mobilewebweekly.co/issues/69
-
-==========
-  1. [http://www.marianoviola.com/blog/mobile-web-isnt-broken-yet](http://www.marianoviola.com/blog/mobile-web-isnt-broken-yet) 
-  2. [http://www.nngroup.com/articles/mobile-input-checklist/](http://www.nngroup.com/articles/mobile-input-checklist/) 
-  3. [https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app) 
-  4. [http://deep.design/the-hamburger-menu/](http://deep.design/the-hamburger-menu/) 
-  5. [https://www.thinkful.com/a/dlp/learn-blue/base/UXD-001](https://www.thinkful.com/a/dlp/learn-blue/base/UXD-001) 
-  7. [http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128) 
-  8. [http://developer.telerik.com/featured/the-future-of-beacons-and-mobile/](http://developer.telerik.com/featured/the-future-of-beacons-and-mobile/) 
-  9. [http://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova](http://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova) 
-  10. [http://phonegap.com/blog/2015/08/03/mobile-choices-part2/](http://phonegap.com/blog/2015/08/03/mobile-choices-part2/) 
-  11. [https://blog.nraboy.com/2015/08/using-charts-in-your-ionic-framework-mobile-app/](https://blog.nraboy.com/2015/08/using-charts-in-your-ionic-framework-mobile-app/) 
-  12. [http://phonegap.com/blog/2015/08/07/uxcam-guest-post/](http://phonegap.com/blog/2015/08/07/uxcam-guest-post/) 
-  13. [https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1) 
-  14. [https://github.com/juarezpaf/ionic-adventures](https://github.com/juarezpaf/ionic-adventures) 
-  15. [http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-2/](http://gonehybrid.com/how-to-write-automated-tests-for-your-ionic-app-part-2/) 
-  16. [http://www.adobe.com/news-room/pressreleases/201508/080615AdobeMagicQuadrantMobileApplicationDevelopment.html](http://www.adobe.com/news-room/pressreleases/201508/080615AdobeMagicQuadrantMobileApplicationDevelopment.html) 
-  17. [http://timo-ernst.net/blog/2015/08/07/why-i-am-still-in-love-with-framework7/](http://timo-ernst.net/blog/2015/08/07/why-i-am-still-in-love-with-framework7/) 
-  18. [http://www.raymondcamden.com/2015/07/30/cordovaionic-sample-app-my-sound-board](http://www.raymondcamden.com/2015/07/30/cordovaionic-sample-app-my-sound-board) 
-  19. [http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/](http://onsen.io/blog/charts-angularjs-hybrid-app-nvd3/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
