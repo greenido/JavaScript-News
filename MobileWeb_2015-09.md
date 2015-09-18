@@ -1,6 +1,30 @@
-## Updated news for 2015-09-17 
+## Updated news for 2015-09-18 
 
 ==========
+## This Week in Mobile Web Development (#74)
+#### http://mobilewebweekly.co/issues/74
+
+==========
+  1. [http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/](http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/) 
+  2. [http://techcrunch.com/2015/09/14/facechrome/](http://techcrunch.com/2015/09/14/facechrome/) 
+  3. [https://www.ingeniumweb.com/blog/post/ionic-vs-f7-vs-famous-vs-onsenui-taking-a-walk-through-the-key-differences/2401/](https://www.ingeniumweb.com/blog/post/ionic-vs-f7-vs-famous-vs-onsenui-taking-a-walk-through-the-key-differences/2401/) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [https://blog.nraboy.com/2015/09/support-ibeacons-in-your-ionic-framework-mobile-app/](https://blog.nraboy.com/2015/09/support-ibeacons-in-your-ionic-framework-mobile-app/) 
+  7. [http://blog.ionic.io/announcing-ionic-lab-for-windows/](http://blog.ionic.io/announcing-ionic-lab-for-windows/) 
+  8. [http://www.broken-links.com/2015/09/14/innovation-in-mobile-browsers-and-the-iphone/](http://www.broken-links.com/2015/09/14/innovation-in-mobile-browsers-and-the-iphone/) 
+  9. [http://venturebeat.com/2015/09/08/100b-mobile-opportunity-mobile-enterprise-and-enabler-apps-growing-fast/](http://venturebeat.com/2015/09/08/100b-mobile-opportunity-mobile-enterprise-and-enabler-apps-growing-fast/) 
+  10. [http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet](http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet) 
+  11. [http://www.sitepoint.com/5-responsive-design-pitfalls-and-how-to-avoid-them/](http://www.sitepoint.com/5-responsive-design-pitfalls-and-how-to-avoid-them/) 
+  12. [http://www.nytimes.com/2015/09/12/technology/google-twitter-and-publishers-seek-faster-web.html](http://www.nytimes.com/2015/09/12/technology/google-twitter-and-publishers-seek-faster-web.html) 
+  13. [http://devblog.blackberry.com/2015/09/cordova-5-x-for-blackberry-10/](http://devblog.blackberry.com/2015/09/cordova-5-x-for-blackberry-10/) 
+  14. [http://www.sitepoint.com/scanning-qr-code-cordova/](http://www.sitepoint.com/scanning-qr-code-cordova/) 
+  15. [https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0](https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0) 
+  16. [http://julienrenaux.fr/2015/09/04/wordpress-hybrid-client-v1-5-x/](http://julienrenaux.fr/2015/09/04/wordpress-hybrid-client-v1-5-x/) 
+  17. [https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829](https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829) 
+  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#73)
 #### http://mobilewebweekly.co/issues/73
 
@@ -72,31 +96,5 @@
   17. [https://hired.com/](https://hired.com/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#70)
-#### http://mobilewebweekly.co/issues/70
-
-==========
-  1. [http://www.sitepoint.com/how-to-run-node-js-with-express-on-mobile-devices/](http://www.sitepoint.com/how-to-run-node-js-with-express-on-mobile-devices/) 
-  2. [http://www.sitepoint.com/using-healthkit-with-a-cordova-app/](http://www.sitepoint.com/using-healthkit-with-a-cordova-app/) 
-  3. [https://play.google.com/store/apps/details](https://play.google.com/store/apps/details) 
-  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
-  7. [http://demosthenes.info/blog/1059/Responsive-Image-Hinting-Using-the-w-Descriptor](http://demosthenes.info/blog/1059/Responsive-Image-Hinting-Using-the-w-Descriptor) 
-  8. [http://www.haykranen.nl/2015/08/09/tackling-video-and-audio-on-the-mobile-web/](http://www.haykranen.nl/2015/08/09/tackling-video-and-audio-on-the-mobile-web/) 
-  9. [http://phonegap.com/blog/2015/08/18/adding-analytics-to-your-phonegap-app/](http://phonegap.com/blog/2015/08/18/adding-analytics-to-your-phonegap-app/) 
-  10. [http://www.tonyhaile.com/2015/08/11/a-correction-around-the-death-of-the-mobile-web/](http://www.tonyhaile.com/2015/08/11/a-correction-around-the-death-of-the-mobile-web/) 
-  11. [http://developer.telerik.com/featured/here-are-the-reasons-i-deleted-your-mobile-app/](http://developer.telerik.com/featured/here-are-the-reasons-i-deleted-your-mobile-app/) 
-  12. [http://lucidlemon.github.io/paradeiser/](http://lucidlemon.github.io/paradeiser/) 
-  13. [http://www.quirksmode.org/blog/archives/2015/08/stop_pushing_re.html](http://www.quirksmode.org/blog/archives/2015/08/stop_pushing_re.html) 
-  14. [http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/](http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/) 
-  15. [http://tombuyse.com/improving-the-performance-of-your-ionic-application/](http://tombuyse.com/improving-the-performance-of-your-ionic-application/) 
-  16. [http://www.raymondcamden.com/2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1](http://www.raymondcamden.com/2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1) 
-  17. [https://medium.com/@pinkyBrayne/offline-apps-using-ionic-framework-pouchdb-and-angularjs-44070fe39cc0](https://medium.com/@pinkyBrayne/offline-apps-using-ionic-framework-pouchdb-and-angularjs-44070fe39cc0) 
-  18. [http://www.gajotres.net/whats-the-difference-between-cordova-and-ionic-ready-state/](http://www.gajotres.net/whats-the-difference-between-cordova-and-ionic-ready-state/) 
-  19. [http://www.phonegaptips.com/](http://www.phonegaptips.com/) 
-  20. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
