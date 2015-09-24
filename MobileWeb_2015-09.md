@@ -1,30 +1,33 @@
-## Updated news for 2015-09-23 
+## Updated news for 2015-09-24 
 
 ==========
 ## This Week in Mobile Web Development (#75)
 #### http://mobilewebweekly.co/issues/75
 
 ==========
-  1. [http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/](http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/) 
+  1. [https://css-tricks.com/discussion-around-ad-blocking/](https://css-tricks.com/discussion-around-ad-blocking/) 
   2. [https://github.com/asvd/viewport](https://github.com/asvd/viewport) 
-  3. [http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9](http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9) 
-  4. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
-  6. [https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller) 
-  7. [http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/](http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/) 
-  8. [http://techcrunch.com/2015/09/14/facechrome/](http://techcrunch.com/2015/09/14/facechrome/) 
-  9. [http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/](http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/) 
-  10. [http://davidwalsh.name/creating-animated-product-slider-sequencejs](http://davidwalsh.name/creating-animated-product-slider-sequencejs) 
-  11. [https://code.facebook.com/posts/1189117404435352/](https://code.facebook.com/posts/1189117404435352/) 
-  12. [http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/](http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/) 
-  13. [http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/](http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/) 
-  14. [http://onsen.io/blog/material-design-onsen-ui/](http://onsen.io/blog/material-design-onsen-ui/) 
-  15. [http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848](http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848) 
-  16. [http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html](http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html) 
-  17. [http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs](http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs) 
-  18. [http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/](http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/) 
-  19. [http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+  3. [http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web](http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web) 
+  4. [http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/](http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/) 
+  5. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
+  7. [https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller) 
+  8. [http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/](http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/) 
+  9. [http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9](http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9) 
+  10. [http://techcrunch.com/2015/09/14/facechrome/](http://techcrunch.com/2015/09/14/facechrome/) 
+  11. [http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/](http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/) 
+  12. [http://davidwalsh.name/creating-animated-product-slider-sequencejs](http://davidwalsh.name/creating-animated-product-slider-sequencejs) 
+  13. [https://code.facebook.com/posts/1189117404435352/](https://code.facebook.com/posts/1189117404435352/) 
+  14. [http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/](http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/) 
+  15. [https://paul.kinlan.me/future-of-web-on-mobile-coldfront-conf/](https://paul.kinlan.me/future-of-web-on-mobile-coldfront-conf/) 
+  16. [http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/](http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/) 
+  17. [http://onsen.io/blog/material-design-onsen-ui/](http://onsen.io/blog/material-design-onsen-ui/) 
+  18. [http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848](http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848) 
+  19. [http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html](http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html) 
+  20. [http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs](http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs) 
+  21. [http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/](http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/) 
+  22. [http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
 ## This Week in Mobile Web Development (#74)
