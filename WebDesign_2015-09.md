@@ -1,6 +1,12 @@
-## Updated news for 2015-09-28 
+## Updated news for 2015-09-29 
 
 ==========
+## Web Design Weekly #205
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/ZNvZRKN4pVM/
+
+==========
+
+====
 ## Web Design Weekly #204
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/mJA0YulNYAk/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #197
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/N36V-782g3E/
-
-==========
-
-====
-## The Battle Royale: Atom vs. Sublime
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/3eLj6INcey0/
 
 ==========
 
