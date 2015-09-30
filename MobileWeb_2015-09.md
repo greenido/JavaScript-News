@@ -1,6 +1,34 @@
 ## Updated news for 2015-09-30 
 
 ==========
+## This Week in Mobile Web Development (#76)
+#### http://mobilewebweekly.co/issues/76
+
+==========
+  1. [http://www.creativebloq.com/web-design/how-make-web-forms-work-better-mobile-91517001](http://www.creativebloq.com/web-design/how-make-web-forms-work-better-mobile-91517001) 
+  2. [http://avc.com/2015/09/mobile-web-is-top-of-funnel-mobile-app-is-bottom-of-funnel/](http://avc.com/2015/09/mobile-web-is-top-of-funnel-mobile-app-is-bottom-of-funnel/) 
+  3. [http://www.sitepoint.com/debug-webgl-html5-mobile-experiences-visual-studio-emulators/](http://www.sitepoint.com/debug-webgl-html5-mobile-experiences-visual-studio-emulators/) 
+  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
+  6. [https://responsivedesign.is/patterns](https://responsivedesign.is/patterns) 
+  7. [https://github.com/aaronksaunders/hu1/wiki](https://github.com/aaronksaunders/hu1/wiki) 
+  8. [http://mcgivery.com/hello-backend-your-second-ionic-framework-app/](http://mcgivery.com/hello-backend-your-second-ionic-framework-app/) 
+  9. [http://gonehybrid.com/how-to-use-lokijs-for-local-storage-in-your-ionic-app/](http://gonehybrid.com/how-to-use-lokijs-for-local-storage-in-your-ionic-app/) 
+  10. [http://pgday.phonegap.com/](http://pgday.phonegap.com/) 
+  11. [http://phonegap.com/blog/2015/09/28/android-using-gradle/](http://phonegap.com/blog/2015/09/28/android-using-gradle/) 
+  12. [http://codeplanet.io/what-i-learned-while-publishing-an-html5-mobile-app-part-15-development-and-debugging/](http://codeplanet.io/what-i-learned-while-publishing-an-html5-mobile-app-part-15-development-and-debugging/) 
+  13. [https://www.reddit.com/r/web_design/comments/3la04p/psa_safari_on_ios9_has_a_media_query_bug/](https://www.reddit.com/r/web_design/comments/3la04p/psa_safari_on_ios9_has_a_media_query_bug/) 
+  14. [http://www.quirksmode.org/blog/archives/2015/09/a_note_on_weird.html](http://www.quirksmode.org/blog/archives/2015/09/a_note_on_weird.html) 
+  15. [http://www.infoq.com/articles/latest-mobile-app-development-trends](http://www.infoq.com/articles/latest-mobile-app-development-trends) 
+  16. [http://onsen.io/blog/tutorial-create-instagram-gallery-app-with-onsenui-react/](http://onsen.io/blog/tutorial-create-instagram-gallery-app-with-onsenui-react/) 
+  17. [http://seesparkbox.com/foundry/beginners_guide_to_performant_design_decisions](http://seesparkbox.com/foundry/beginners_guide_to_performant_design_decisions) 
+  18. [http://www.raymondcamden.com/2015/09/18/integrating-the-calendar-into-your-ionic-app](http://www.raymondcamden.com/2015/09/18/integrating-the-calendar-into-your-ionic-app) 
+  19. [http://www.smashingmagazine.com/2015/09/rapid-app-development-buzzworthy-spelling-bee-app/](http://www.smashingmagazine.com/2015/09/rapid-app-development-buzzworthy-spelling-bee-app/) 
+  20. [http://www.raymondcamden.com/2015/09/22/another-cordova-mashup-pixelatize](http://www.raymondcamden.com/2015/09/22/another-cordova-mashup-pixelatize) 
+  21. [https://github.com/bjoerge/weigh](https://github.com/bjoerge/weigh) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#75)
 #### http://mobilewebweekly.co/issues/75
 
@@ -78,30 +106,5 @@
   21. [http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/](http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#72)
-#### http://mobilewebweekly.co/issues/72
-
-==========
-  1. [http://googlewebmastercentral.blogspot.de/2015/09/mobile-friendly-web-pages-using-app.html](http://googlewebmastercentral.blogspot.de/2015/09/mobile-friendly-web-pages-using-app.html) 
-  2. [http://blogs.intel.com/evangelists/2015/08/30/improving-android-4-x-performance-with-crosswalk/](http://blogs.intel.com/evangelists/2015/08/30/improving-android-4-x-performance-with-crosswalk/) 
-  3. [http://www.soasta.com/blog/23-stats-mobile-web-performance-monitoring/](http://www.soasta.com/blog/23-stats-mobile-web-performance-monitoring/) 
-  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
-  7. [http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/) 
-  8. [http://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/](http://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/) 
-  9. [https://sensortower.com/blog/how-to-write-compelling-push-notifications-to-increase-app-engagement-and-retention](https://sensortower.com/blog/how-to-write-compelling-push-notifications-to-increase-app-engagement-and-retention) 
-  10. [http://www.rootmetrics.com/us/blog/special-reports/2015-1h-national-us](http://www.rootmetrics.com/us/blog/special-reports/2015-1h-national-us) 
-  11. [http://www.gajotres.net/using-google-admob-in-your-android-ionic-application/](http://www.gajotres.net/using-google-admob-in-your-android-ionic-application/) 
-  12. [http://www.sitepoint.com/responsive-web-design-where-do-we-go-from-here/](http://www.sitepoint.com/responsive-web-design-where-do-we-go-from-here/) 
-  13. [http://cordova.apache.org/announcements/2015/08/18/cordova-windows-4.1.0.html](http://cordova.apache.org/announcements/2015/08/18/cordova-windows-4.1.0.html) 
-  14. [http://www.invisionapp.com/now](http://www.invisionapp.com/now) 
-  15. [https://github.com/jaing/react-page-transitions](https://github.com/jaing/react-page-transitions) 
-  16. [https://platypi.io/posts/platypi-takes-cross-platform-framework-open-source](https://platypi.io/posts/platypi-takes-cross-platform-framework-open-source) 
-  17. [http://market.ionic.io/starters/firebase-seed](http://market.ionic.io/starters/firebase-seed) 
-  18. [http://simonmacdonald.blogspot.com/2015/08/phonegap-plugin-push-version-120.html](http://simonmacdonald.blogspot.com/2015/08/phonegap-plugin-push-version-120.html) 
-  19. [http://www.oscon.com/open-source-eu-2015/](http://www.oscon.com/open-source-eu-2015/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
