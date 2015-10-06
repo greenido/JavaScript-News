@@ -1,4 +1,4 @@
-## Updated news for 2015-10-05 
+## Updated news for 2015-10-06 
 
 ==========
 ## Web Design Weekly #205
