@@ -1,6 +1,32 @@
 ## Updated news for 2015-10-07 
 
 ==========
+## This Week in Mobile Web Development (#77)
+#### http://mobilewebweekly.co/issues/77
+
+==========
+  1. [http://www.smashingmagazine.com/2015/10/takeaways-mobile-web-behavior/](http://www.smashingmagazine.com/2015/10/takeaways-mobile-web-behavior/) 
+  2. [http://blog.ionic.io/learning-ionic-in-your-living-room/](http://blog.ionic.io/learning-ionic-in-your-living-room/) 
+  3. [https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889](https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889) 
+  4. [http://www.telerik.com/platform](http://www.telerik.com/platform) 
+  6. [http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/](http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/) 
+  7. [http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) 
+  8. [http://www.sitepoint.com/coding-for-the-big-screen-with-the-apple-tvos-sdk/](http://www.sitepoint.com/coding-for-the-big-screen-with-the-apple-tvos-sdk/) 
+  9. [http://www.quirksmode.org/blog/archives/2015/09/a_new_device_ad.html](http://www.quirksmode.org/blog/archives/2015/09/a_new_device_ad.html) 
+  10. [http://alistapart.com/article/using-responsive-images-now](http://alistapart.com/article/using-responsive-images-now) 
+  11. [http://digitaldrummerj.me/Visual-Studio-2015-Cordova-Tools-And-Ionic-Framework/](http://digitaldrummerj.me/Visual-Studio-2015-Cordova-Tools-And-Ionic-Framework/) 
+  12. [https://18f.gsa.gov/2015/09/28/web-design-standards/](https://18f.gsa.gov/2015/09/28/web-design-standards/) 
+  13. [http://nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html](http://nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html) 
+  14. [http://www.slideshare.net/dougsillars/mobile-web-performance-using-webpagetest-and-httparchive](http://www.slideshare.net/dougsillars/mobile-web-performance-using-webpagetest-and-httparchive) 
+  15. [http://thaliproject.org/](http://thaliproject.org/) 
+  16. [http://www.raymondcamden.com/2015/09/30/ionic-1-6-5-and-updates-to-services](http://www.raymondcamden.com/2015/09/30/ionic-1-6-5-and-updates-to-services) 
+  17. [http://blog.scottlogic.com/2015/10/02/ionic-master-detail.html](http://blog.scottlogic.com/2015/10/02/ionic-master-detail.html) 
+  18. [https://gist.github.com/IgorMinar/863acd413e3925bf282c](https://gist.github.com/IgorMinar/863acd413e3925bf282c) 
+  19. [https://underdog.io/](https://underdog.io/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#76)
 #### http://mobilewebweekly.co/issues/76
 
@@ -80,31 +106,5 @@
   17. [https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829](https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829) 
   18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#73)
-#### http://mobilewebweekly.co/issues/73
-
-==========
-  1. [http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/](http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/) 
-  2. [https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/](https://www.nczonline.net/blog/2015/09/is-the-web-platform-getting-too-big/) 
-  3. [https://bloggeek.me/webrtc-plugin-free-world-is-almost-here-apple-and-microsoft-joining-the-crowd/](https://bloggeek.me/webrtc-plugin-free-world-is-almost-here-apple-and-microsoft-joining-the-crowd/) 
-  4. [https://attendee.gotowebinar.com/register/2572929046223111426](https://attendee.gotowebinar.com/register/2572929046223111426) 
-  7. [https://jakearchibald.com/2015/anatomy-of-responsive-images/](https://jakearchibald.com/2015/anatomy-of-responsive-images/) 
-  8. [http://www.schibsted.pl/2015/08/how-this-team-made-mobile-pages-for-2-million-norwegians-six-times-faster/](http://www.schibsted.pl/2015/08/how-this-team-made-mobile-pages-for-2-million-norwegians-six-times-faster/) 
-  9. [http://phonegap.com/blog/2015/09/08/phonegap-day-us-2016-save-the-date/](http://phonegap.com/blog/2015/09/08/phonegap-day-us-2016-save-the-date/) 
-  10. [https://gigaom.com/2015/09/03/googles-ad-penalties-are-more-significant-than-apples-ad-blocker/](https://gigaom.com/2015/09/03/googles-ad-penalties-are-more-significant-than-apples-ad-blocker/) 
-  11. [http://www.sitepoint.com/designing-web-code-native-app/](http://www.sitepoint.com/designing-web-code-native-app/) 
-  12. [http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html](http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html) 
-  13. [http://www.soasta.com/blog/mobile-web-performance-monitoring-conversion-rate/](http://www.soasta.com/blog/mobile-web-performance-monitoring-conversion-rate/) 
-  14. [http://blog.html5test.com/2015/08/the-problems-with-feature-detection/](http://blog.html5test.com/2015/08/the-problems-with-feature-detection/) 
-  15. [https://shazronatadobe.wordpress.com/2015/09/09/apache-cordova-ios-4-0-0-and-wkwebview-support/](https://shazronatadobe.wordpress.com/2015/09/09/apache-cordova-ios-4-0-0-and-wkwebview-support/) 
-  16. [https://hired.com/](https://hired.com/) 
-  18. [http://recode.net/2015/09/02/mobile-apps-have-a-short-half-life-use-falls-sharply-after-first-six-months/](http://recode.net/2015/09/02/mobile-apps-have-a-short-half-life-use-falls-sharply-after-first-six-months/) 
-  19. [https://deliciousbrains.com/creating-mobile-app-wp-api-react-native/](https://deliciousbrains.com/creating-mobile-app-wp-api-react-native/) 
-  20. [https://github.com/OfficeDev/Office-UI-Fabric](https://github.com/OfficeDev/Office-UI-Fabric) 
-  21. [http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/](http://phonegap.com/blog/2015/09/02/amazon-mobile-ad-network-plugin-for-phonegap/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
