@@ -1,6 +1,32 @@
-## Updated news for 2015-10-14 
+## Updated news for 2015-10-15 
 
 ==========
+## This Week in Mobile Web Development (#78)
+#### http://mobilewebweekly.co/issues/78
+
+==========
+  1. [https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) 
+  3. [http://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015](http://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) 
+  4. [http://corgibytes.com](http://corgibytes.com) 
+  6. [http://blog.ionic.io/mobile-just-changed-forever/](http://blog.ionic.io/mobile-just-changed-forever/) 
+  8. [https://joreteg.com/blog/viability-of-js-frameworks-on-mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile) 
+  9. [https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/) 
+  10. [http://deep.design/mobile-first/](http://deep.design/mobile-first/) 
+  11. [http://timkadlec.com/2015/10/amp-and-incentives/](http://timkadlec.com/2015/10/amp-and-incentives/) 
+  12. [http://developer.telerik.com/featured/the-ad-blockers-dilemma/](http://developer.telerik.com/featured/the-ad-blockers-dilemma/) 
+  13. [https://responsivedesign.is/articles/whats-the-deal-with-accelerated-mobile-pages-amp](https://responsivedesign.is/articles/whats-the-deal-with-accelerated-mobile-pages-amp) 
+  14. [http://www.bbc.co.uk/news/technology-33639439](http://www.bbc.co.uk/news/technology-33639439) 
+  15. [http://mcgivery.com/hello-modules-your-third-ionic-framework-app/](http://mcgivery.com/hello-modules-your-third-ionic-framework-app/) 
+  16. [http://plugins.telerik.com/cordova/plugin/mapbox](http://plugins.telerik.com/cordova/plugin/mapbox) 
+  17. [http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/](http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/) 
+  18. [http://timo-ernst.net/blog/2015/10/05/how-to-scroll-up-by-tapping-status-bar-in-cordovaphonegap-apps-on-ios-with-webkit-overflow-scrollingtouch/](http://timo-ernst.net/blog/2015/10/05/how-to-scroll-up-by-tapping-status-bar-in-cordovaphonegap-apps-on-ios-with-webkit-overflow-scrollingtouch/) 
+  19. [http://gridle.org/](http://gridle.org/) 
+  20. [http://www.reactnative.com/cordova-plugin-adapter-for-react-native/](http://www.reactnative.com/cordova-plugin-adapter-for-react-native/) 
+  21. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#77)
 #### http://mobilewebweekly.co/issues/77
 
@@ -82,29 +108,5 @@
   22. [http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#74)
-#### http://mobilewebweekly.co/issues/74
-
-==========
-  1. [http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/](http://developer.telerik.com/featured/7-steps-to-building-a-hybrid-apple-watch-app/) 
-  2. [http://techcrunch.com/2015/09/14/facechrome/](http://techcrunch.com/2015/09/14/facechrome/) 
-  3. [https://www.ingeniumweb.com/blog/post/ionic-vs-f7-vs-famous-vs-onsenui-taking-a-walk-through-the-key-differences/2401/](https://www.ingeniumweb.com/blog/post/ionic-vs-f7-vs-famous-vs-onsenui-taking-a-walk-through-the-key-differences/2401/) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://blog.nraboy.com/2015/09/support-ibeacons-in-your-ionic-framework-mobile-app/](https://blog.nraboy.com/2015/09/support-ibeacons-in-your-ionic-framework-mobile-app/) 
-  7. [http://blog.ionic.io/announcing-ionic-lab-for-windows/](http://blog.ionic.io/announcing-ionic-lab-for-windows/) 
-  8. [http://www.broken-links.com/2015/09/14/innovation-in-mobile-browsers-and-the-iphone/](http://www.broken-links.com/2015/09/14/innovation-in-mobile-browsers-and-the-iphone/) 
-  9. [http://venturebeat.com/2015/09/08/100b-mobile-opportunity-mobile-enterprise-and-enabler-apps-growing-fast/](http://venturebeat.com/2015/09/08/100b-mobile-opportunity-mobile-enterprise-and-enabler-apps-growing-fast/) 
-  10. [http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet](http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet) 
-  11. [http://www.sitepoint.com/5-responsive-design-pitfalls-and-how-to-avoid-them/](http://www.sitepoint.com/5-responsive-design-pitfalls-and-how-to-avoid-them/) 
-  12. [http://www.nytimes.com/2015/09/12/technology/google-twitter-and-publishers-seek-faster-web.html](http://www.nytimes.com/2015/09/12/technology/google-twitter-and-publishers-seek-faster-web.html) 
-  13. [http://devblog.blackberry.com/2015/09/cordova-5-x-for-blackberry-10/](http://devblog.blackberry.com/2015/09/cordova-5-x-for-blackberry-10/) 
-  14. [http://www.sitepoint.com/scanning-qr-code-cordova/](http://www.sitepoint.com/scanning-qr-code-cordova/) 
-  15. [https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0](https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0) 
-  16. [http://julienrenaux.fr/2015/09/04/wordpress-hybrid-client-v1-5-x/](http://julienrenaux.fr/2015/09/04/wordpress-hybrid-client-v1-5-x/) 
-  17. [https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829](https://medium.com/@grigs/on-the-device-context-continuum-515d95ef8829) 
-  18. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  19. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
