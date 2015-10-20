@@ -1,6 +1,12 @@
-## Updated news for 2015-10-19 
+## Updated news for 2015-10-20 
 
 ==========
+## Web Design Weekly #208
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/W-K0_Gr3hYE/
+
+==========
+
+====
 ## Web Design Weekly #207
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/mEG9kUZW6T4/
 
@@ -51,12 +57,6 @@
 ====
 ## WOW! Bringing you the 200th issue!
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/xXDLRaMsH3k/
-
-==========
-
-====
-## Web Design Weekly #199
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/GKnKdS1WSJk/
 
 ==========
 
