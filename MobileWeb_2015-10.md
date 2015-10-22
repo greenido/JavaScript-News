@@ -1,6 +1,31 @@
-## Updated news for 2015-10-21 
+## Updated news for 2015-10-22 
 
 ==========
+## This Week in Mobile Web Development (#79)
+#### http://mobilewebweekly.co/issues/79
+
+==========
+  1. [http://tutorialzine.com/2015/10/comparing-the-top-frameworks-for-building-hybrid-mobile-apps/](http://tutorialzine.com/2015/10/comparing-the-top-frameworks-for-building-hybrid-mobile-apps/) 
+  2. [http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline) 
+  3. [https://joreteg.com/blog/viability-of-js-frameworks-on-mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile) 
+  4. [http://rangle.io/sprout](http://rangle.io/sprout) 
+  6. [http://www.idangero.us/template7/](http://www.idangero.us/template7/) 
+  7. [https://60devs.com/using-content-security-policy.html](https://60devs.com/using-content-security-policy.html) 
+  8. [https://blog.mozilla.org/blog/2015/10/12/mozilla-gsma-publish-study-on-mobile-opportunity-in-emerging-markets/](https://blog.mozilla.org/blog/2015/10/12/mozilla-gsma-publish-study-on-mobile-opportunity-in-emerging-markets/) 
+  9. [http://developer.telerik.com/featured/using-npm-modules-in-nativescript-mobile-apps/](http://developer.telerik.com/featured/using-npm-modules-in-nativescript-mobile-apps/) 
+  10. [http://readwrite.com/2015/10/15/web-vs-native-vr-virtual-reality](http://readwrite.com/2015/10/15/web-vs-native-vr-virtual-reality) 
+  11. [https://blog.nraboy.com/2015/10/debugging-your-apache-cordova-ios-app-with-safari/](https://blog.nraboy.com/2015/10/debugging-your-apache-cordova-ios-app-with-safari/) 
+  12. [http://marketingland.com/four-reasons-mobile-web-will-force-us-become-better-content-marketers-145870](http://marketingland.com/four-reasons-mobile-web-will-force-us-become-better-content-marketers-145870) 
+  13. [http://www.raymondcamden.com/2015/10/13/important-note-for-targeting-ios-emulators-in-cordova](http://www.raymondcamden.com/2015/10/13/important-note-for-targeting-ios-emulators-in-cordova) 
+  14. [http://andydavies.me/blog/2015/10/13/accelerated-mobile-pages-ive-more-questions-than-answers/](http://andydavies.me/blog/2015/10/13/accelerated-mobile-pages-ive-more-questions-than-answers/) 
+  15. [https://adactio.com/journal/9646](https://adactio.com/journal/9646) 
+  16. [http://blogs.msdn.com/b/writingdata_services/archive/2015/10/16/making-sense-of-cordova-push-notification-options-and-apis.aspx](http://blogs.msdn.com/b/writingdata_services/archive/2015/10/16/making-sense-of-cordova-push-notification-options-and-apis.aspx) 
+  17. [https://github.com/driftyco/ionic-conference-app](https://github.com/driftyco/ionic-conference-app) 
+  18. [http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html](http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#78)
 #### http://mobilewebweekly.co/issues/78
 
@@ -79,34 +104,5 @@
   21. [https://github.com/bjoerge/weigh](https://github.com/bjoerge/weigh) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#75)
-#### http://mobilewebweekly.co/issues/75
-
-==========
-  1. [https://css-tricks.com/discussion-around-ad-blocking/](https://css-tricks.com/discussion-around-ad-blocking/) 
-  2. [https://github.com/asvd/viewport](https://github.com/asvd/viewport) 
-  3. [http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web](http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web) 
-  4. [http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/](http://digiday.com/publishers/mobile-web-another-nail-serifs-coffin/) 
-  5. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
-  7. [https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller) 
-  8. [http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/](http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/) 
-  9. [http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9](http://www.businessinsider.com/time-spent-mobile-browsing-vs-apps-2015-9) 
-  10. [http://techcrunch.com/2015/09/14/facechrome/](http://techcrunch.com/2015/09/14/facechrome/) 
-  11. [http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/](http://www.joshmorony.com/8-reasons-why-im-glad-i-switched-to-the-ionic-framework/) 
-  12. [http://davidwalsh.name/creating-animated-product-slider-sequencejs](http://davidwalsh.name/creating-animated-product-slider-sequencejs) 
-  13. [https://code.facebook.com/posts/1189117404435352/](https://code.facebook.com/posts/1189117404435352/) 
-  14. [http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/](http://devgirl.org/2015/09/22/sample-phonegap-app-with-reactjs/) 
-  15. [https://paul.kinlan.me/future-of-web-on-mobile-coldfront-conf/](https://paul.kinlan.me/future-of-web-on-mobile-coldfront-conf/) 
-  16. [http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/](http://blog.tylerbuchea.com/ios9-and-ionic-build-warnings/) 
-  17. [http://onsen.io/blog/material-design-onsen-ui/](http://onsen.io/blog/material-design-onsen-ui/) 
-  18. [http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848](http://www.creativebloq.com/app-design/star-trek-game-showcases-code-free-app-maker-91516848) 
-  19. [http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html](http://simonmacdonald.blogspot.com/2015/09/phonegap-plugin-push-version-130-has.html) 
-  20. [http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs](http://www.slideshare.net/AlexBlom/web-unleashed-toronto-2015-hybrid-mobile-apps-with-emberjs) 
-  21. [http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/](http://www.designlimbo.com/ios-9-ionic-cordova-angular-10-digest-iterations-reached/) 
-  22. [http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
