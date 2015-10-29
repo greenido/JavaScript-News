@@ -1,6 +1,28 @@
-## Updated news for 2015-10-28 
+## Updated news for 2015-10-29 
 
 ==========
+## This Week in Mobile Web Development (#80)
+#### http://mobilewebweekly.co/issues/80
+
+==========
+  1. [http://www.creativebloq.com/web-design/why-web-browser-here-stay-101517424](http://www.creativebloq.com/web-design/why-web-browser-here-stay-101517424) 
+  2. [http://thenextweb.com/dd/2015/10/15/how-to-create-the-perfect-responsive-design/](http://thenextweb.com/dd/2015/10/15/how-to-create-the-perfect-responsive-design/) 
+  3. [http://tympanus.net/codrops/2015/10/23/mobile-pull-to-share-interaction-experiment/](http://tympanus.net/codrops/2015/10/23/mobile-pull-to-share-interaction-experiment/) 
+  4. [https://www.rason.com/](https://www.rason.com/) 
+  6. [http://www.nytimes.com/2015/10/19/technology/publishers-straddle-the-apple-google-app-web-divide.html](http://www.nytimes.com/2015/10/19/technology/publishers-straddle-the-apple-google-app-web-divide.html) 
+  7. [http://www.enterpriseappstoday.com/management-software/user-first-not-mobile-first-key-to-app-dev.html](http://www.enterpriseappstoday.com/management-software/user-first-not-mobile-first-key-to-app-dev.html) 
+  8. [http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/](http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/) 
+  9. [http://microsoft.github.io/code-push/](http://microsoft.github.io/code-push/) 
+  10. [http://blog.invisionapp.com/ux-design-tips-for-your-app/](http://blog.invisionapp.com/ux-design-tips-for-your-app/) 
+  11. [https://codelympics.io/projects/3](https://codelympics.io/projects/3) 
+  12. [http://blog.npmjs.org/post/131244760570/guest-post-build-for-devices](http://blog.npmjs.org/post/131244760570/guest-post-build-for-devices) 
+  13. [http://www.raymondcamden.com/2015/10/22/quick-tip-for-cordova-and-the-browser-platform](http://www.raymondcamden.com/2015/10/22/quick-tip-for-cordova-and-the-browser-platform) 
+  14. [http://coenraets.org/blog/2015/10/sample-application-with-ionic-2/](http://coenraets.org/blog/2015/10/sample-application-with-ionic-2/) 
+  15. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#79)
 #### http://mobilewebweekly.co/issues/79
 
@@ -76,33 +98,5 @@
   19. [https://underdog.io/](https://underdog.io/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#76)
-#### http://mobilewebweekly.co/issues/76
-
-==========
-  1. [http://www.creativebloq.com/web-design/how-make-web-forms-work-better-mobile-91517001](http://www.creativebloq.com/web-design/how-make-web-forms-work-better-mobile-91517001) 
-  2. [http://avc.com/2015/09/mobile-web-is-top-of-funnel-mobile-app-is-bottom-of-funnel/](http://avc.com/2015/09/mobile-web-is-top-of-funnel-mobile-app-is-bottom-of-funnel/) 
-  3. [http://www.sitepoint.com/debug-webgl-html5-mobile-experiences-visual-studio-emulators/](http://www.sitepoint.com/debug-webgl-html5-mobile-experiences-visual-studio-emulators/) 
-  4. [https://tabrisjs.com/](https://tabrisjs.com/) 
-  6. [https://responsivedesign.is/patterns](https://responsivedesign.is/patterns) 
-  7. [https://github.com/aaronksaunders/hu1/wiki](https://github.com/aaronksaunders/hu1/wiki) 
-  8. [http://mcgivery.com/hello-backend-your-second-ionic-framework-app/](http://mcgivery.com/hello-backend-your-second-ionic-framework-app/) 
-  9. [http://gonehybrid.com/how-to-use-lokijs-for-local-storage-in-your-ionic-app/](http://gonehybrid.com/how-to-use-lokijs-for-local-storage-in-your-ionic-app/) 
-  10. [http://pgday.phonegap.com/](http://pgday.phonegap.com/) 
-  11. [http://phonegap.com/blog/2015/09/28/android-using-gradle/](http://phonegap.com/blog/2015/09/28/android-using-gradle/) 
-  12. [http://codeplanet.io/what-i-learned-while-publishing-an-html5-mobile-app-part-15-development-and-debugging/](http://codeplanet.io/what-i-learned-while-publishing-an-html5-mobile-app-part-15-development-and-debugging/) 
-  13. [https://www.reddit.com/r/web_design/comments/3la04p/psa_safari_on_ios9_has_a_media_query_bug/](https://www.reddit.com/r/web_design/comments/3la04p/psa_safari_on_ios9_has_a_media_query_bug/) 
-  14. [http://www.quirksmode.org/blog/archives/2015/09/a_note_on_weird.html](http://www.quirksmode.org/blog/archives/2015/09/a_note_on_weird.html) 
-  15. [http://www.infoq.com/articles/latest-mobile-app-development-trends](http://www.infoq.com/articles/latest-mobile-app-development-trends) 
-  16. [http://onsen.io/blog/tutorial-create-instagram-gallery-app-with-onsenui-react/](http://onsen.io/blog/tutorial-create-instagram-gallery-app-with-onsenui-react/) 
-  17. [http://seesparkbox.com/foundry/beginners_guide_to_performant_design_decisions](http://seesparkbox.com/foundry/beginners_guide_to_performant_design_decisions) 
-  18. [http://www.raymondcamden.com/2015/09/18/integrating-the-calendar-into-your-ionic-app](http://www.raymondcamden.com/2015/09/18/integrating-the-calendar-into-your-ionic-app) 
-  19. [http://www.smashingmagazine.com/2015/09/rapid-app-development-buzzworthy-spelling-bee-app/](http://www.smashingmagazine.com/2015/09/rapid-app-development-buzzworthy-spelling-bee-app/) 
-  20. [http://www.raymondcamden.com/2015/09/22/another-cordova-mashup-pixelatize](http://www.raymondcamden.com/2015/09/22/another-cordova-mashup-pixelatize) 
-  21. [https://github.com/bjoerge/weigh](https://github.com/bjoerge/weigh) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
