@@ -1,6 +1,12 @@
-## Updated news for 2015-11-04 
+## Updated news for 2015-11-05 
 
 ==========
+## Potentially the Best File on the Internet for Web Developers
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/_1P9T4WkGCk/
+
+==========
+
+====
 ## Web Design Weekly #210
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/WlmE19KkwPg/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #202
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CUSv9UzdUEs/
-
-==========
-
-====
-## Web Design Weekly #201
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/OVOqA32ZWKU/
 
 ==========
 

@@ -1,6 +1,35 @@
-## Updated news for 2015-11-04 
+## Updated news for 2015-11-05 
 
 ==========
+## This Week in Mobile Web Development (#81)
+#### http://mobilewebweekly.co/issues/81
+
+==========
+  1. [https://medium.com/imgur-engineering/architecting-the-new-imgur-mobile-web-e0459da5a854](https://medium.com/imgur-engineering/architecting-the-new-imgur-mobile-web-e0459da5a854) 
+  2. [http://inders.in/blog/2015/10/28/introduction-to-ionic-2/](http://inders.in/blog/2015/10/28/introduction-to-ionic-2/) 
+  3. [http://www.webperformancetoday.com/2015/11/02/when-research-findings-challenge-our-conventions/](http://www.webperformancetoday.com/2015/11/02/when-research-findings-challenge-our-conventions/) 
+  4. [https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security/](https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security/) 
+  6. [http://mashable.com/2015/11/02/mozilla-firefox-ios-app/](http://mashable.com/2015/11/02/mozilla-firefox-ios-app/) 
+  7. [http://www.networkworld.com/article/2999510/mobile-apps/apperyio-aims-to-end-the-html5-vs-native-debate.html](http://www.networkworld.com/article/2999510/mobile-apps/apperyio-aims-to-end-the-html5-vs-native-debate.html) 
+  8. [http://alistapart.com/article/how-we-hold-our-gadgets](http://alistapart.com/article/how-we-hold-our-gadgets) 
+  9. [https://github.com/eleung/touchstone-navigator](https://github.com/eleung/touchstone-navigator) 
+  10. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
+  12. [http://cordova.apache.org/announcements/2015/11/02/cordova-ios-3-9-2.html](http://cordova.apache.org/announcements/2015/11/02/cordova-ios-3-9-2.html) 
+  13. [http://blog.katworksgames.com/2015/10/24/measuring-the-mobile-experience/](http://blog.katworksgames.com/2015/10/24/measuring-the-mobile-experience/) 
+  14. [http://www.ionicbundle.com/](http://www.ionicbundle.com/) 
+  15. [http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) 
+  16. [http://designmodo.com/mobile-design-trends-2016/](http://designmodo.com/mobile-design-trends-2016/) 
+  17. [http://readwrite.com/2015/10/29/android-apps-timed-publishing](http://readwrite.com/2015/10/29/android-apps-timed-publishing) 
+  18. [http://ruoyusun.com/2015/11/01/things-i-wish-i-were-told-about-react-native.html](http://ruoyusun.com/2015/11/01/things-i-wish-i-were-told-about-react-native.html) 
+  19. [https://github.com/valnub/Framework7-Pure-Angular-Template](https://github.com/valnub/Framework7-Pure-Angular-Template) 
+  20. [http://developer.telerik.com/products/theres-a-cordova-plugin-for-that-session-recording/](http://developer.telerik.com/products/theres-a-cordova-plugin-for-that-session-recording/) 
+  21. [http://onsen.io/blog/make-facebook-hybrid-mobile-app-with-monaca/](http://onsen.io/blog/make-facebook-hybrid-mobile-app-with-monaca/) 
+  22. [http://blogs.msdn.com/b/visualstudio/archive/2015/11/02/apache-cordova-face-to-face-meeting-fall-2015.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/11/02/apache-cordova-face-to-face-meeting-fall-2015.aspx) 
+  23. [https://hired.com/](https://hired.com/) 
+  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#80)
 #### http://mobilewebweekly.co/issues/80
 
@@ -72,31 +101,5 @@
   21. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#77)
-#### http://mobilewebweekly.co/issues/77
-
-==========
-  1. [http://www.smashingmagazine.com/2015/10/takeaways-mobile-web-behavior/](http://www.smashingmagazine.com/2015/10/takeaways-mobile-web-behavior/) 
-  2. [http://blog.ionic.io/learning-ionic-in-your-living-room/](http://blog.ionic.io/learning-ionic-in-your-living-room/) 
-  3. [https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889](https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889) 
-  4. [http://www.telerik.com/platform](http://www.telerik.com/platform) 
-  6. [http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/](http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/) 
-  7. [http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) 
-  8. [http://www.sitepoint.com/coding-for-the-big-screen-with-the-apple-tvos-sdk/](http://www.sitepoint.com/coding-for-the-big-screen-with-the-apple-tvos-sdk/) 
-  9. [http://www.quirksmode.org/blog/archives/2015/09/a_new_device_ad.html](http://www.quirksmode.org/blog/archives/2015/09/a_new_device_ad.html) 
-  10. [http://alistapart.com/article/using-responsive-images-now](http://alistapart.com/article/using-responsive-images-now) 
-  11. [http://digitaldrummerj.me/Visual-Studio-2015-Cordova-Tools-And-Ionic-Framework/](http://digitaldrummerj.me/Visual-Studio-2015-Cordova-Tools-And-Ionic-Framework/) 
-  12. [https://18f.gsa.gov/2015/09/28/web-design-standards/](https://18f.gsa.gov/2015/09/28/web-design-standards/) 
-  13. [http://nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html](http://nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html) 
-  14. [http://www.slideshare.net/dougsillars/mobile-web-performance-using-webpagetest-and-httparchive](http://www.slideshare.net/dougsillars/mobile-web-performance-using-webpagetest-and-httparchive) 
-  15. [http://thaliproject.org/](http://thaliproject.org/) 
-  16. [http://www.raymondcamden.com/2015/09/30/ionic-1-6-5-and-updates-to-services](http://www.raymondcamden.com/2015/09/30/ionic-1-6-5-and-updates-to-services) 
-  17. [http://blog.scottlogic.com/2015/10/02/ionic-master-detail.html](http://blog.scottlogic.com/2015/10/02/ionic-master-detail.html) 
-  18. [https://gist.github.com/IgorMinar/863acd413e3925bf282c](https://gist.github.com/IgorMinar/863acd413e3925bf282c) 
-  19. [https://underdog.io/](https://underdog.io/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
