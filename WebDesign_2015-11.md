@@ -1,4 +1,4 @@
-## Updated news for 2015-11-06 
+## Updated news for 2015-11-07 
 
 ==========
 ## Potentially the Best File on the Internet for Web Developers
