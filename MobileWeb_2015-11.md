@@ -1,6 +1,33 @@
-## Updated news for 2015-11-11 
+## Updated news for 2015-11-12 
 
 ==========
+## This Week in Mobile Web Development (#82)
+#### http://mobilewebweekly.co/issues/82
+
+==========
+  1. [http://developer.telerik.com/featured/what-is-a-webview/](http://developer.telerik.com/featured/what-is-a-webview/) 
+  2. [http://blog.invisionapp.com/why-you-shouldnt-ignore-the-bigger-breakpoints-in-responsive-web-design/](http://blog.invisionapp.com/why-you-shouldnt-ignore-the-bigger-breakpoints-in-responsive-web-design/) 
+  3. [https://www.dreamfactory.com/dreamfactory-20-now-available](https://www.dreamfactory.com/dreamfactory-20-now-available) 
+  5. [http://rehabstudio.com/thinking/the-changing-form-of-the-web-browser/](http://rehabstudio.com/thinking/the-changing-form-of-the-web-browser/) 
+  6. [https://codek.tv/3721](https://codek.tv/3721) 
+  7. [http://devdactic.com/android-push-notifications/](http://devdactic.com/android-push-notifications/) 
+  8. [http://www.timo-ernst.net/blog/2015/11/05/video-screencast-how-to-use-framework7-with-angularjs/](http://www.timo-ernst.net/blog/2015/11/05/video-screencast-how-to-use-framework7-with-angularjs/) 
+  9. [http://cordova.apache.org/news/2015/11/06/tools-release.html](http://cordova.apache.org/news/2015/11/06/tools-release.html) 
+  10. [http://ben-evans.com/benedictevans/2015/9/26/mobile-is-not-a-neutral-platform](http://ben-evans.com/benedictevans/2015/9/26/mobile-is-not-a-neutral-platform) 
+  11. [http://mcgivery.com/hello-master-detail-your-fourth-ionic-framework-app/](http://mcgivery.com/hello-master-detail-your-fourth-ionic-framework-app/) 
+  12. [https://medium.com/@Borthwick/notification-the-push-and-the-pull-87af21ee69fa](https://medium.com/@Borthwick/notification-the-push-and-the-pull-87af21ee69fa) 
+  13. [http://readwrite.com/2015/11/09/app-fatigue-enterprise](http://readwrite.com/2015/11/09/app-fatigue-enterprise) 
+  14. [http://www.crittercism.com/2015/11/crittercism-adds-hybrid-application-support/](http://www.crittercism.com/2015/11/crittercism-adds-hybrid-application-support/) 
+  15. [http://blog.appsee.com/blog/2015/10/21/top-10-mobile-app-development-trends-on-the-rise/](http://blog.appsee.com/blog/2015/10/21/top-10-mobile-app-development-trends-on-the-rise/) 
+  16. [http://www.raymondcamden.com/2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project](http://www.raymondcamden.com/2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project) 
+  17. [http://blog.nparashuram.com/2015/11/virtual-device-wall-for-cordova-apps.html](http://blog.nparashuram.com/2015/11/virtual-device-wall-for-cordova-apps.html) 
+  18. [https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576](https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576) 
+  19. [http://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/](http://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/) 
+  20. [https://hired.com/](https://hired.com/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#81)
 #### http://mobilewebweekly.co/issues/81
 
@@ -75,31 +102,5 @@
   18. [http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html](http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#78)
-#### http://mobilewebweekly.co/issues/78
-
-==========
-  1. [https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) 
-  3. [http://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015](http://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) 
-  4. [http://corgibytes.com](http://corgibytes.com) 
-  6. [http://blog.ionic.io/mobile-just-changed-forever/](http://blog.ionic.io/mobile-just-changed-forever/) 
-  8. [https://joreteg.com/blog/viability-of-js-frameworks-on-mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile) 
-  9. [https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/](https://acaseyblog.wordpress.com/2015/10/07/build-a-hybrid-application-with-the-ionic-framework-and-windows-azure-mobile-services/) 
-  10. [http://deep.design/mobile-first/](http://deep.design/mobile-first/) 
-  11. [http://timkadlec.com/2015/10/amp-and-incentives/](http://timkadlec.com/2015/10/amp-and-incentives/) 
-  12. [http://developer.telerik.com/featured/the-ad-blockers-dilemma/](http://developer.telerik.com/featured/the-ad-blockers-dilemma/) 
-  13. [https://responsivedesign.is/articles/whats-the-deal-with-accelerated-mobile-pages-amp](https://responsivedesign.is/articles/whats-the-deal-with-accelerated-mobile-pages-amp) 
-  14. [http://www.bbc.co.uk/news/technology-33639439](http://www.bbc.co.uk/news/technology-33639439) 
-  15. [http://mcgivery.com/hello-modules-your-third-ionic-framework-app/](http://mcgivery.com/hello-modules-your-third-ionic-framework-app/) 
-  16. [http://plugins.telerik.com/cordova/plugin/mapbox](http://plugins.telerik.com/cordova/plugin/mapbox) 
-  17. [http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/](http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/) 
-  18. [http://timo-ernst.net/blog/2015/10/05/how-to-scroll-up-by-tapping-status-bar-in-cordovaphonegap-apps-on-ios-with-webkit-overflow-scrollingtouch/](http://timo-ernst.net/blog/2015/10/05/how-to-scroll-up-by-tapping-status-bar-in-cordovaphonegap-apps-on-ios-with-webkit-overflow-scrollingtouch/) 
-  19. [http://gridle.org/](http://gridle.org/) 
-  20. [http://www.reactnative.com/cordova-plugin-adapter-for-react-native/](http://www.reactnative.com/cordova-plugin-adapter-for-react-native/) 
-  21. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
