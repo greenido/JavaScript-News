@@ -1,6 +1,32 @@
-## Updated news for 2015-11-18 
+## Updated news for 2015-11-19 
 
 ==========
+## This Week in Mobile Web Development (#83)
+#### http://mobilewebweekly.co/issues/83
+
+==========
+  1. [https://aerotwist.com/blog/the-cost-of-frameworks/](https://aerotwist.com/blog/the-cost-of-frameworks/) 
+  2. [http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/](http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/) 
+  3. [http://mashable.com/2015/11/12/firefox-ios-available/](http://mashable.com/2015/11/12/firefox-ios-available/) 
+  4. [http://go.rangle.io/webinar-react-native](http://go.rangle.io/webinar-react-native) 
+  6. [https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/) 
+  7. [http://onsen.io/2/](http://onsen.io/2/) 
+  8. [http://blog.appoxee.com/15-ways-push-notifications-change-our-lives-in-the-future/](http://blog.appoxee.com/15-ways-push-notifications-change-our-lives-in-the-future/) 
+  9. [https://whatwebcando.today/](https://whatwebcando.today/) 
+  10. [https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7](https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7) 
+  11. [https://github.com/jessemonroy650/top-phonegap-mistakes](https://github.com/jessemonroy650/top-phonegap-mistakes) 
+  12. [http://gonehybrid.com/how-to-set-up-quick-actions-with-3d-touch-for-your-ionic-app/](http://gonehybrid.com/how-to-set-up-quick-actions-with-3d-touch-for-your-ionic-app/) 
+  13. [http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/](http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/) 
+  14. [http://www.forbes.com/sites/larrymagid/2015/11/12/why-i-like-googles-plan-to-kill-apps-in-favor-of-mobile-web-sites/](http://www.forbes.com/sites/larrymagid/2015/11/12/why-i-like-googles-plan-to-kill-apps-in-favor-of-mobile-web-sites/) 
+  15. [http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/](http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/) 
+  16. [http://www.raymondcamden.com/2015/11/11/working-with-the-clipboard-in-cordova-apps](http://www.raymondcamden.com/2015/11/11/working-with-the-clipboard-in-cordova-apps) 
+  17. [http://www.creativebloq.com/app-design/designing-for-apple-ecosystem-111517738](http://www.creativebloq.com/app-design/designing-for-apple-ecosystem-111517738) 
+  18. [https://blog.nraboy.com/2015/11/top-hybrid-app-bloggers-to-follow-2015/](https://blog.nraboy.com/2015/11/top-hybrid-app-bloggers-to-follow-2015/) 
+  19. [https://hired.com/](https://hired.com/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#82)
 #### http://mobilewebweekly.co/issues/82
 
@@ -77,30 +103,5 @@
   15. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
   17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#79)
-#### http://mobilewebweekly.co/issues/79
-
-==========
-  1. [http://tutorialzine.com/2015/10/comparing-the-top-frameworks-for-building-hybrid-mobile-apps/](http://tutorialzine.com/2015/10/comparing-the-top-frameworks-for-building-hybrid-mobile-apps/) 
-  2. [http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline) 
-  3. [https://joreteg.com/blog/viability-of-js-frameworks-on-mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile) 
-  4. [http://rangle.io/sprout](http://rangle.io/sprout) 
-  6. [http://www.idangero.us/template7/](http://www.idangero.us/template7/) 
-  7. [https://60devs.com/using-content-security-policy.html](https://60devs.com/using-content-security-policy.html) 
-  8. [https://blog.mozilla.org/blog/2015/10/12/mozilla-gsma-publish-study-on-mobile-opportunity-in-emerging-markets/](https://blog.mozilla.org/blog/2015/10/12/mozilla-gsma-publish-study-on-mobile-opportunity-in-emerging-markets/) 
-  9. [http://developer.telerik.com/featured/using-npm-modules-in-nativescript-mobile-apps/](http://developer.telerik.com/featured/using-npm-modules-in-nativescript-mobile-apps/) 
-  10. [http://readwrite.com/2015/10/15/web-vs-native-vr-virtual-reality](http://readwrite.com/2015/10/15/web-vs-native-vr-virtual-reality) 
-  11. [https://blog.nraboy.com/2015/10/debugging-your-apache-cordova-ios-app-with-safari/](https://blog.nraboy.com/2015/10/debugging-your-apache-cordova-ios-app-with-safari/) 
-  12. [http://marketingland.com/four-reasons-mobile-web-will-force-us-become-better-content-marketers-145870](http://marketingland.com/four-reasons-mobile-web-will-force-us-become-better-content-marketers-145870) 
-  13. [http://www.raymondcamden.com/2015/10/13/important-note-for-targeting-ios-emulators-in-cordova](http://www.raymondcamden.com/2015/10/13/important-note-for-targeting-ios-emulators-in-cordova) 
-  14. [http://andydavies.me/blog/2015/10/13/accelerated-mobile-pages-ive-more-questions-than-answers/](http://andydavies.me/blog/2015/10/13/accelerated-mobile-pages-ive-more-questions-than-answers/) 
-  15. [https://adactio.com/journal/9646](https://adactio.com/journal/9646) 
-  16. [http://blogs.msdn.com/b/writingdata_services/archive/2015/10/16/making-sense-of-cordova-push-notification-options-and-apis.aspx](http://blogs.msdn.com/b/writingdata_services/archive/2015/10/16/making-sense-of-cordova-push-notification-options-and-apis.aspx) 
-  17. [https://github.com/driftyco/ionic-conference-app](https://github.com/driftyco/ionic-conference-app) 
-  18. [http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html](http://blog.nparashuram.com/2015/10/using-cordova-plugins-in-react-native.html) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
