@@ -1,6 +1,32 @@
 ## Updated news for 2015-11-25 
 
 ==========
+## This Week in Mobile Web Development (#84)
+#### http://mobilewebweekly.co/issues/84
+
+==========
+  1. [http://www.webdesignerdepot.com/2015/11/is-the-floating-action-button-the-new-hamburger-menu/](http://www.webdesignerdepot.com/2015/11/is-the-floating-action-button-the-new-hamburger-menu/) 
+  2. [http://www.nngroup.com/articles/mobile-navigation-patterns/](http://www.nngroup.com/articles/mobile-navigation-patterns/) 
+  3. [https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/](https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/) 
+  4. [http://www.telerik.com/campaigns/platform/mobilefastforward](http://www.telerik.com/campaigns/platform/mobilefastforward) 
+  8. [https://jaxenter.com/huge-popularity-of-cordova-in-japan-provides-lessons-for-global-developers-122375.html](https://jaxenter.com/huge-popularity-of-cordova-in-japan-provides-lessons-for-global-developers-122375.html) 
+  9. [http://www.brucelawson.co.uk/2015/progressive-web-apps-ready-for-primetime/](http://www.brucelawson.co.uk/2015/progressive-web-apps-ready-for-primetime/) 
+  10. [http://alistapart.com/article/rolling-out-responsive](http://alistapart.com/article/rolling-out-responsive) 
+  11. [http://www.gajotres.net/onsen-ui-2-0-beta-is-out-and-you-should-check-it/](http://www.gajotres.net/onsen-ui-2-0-beta-is-out-and-you-should-check-it/) 
+  12. [http://www.nateberkopec.com/2015/11/05/page-weight-doesnt-matter.html](http://www.nateberkopec.com/2015/11/05/page-weight-doesnt-matter.html) 
+  13. [http://tech-blog.flipkart.net/2015/11/progressive-web-app/](http://tech-blog.flipkart.net/2015/11/progressive-web-app/) 
+  14. [https://css-tricks.com/keeping-breakpoints-dry/](https://css-tricks.com/keeping-breakpoints-dry/) 
+  15. [https://www.noodl.io/market/product/P201511231721877/aristote-multi-functional-theme-framework7-](https://www.noodl.io/market/product/P201511231721877/aristote-multi-functional-theme-framework7-) 
+  16. [http://taco.tools/vscode/index.html](http://taco.tools/vscode/index.html) 
+  17. [https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/](https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/) 
+  18. [http://www.nodans.com/index.cfm/2015/11/24/The-best-way-to-develop-and-run-NativeScript-projects-in-an-emulator](http://www.nodans.com/index.cfm/2015/11/24/The-best-way-to-develop-and-run-NativeScript-projects-in-an-emulator) 
+  19. [http://phonegap.com/blog/2015/11/23/phonegap-app-desktop-0-2-0/](http://phonegap.com/blog/2015/11/23/phonegap-app-desktop-0-2-0/) 
+  20. [http://taco.tools/](http://taco.tools/) 
+  21. [https://hired.com/](https://hired.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#83)
 #### http://mobilewebweekly.co/issues/83
 
@@ -81,27 +107,5 @@
   23. [https://hired.com/](https://hired.com/) 
   25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#80)
-#### http://mobilewebweekly.co/issues/80
-
-==========
-  1. [http://www.creativebloq.com/web-design/why-web-browser-here-stay-101517424](http://www.creativebloq.com/web-design/why-web-browser-here-stay-101517424) 
-  2. [http://thenextweb.com/dd/2015/10/15/how-to-create-the-perfect-responsive-design/](http://thenextweb.com/dd/2015/10/15/how-to-create-the-perfect-responsive-design/) 
-  3. [http://tympanus.net/codrops/2015/10/23/mobile-pull-to-share-interaction-experiment/](http://tympanus.net/codrops/2015/10/23/mobile-pull-to-share-interaction-experiment/) 
-  4. [https://www.rason.com/](https://www.rason.com/) 
-  6. [http://www.nytimes.com/2015/10/19/technology/publishers-straddle-the-apple-google-app-web-divide.html](http://www.nytimes.com/2015/10/19/technology/publishers-straddle-the-apple-google-app-web-divide.html) 
-  7. [http://www.enterpriseappstoday.com/management-software/user-first-not-mobile-first-key-to-app-dev.html](http://www.enterpriseappstoday.com/management-software/user-first-not-mobile-first-key-to-app-dev.html) 
-  8. [http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/](http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/) 
-  9. [http://microsoft.github.io/code-push/](http://microsoft.github.io/code-push/) 
-  10. [http://blog.invisionapp.com/ux-design-tips-for-your-app/](http://blog.invisionapp.com/ux-design-tips-for-your-app/) 
-  11. [https://codelympics.io/projects/3](https://codelympics.io/projects/3) 
-  12. [http://blog.npmjs.org/post/131244760570/guest-post-build-for-devices](http://blog.npmjs.org/post/131244760570/guest-post-build-for-devices) 
-  13. [http://www.raymondcamden.com/2015/10/22/quick-tip-for-cordova-and-the-browser-platform](http://www.raymondcamden.com/2015/10/22/quick-tip-for-cordova-and-the-browser-platform) 
-  14. [http://coenraets.org/blog/2015/10/sample-application-with-ionic-2/](http://coenraets.org/blog/2015/10/sample-application-with-ionic-2/) 
-  15. [http://www.toptal.com/mobile](http://www.toptal.com/mobile) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
