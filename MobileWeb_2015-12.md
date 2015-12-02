@@ -1,6 +1,31 @@
 ## Updated news for 2015-12-02 
 
 ==========
+## This Week in Mobile Web Development (#85)
+#### http://mobilewebweekly.co/issues/85
+
+==========
+  1. [http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/) 
+  3. [http://alistapart.com/article/frameworks](http://alistapart.com/article/frameworks) 
+  4. [http://corgibytes.com](http://corgibytes.com) 
+  6. [https://github.com/whackashoe/antimoderate](https://github.com/whackashoe/antimoderate) 
+  7. [http://phonegap.com/blog/2015/12/01/whats-new-for-phonegap-day-us-2016/](http://phonegap.com/blog/2015/12/01/whats-new-for-phonegap-day-us-2016/) 
+  8. [http://phonegap.com/blog/2015/11/30/framework7/](http://phonegap.com/blog/2015/11/30/framework7/) 
+  9. [http://blog.pluralsight.com/ionic-framework-on-mac-and-windows](http://blog.pluralsight.com/ionic-framework-on-mac-and-windows) 
+  10. [http://modernweb.com/2015/11/25/top-ten-mistakes-implementing-responsive-web-design/](http://modernweb.com/2015/11/25/top-ten-mistakes-implementing-responsive-web-design/) 
+  11. [http://tutorials.pluralsight.com/review/how-to-create-a-calculator-application-with-ionic-framework-by-using-ionic-creator-for-ui/article.md](http://tutorials.pluralsight.com/review/how-to-create-a-calculator-application-with-ionic-framework-by-using-ionic-creator-for-ui/article.md) 
+  12. [http://www.raymondcamden.com/2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator](http://www.raymondcamden.com/2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator) 
+  13. [http://www.smashingmagazine.com/2015/12/simple-and-painless-mobile-user-testing/](http://www.smashingmagazine.com/2015/12/simple-and-painless-mobile-user-testing/) 
+  14. [https://css-tricks.com/a-new-responsive-font-format-for-the-web/](https://css-tricks.com/a-new-responsive-font-format-for-the-web/) 
+  15. [http://www.smashingmagazine.com/2015/11/designing-healthcare-apps/](http://www.smashingmagazine.com/2015/11/designing-healthcare-apps/) 
+  16. [http://www.raymondcamden.com/2015/11/25/important-update-for-apache-cordova-and-android](http://www.raymondcamden.com/2015/11/25/important-update-for-apache-cordova-and-android) 
+  17. [https://github.com/EddyVerbruggen/cordova-plugin-3dtouch](https://github.com/EddyVerbruggen/cordova-plugin-3dtouch) 
+  18. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
+  20. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#84)
 #### http://mobilewebweekly.co/issues/84
 
@@ -78,34 +103,5 @@
   20. [https://hired.com/](https://hired.com/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#81)
-#### http://mobilewebweekly.co/issues/81
-
-==========
-  1. [https://medium.com/imgur-engineering/architecting-the-new-imgur-mobile-web-e0459da5a854](https://medium.com/imgur-engineering/architecting-the-new-imgur-mobile-web-e0459da5a854) 
-  2. [http://inders.in/blog/2015/10/28/introduction-to-ionic-2/](http://inders.in/blog/2015/10/28/introduction-to-ionic-2/) 
-  3. [http://www.webperformancetoday.com/2015/11/02/when-research-findings-challenge-our-conventions/](http://www.webperformancetoday.com/2015/11/02/when-research-findings-challenge-our-conventions/) 
-  4. [https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security/](https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security/) 
-  6. [http://mashable.com/2015/11/02/mozilla-firefox-ios-app/](http://mashable.com/2015/11/02/mozilla-firefox-ios-app/) 
-  7. [http://www.networkworld.com/article/2999510/mobile-apps/apperyio-aims-to-end-the-html5-vs-native-debate.html](http://www.networkworld.com/article/2999510/mobile-apps/apperyio-aims-to-end-the-html5-vs-native-debate.html) 
-  8. [http://alistapart.com/article/how-we-hold-our-gadgets](http://alistapart.com/article/how-we-hold-our-gadgets) 
-  9. [https://github.com/eleung/touchstone-navigator](https://github.com/eleung/touchstone-navigator) 
-  10. [http://www.pluralsight.com/teach](http://www.pluralsight.com/teach) 
-  12. [http://cordova.apache.org/announcements/2015/11/02/cordova-ios-3-9-2.html](http://cordova.apache.org/announcements/2015/11/02/cordova-ios-3-9-2.html) 
-  13. [http://blog.katworksgames.com/2015/10/24/measuring-the-mobile-experience/](http://blog.katworksgames.com/2015/10/24/measuring-the-mobile-experience/) 
-  14. [http://www.ionicbundle.com/](http://www.ionicbundle.com/) 
-  15. [http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) 
-  16. [http://designmodo.com/mobile-design-trends-2016/](http://designmodo.com/mobile-design-trends-2016/) 
-  17. [http://readwrite.com/2015/10/29/android-apps-timed-publishing](http://readwrite.com/2015/10/29/android-apps-timed-publishing) 
-  18. [http://ruoyusun.com/2015/11/01/things-i-wish-i-were-told-about-react-native.html](http://ruoyusun.com/2015/11/01/things-i-wish-i-were-told-about-react-native.html) 
-  19. [https://github.com/valnub/Framework7-Pure-Angular-Template](https://github.com/valnub/Framework7-Pure-Angular-Template) 
-  20. [http://developer.telerik.com/products/theres-a-cordova-plugin-for-that-session-recording/](http://developer.telerik.com/products/theres-a-cordova-plugin-for-that-session-recording/) 
-  21. [http://onsen.io/blog/make-facebook-hybrid-mobile-app-with-monaca/](http://onsen.io/blog/make-facebook-hybrid-mobile-app-with-monaca/) 
-  22. [http://blogs.msdn.com/b/visualstudio/archive/2015/11/02/apache-cordova-face-to-face-meeting-fall-2015.aspx](http://blogs.msdn.com/b/visualstudio/archive/2015/11/02/apache-cordova-face-to-face-meeting-fall-2015.aspx) 
-  23. [https://hired.com/](https://hired.com/) 
-  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
