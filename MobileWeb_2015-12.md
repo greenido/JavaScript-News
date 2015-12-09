@@ -1,6 +1,33 @@
 ## Updated news for 2015-12-09 
 
 ==========
+## This Week in Mobile Web Development (#86)
+#### http://mobilewebweekly.co/issues/86
+
+==========
+  1. [http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/](http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/) 
+  2. [http://firefoxoscentral.com/2015/12/firefox-os-is-dead-firefox-os-is-alive/](http://firefoxoscentral.com/2015/12/firefox-os-is-dead-firefox-os-is-alive/) 
+  3. [http://cordova.apache.org/announcements/2015/12/08/cordova-ios-4.0.0.html](http://cordova.apache.org/announcements/2015/12/08/cordova-ios-4.0.0.html) 
+  4. [https://moz.com/blog/mobile-web-mobile-apps-invest-marketing-whiteboard-friday](https://moz.com/blog/mobile-web-mobile-apps-invest-marketing-whiteboard-friday) 
+  5. [http://techcrunch.com/2015/11/25/google-amp-to-launch-in-2016/](http://techcrunch.com/2015/11/25/google-amp-to-launch-in-2016/) 
+  6. [https://hired.com/](https://hired.com/) 
+  8. [http://css3wizardry.com/2015/12/06/from-chocolatechip-ui-to-truckjs/](http://css3wizardry.com/2015/12/06/from-chocolatechip-ui-to-truckjs/) 
+  9. [http://www.livemint.com/Companies/LQEj72VEodIgrCscvSB07O/Startups-refocus-on-mobile-web-as-apponly-strategy-loses-f.html](http://www.livemint.com/Companies/LQEj72VEodIgrCscvSB07O/Startups-refocus-on-mobile-web-as-apponly-strategy-loses-f.html) 
+  10. [https://blog.nraboy.com/2015/11/nativescript-vs-ionic-framework-should-you-switch](https://blog.nraboy.com/2015/11/nativescript-vs-ionic-framework-should-you-switch) 
+  11. [http://blog.ionic.io/creating-an-ionic-app-with-mysql-and-backand/](http://blog.ionic.io/creating-an-ionic-app-with-mysql-and-backand/) 
+  12. [http://thekineticui.com/mobile-navigation-design-fundamentals/](http://thekineticui.com/mobile-navigation-design-fundamentals/) 
+  13. [https://24ways.org/2015/helping-vips-care-about-performance/](https://24ways.org/2015/helping-vips-care-about-performance/) 
+  14. [http://www.joshmorony.com/how-to-create-a-directive-in-ionic-2-parallax-header/](http://www.joshmorony.com/how-to-create-a-directive-in-ionic-2-parallax-header/) 
+  15. [https://aziflaj.github.io/week-8-remaking-ionic-application/](https://aziflaj.github.io/week-8-remaking-ionic-application/) 
+  16. [http://www.theverge.com/2015/12/8/9870860/mozilla-focus-ad-blocker-ios-app-store-download](http://www.theverge.com/2015/12/8/9870860/mozilla-focus-ad-blocker-ios-app-store-download) 
+  17. [http://www.raymondcamden.com/2015/12/03/ioniccordova-demo-where-did-i-take-that-picture](http://www.raymondcamden.com/2015/12/03/ioniccordova-demo-where-did-i-take-that-picture) 
+  18. [https://www.noodl.io/market/product/P201511231137211/weather7-simple-weather-webapp-in-framework7](https://www.noodl.io/market/product/P201511231137211/weather7-simple-weather-webapp-in-framework7) 
+  19. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
+  21. [http://go.rangle.io/webinar-react-native](http://go.rangle.io/webinar-react-native) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#85)
 #### http://mobilewebweekly.co/issues/85
 
@@ -76,32 +103,5 @@
   18. [https://hired.com/](https://hired.com/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#82)
-#### http://mobilewebweekly.co/issues/82
-
-==========
-  1. [http://developer.telerik.com/featured/what-is-a-webview/](http://developer.telerik.com/featured/what-is-a-webview/) 
-  2. [http://blog.invisionapp.com/why-you-shouldnt-ignore-the-bigger-breakpoints-in-responsive-web-design/](http://blog.invisionapp.com/why-you-shouldnt-ignore-the-bigger-breakpoints-in-responsive-web-design/) 
-  3. [https://www.dreamfactory.com/dreamfactory-20-now-available](https://www.dreamfactory.com/dreamfactory-20-now-available) 
-  5. [http://rehabstudio.com/thinking/the-changing-form-of-the-web-browser/](http://rehabstudio.com/thinking/the-changing-form-of-the-web-browser/) 
-  6. [https://codek.tv/3721](https://codek.tv/3721) 
-  7. [http://devdactic.com/android-push-notifications/](http://devdactic.com/android-push-notifications/) 
-  8. [http://www.timo-ernst.net/blog/2015/11/05/video-screencast-how-to-use-framework7-with-angularjs/](http://www.timo-ernst.net/blog/2015/11/05/video-screencast-how-to-use-framework7-with-angularjs/) 
-  9. [http://cordova.apache.org/news/2015/11/06/tools-release.html](http://cordova.apache.org/news/2015/11/06/tools-release.html) 
-  10. [http://ben-evans.com/benedictevans/2015/9/26/mobile-is-not-a-neutral-platform](http://ben-evans.com/benedictevans/2015/9/26/mobile-is-not-a-neutral-platform) 
-  11. [http://mcgivery.com/hello-master-detail-your-fourth-ionic-framework-app/](http://mcgivery.com/hello-master-detail-your-fourth-ionic-framework-app/) 
-  12. [https://medium.com/@Borthwick/notification-the-push-and-the-pull-87af21ee69fa](https://medium.com/@Borthwick/notification-the-push-and-the-pull-87af21ee69fa) 
-  13. [http://readwrite.com/2015/11/09/app-fatigue-enterprise](http://readwrite.com/2015/11/09/app-fatigue-enterprise) 
-  14. [http://www.crittercism.com/2015/11/crittercism-adds-hybrid-application-support/](http://www.crittercism.com/2015/11/crittercism-adds-hybrid-application-support/) 
-  15. [http://blog.appsee.com/blog/2015/10/21/top-10-mobile-app-development-trends-on-the-rise/](http://blog.appsee.com/blog/2015/10/21/top-10-mobile-app-development-trends-on-the-rise/) 
-  16. [http://www.raymondcamden.com/2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project](http://www.raymondcamden.com/2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project) 
-  17. [http://blog.nparashuram.com/2015/11/virtual-device-wall-for-cordova-apps.html](http://blog.nparashuram.com/2015/11/virtual-device-wall-for-cordova-apps.html) 
-  18. [https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576](https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576) 
-  19. [http://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/](http://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/) 
-  20. [https://hired.com/](https://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
