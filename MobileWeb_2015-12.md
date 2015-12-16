@@ -1,6 +1,38 @@
 ## Updated news for 2015-12-16 
 
 ==========
+## This Week in Mobile Web Development (#87)
+#### http://mobilewebweekly.co/issues/87
+
+==========
+  1. [https://webkit.org/blog/5610/more-responsive-tapping-on-ios/](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/) 
+  2. [http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/) 
+  3. [http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/) 
+  4. [http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html](http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html) 
+  5. [https://www.manning.com/books/apache-cordova-in-action](https://www.manning.com/books/apache-cordova-in-action) 
+  6. [https://www.manning.com/books/ionic-in-action](https://www.manning.com/books/ionic-in-action) 
+  7. [https://www.manning.com/books/the-responsive-web](https://www.manning.com/books/the-responsive-web) 
+  8. [http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html](http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html) 
+  9. [http://baymard.com/labs/touch-keyboard-types](http://baymard.com/labs/touch-keyboard-types) 
+  10. [https://bocoup.com/weblog/smaller-faster-websites](https://bocoup.com/weblog/smaller-faster-websites) 
+  11. [https://medium.com/@torgo/mobile-is-not-a-thing-f589fb9b932f](https://medium.com/@torgo/mobile-is-not-a-thing-f589fb9b932f) 
+  12. [http://www.quirksmode.org/blog/archives/2015/12/firefox_os_is_d.html](http://www.quirksmode.org/blog/archives/2015/12/firefox_os_is_d.html) 
+  13. [http://mcgivery.com/filters-ionic/](http://mcgivery.com/filters-ionic/) 
+  14. [http://www.sitepoint.com/simple-case-hybrid-mobile-app-development/](http://www.sitepoint.com/simple-case-hybrid-mobile-app-development/) 
+  15. [http://www.theverge.com/2015/12/1/9827386/google-chrome-android-data-saver-image-blocking](http://www.theverge.com/2015/12/1/9827386/google-chrome-android-data-saver-image-blocking) 
+  16. [http://angularjs.blogspot.bg/2015/12/building-mobile-apps-with-angular-2-and.html](http://angularjs.blogspot.bg/2015/12/building-mobile-apps-with-angular-2-and.html) 
+  17. [http://tutorials.pluralsight.com/review/how-to-polish-create-icons-and-splash-screen-images-add-ads-share-and-test-our-calculator-application/article.md](http://tutorials.pluralsight.com/review/how-to-polish-create-icons-and-splash-screen-images-add-ads-share-and-test-our-calculator-application/article.md) 
+  18. [http://go.pluralsight.com/C0003352](http://go.pluralsight.com/C0003352) 
+  20. [http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/](http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/) 
+  21. [http://www.mondaynote.com/2015/12/06/the-ad-blocking-industry-global-large-threatening/](http://www.mondaynote.com/2015/12/06/the-ad-blocking-industry-global-large-threatening/) 
+  22. [http://developer.telerik.com/featured/63601/](http://developer.telerik.com/featured/63601/) 
+  23. [http://taco.tools/vscode/rn.html](http://taco.tools/vscode/rn.html) 
+  24. [http://www.wired.com/2015/12/mits-reality-editor-app-lets-you-reprogram-the-world-with-augmented-reality/](http://www.wired.com/2015/12/mits-reality-editor-app-lets-you-reprogram-the-world-with-augmented-reality/) 
+  25. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
+  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#86)
 #### http://mobilewebweekly.co/issues/86
 
@@ -77,31 +109,5 @@
   21. [https://hired.com/](https://hired.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#83)
-#### http://mobilewebweekly.co/issues/83
-
-==========
-  1. [https://aerotwist.com/blog/the-cost-of-frameworks/](https://aerotwist.com/blog/the-cost-of-frameworks/) 
-  2. [http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/](http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/) 
-  3. [http://mashable.com/2015/11/12/firefox-ios-available/](http://mashable.com/2015/11/12/firefox-ios-available/) 
-  4. [http://go.rangle.io/webinar-react-native](http://go.rangle.io/webinar-react-native) 
-  5. [https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/) 
-  6. [http://onsen.io/2/](http://onsen.io/2/) 
-  7. [http://blog.appoxee.com/15-ways-push-notifications-change-our-lives-in-the-future/](http://blog.appoxee.com/15-ways-push-notifications-change-our-lives-in-the-future/) 
-  8. [https://whatwebcando.today/](https://whatwebcando.today/) 
-  9. [https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7](https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7) 
-  10. [https://github.com/jessemonroy650/top-phonegap-mistakes](https://github.com/jessemonroy650/top-phonegap-mistakes) 
-  11. [http://gonehybrid.com/how-to-set-up-quick-actions-with-3d-touch-for-your-ionic-app/](http://gonehybrid.com/how-to-set-up-quick-actions-with-3d-touch-for-your-ionic-app/) 
-  12. [http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/](http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/) 
-  13. [http://www.forbes.com/sites/larrymagid/2015/11/12/why-i-like-googles-plan-to-kill-apps-in-favor-of-mobile-web-sites/](http://www.forbes.com/sites/larrymagid/2015/11/12/why-i-like-googles-plan-to-kill-apps-in-favor-of-mobile-web-sites/) 
-  14. [http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/](http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/) 
-  15. [http://www.raymondcamden.com/2015/11/11/working-with-the-clipboard-in-cordova-apps](http://www.raymondcamden.com/2015/11/11/working-with-the-clipboard-in-cordova-apps) 
-  16. [http://www.creativebloq.com/app-design/designing-for-apple-ecosystem-111517738](http://www.creativebloq.com/app-design/designing-for-apple-ecosystem-111517738) 
-  17. [https://blog.nraboy.com/2015/11/top-hybrid-app-bloggers-to-follow-2015/](https://blog.nraboy.com/2015/11/top-hybrid-app-bloggers-to-follow-2015/) 
-  18. [https://hired.com/](https://hired.com/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
