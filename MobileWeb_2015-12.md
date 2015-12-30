@@ -1,6 +1,35 @@
 ## Updated news for 2015-12-30 
 
 ==========
+## This Week in Mobile Web Development (#88)
+#### http://mobilewebweekly.co/issues/88
+
+==========
+  1. [http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/](http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/) 
+  2. [https://24ways.org/2015/being-responsive-to-the-small-things/](https://24ways.org/2015/being-responsive-to-the-small-things/) 
+  3. [http://www.alphasoftware.com/blog/html5-hybrid-apps-phonegap-build-integration/](http://www.alphasoftware.com/blog/html5-hybrid-apps-phonegap-build-integration/) 
+  4. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
+  6. [http://www.webperformancetoday.com/2015/12/16/were-not-there-yet-images-scripts-and-redirects-are-slowing-down-the-top-mobile-travel-sites/](http://www.webperformancetoday.com/2015/12/16/were-not-there-yet-images-scripts-and-redirects-are-slowing-down-the-top-mobile-travel-sites/) 
+  7. [http://www.infoworld.com/article/3016733/application-development/in-search-of-a-cure-for-slow-mobile-downloads.html](http://www.infoworld.com/article/3016733/application-development/in-search-of-a-cure-for-slow-mobile-downloads.html) 
+  8. [http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html](http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html) 
+  9. [http://pgday.phonegap.com/eu2016/](http://pgday.phonegap.com/eu2016/) 
+  10. [http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript](http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript) 
+  11. [https://24ways.org/2015/animation-in-responsive-design/](https://24ways.org/2015/animation-in-responsive-design/) 
+  12. [http://www.designzzz.com/web-development-trends-2016/](http://www.designzzz.com/web-development-trends-2016/) 
+  13. [https://www.genuitec.com/gapdebug-2-2-released/](https://www.genuitec.com/gapdebug-2-2-released/) 
+  14. [http://www.sitepoint.com/working-with-the-facebook-api-in-a-cordova-app/](http://www.sitepoint.com/working-with-the-facebook-api-in-a-cordova-app/) 
+  15. [http://mcgivery.com/understanding-ionic-2-class/](http://mcgivery.com/understanding-ionic-2-class/) 
+  16. [http://www.raymondcamden.com/2015/12/17/a-quick-example-of-the-ionic-loading-widget](http://www.raymondcamden.com/2015/12/17/a-quick-example-of-the-ionic-loading-widget) 
+  17. [https://github.com/stevengill/es6-phonegap](https://github.com/stevengill/es6-phonegap) 
+  18. [https://github.com/dpa99c/cordova-check-plugins](https://github.com/dpa99c/cordova-check-plugins) 
+  19. [https://github.com/kevincobain2000/ionic-photo-browser](https://github.com/kevincobain2000/ionic-photo-browser) 
+  20. [https://github.com/driftyco/ionic-starter-cardboard](https://github.com/driftyco/ionic-starter-cardboard) 
+  21. [https://github.com/jeduan/cordova-plugin-facebook4](https://github.com/jeduan/cordova-plugin-facebook4) 
+  22. [https://hired.com/](https://hired.com/) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#87)
 #### http://mobilewebweekly.co/issues/87
 
@@ -83,31 +112,5 @@
   20. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#84)
-#### http://mobilewebweekly.co/issues/84
-
-==========
-  1. [http://www.webdesignerdepot.com/2015/11/is-the-floating-action-button-the-new-hamburger-menu/](http://www.webdesignerdepot.com/2015/11/is-the-floating-action-button-the-new-hamburger-menu/) 
-  2. [http://www.nngroup.com/articles/mobile-navigation-patterns/](http://www.nngroup.com/articles/mobile-navigation-patterns/) 
-  3. [https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/](https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/) 
-  4. [http://www.telerik.com/campaigns/platform/mobilefastforward](http://www.telerik.com/campaigns/platform/mobilefastforward) 
-  8. [https://jaxenter.com/huge-popularity-of-cordova-in-japan-provides-lessons-for-global-developers-122375.html](https://jaxenter.com/huge-popularity-of-cordova-in-japan-provides-lessons-for-global-developers-122375.html) 
-  9. [http://www.brucelawson.co.uk/2015/progressive-web-apps-ready-for-primetime/](http://www.brucelawson.co.uk/2015/progressive-web-apps-ready-for-primetime/) 
-  10. [http://alistapart.com/article/rolling-out-responsive](http://alistapart.com/article/rolling-out-responsive) 
-  11. [http://www.gajotres.net/onsen-ui-2-0-beta-is-out-and-you-should-check-it/](http://www.gajotres.net/onsen-ui-2-0-beta-is-out-and-you-should-check-it/) 
-  12. [http://www.nateberkopec.com/2015/11/05/page-weight-doesnt-matter.html](http://www.nateberkopec.com/2015/11/05/page-weight-doesnt-matter.html) 
-  13. [http://tech-blog.flipkart.net/2015/11/progressive-web-app/](http://tech-blog.flipkart.net/2015/11/progressive-web-app/) 
-  14. [https://css-tricks.com/keeping-breakpoints-dry/](https://css-tricks.com/keeping-breakpoints-dry/) 
-  15. [https://www.noodl.io/market/product/P201511231721877/aristote-multi-functional-theme-framework7-](https://www.noodl.io/market/product/P201511231721877/aristote-multi-functional-theme-framework7-) 
-  16. [http://taco.tools/vscode/index.html](http://taco.tools/vscode/index.html) 
-  17. [https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/](https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/) 
-  18. [http://www.nodans.com/index.cfm/2015/11/24/The-best-way-to-develop-and-run-NativeScript-projects-in-an-emulator](http://www.nodans.com/index.cfm/2015/11/24/The-best-way-to-develop-and-run-NativeScript-projects-in-an-emulator) 
-  19. [http://phonegap.com/blog/2015/11/23/phonegap-app-desktop-0-2-0/](http://phonegap.com/blog/2015/11/23/phonegap-app-desktop-0-2-0/) 
-  20. [http://taco.tools/](http://taco.tools/) 
-  21. [https://hired.com/](https://hired.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
