@@ -1,6 +1,33 @@
-## Updated news for 2016-01-06 
+## Updated news for 2016-01-07 
 
 ==========
+## This Week in Mobile Web Development (#89)
+#### http://mobilewebweekly.co/issues/89
+
+==========
+  1. [http://avc.com/2016/01/the-phablet-era/](http://avc.com/2016/01/the-phablet-era/) 
+  2. [https://24ways.org/2015/putting-my-patterns-through-their-paces/](https://24ways.org/2015/putting-my-patterns-through-their-paces/) 
+  3. [http://www.joshmorony.com/why-i-released-an-ionic-2-angular-2-application/](http://www.joshmorony.com/why-i-released-an-ionic-2-angular-2-application/) 
+  4. [https://www.imgix.com/](https://www.imgix.com/) 
+  6. [http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/](http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/) 
+  7. [http://www.sitepoint.com/whats-new-in-foundation-6/](http://www.sitepoint.com/whats-new-in-foundation-6/) 
+  8. [http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-native/](http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-native/) 
+  9. [http://code.tutsplus.com/tutorials/an-introduction-to-cordova-basics--cms-25146](http://code.tutsplus.com/tutorials/an-introduction-to-cordova-basics--cms-25146) 
+  10. [http://butola.com/blog/2016/01/03/set-up-push-notification-for-cordova-slash-phonegap-app-on-parse-dot-com-platform/](http://butola.com/blog/2016/01/03/set-up-push-notification-for-cordova-slash-phonegap-app-on-parse-dot-com-platform/) 
+  11. [http://www.telerik.com/blogs/a-few-predictions-in-mobility-for-2016](http://www.telerik.com/blogs/a-few-predictions-in-mobility-for-2016) 
+  12. [http://www.theverge.com/2015/12/18/10550820/microsoft-windows-10-mobile-upgrade-2016](http://www.theverge.com/2015/12/18/10550820/microsoft-windows-10-mobile-upgrade-2016) 
+  13. [http://www.raymondcamden.com/2015/12/15/using-ionic-creator-with-mobilefirst-7-1](http://www.raymondcamden.com/2015/12/15/using-ionic-creator-with-mobilefirst-7-1) 
+  14. [http://www.sitepoint.com/average-page-weight-increased-another-16-2015/](http://www.sitepoint.com/average-page-weight-increased-another-16-2015/) 
+  15. [https://blog.nraboy.com/2016/01/use-font-awesome-glyph-icons-with-nativescript/](https://blog.nraboy.com/2016/01/use-font-awesome-glyph-icons-with-nativescript/) 
+  16. [http://www.sitepoint.com/the-21-step-checklist-for-bulletproof-mobile-user-onboarding/](http://www.sitepoint.com/the-21-step-checklist-for-bulletproof-mobile-user-onboarding/) 
+  17. [http://avc.com/2015/12/what-happened-in-2015/](http://avc.com/2015/12/what-happened-in-2015/) 
+  18. [https://github.com/matheusrocha89/ionic-flat-colors](https://github.com/matheusrocha89/ionic-flat-colors) 
+  19. [http://www.mydrivesolutions.com/mobile_engineer](http://www.mydrivesolutions.com/mobile_engineer) 
+  21. [https://hired.com/](https://hired.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#88)
 #### http://mobilewebweekly.co/issues/88
 
@@ -87,30 +114,5 @@
   21. [http://go.rangle.io/webinar-react-native](http://go.rangle.io/webinar-react-native) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#85)
-#### http://mobilewebweekly.co/issues/85
-
-==========
-  1. [http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/](http://www.sitepoint.com/using-the-battery-status-api-to-optimize-your-development/) 
-  3. [http://alistapart.com/article/frameworks](http://alistapart.com/article/frameworks) 
-  4. [http://corgibytes.com](http://corgibytes.com) 
-  6. [https://github.com/whackashoe/antimoderate](https://github.com/whackashoe/antimoderate) 
-  7. [http://phonegap.com/blog/2015/12/01/whats-new-for-phonegap-day-us-2016/](http://phonegap.com/blog/2015/12/01/whats-new-for-phonegap-day-us-2016/) 
-  8. [http://phonegap.com/blog/2015/11/30/framework7/](http://phonegap.com/blog/2015/11/30/framework7/) 
-  9. [http://blog.pluralsight.com/ionic-framework-on-mac-and-windows](http://blog.pluralsight.com/ionic-framework-on-mac-and-windows) 
-  10. [http://modernweb.com/2015/11/25/top-ten-mistakes-implementing-responsive-web-design/](http://modernweb.com/2015/11/25/top-ten-mistakes-implementing-responsive-web-design/) 
-  11. [http://tutorials.pluralsight.com/review/how-to-create-a-calculator-application-with-ionic-framework-by-using-ionic-creator-for-ui/article.md](http://tutorials.pluralsight.com/review/how-to-create-a-calculator-application-with-ionic-framework-by-using-ionic-creator-for-ui/article.md) 
-  12. [http://www.raymondcamden.com/2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator](http://www.raymondcamden.com/2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator) 
-  13. [http://www.smashingmagazine.com/2015/12/simple-and-painless-mobile-user-testing/](http://www.smashingmagazine.com/2015/12/simple-and-painless-mobile-user-testing/) 
-  14. [https://css-tricks.com/a-new-responsive-font-format-for-the-web/](https://css-tricks.com/a-new-responsive-font-format-for-the-web/) 
-  15. [http://www.smashingmagazine.com/2015/11/designing-healthcare-apps/](http://www.smashingmagazine.com/2015/11/designing-healthcare-apps/) 
-  16. [http://www.raymondcamden.com/2015/11/25/important-update-for-apache-cordova-and-android](http://www.raymondcamden.com/2015/11/25/important-update-for-apache-cordova-and-android) 
-  17. [https://github.com/EddyVerbruggen/cordova-plugin-3dtouch](https://github.com/EddyVerbruggen/cordova-plugin-3dtouch) 
-  18. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
-  20. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
