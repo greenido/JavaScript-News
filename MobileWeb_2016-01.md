@@ -1,6 +1,28 @@
-## Updated news for 2016-01-13 
+## Updated news for 2016-01-14 
 
 ==========
+## This Week in Mobile Web Development (#90)
+#### http://mobilewebweekly.co/issues/90
+
+==========
+  1. [http://blog.hubspot.com/marketing/9-mobile-web-design-principles](http://blog.hubspot.com/marketing/9-mobile-web-design-principles) 
+  2. [http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/](http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/) 
+  3. [http://baymard.com/blog/mobile-image-gestures](http://baymard.com/blog/mobile-image-gestures) 
+  4. [https://attendee.gotowebinar.com/register/1116975542059769346](https://attendee.gotowebinar.com/register/1116975542059769346) 
+  6. [http://recode.net/2016/01/12/the-post-mobile-era/](http://recode.net/2016/01/12/the-post-mobile-era/) 
+  7. [http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328](http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328) 
+  8. [http://www.annertech.com/blog/create-news-reader-app-drupal-ionic-framework](http://www.annertech.com/blog/create-news-reader-app-drupal-ionic-framework) 
+  9. [http://devgirl.org/2016/01/08/speaking-with-cordova/](http://devgirl.org/2016/01/08/speaking-with-cordova/) 
+  10. [http://www.raymondcamden.com/2016/01/11/going-from-static-to-dynamic-with-ionic-creator](http://www.raymondcamden.com/2016/01/11/going-from-static-to-dynamic-with-ionic-creator) 
+  11. [http://blog.ionic.io/ionic-and-typescript-part-5/](http://blog.ionic.io/ionic-and-typescript-part-5/) 
+  12. [https://blog.nraboy.com/2016/01/use-ng2-cordova-oauth-for-all-your-ionic-2-oauth-needs/](https://blog.nraboy.com/2016/01/use-ng2-cordova-oauth-for-all-your-ionic-2-oauth-needs/) 
+  13. [http://pointdeveloper.com/ionic-2-banner-ads-with-admob-pro-plugin/](http://pointdeveloper.com/ionic-2-banner-ads-with-admob-pro-plugin/) 
+  14. [https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/](https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/) 
+  15. [https://hired.com/](https://hired.com/) 
+  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#89)
 #### http://mobilewebweekly.co/issues/89
 
@@ -87,32 +109,5 @@
   25. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
   27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#86)
-#### http://mobilewebweekly.co/issues/86
-
-==========
-  1. [http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/](http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/) 
-  2. [http://firefoxoscentral.com/2015/12/firefox-os-is-dead-firefox-os-is-alive/](http://firefoxoscentral.com/2015/12/firefox-os-is-dead-firefox-os-is-alive/) 
-  3. [http://cordova.apache.org/announcements/2015/12/08/cordova-ios-4.0.0.html](http://cordova.apache.org/announcements/2015/12/08/cordova-ios-4.0.0.html) 
-  4. [https://moz.com/blog/mobile-web-mobile-apps-invest-marketing-whiteboard-friday](https://moz.com/blog/mobile-web-mobile-apps-invest-marketing-whiteboard-friday) 
-  5. [http://techcrunch.com/2015/11/25/google-amp-to-launch-in-2016/](http://techcrunch.com/2015/11/25/google-amp-to-launch-in-2016/) 
-  6. [https://hired.com/](https://hired.com/) 
-  8. [http://css3wizardry.com/2015/12/06/from-chocolatechip-ui-to-truckjs/](http://css3wizardry.com/2015/12/06/from-chocolatechip-ui-to-truckjs/) 
-  9. [http://www.livemint.com/Companies/LQEj72VEodIgrCscvSB07O/Startups-refocus-on-mobile-web-as-apponly-strategy-loses-f.html](http://www.livemint.com/Companies/LQEj72VEodIgrCscvSB07O/Startups-refocus-on-mobile-web-as-apponly-strategy-loses-f.html) 
-  10. [https://blog.nraboy.com/2015/11/nativescript-vs-ionic-framework-should-you-switch](https://blog.nraboy.com/2015/11/nativescript-vs-ionic-framework-should-you-switch) 
-  11. [http://blog.ionic.io/creating-an-ionic-app-with-mysql-and-backand/](http://blog.ionic.io/creating-an-ionic-app-with-mysql-and-backand/) 
-  12. [http://thekineticui.com/mobile-navigation-design-fundamentals/](http://thekineticui.com/mobile-navigation-design-fundamentals/) 
-  13. [https://24ways.org/2015/helping-vips-care-about-performance/](https://24ways.org/2015/helping-vips-care-about-performance/) 
-  14. [http://www.joshmorony.com/how-to-create-a-directive-in-ionic-2-parallax-header/](http://www.joshmorony.com/how-to-create-a-directive-in-ionic-2-parallax-header/) 
-  15. [https://aziflaj.github.io/week-8-remaking-ionic-application/](https://aziflaj.github.io/week-8-remaking-ionic-application/) 
-  16. [http://www.theverge.com/2015/12/8/9870860/mozilla-focus-ad-blocker-ios-app-store-download](http://www.theverge.com/2015/12/8/9870860/mozilla-focus-ad-blocker-ios-app-store-download) 
-  17. [http://www.raymondcamden.com/2015/12/03/ioniccordova-demo-where-did-i-take-that-picture](http://www.raymondcamden.com/2015/12/03/ioniccordova-demo-where-did-i-take-that-picture) 
-  18. [https://www.noodl.io/market/product/P201511231137211/weather7-simple-weather-webapp-in-framework7](https://www.noodl.io/market/product/P201511231137211/weather7-simple-weather-webapp-in-framework7) 
-  19. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
-  21. [http://go.rangle.io/webinar-react-native](http://go.rangle.io/webinar-react-native) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
