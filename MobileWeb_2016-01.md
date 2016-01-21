@@ -1,6 +1,30 @@
-## Updated news for 2016-01-20 
+## Updated news for 2016-01-21 
 
 ==========
+## This Week in Mobile Web Development (#91)
+#### http://mobilewebweekly.co/issues/91
+
+==========
+  1. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  2. [http://www.webdesignerdepot.com/2016/01/perfecting-navigation-for-the-mobile-web/](http://www.webdesignerdepot.com/2016/01/perfecting-navigation-for-the-mobile-web/) 
+  3. [https://www.imgix.com/](https://www.imgix.com/) 
+  5. [https://jenson.org/small/](https://jenson.org/small/) 
+  6. [https://corner.squareup.com/2016/01/shared-app-functionality-via-javascript.html](https://corner.squareup.com/2016/01/shared-app-functionality-via-javascript.html) 
+  7. [http://html5doctor.com/the-woes-of-date-input/](http://html5doctor.com/the-woes-of-date-input/) 
+  8. [http://www.zell-weekeat.com/responsive-typography/](http://www.zell-weekeat.com/responsive-typography/) 
+  9. [http://code.tutsplus.com/tutorials/how-to-create-a-to-do-list-app-with-polymer-and-cordova--cms-25434](http://code.tutsplus.com/tutorials/how-to-create-a-to-do-list-app-with-polymer-and-cordova--cms-25434) 
+  10. [http://code.tutsplus.com/tutorials/getting-started-with-telerik-appbuilder--cms-25537](http://code.tutsplus.com/tutorials/getting-started-with-telerik-appbuilder--cms-25537) 
+  11. [http://www.appcelerator.com/blog/2016/01/axway-acquires-appcelerator-and-why-this-is-great-news-for-all/](http://www.appcelerator.com/blog/2016/01/axway-acquires-appcelerator-and-why-this-is-great-news-for-all/) 
+  12. [http://developer.telerik.com/featured/nativescript-for-appcelerator-developers/](http://developer.telerik.com/featured/nativescript-for-appcelerator-developers/) 
+  13. [http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/) 
+  14. [https://blog.nraboy.com/2016/01/use-android-palette-class-nativescript/](https://blog.nraboy.com/2016/01/use-android-palette-class-nativescript/) 
+  15. [http://mcgivery.com/soap-web-services-angular-ionic/](http://mcgivery.com/soap-web-services-angular-ionic/) 
+  16. [http://www.andygup.net/cordova-plugin-advanced-geolocation/](http://www.andygup.net/cordova-plugin-advanced-geolocation/) 
+  17. [https://hired.com/](https://hired.com/) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#90)
 #### http://mobilewebweekly.co/issues/90
 
@@ -77,37 +101,5 @@
   22. [https://hired.com/](https://hired.com/) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#87)
-#### http://mobilewebweekly.co/issues/87
-
-==========
-  1. [https://webkit.org/blog/5610/more-responsive-tapping-on-ios/](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/) 
-  2. [http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/) 
-  3. [http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/) 
-  4. [http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html](http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html) 
-  5. [https://www.manning.com/books/apache-cordova-in-action](https://www.manning.com/books/apache-cordova-in-action) 
-  6. [https://www.manning.com/books/ionic-in-action](https://www.manning.com/books/ionic-in-action) 
-  7. [https://www.manning.com/books/the-responsive-web](https://www.manning.com/books/the-responsive-web) 
-  8. [http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html](http://myemail.constantcontact.com/Dec-16--Half-off-Mobile-development-books.html) 
-  9. [http://baymard.com/labs/touch-keyboard-types](http://baymard.com/labs/touch-keyboard-types) 
-  10. [https://bocoup.com/weblog/smaller-faster-websites](https://bocoup.com/weblog/smaller-faster-websites) 
-  11. [https://medium.com/@torgo/mobile-is-not-a-thing-f589fb9b932f](https://medium.com/@torgo/mobile-is-not-a-thing-f589fb9b932f) 
-  12. [http://www.quirksmode.org/blog/archives/2015/12/firefox_os_is_d.html](http://www.quirksmode.org/blog/archives/2015/12/firefox_os_is_d.html) 
-  13. [http://mcgivery.com/filters-ionic/](http://mcgivery.com/filters-ionic/) 
-  14. [http://www.sitepoint.com/simple-case-hybrid-mobile-app-development/](http://www.sitepoint.com/simple-case-hybrid-mobile-app-development/) 
-  15. [http://www.theverge.com/2015/12/1/9827386/google-chrome-android-data-saver-image-blocking](http://www.theverge.com/2015/12/1/9827386/google-chrome-android-data-saver-image-blocking) 
-  16. [http://angularjs.blogspot.bg/2015/12/building-mobile-apps-with-angular-2-and.html](http://angularjs.blogspot.bg/2015/12/building-mobile-apps-with-angular-2-and.html) 
-  17. [http://tutorials.pluralsight.com/review/how-to-polish-create-icons-and-splash-screen-images-add-ads-share-and-test-our-calculator-application/article.md](http://tutorials.pluralsight.com/review/how-to-polish-create-icons-and-splash-screen-images-add-ads-share-and-test-our-calculator-application/article.md) 
-  18. [http://go.pluralsight.com/C0003352](http://go.pluralsight.com/C0003352) 
-  20. [http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/](http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/) 
-  21. [http://www.mondaynote.com/2015/12/06/the-ad-blocking-industry-global-large-threatening/](http://www.mondaynote.com/2015/12/06/the-ad-blocking-industry-global-large-threatening/) 
-  22. [http://developer.telerik.com/featured/63601/](http://developer.telerik.com/featured/63601/) 
-  23. [http://taco.tools/vscode/rn.html](http://taco.tools/vscode/rn.html) 
-  24. [http://www.wired.com/2015/12/mits-reality-editor-app-lets-you-reprogram-the-world-with-augmented-reality/](http://www.wired.com/2015/12/mits-reality-editor-app-lets-you-reprogram-the-world-with-augmented-reality/) 
-  25. [http://www.indeed.com/prime](http://www.indeed.com/prime) 
-  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
