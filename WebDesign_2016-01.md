@@ -1,6 +1,12 @@
-## Updated news for 2016-01-25 
+## Updated news for 2016-01-26 
 
 ==========
+## Web Design Weekly #219
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/_FUxYoVTm5E/
+
+==========
+
+====
 ## Web Design Weekly #218
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/tGgsXkIKeI4/
 
@@ -51,12 +57,6 @@
 ====
 ## Potentially the Best File on the Internet for Web Developers
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/_1P9T4WkGCk/
-
-==========
-
-====
-## Web Design Weekly #210
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/WlmE19KkwPg/
 
 ==========
 
