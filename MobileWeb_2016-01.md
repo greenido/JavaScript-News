@@ -1,6 +1,31 @@
-## Updated news for 2016-01-27 
+## Updated news for 2016-01-28 
 
 ==========
+## This Week in Mobile Web Development (#92)
+#### http://mobilewebweekly.co/issues/92
+
+==========
+  1. [https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/](https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/) 
+  2. [http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/](http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/) 
+  3. [http://www.macrumors.com/2016/01/27/google-chrome-ios-reducing-crashes/](http://www.macrumors.com/2016/01/27/google-chrome-ios-reducing-crashes/) 
+  4. [https://www.imgix.com/](https://www.imgix.com/) 
+  6. [http://www.sitepoint.com/fast-lightweight-data-storage-for-cordova-apps-with-lokijs/](http://www.sitepoint.com/fast-lightweight-data-storage-for-cordova-apps-with-lokijs/) 
+  7. [https://github.com/contra/rtc-everywhere](https://github.com/contra/rtc-everywhere) 
+  8. [http://www.alphasoftware.com/blog/hybrid-applications-phonegap-client-side-data/](http://www.alphasoftware.com/blog/hybrid-applications-phonegap-client-side-data/) 
+  9. [https://blog.nraboy.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/](https://blog.nraboy.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/) 
+  10. [http://techcrunch.com/2016/01/26/facebook-updates-audience-network-to-include-support-for-mobile-web/](http://techcrunch.com/2016/01/26/facebook-updates-audience-network-to-include-support-for-mobile-web/) 
+  11. [http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/](http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/) 
+  12. [http://www.sitepoint.com/foundation-6-menu-component/](http://www.sitepoint.com/foundation-6-menu-component/) 
+  13. [http://www.creativebloq.com/ux/5-ways-speed-your-design-ui-kits-11618753](http://www.creativebloq.com/ux/5-ways-speed-your-design-ui-kits-11618753) 
+  14. [http://developer.mobilecaddy.net/2016/01/ngcordova-contributing-a-plugin-mock-with-tests/](http://developer.mobilecaddy.net/2016/01/ngcordova-contributing-a-plugin-mock-with-tests/) 
+  15. [https://brosteins.com/2016/01/19/persist-nativescript-app-data-app-closed/](https://brosteins.com/2016/01/19/persist-nativescript-app-data-app-closed/) 
+  16. [https://github.com/roshanca/starter-framework7](https://github.com/roshanca/starter-framework7) 
+  17. [http://www.raymondcamden.com/2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment/](http://www.raymondcamden.com/2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment/) 
+  18. [https://hired.com/](https://hired.com/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#91)
 #### http://mobilewebweekly.co/issues/91
 
@@ -72,34 +97,5 @@
   21. [https://hired.com/](https://hired.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#88)
-#### http://mobilewebweekly.co/issues/88
-
-==========
-  1. [http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/](http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/) 
-  2. [https://24ways.org/2015/being-responsive-to-the-small-things/](https://24ways.org/2015/being-responsive-to-the-small-things/) 
-  3. [http://www.alphasoftware.com/blog/html5-hybrid-apps-phonegap-build-integration/](http://www.alphasoftware.com/blog/html5-hybrid-apps-phonegap-build-integration/) 
-  4. [http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer](http://deliverydotcom.theresumator.com/apply/twbqXi/React-Native-Javascript-Engineer) 
-  6. [http://www.webperformancetoday.com/2015/12/16/were-not-there-yet-images-scripts-and-redirects-are-slowing-down-the-top-mobile-travel-sites/](http://www.webperformancetoday.com/2015/12/16/were-not-there-yet-images-scripts-and-redirects-are-slowing-down-the-top-mobile-travel-sites/) 
-  7. [http://www.infoworld.com/article/3016733/application-development/in-search-of-a-cure-for-slow-mobile-downloads.html](http://www.infoworld.com/article/3016733/application-development/in-search-of-a-cure-for-slow-mobile-downloads.html) 
-  8. [http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html](http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html) 
-  9. [http://pgday.phonegap.com/eu2016/](http://pgday.phonegap.com/eu2016/) 
-  10. [http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript](http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript) 
-  11. [https://24ways.org/2015/animation-in-responsive-design/](https://24ways.org/2015/animation-in-responsive-design/) 
-  12. [http://www.designzzz.com/web-development-trends-2016/](http://www.designzzz.com/web-development-trends-2016/) 
-  13. [https://www.genuitec.com/gapdebug-2-2-released/](https://www.genuitec.com/gapdebug-2-2-released/) 
-  14. [http://www.sitepoint.com/working-with-the-facebook-api-in-a-cordova-app/](http://www.sitepoint.com/working-with-the-facebook-api-in-a-cordova-app/) 
-  15. [http://mcgivery.com/understanding-ionic-2-class/](http://mcgivery.com/understanding-ionic-2-class/) 
-  16. [http://www.raymondcamden.com/2015/12/17/a-quick-example-of-the-ionic-loading-widget](http://www.raymondcamden.com/2015/12/17/a-quick-example-of-the-ionic-loading-widget) 
-  17. [https://github.com/stevengill/es6-phonegap](https://github.com/stevengill/es6-phonegap) 
-  18. [https://github.com/dpa99c/cordova-check-plugins](https://github.com/dpa99c/cordova-check-plugins) 
-  19. [https://github.com/kevincobain2000/ionic-photo-browser](https://github.com/kevincobain2000/ionic-photo-browser) 
-  20. [https://github.com/driftyco/ionic-starter-cardboard](https://github.com/driftyco/ionic-starter-cardboard) 
-  21. [https://github.com/jeduan/cordova-plugin-facebook4](https://github.com/jeduan/cordova-plugin-facebook4) 
-  22. [https://hired.com/](https://hired.com/) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
