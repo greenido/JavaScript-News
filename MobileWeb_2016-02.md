@@ -1,6 +1,31 @@
-## Updated news for 2016-02-10 
+## Updated news for 2016-02-11 
 
 ==========
+## This Week in Mobile Web Development (#94)
+#### http://mobilewebweekly.co/issues/94
+
+==========
+  1. [http://www.gajotres.net/jquery-mobile-1-5-its-alive/](http://www.gajotres.net/jquery-mobile-1-5-its-alive/) 
+  2. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/) 
+  3. [https://medium.com/intercom-inside/why-mobile-first-is-outdated-f10a3dc357bd](https://medium.com/intercom-inside/why-mobile-first-is-outdated-f10a3dc357bd) 
+  4. [http://blog.rangle.io/the-mobile-ecosystem-in-2016-and-what-you-need-to-know/](http://blog.rangle.io/the-mobile-ecosystem-in-2016-and-what-you-need-to-know/) 
+  6. [http://adage.com/article/digital/google-amp-launch-looms-search-engine-scores-follow/302599/](http://adage.com/article/digital/google-amp-launch-looms-search-engine-scores-follow/302599/) 
+  7. [https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f](https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f) 
+  8. [https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f](https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f) 
+  9. [http://coenraets.org/blog/2016/01/ionicrealty-new-ionic-2-sample-application/](http://coenraets.org/blog/2016/01/ionicrealty-new-ionic-2-sample-application/) 
+  10. [http://www.theverge.com/2016/2/4/10915930/mozilla-firefox-os-internet-of-things](http://www.theverge.com/2016/2/4/10915930/mozilla-firefox-os-internet-of-things) 
+  11. [http://phonegap.com/blog/2016/02/09/phonegap_6_now_on_build/](http://phonegap.com/blog/2016/02/09/phonegap_6_now_on_build/) 
+  12. [http://phonegap.com/blog/2016/01/21/rangle-guest-post/](http://phonegap.com/blog/2016/01/21/rangle-guest-post/) 
+  13. [https://github.com/yafraorg/yafra/wiki/Blog-Ionic-PushV5](https://github.com/yafraorg/yafra/wiki/Blog-Ionic-PushV5) 
+  14. [http://astro.mobify.com/](http://astro.mobify.com/) 
+  15. [http://www.sitepoint.com/20-docs-guides-front-end-developers-7/](http://www.sitepoint.com/20-docs-guides-front-end-developers-7/) 
+  16. [https://medium.com/modus-create-front-end-development/new-in-cordova-6-app-templates-using-git-24bcacc96b39](https://medium.com/modus-create-front-end-development/new-in-cordova-6-app-templates-using-git-24bcacc96b39) 
+  17. [http://developer.telerik.com/featured/ios-app-distribution-7-steps/](http://developer.telerik.com/featured/ios-app-distribution-7-steps/) 
+  18. [https://hired.com/](https://hired.com/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#93)
 #### http://mobilewebweekly.co/issues/93
 
@@ -74,27 +99,5 @@
   17. [https://hired.com/](https://hired.com/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#90)
-#### http://mobilewebweekly.co/issues/90
-
-==========
-  1. [http://blog.hubspot.com/marketing/9-mobile-web-design-principles](http://blog.hubspot.com/marketing/9-mobile-web-design-principles) 
-  2. [http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/](http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/) 
-  3. [http://baymard.com/blog/mobile-image-gestures](http://baymard.com/blog/mobile-image-gestures) 
-  4. [https://attendee.gotowebinar.com/register/1116975542059769346](https://attendee.gotowebinar.com/register/1116975542059769346) 
-  6. [http://recode.net/2016/01/12/the-post-mobile-era/](http://recode.net/2016/01/12/the-post-mobile-era/) 
-  7. [http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328](http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328) 
-  8. [http://www.annertech.com/blog/create-news-reader-app-drupal-ionic-framework](http://www.annertech.com/blog/create-news-reader-app-drupal-ionic-framework) 
-  9. [http://devgirl.org/2016/01/08/speaking-with-cordova/](http://devgirl.org/2016/01/08/speaking-with-cordova/) 
-  10. [http://www.raymondcamden.com/2016/01/11/going-from-static-to-dynamic-with-ionic-creator](http://www.raymondcamden.com/2016/01/11/going-from-static-to-dynamic-with-ionic-creator) 
-  11. [http://blog.ionic.io/ionic-and-typescript-part-5/](http://blog.ionic.io/ionic-and-typescript-part-5/) 
-  12. [https://blog.nraboy.com/2016/01/use-ng2-cordova-oauth-for-all-your-ionic-2-oauth-needs/](https://blog.nraboy.com/2016/01/use-ng2-cordova-oauth-for-all-your-ionic-2-oauth-needs/) 
-  13. [http://pointdeveloper.com/ionic-2-banner-ads-with-admob-pro-plugin/](http://pointdeveloper.com/ionic-2-banner-ads-with-admob-pro-plugin/) 
-  14. [https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/](https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/) 
-  15. [https://hired.com/](https://hired.com/) 
-  17. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  18. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
