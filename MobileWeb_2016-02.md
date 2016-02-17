@@ -1,6 +1,29 @@
 ## Updated news for 2016-02-17 
 
 ==========
+## This Week in Mobile Web Development (#95)
+#### http://mobilewebweekly.co/issues/95
+
+==========
+  1. [https://medium.com/ionic-and-the-mobile-web/the-rise-of-the-mobile-web-2f811e0e69c7](https://medium.com/ionic-and-the-mobile-web/the-rise-of-the-mobile-web-2f811e0e69c7) 
+  2. [https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/](https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/) 
+  3. [https://www.smashingmagazine.com/2016/02/building-first-class-app-leverages-website-case-study/](https://www.smashingmagazine.com/2016/02/building-first-class-app-leverages-website-case-study/) 
+  4. [https://www.imgix.com/](https://www.imgix.com/) 
+  6. [https://gist.github.com/gajus/bbf06ea2e37047b01e70](https://gist.github.com/gajus/bbf06ea2e37047b01e70) 
+  7. [http://blog.ionic.io/announcing-ionic-framework-2-beta/](http://blog.ionic.io/announcing-ionic-framework-2-beta/) 
+  8. [http://www.sitepoint.com/remote-debugging-for-front-end-developers/](http://www.sitepoint.com/remote-debugging-for-front-end-developers/) 
+  9. [https://onsen.io/blog/what-is-material-design/](https://onsen.io/blog/what-is-material-design/) 
+  10. [https://medium.com/@BryanJustinPon/winners-and-losers-in-the-global-app-economy-6ac6d2053576](https://medium.com/@BryanJustinPon/winners-and-losers-in-the-global-app-economy-6ac6d2053576) 
+  11. [https://auth0.com/blog/2016/02/16/migrating-your-parse-users-to-auth0/](https://auth0.com/blog/2016/02/16/migrating-your-parse-users-to-auth0/) 
+  13. [http://www.quirksmode.org/blog/archives/2016/02/chrome_change_b.html](http://www.quirksmode.org/blog/archives/2016/02/chrome_change_b.html) 
+  14. [https://blog.nraboy.com/2016/02/monetize-google-admob-ionic-2-mobile-app/](https://blog.nraboy.com/2016/02/monetize-google-admob-ionic-2-mobile-app/) 
+  15. [https://github.com/tsubik/ionic2-geofence](https://github.com/tsubik/ionic2-geofence) 
+  16. [http://phonegap.com/blog/2016/02/16/git-backed-plugins/](http://phonegap.com/blog/2016/02/16/git-backed-plugins/) 
+  17. [https://hired.com/](https://hired.com/) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#94)
 #### http://mobilewebweekly.co/issues/94
 
@@ -75,29 +98,5 @@
   18. [https://hired.com/](https://hired.com/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#91)
-#### http://mobilewebweekly.co/issues/91
-
-==========
-  1. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
-  2. [http://www.webdesignerdepot.com/2016/01/perfecting-navigation-for-the-mobile-web/](http://www.webdesignerdepot.com/2016/01/perfecting-navigation-for-the-mobile-web/) 
-  3. [https://www.imgix.com/](https://www.imgix.com/) 
-  5. [https://jenson.org/small/](https://jenson.org/small/) 
-  6. [https://corner.squareup.com/2016/01/shared-app-functionality-via-javascript.html](https://corner.squareup.com/2016/01/shared-app-functionality-via-javascript.html) 
-  7. [http://html5doctor.com/the-woes-of-date-input/](http://html5doctor.com/the-woes-of-date-input/) 
-  8. [http://www.zell-weekeat.com/responsive-typography/](http://www.zell-weekeat.com/responsive-typography/) 
-  9. [http://code.tutsplus.com/tutorials/how-to-create-a-to-do-list-app-with-polymer-and-cordova--cms-25434](http://code.tutsplus.com/tutorials/how-to-create-a-to-do-list-app-with-polymer-and-cordova--cms-25434) 
-  10. [http://code.tutsplus.com/tutorials/getting-started-with-telerik-appbuilder--cms-25537](http://code.tutsplus.com/tutorials/getting-started-with-telerik-appbuilder--cms-25537) 
-  11. [http://www.appcelerator.com/blog/2016/01/axway-acquires-appcelerator-and-why-this-is-great-news-for-all/](http://www.appcelerator.com/blog/2016/01/axway-acquires-appcelerator-and-why-this-is-great-news-for-all/) 
-  12. [http://developer.telerik.com/featured/nativescript-for-appcelerator-developers/](http://developer.telerik.com/featured/nativescript-for-appcelerator-developers/) 
-  13. [http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/) 
-  14. [https://blog.nraboy.com/2016/01/use-android-palette-class-nativescript/](https://blog.nraboy.com/2016/01/use-android-palette-class-nativescript/) 
-  15. [http://mcgivery.com/soap-web-services-angular-ionic/](http://mcgivery.com/soap-web-services-angular-ionic/) 
-  16. [http://www.andygup.net/cordova-plugin-advanced-geolocation/](http://www.andygup.net/cordova-plugin-advanced-geolocation/) 
-  17. [https://hired.com/](https://hired.com/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
