@@ -1,6 +1,32 @@
-## Updated news for 2016-02-24 
+## Updated news for 2016-02-25 
 
 ==========
+## This Week in Mobile Web Development (#96)
+#### http://mobilewebweekly.co/issues/96
+
+==========
+  1. [https://searchenginewatch.com/2016/02/23/google-has-launched-accelerated-mobile-pages/](https://searchenginewatch.com/2016/02/23/google-has-launched-accelerated-mobile-pages/) 
+  2. [http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147](http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147) 
+  3. [http://blog.cloudfour.com/responsive-guide-to-type-sizing/](http://blog.cloudfour.com/responsive-guide-to-type-sizing/) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/) 
+  7. [http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/](http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/) 
+  8. [http://www.quirksmode.org/blog/archives/2016/02/viewports_visua.html](http://www.quirksmode.org/blog/archives/2016/02/viewports_visua.html) 
+  9. [https://github.com/VPenkov/okayNav](https://github.com/VPenkov/okayNav) 
+  10. [https://www.nativescript.org/blog/nativescript-1.6-available-now](https://www.nativescript.org/blog/nativescript-1.6-available-now) 
+  11. [http://mobile.nytimes.com/2016/02/21/opinion/sunday/the-ad-blocking-wars.html](http://mobile.nytimes.com/2016/02/21/opinion/sunday/the-ad-blocking-wars.html) 
+  12. [http://shripalsoni.com/blog/nativescript-cross-platform-image-manipulation/](http://shripalsoni.com/blog/nativescript-cross-platform-image-manipulation/) 
+  13. [https://auth0.com/blog/2016/02/18/ionic-2-authentication-how-to-secure-your-mobile-app-with-jwt/](https://auth0.com/blog/2016/02/18/ionic-2-authentication-how-to-secure-your-mobile-app-with-jwt/) 
+  14. [http://phonegap.com/blog/2016/02/19/browser/](http://phonegap.com/blog/2016/02/19/browser/) 
+  15. [http://phonegap.com/blog/2016/02/18/pgday-us-2016-mind-the-gap/](http://phonegap.com/blog/2016/02/18/pgday-us-2016-mind-the-gap/) 
+  16. [https://github.com/digitaldrummerj/vscode-ionic1-snippets](https://github.com/digitaldrummerj/vscode-ionic1-snippets) 
+  17. [https://github.com/aaronksaunders/kinvey-starter-ionic](https://github.com/aaronksaunders/kinvey-starter-ionic) 
+  18. [https://github.com/benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 
+  19. [http://go.pluralsight.com/C0004110](http://go.pluralsight.com/C0004110) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#95)
 #### http://mobilewebweekly.co/issues/95
 
@@ -73,30 +99,5 @@
   19. [https://hired.com/](https://hired.com/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#92)
-#### http://mobilewebweekly.co/issues/92
-
-==========
-  1. [https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/](https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/) 
-  2. [http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/](http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/) 
-  3. [http://www.macrumors.com/2016/01/27/google-chrome-ios-reducing-crashes/](http://www.macrumors.com/2016/01/27/google-chrome-ios-reducing-crashes/) 
-  4. [https://www.imgix.com/](https://www.imgix.com/) 
-  6. [http://www.sitepoint.com/fast-lightweight-data-storage-for-cordova-apps-with-lokijs/](http://www.sitepoint.com/fast-lightweight-data-storage-for-cordova-apps-with-lokijs/) 
-  7. [https://github.com/contra/rtc-everywhere](https://github.com/contra/rtc-everywhere) 
-  8. [http://www.alphasoftware.com/blog/hybrid-applications-phonegap-client-side-data/](http://www.alphasoftware.com/blog/hybrid-applications-phonegap-client-side-data/) 
-  9. [https://blog.nraboy.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/](https://blog.nraboy.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/) 
-  10. [http://techcrunch.com/2016/01/26/facebook-updates-audience-network-to-include-support-for-mobile-web/](http://techcrunch.com/2016/01/26/facebook-updates-audience-network-to-include-support-for-mobile-web/) 
-  11. [http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/](http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/) 
-  12. [http://www.sitepoint.com/foundation-6-menu-component/](http://www.sitepoint.com/foundation-6-menu-component/) 
-  13. [http://www.creativebloq.com/ux/5-ways-speed-your-design-ui-kits-11618753](http://www.creativebloq.com/ux/5-ways-speed-your-design-ui-kits-11618753) 
-  14. [http://developer.mobilecaddy.net/2016/01/ngcordova-contributing-a-plugin-mock-with-tests/](http://developer.mobilecaddy.net/2016/01/ngcordova-contributing-a-plugin-mock-with-tests/) 
-  15. [https://brosteins.com/2016/01/19/persist-nativescript-app-data-app-closed/](https://brosteins.com/2016/01/19/persist-nativescript-app-data-app-closed/) 
-  16. [https://github.com/roshanca/starter-framework7](https://github.com/roshanca/starter-framework7) 
-  17. [http://www.raymondcamden.com/2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment/](http://www.raymondcamden.com/2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment/) 
-  18. [https://hired.com/](https://hired.com/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
