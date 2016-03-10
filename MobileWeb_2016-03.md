@@ -1,6 +1,31 @@
-## Updated news for 2016-03-09 
+## Updated news for 2016-03-10 
 
 ==========
+## This Week in Mobile Web Development (#98)
+#### http://mobilewebweekly.co/issues/98
+
+==========
+  1. [https://ponyframe.com/](https://ponyframe.com/) 
+  2. [http://www.sitepoint.com/top-5-breakout-mobile-design-trends-2016/](http://www.sitepoint.com/top-5-breakout-mobile-design-trends-2016/) 
+  3. [http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html](http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html) 
+  4. [https://attendee.gotowebinar.com/register/8215086160423701762](https://attendee.gotowebinar.com/register/8215086160423701762) 
+  6. [http://www.sitepoint.com/easy-dynamic-on-demand-image-resizing-with-glide/](http://www.sitepoint.com/easy-dynamic-on-demand-image-resizing-with-glide/) 
+  7. [http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993](http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) 
+  8. [http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/](http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/) 
+  9. [http://phonegap.com/blog/2016/03/04/pgdayus2016-phonegap-apps-with-ember/](http://phonegap.com/blog/2016/03/04/pgdayus2016-phonegap-apps-with-ember/) 
+  10. [http://developer.telerik.com/content-types/opinion/my-nativescript-experience/](http://developer.telerik.com/content-types/opinion/my-nativescript-experience/) 
+  11. [http://eclipsesource.com/blogs/2016/02/29/tabris-js-declarative-ui-in-100-lines-of-functional-programming/](http://eclipsesource.com/blogs/2016/02/29/tabris-js-declarative-ui-in-100-lines-of-functional-programming/) 
+  12. [http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) 
+  13. [http://coenraets.org/blog/2016/03/ionic2-ios-material-design/](http://coenraets.org/blog/2016/03/ionic2-ios-material-design/) 
+  14. [https://medium.com/@lkrenek/xamarin-vs-nativescript-custom-list-view-cells-806ea9f7f9df](https://medium.com/@lkrenek/xamarin-vs-nativescript-custom-list-view-cells-806ea9f7f9df) 
+  15. [https://onsen.io/blog/new-features-onsen-beta-7/](https://onsen.io/blog/new-features-onsen-beta-7/) 
+  16. [http://www.timo-ernst.net/blog/2016/03/04/use-angular-router-framework7/](http://www.timo-ernst.net/blog/2016/03/04/use-angular-router-framework7/) 
+  17. [http://developer.telerik.com/featured/creating-nativescript-plugins-in-typescript/](http://developer.telerik.com/featured/creating-nativescript-plugins-in-typescript/) 
+  18. [https://hired.com/](https://hired.com/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#97)
 #### http://mobilewebweekly.co/issues/97
 
@@ -75,30 +100,5 @@
   17. [https://hired.com/](https://hired.com/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#94)
-#### http://mobilewebweekly.co/issues/94
-
-==========
-  1. [http://www.gajotres.net/jquery-mobile-1-5-its-alive/](http://www.gajotres.net/jquery-mobile-1-5-its-alive/) 
-  2. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/) 
-  3. [https://medium.com/intercom-inside/why-mobile-first-is-outdated-f10a3dc357bd](https://medium.com/intercom-inside/why-mobile-first-is-outdated-f10a3dc357bd) 
-  4. [http://blog.rangle.io/the-mobile-ecosystem-in-2016-and-what-you-need-to-know/](http://blog.rangle.io/the-mobile-ecosystem-in-2016-and-what-you-need-to-know/) 
-  6. [http://adage.com/article/digital/google-amp-launch-looms-search-engine-scores-follow/302599/](http://adage.com/article/digital/google-amp-launch-looms-search-engine-scores-follow/302599/) 
-  7. [https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f](https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f) 
-  8. [https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f](https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f) 
-  9. [http://coenraets.org/blog/2016/01/ionicrealty-new-ionic-2-sample-application/](http://coenraets.org/blog/2016/01/ionicrealty-new-ionic-2-sample-application/) 
-  10. [http://www.theverge.com/2016/2/4/10915930/mozilla-firefox-os-internet-of-things](http://www.theverge.com/2016/2/4/10915930/mozilla-firefox-os-internet-of-things) 
-  11. [http://phonegap.com/blog/2016/02/09/phonegap_6_now_on_build/](http://phonegap.com/blog/2016/02/09/phonegap_6_now_on_build/) 
-  12. [http://phonegap.com/blog/2016/01/21/rangle-guest-post/](http://phonegap.com/blog/2016/01/21/rangle-guest-post/) 
-  13. [https://github.com/yafraorg/yafra/wiki/Blog-Ionic-PushV5](https://github.com/yafraorg/yafra/wiki/Blog-Ionic-PushV5) 
-  14. [http://astro.mobify.com/](http://astro.mobify.com/) 
-  15. [http://www.sitepoint.com/20-docs-guides-front-end-developers-7/](http://www.sitepoint.com/20-docs-guides-front-end-developers-7/) 
-  16. [https://medium.com/modus-create-front-end-development/new-in-cordova-6-app-templates-using-git-24bcacc96b39](https://medium.com/modus-create-front-end-development/new-in-cordova-6-app-templates-using-git-24bcacc96b39) 
-  17. [http://developer.telerik.com/featured/ios-app-distribution-7-steps/](http://developer.telerik.com/featured/ios-app-distribution-7-steps/) 
-  18. [https://hired.com/](https://hired.com/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
