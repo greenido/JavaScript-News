@@ -1,6 +1,34 @@
-## Updated news for 2016-03-16 
+## Updated news for 2016-03-17 
 
 ==========
+## This Week in Mobile Web Development (#99)
+#### http://mobilewebweekly.co/issues/99
+
+==========
+  1. [https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile) 
+  2. [http://www.joshmorony.com/7-reasons-why-ionic-2-is-better-than-ionic-1/](http://www.joshmorony.com/7-reasons-why-ionic-2-is-better-than-ionic-1/) 
+  3. [https://css-tricks.com/lodge/artists-website/](https://css-tricks.com/lodge/artists-website/) 
+  4. [https://www.imgix.com/](https://www.imgix.com/) 
+  6. [https://css-tricks.com/rem-global-em-local/](https://css-tricks.com/rem-global-em-local/) 
+  7. [https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps) 
+  8. [http://code.tutsplus.com/tutorials/getting-started-with-ionic-introduction--cms-25919](http://code.tutsplus.com/tutorials/getting-started-with-ionic-introduction--cms-25919) 
+  9. [https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/](https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/) 
+  10. [https://www.smashingmagazine.com/2016/03/never-ending-story-ad-blockers/](https://www.smashingmagazine.com/2016/03/never-ending-story-ad-blockers/) 
+  11. [http://www.quirksmode.org/blog/archives/2016/03/the_webs_origin.html](http://www.quirksmode.org/blog/archives/2016/03/the_webs_origin.html) 
+  12. [https://uxplanet.org/how-to-make-users-think-your-app-loads-faster-24052fe307bf](https://uxplanet.org/how-to-make-users-think-your-app-loads-faster-24052fe307bf) 
+  13. [http://javebratt.com/first-ionic-framework-app/](http://javebratt.com/first-ionic-framework-app/) 
+  14. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-6/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-6/) 
+  15. [https://contently.com/strategist/2016/03/15/mobile-web-sucks-google-amp-solution/](https://contently.com/strategist/2016/03/15/mobile-web-sucks-google-amp-solution/) 
+  16. [https://github.com/tolu360/Cordova-Plugin-Paystack](https://github.com/tolu360/Cordova-Plugin-Paystack) 
+  17. [http://hwclass.in/2016/03/09/the-next-generation-of-browser-apis/](http://hwclass.in/2016/03/09/the-next-generation-of-browser-apis/) 
+  18. [http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/](http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/) 
+  19. [http://bradmartin.net/2016/03/10/fullscreen-and-navigation-bar-color-in-a-nativescript-android-app/](http://bradmartin.net/2016/03/10/fullscreen-and-navigation-bar-color-in-a-nativescript-android-app/) 
+  20. [http://www.blog.bradleygore.com/2016/03/12/custom-nativescript-components/](http://www.blog.bradleygore.com/2016/03/12/custom-nativescript-components/) 
+  21. [https://hired.com/](https://hired.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#98)
 #### http://mobilewebweekly.co/issues/98
 
@@ -77,28 +105,5 @@
   19. [http://go.pluralsight.com/C0004110](http://go.pluralsight.com/C0004110) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#95)
-#### http://mobilewebweekly.co/issues/95
-
-==========
-  1. [https://medium.com/ionic-and-the-mobile-web/the-rise-of-the-mobile-web-2f811e0e69c7](https://medium.com/ionic-and-the-mobile-web/the-rise-of-the-mobile-web-2f811e0e69c7) 
-  2. [https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/](https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/) 
-  3. [https://www.smashingmagazine.com/2016/02/building-first-class-app-leverages-website-case-study/](https://www.smashingmagazine.com/2016/02/building-first-class-app-leverages-website-case-study/) 
-  4. [https://www.imgix.com/](https://www.imgix.com/) 
-  6. [https://gist.github.com/gajus/bbf06ea2e37047b01e70](https://gist.github.com/gajus/bbf06ea2e37047b01e70) 
-  7. [http://blog.ionic.io/announcing-ionic-framework-2-beta/](http://blog.ionic.io/announcing-ionic-framework-2-beta/) 
-  8. [http://www.sitepoint.com/remote-debugging-for-front-end-developers/](http://www.sitepoint.com/remote-debugging-for-front-end-developers/) 
-  9. [https://onsen.io/blog/what-is-material-design/](https://onsen.io/blog/what-is-material-design/) 
-  10. [https://medium.com/@BryanJustinPon/winners-and-losers-in-the-global-app-economy-6ac6d2053576](https://medium.com/@BryanJustinPon/winners-and-losers-in-the-global-app-economy-6ac6d2053576) 
-  11. [https://auth0.com/blog/2016/02/16/migrating-your-parse-users-to-auth0/](https://auth0.com/blog/2016/02/16/migrating-your-parse-users-to-auth0/) 
-  13. [http://www.quirksmode.org/blog/archives/2016/02/chrome_change_b.html](http://www.quirksmode.org/blog/archives/2016/02/chrome_change_b.html) 
-  14. [https://blog.nraboy.com/2016/02/monetize-google-admob-ionic-2-mobile-app/](https://blog.nraboy.com/2016/02/monetize-google-admob-ionic-2-mobile-app/) 
-  15. [https://github.com/tsubik/ionic2-geofence](https://github.com/tsubik/ionic2-geofence) 
-  16. [http://phonegap.com/blog/2016/02/16/git-backed-plugins/](http://phonegap.com/blog/2016/02/16/git-backed-plugins/) 
-  17. [https://hired.com/](https://hired.com/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
