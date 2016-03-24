@@ -1,6 +1,31 @@
-## Updated news for 2016-03-23 
+## Updated news for 2016-03-24 
 
 ==========
+## This Week in Mobile Web Development (#100)
+#### http://mobilewebweekly.co/issues/100
+
+==========
+  1. [https://developers.google.com/web/updates/2016/03/device-mode-v2](https://developers.google.com/web/updates/2016/03/device-mode-v2) 
+  2. [https://remysharp.com/2016/03/18/progressive-web-apps-the-long-game](https://remysharp.com/2016/03/18/progressive-web-apps-the-long-game) 
+  3. [https://www.smashingmagazine.com/2016/03/googles-mobilegeddon-aftermath-eight-months-better-mobile-web/](https://www.smashingmagazine.com/2016/03/googles-mobilegeddon-aftermath-eight-months-better-mobile-web/) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [https://joreteg.com/blog/why-i-switched-to-android](https://joreteg.com/blog/why-i-switched-to-android) 
+  7. [http://recode.net/2016/03/21/is-the-term-mobile-first-becoming-outmoded/](http://recode.net/2016/03/21/is-the-term-mobile-first-becoming-outmoded/) 
+  8. [http://snook.ca/archives/opinion/value-truly-rwd](http://snook.ca/archives/opinion/value-truly-rwd) 
+  9. [https://www.nativescript.org/blog/nativescript-1.7-announcement](https://www.nativescript.org/blog/nativescript-1.7-announcement) 
+  10. [https://www.nativescript.org/blog/nativescript-runtime-preview-for-windows-10](https://www.nativescript.org/blog/nativescript-runtime-preview-for-windows-10) 
+  11. [https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization](https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization) 
+  12. [https://www.thinkwithgoogle.com/topics/designing-for-mobile-micro-moments.html](https://www.thinkwithgoogle.com/topics/designing-for-mobile-micro-moments.html) 
+  13. [http://phonegap.com/blog/2016/03/17/pgdayus2016-fixing-continuous-delivery-for-mobile/](http://phonegap.com/blog/2016/03/17/pgdayus2016-fixing-continuous-delivery-for-mobile/) 
+  14. [https://github.com/AlexDisler/cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) 
+  15. [http://ionicallyspeaking.com/2016/03/17/ionic-the-truly-progressive-web-app-framework/](http://ionicallyspeaking.com/2016/03/17/ionic-the-truly-progressive-web-app-framework/) 
+  16. [https://greenido.wordpress.com/2016/03/21/progressive-web-apps-offline-and-add-to-home-screen/](https://greenido.wordpress.com/2016/03/21/progressive-web-apps-offline-and-add-to-home-screen/) 
+  17. [https://news.ycombinator.com/item](https://news.ycombinator.com/item) 
+  18. [https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443](https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#99)
 #### http://mobilewebweekly.co/issues/99
 
@@ -79,31 +104,5 @@
   20. [https://hired.com/](https://hired.com/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#96)
-#### http://mobilewebweekly.co/issues/96
-
-==========
-  1. [https://searchenginewatch.com/2016/02/23/google-has-launched-accelerated-mobile-pages/](https://searchenginewatch.com/2016/02/23/google-has-launched-accelerated-mobile-pages/) 
-  2. [http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147](http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147) 
-  3. [http://blog.cloudfour.com/responsive-guide-to-type-sizing/](http://blog.cloudfour.com/responsive-guide-to-type-sizing/) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/) 
-  7. [http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/](http://techcrunch.com/2016/02/24/wordpress-sites-now-support-googles-amp-to-make-mobile-pages-load-much-faster/) 
-  8. [http://www.quirksmode.org/blog/archives/2016/02/viewports_visua.html](http://www.quirksmode.org/blog/archives/2016/02/viewports_visua.html) 
-  9. [https://github.com/VPenkov/okayNav](https://github.com/VPenkov/okayNav) 
-  10. [https://www.nativescript.org/blog/nativescript-1.6-available-now](https://www.nativescript.org/blog/nativescript-1.6-available-now) 
-  11. [http://mobile.nytimes.com/2016/02/21/opinion/sunday/the-ad-blocking-wars.html](http://mobile.nytimes.com/2016/02/21/opinion/sunday/the-ad-blocking-wars.html) 
-  12. [http://shripalsoni.com/blog/nativescript-cross-platform-image-manipulation/](http://shripalsoni.com/blog/nativescript-cross-platform-image-manipulation/) 
-  13. [https://auth0.com/blog/2016/02/18/ionic-2-authentication-how-to-secure-your-mobile-app-with-jwt/](https://auth0.com/blog/2016/02/18/ionic-2-authentication-how-to-secure-your-mobile-app-with-jwt/) 
-  14. [http://phonegap.com/blog/2016/02/19/browser/](http://phonegap.com/blog/2016/02/19/browser/) 
-  15. [http://phonegap.com/blog/2016/02/18/pgday-us-2016-mind-the-gap/](http://phonegap.com/blog/2016/02/18/pgday-us-2016-mind-the-gap/) 
-  16. [https://github.com/digitaldrummerj/vscode-ionic1-snippets](https://github.com/digitaldrummerj/vscode-ionic1-snippets) 
-  17. [https://github.com/aaronksaunders/kinvey-starter-ionic](https://github.com/aaronksaunders/kinvey-starter-ionic) 
-  18. [https://github.com/benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 
-  19. [http://go.pluralsight.com/C0004110](http://go.pluralsight.com/C0004110) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
