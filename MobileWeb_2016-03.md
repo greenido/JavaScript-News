@@ -1,6 +1,34 @@
 ## Updated news for 2016-03-30 
 
 ==========
+## This Week in Mobile Web Development (#101)
+#### http://mobilewebweekly.co/issues/101
+
+==========
+  1. [http://www.sitepoint.com/responsive-web-components/](http://www.sitepoint.com/responsive-web-components/) 
+  2. [https://speckyboy.com/2016/03/22/mobile-web-design-adaptations-better-ux/](https://speckyboy.com/2016/03/22/mobile-web-design-adaptations-better-ux/) 
+  3. [https://medium.com/@sebabenz/how-to-avoid-common-mistakes-when-publishing-accelerated-mobile-pages-9ea61abf530f](https://medium.com/@sebabenz/how-to-avoid-common-mistakes-when-publishing-accelerated-mobile-pages-9ea61abf530f) 
+  4. [http://go.rangle.io/webinar-intro-to-react-native](http://go.rangle.io/webinar-intro-to-react-native) 
+  6. [http://www.benfarrell.com/2016/02/26/progressive-web-apps/](http://www.benfarrell.com/2016/02/26/progressive-web-apps/) 
+  7. [http://zellwk.com/blog/media-query-units/](http://zellwk.com/blog/media-query-units/) 
+  8. [https://www.toptal.com/ionic/most-common-ionic-development-mistakes](https://www.toptal.com/ionic/most-common-ionic-development-mistakes) 
+  9. [http://blog.ionic.io/announcing-windows-support-in-ionic-2/](http://blog.ionic.io/announcing-windows-support-in-ionic-2/) 
+  10. [http://venturebeat.com/2016/03/16/google-will-start-ranking-mobile-friendly-sites-even-higher-in-may/](http://venturebeat.com/2016/03/16/google-will-start-ranking-mobile-friendly-sites-even-higher-in-may/) 
+  11. [https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first/](https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first/) 
+  12. [http://eclipsesource.com/blogs/2016/03/29/announcement-windows-10-support-coming-to-tabris-js/](http://eclipsesource.com/blogs/2016/03/29/announcement-windows-10-support-coming-to-tabris-js/) 
+  13. [http://cordova.apache.org/news/2016/03/23/tools-release.html](http://cordova.apache.org/news/2016/03/23/tools-release.html) 
+  14. [https://speckyboy.com/2016/03/28/tips-creating-beautiful-engaging-ui/](https://speckyboy.com/2016/03/28/tips-creating-beautiful-engaging-ui/) 
+  15. [http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/) 
+  16. [http://www.raymondcamden.com/2016/03/28/tesing-the-new-ionic-user-service/](http://www.raymondcamden.com/2016/03/28/tesing-the-new-ionic-user-service/) 
+  17. [https://paulbakaus.com/2016/03/28/amp-and-the-sandbox-policy/](https://paulbakaus.com/2016/03/28/amp-and-the-sandbox-policy/) 
+  18. [http://blog.avisi.nl/2016/03/08/cross-platform-certificate-access-with-cordova-part-2-ios/](http://blog.avisi.nl/2016/03/08/cross-platform-certificate-access-with-cordova-part-2-ios/) 
+  19. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-7/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-7/) 
+  20. [http://bradmartin.net/2016/03/23/chrome-custom-tabs-with-nativescript/](http://bradmartin.net/2016/03/23/chrome-custom-tabs-with-nativescript/) 
+  21. [https://hired.com/](https://hired.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#100)
 #### http://mobilewebweekly.co/issues/100
 
@@ -77,32 +105,5 @@
   18. [https://hired.com/](https://hired.com/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#97)
-#### http://mobilewebweekly.co/issues/97
-
-==========
-  1. [https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/) 
-  2. [http://www.creativebloq.com/web-design/create-mobile-friendly-interactive-maps-21619305](http://www.creativebloq.com/web-design/create-mobile-friendly-interactive-maps-21619305) 
-  3. [http://leafletjs.com/](http://leafletjs.com/) 
-  4. [http://codepen.io/thierry/pen/ZQgEoZ](http://codepen.io/thierry/pen/ZQgEoZ) 
-  5. [http://blog.rangle.io/get-started-with-ionic-2-tutorial/](http://blog.rangle.io/get-started-with-ionic-2-tutorial/) 
-  7. [http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/](http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/) 
-  8. [http://webdesign.tutsplus.com/articles/amp-project-will-it-make-your-sites-faster--cms-25853](http://webdesign.tutsplus.com/articles/amp-project-will-it-make-your-sites-faster--cms-25853) 
-  9. [https://paulbakaus.com/2016/02/26/life-after-amp/](https://paulbakaus.com/2016/02/26/life-after-amp/) 
-  10. [https://css-tricks.com/taking-amp-for-a-spin/](https://css-tricks.com/taking-amp-for-a-spin/) 
-  11. [http://devgirl.org/2016/02/25/phonegap-newsflash/](http://devgirl.org/2016/02/25/phonegap-newsflash/) 
-  12. [http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935](http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935) 
-  13. [http://www.brucelawson.co.uk/2016/on-ad-blocking/](http://www.brucelawson.co.uk/2016/on-ad-blocking/) 
-  14. [http://coenraets.org/blog/2016/02/angular2-ionic2-salesforce/](http://coenraets.org/blog/2016/02/angular2-ionic2-salesforce/) 
-  15. [http://www.niemanlab.org/2016/02/diving-all-in-or-dipping-a-toe-how-publishers-are-approaching-googles-accelerated-mobile-pages-initiative/](http://www.niemanlab.org/2016/02/diving-all-in-or-dipping-a-toe-how-publishers-are-approaching-googles-accelerated-mobile-pages-initiative/) 
-  16. [https://alexdisler.com/2016/02/29/in-app-purchases-ionic-cordova/](https://alexdisler.com/2016/02/29/in-app-purchases-ionic-cordova/) 
-  17. [https://event.on24.com/eventRegistration/EventLobbyServlet](https://event.on24.com/eventRegistration/EventLobbyServlet) 
-  18. [http://blogs.adobe.com/aemmobile/2016/02/announcing-adobe-experience-manager-mobile.html](http://blogs.adobe.com/aemmobile/2016/02/announcing-adobe-experience-manager-mobile.html) 
-  19. [http://developer.telerik.com/featured/using-native-libraries-in-nativescript/](http://developer.telerik.com/featured/using-native-libraries-in-nativescript/) 
-  20. [https://hired.com/](https://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
