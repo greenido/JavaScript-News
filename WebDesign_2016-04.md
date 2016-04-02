@@ -1,4 +1,4 @@
-## Updated news for 2016-04-01 
+## Updated news for 2016-04-02 
 
 ==========
 ## CSS and Scalability
