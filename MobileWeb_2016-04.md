@@ -1,6 +1,37 @@
 ## Updated news for 2016-04-06 
 
 ==========
+## This Week in Mobile Web Development (#102)
+#### http://mobilewebweekly.co/issues/102
+
+==========
+  1. [http://1stwebdesigner.com/responsive-design-breakpoints/](http://1stwebdesigner.com/responsive-design-breakpoints/) 
+  2. [http://babich.biz/perfect-bottom-navigation-for-mobile-app/](http://babich.biz/perfect-bottom-navigation-for-mobile-app/) 
+  4. [https://gonative.io/](https://gonative.io/) 
+  5. [https://gonative.io/examples](https://gonative.io/examples) 
+  6. [https://gonative.io/](https://gonative.io/) 
+  7. [https://opensource.com/life/16/4/accelerated-mobile-pages-amp-open-or-closed](https://opensource.com/life/16/4/accelerated-mobile-pages-amp-open-or-closed) 
+  8. [http://angularjs.blogspot.com/2016/03/code-reuse-in-angular-2-native-mobile.html](http://angularjs.blogspot.com/2016/03/code-reuse-in-angular-2-native-mobile.html) 
+  9. [http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/](http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/) 
+  10. [https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/](https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/) 
+  11. [https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/](https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/) 
+  12. [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+  13. [https://onsen.io/blog/react-onsen-ui-navigator-tabs/](https://onsen.io/blog/react-onsen-ui-navigator-tabs/) 
+  14. [https://speckyboy.com/2016/03/29/optimize-image-delivery-efficiently-cost-effectively/](https://speckyboy.com/2016/03/29/optimize-image-delivery-efficiently-cost-effectively/) 
+  15. [https://github.com/Microsoft/vscode-react-native](https://github.com/Microsoft/vscode-react-native) 
+  16. [https://reactstrap.github.io/](https://reactstrap.github.io/) 
+  17. [http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/) 
+  18. [https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/](https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/) 
+  19. [https://onsen.io/blog/react-onsen-ui-preview/](https://onsen.io/blog/react-onsen-ui-preview/) 
+  20. [https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/](https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/) 
+  21. [http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/](http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/) 
+  22. [http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/](http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/) 
+  23. [http://app.jobvite.com/m](http://app.jobvite.com/m) 
+  25. [https://hired.com/](https://hired.com/) 
+  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#101)
 #### http://mobilewebweekly.co/issues/101
 
@@ -80,30 +111,5 @@
   21. [https://hired.com/](https://hired.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#98)
-#### http://mobilewebweekly.co/issues/98
-
-==========
-  1. [https://ponyframe.com/](https://ponyframe.com/) 
-  2. [http://www.sitepoint.com/top-5-breakout-mobile-design-trends-2016/](http://www.sitepoint.com/top-5-breakout-mobile-design-trends-2016/) 
-  3. [http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html](http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html) 
-  4. [https://attendee.gotowebinar.com/register/8215086160423701762](https://attendee.gotowebinar.com/register/8215086160423701762) 
-  6. [http://www.sitepoint.com/easy-dynamic-on-demand-image-resizing-with-glide/](http://www.sitepoint.com/easy-dynamic-on-demand-image-resizing-with-glide/) 
-  7. [http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993](http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) 
-  8. [http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/](http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/) 
-  9. [http://phonegap.com/blog/2016/03/04/pgdayus2016-phonegap-apps-with-ember/](http://phonegap.com/blog/2016/03/04/pgdayus2016-phonegap-apps-with-ember/) 
-  10. [http://developer.telerik.com/content-types/opinion/my-nativescript-experience/](http://developer.telerik.com/content-types/opinion/my-nativescript-experience/) 
-  11. [http://eclipsesource.com/blogs/2016/02/29/tabris-js-declarative-ui-in-100-lines-of-functional-programming/](http://eclipsesource.com/blogs/2016/02/29/tabris-js-declarative-ui-in-100-lines-of-functional-programming/) 
-  12. [http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) 
-  13. [http://coenraets.org/blog/2016/03/ionic2-ios-material-design/](http://coenraets.org/blog/2016/03/ionic2-ios-material-design/) 
-  14. [https://medium.com/@lkrenek/xamarin-vs-nativescript-custom-list-view-cells-806ea9f7f9df](https://medium.com/@lkrenek/xamarin-vs-nativescript-custom-list-view-cells-806ea9f7f9df) 
-  15. [https://onsen.io/blog/new-features-onsen-beta-7/](https://onsen.io/blog/new-features-onsen-beta-7/) 
-  16. [http://www.timo-ernst.net/blog/2016/03/04/use-angular-router-framework7/](http://www.timo-ernst.net/blog/2016/03/04/use-angular-router-framework7/) 
-  17. [http://developer.telerik.com/featured/creating-nativescript-plugins-in-typescript/](http://developer.telerik.com/featured/creating-nativescript-plugins-in-typescript/) 
-  18. [https://hired.com/](https://hired.com/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
