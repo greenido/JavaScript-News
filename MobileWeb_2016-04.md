@@ -1,4 +1,4 @@
-## Updated news for 2016-04-06 
+## Updated news for 2016-04-07 
 
 ==========
 ## This Week in Mobile Web Development (#102)
@@ -15,21 +15,18 @@
   9. [http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/](http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/) 
   10. [https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/](https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/) 
   11. [https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/](https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/) 
-  12. [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/) 
-  13. [https://onsen.io/blog/react-onsen-ui-navigator-tabs/](https://onsen.io/blog/react-onsen-ui-navigator-tabs/) 
-  14. [https://speckyboy.com/2016/03/29/optimize-image-delivery-efficiently-cost-effectively/](https://speckyboy.com/2016/03/29/optimize-image-delivery-efficiently-cost-effectively/) 
-  15. [https://github.com/Microsoft/vscode-react-native](https://github.com/Microsoft/vscode-react-native) 
-  16. [https://reactstrap.github.io/](https://reactstrap.github.io/) 
-  17. [http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/) 
-  18. [https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/](https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/) 
-  19. [https://onsen.io/blog/react-onsen-ui-preview/](https://onsen.io/blog/react-onsen-ui-preview/) 
-  20. [https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/](https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/) 
-  21. [http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/](http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/) 
-  22. [http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/](http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/) 
-  23. [http://app.jobvite.com/m](http://app.jobvite.com/m) 
-  25. [https://hired.com/](https://hired.com/) 
-  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+  12. [https://onsen.io/blog/react-onsen-ui-navigator-tabs/](https://onsen.io/blog/react-onsen-ui-navigator-tabs/) 
+  13. [https://reactstrap.github.io/](https://reactstrap.github.io/) 
+  14. [http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/) 
+  15. [https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/](https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/) 
+  16. [https://onsen.io/blog/react-onsen-ui-preview/](https://onsen.io/blog/react-onsen-ui-preview/) 
+  17. [https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/](https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/) 
+  18. [http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/](http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/) 
+  19. [http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/](http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/) 
+  20. [https://hired.com/](https://hired.com/) 
+  22. [http://app.jobvite.com/m](http://app.jobvite.com/m) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
 ## This Week in Mobile Web Development (#101)
