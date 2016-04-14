@@ -1,6 +1,34 @@
-## Updated news for 2016-04-13 
+## Updated news for 2016-04-14 
 
 ==========
+## This Week in Mobile Web Development (#103)
+#### http://mobilewebweekly.co/issues/103
+
+==========
+  1. [https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e](https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e) 
+  2. [https://ampbyexample.com/](https://ampbyexample.com/) 
+  3. [http://developer.telerik.com/featured/are-progressive-web-apps-future/](http://developer.telerik.com/featured/are-progressive-web-apps-future/) 
+  4. [https://hired.com/](https://hired.com/) 
+  7. [https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md) 
+  8. [http://www.wsj.com/articles/facebook-says-users-show-preference-for-instant-articles-over-mobile-web-articles-1460497160](http://www.wsj.com/articles/facebook-says-users-show-preference-for-instant-articles-over-mobile-web-articles-1460497160) 
+  9. [http://www.quirksmode.org/blog/archives/2016/04/responsive_imag.html](http://www.quirksmode.org/blog/archives/2016/04/responsive_imag.html) 
+  10. [https://remysharp.com/2016/04/11/the-webapp-discovery-problem](https://remysharp.com/2016/04/11/the-webapp-discovery-problem) 
+  11. [http://phonegap.com/blog/2016/04/11/bitbucket-and-gitlab-repo-oauth-supported/](http://phonegap.com/blog/2016/04/11/bitbucket-and-gitlab-repo-oauth-supported/) 
+  12. [https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/) 
+  13. [http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/](http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/) 
+  14. [https://www.thepolyglotdeveloper.com/2016/04/send-emails-nativescript-app-via-rackspace-mailgun-api/](https://www.thepolyglotdeveloper.com/2016/04/send-emails-nativescript-app-via-rackspace-mailgun-api/) 
+  15. [https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/](https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/) 
+  16. [https://stanfy.com/blog/how-to-validate-your-mobile-app-idea-and-make-people-love-it/](https://stanfy.com/blog/how-to-validate-your-mobile-app-idea-and-make-people-love-it/) 
+  17. [https://gonative.io/](https://gonative.io/) 
+  18. [https://gonative.io/examples](https://gonative.io/examples) 
+  19. [https://gonative.io/](https://gonative.io/) 
+  21. [https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/](https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/) 
+  22. [https://medium.com/net-magazine/the-web-cryptography-api-15d052271494](https://medium.com/net-magazine/the-web-cryptography-api-15d052271494) 
+  23. [http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/](http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#102)
 #### http://mobilewebweekly.co/issues/102
 
@@ -80,33 +108,5 @@
   18. [https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443](https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#99)
-#### http://mobilewebweekly.co/issues/99
-
-==========
-  1. [https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile) 
-  2. [http://www.joshmorony.com/7-reasons-why-ionic-2-is-better-than-ionic-1/](http://www.joshmorony.com/7-reasons-why-ionic-2-is-better-than-ionic-1/) 
-  3. [https://css-tricks.com/lodge/artists-website/](https://css-tricks.com/lodge/artists-website/) 
-  4. [https://www.imgix.com/](https://www.imgix.com/) 
-  6. [https://css-tricks.com/rem-global-em-local/](https://css-tricks.com/rem-global-em-local/) 
-  7. [https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps) 
-  8. [http://code.tutsplus.com/tutorials/getting-started-with-ionic-introduction--cms-25919](http://code.tutsplus.com/tutorials/getting-started-with-ionic-introduction--cms-25919) 
-  9. [https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/](https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/) 
-  10. [https://www.smashingmagazine.com/2016/03/never-ending-story-ad-blockers/](https://www.smashingmagazine.com/2016/03/never-ending-story-ad-blockers/) 
-  11. [http://www.quirksmode.org/blog/archives/2016/03/the_webs_origin.html](http://www.quirksmode.org/blog/archives/2016/03/the_webs_origin.html) 
-  12. [https://uxplanet.org/how-to-make-users-think-your-app-loads-faster-24052fe307bf](https://uxplanet.org/how-to-make-users-think-your-app-loads-faster-24052fe307bf) 
-  13. [http://javebratt.com/first-ionic-framework-app/](http://javebratt.com/first-ionic-framework-app/) 
-  14. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-6/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-6/) 
-  15. [https://contently.com/strategist/2016/03/15/mobile-web-sucks-google-amp-solution/](https://contently.com/strategist/2016/03/15/mobile-web-sucks-google-amp-solution/) 
-  16. [https://github.com/tolu360/Cordova-Plugin-Paystack](https://github.com/tolu360/Cordova-Plugin-Paystack) 
-  17. [http://hwclass.in/2016/03/09/the-next-generation-of-browser-apis/](http://hwclass.in/2016/03/09/the-next-generation-of-browser-apis/) 
-  18. [http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/](http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/) 
-  19. [http://bradmartin.net/2016/03/10/fullscreen-and-navigation-bar-color-in-a-nativescript-android-app/](http://bradmartin.net/2016/03/10/fullscreen-and-navigation-bar-color-in-a-nativescript-android-app/) 
-  20. [http://www.blog.bradleygore.com/2016/03/12/custom-nativescript-components/](http://www.blog.bradleygore.com/2016/03/12/custom-nativescript-components/) 
-  21. [https://hired.com/](https://hired.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
