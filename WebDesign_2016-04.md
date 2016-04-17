@@ -1,4 +1,4 @@
-## Updated news for 2016-04-16 
+## Updated news for 2016-04-17 
 
 ==========
 ## A Look Into Web Design Weekly
