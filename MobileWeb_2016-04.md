@@ -1,6 +1,31 @@
 ## Updated news for 2016-04-20 
 
 ==========
+## This Week in Mobile Web Development (#104)
+#### http://mobilewebweekly.co/issues/104
+
+==========
+  1. [http://thenextweb.com/insider/2016/04/07/first-world-problems-emerging-markets-dominating-mobile-browsing/](http://thenextweb.com/insider/2016/04/07/first-world-problems-emerging-markets-dominating-mobile-browsing/) 
+  2. [https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/](https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/) 
+  3. [http://motherboard.vice.com/blog/html5-is-quietly-changing-the-landscape](http://motherboard.vice.com/blog/html5-is-quietly-changing-the-landscape) 
+  4. [http://go.rangle.io/webinar-intro-to-react-native](http://go.rangle.io/webinar-intro-to-react-native) 
+  6. [http://www.quirksmode.org/blog/archives/2016/04/new_webview_sta.html](http://www.quirksmode.org/blog/archives/2016/04/new_webview_sta.html) 
+  7. [http://recode.net/2016/04/13/facebook-fast-mobile-internet/](http://recode.net/2016/04/13/facebook-fast-mobile-internet/) 
+  8. [https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/](https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/) 
+  9. [http://developer.telerik.com/featured/how-i-build-for-proprietary-platforms/](http://developer.telerik.com/featured/how-i-build-for-proprietary-platforms/) 
+  10. [http://www.soasta.com/blog/22-mobile-web-performance-stats/](http://www.soasta.com/blog/22-mobile-web-performance-stats/) 
+  11. [https://github.com/preboot/angular2-universal-windows-app](https://github.com/preboot/angular2-universal-windows-app) 
+  12. [http://phonegap.com/blog/2016/04/13/celebrate-phonegap-day-eu-2016/](http://phonegap.com/blog/2016/04/13/celebrate-phonegap-day-eu-2016/) 
+  13. [https://onsen.io/blog/boost-your-cordova-development-with-monaca-power-plugins/](https://onsen.io/blog/boost-your-cordova-development-with-monaca-power-plugins/) 
+  14. [https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798](https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798) 
+  15. [http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/](http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/) 
+  16. [http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/](http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/) 
+  17. [http://blog.couchbase.com/2016/april/couchbase-mobile-in-a-cross-platform-telerik-nativescript-app](http://blog.couchbase.com/2016/april/couchbase-mobile-in-a-cross-platform-telerik-nativescript-app) 
+  18. [https://hired.com/](https://hired.com/) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#103)
 #### http://mobilewebweekly.co/issues/103
 
@@ -83,30 +108,5 @@
   21. [https://hired.com/](https://hired.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#100)
-#### http://mobilewebweekly.co/issues/100
-
-==========
-  1. [https://developers.google.com/web/updates/2016/03/device-mode-v2](https://developers.google.com/web/updates/2016/03/device-mode-v2) 
-  2. [https://remysharp.com/2016/03/18/progressive-web-apps-the-long-game](https://remysharp.com/2016/03/18/progressive-web-apps-the-long-game) 
-  3. [https://www.smashingmagazine.com/2016/03/googles-mobilegeddon-aftermath-eight-months-better-mobile-web/](https://www.smashingmagazine.com/2016/03/googles-mobilegeddon-aftermath-eight-months-better-mobile-web/) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://joreteg.com/blog/why-i-switched-to-android](https://joreteg.com/blog/why-i-switched-to-android) 
-  7. [http://recode.net/2016/03/21/is-the-term-mobile-first-becoming-outmoded/](http://recode.net/2016/03/21/is-the-term-mobile-first-becoming-outmoded/) 
-  8. [http://snook.ca/archives/opinion/value-truly-rwd](http://snook.ca/archives/opinion/value-truly-rwd) 
-  9. [https://www.nativescript.org/blog/nativescript-1.7-announcement](https://www.nativescript.org/blog/nativescript-1.7-announcement) 
-  10. [https://www.nativescript.org/blog/nativescript-runtime-preview-for-windows-10](https://www.nativescript.org/blog/nativescript-runtime-preview-for-windows-10) 
-  11. [https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization](https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization) 
-  12. [https://www.thinkwithgoogle.com/topics/designing-for-mobile-micro-moments.html](https://www.thinkwithgoogle.com/topics/designing-for-mobile-micro-moments.html) 
-  13. [http://phonegap.com/blog/2016/03/17/pgdayus2016-fixing-continuous-delivery-for-mobile/](http://phonegap.com/blog/2016/03/17/pgdayus2016-fixing-continuous-delivery-for-mobile/) 
-  14. [https://github.com/AlexDisler/cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) 
-  15. [http://ionicallyspeaking.com/2016/03/17/ionic-the-truly-progressive-web-app-framework/](http://ionicallyspeaking.com/2016/03/17/ionic-the-truly-progressive-web-app-framework/) 
-  16. [https://greenido.wordpress.com/2016/03/21/progressive-web-apps-offline-and-add-to-home-screen/](https://greenido.wordpress.com/2016/03/21/progressive-web-apps-offline-and-add-to-home-screen/) 
-  17. [https://news.ycombinator.com/item](https://news.ycombinator.com/item) 
-  18. [https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443](https://jobs.lever.co/honeypot/011a8fca-5bc1-4c07-b720-449a98440443) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
