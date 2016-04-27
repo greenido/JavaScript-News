@@ -1,6 +1,38 @@
 ## Updated news for 2016-04-27 
 
 ==========
+## This Week in Mobile Web Development (#105)
+#### http://mobilewebweekly.co/issues/105
+
+==========
+  1. [https://mobiforge.com/research-analysis/the-web-is-doom](https://mobiforge.com/research-analysis/the-web-is-doom) 
+  2. [http://mashable.com/2016/04/20/google-chrome-50/](http://mashable.com/2016/04/20/google-chrome-50/) 
+  3. [http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093](http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093) 
+  4. [https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/](https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/) 
+  5. [https://hired.com/](https://hired.com/) 
+  7. [http://digiday.com/platforms/not-fast-google-ramps-amp-speedy-mobile-news-ads-still-lag/](http://digiday.com/platforms/not-fast-google-ramps-amp-speedy-mobile-news-ads-still-lag/) 
+  8. [https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb](https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb) 
+  9. [https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/](https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/) 
+  10. [https://github.com/vin-ni/hover-on-touch](https://github.com/vin-ni/hover-on-touch) 
+  11. [http://angularjs.blogspot.com/2016/04/angular-2-react-native.html](http://angularjs.blogspot.com/2016/04/angular-2-react-native.html) 
+  12. [http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/](http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/) 
+  13. [http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/](http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/) 
+  14. [https://www.thepolyglotdeveloper.com/2016/04/use-the-device-camera-in-an-ionic-2-android-and-ios-app/](https://www.thepolyglotdeveloper.com/2016/04/use-the-device-camera-in-an-ionic-2-android-and-ios-app/) 
+  15. [http://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-2/](http://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-2/) 
+  16. [http://mashable.com/2016/04/22/mobile-ad-blocking-report/](http://mashable.com/2016/04/22/mobile-ad-blocking-report/) 
+  17. [http://mobilebusinessinsights.com/news/mobile-ux-design-the-importance-of-bottom-navigation/](http://mobilebusinessinsights.com/news/mobile-ux-design-the-importance-of-bottom-navigation/) 
+  18. [https://marco.org/2016/04/21/paid-app-store-search](https://marco.org/2016/04/21/paid-app-store-search) 
+  19. [https://devdactic.com/ionic-push-notifications-guide/](https://devdactic.com/ionic-push-notifications-guide/) 
+  20. [http://phonegap.com/blog/2016/04/25/windows-10-and-phonegap-cli-6_1-now-on-build/](http://phonegap.com/blog/2016/04/25/windows-10-and-phonegap-cli-6_1-now-on-build/) 
+  21. [http://www.theguardian.com/commentisfree/2016/apr/21/adblocking-digital-sharks-advertisers-mark-zuckerberg](http://www.theguardian.com/commentisfree/2016/apr/21/adblocking-digital-sharks-advertisers-mark-zuckerberg) 
+  22. [http://blog.ionic.io/announcing-the-release-of-ionic-2-beta-6/](http://blog.ionic.io/announcing-the-release-of-ionic-2-beta-6/) 
+  23. [https://gonative.io/](https://gonative.io/) 
+  24. [https://gonative.io/examples](https://gonative.io/examples) 
+  25. [https://gonative.io/](https://gonative.io/) 
+  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#104)
 #### http://mobilewebweekly.co/issues/104
 
@@ -80,33 +112,5 @@
   22. [http://app.jobvite.com/m](http://app.jobvite.com/m) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#101)
-#### http://mobilewebweekly.co/issues/101
-
-==========
-  1. [http://www.sitepoint.com/responsive-web-components/](http://www.sitepoint.com/responsive-web-components/) 
-  2. [https://speckyboy.com/2016/03/22/mobile-web-design-adaptations-better-ux/](https://speckyboy.com/2016/03/22/mobile-web-design-adaptations-better-ux/) 
-  3. [https://medium.com/@sebabenz/how-to-avoid-common-mistakes-when-publishing-accelerated-mobile-pages-9ea61abf530f](https://medium.com/@sebabenz/how-to-avoid-common-mistakes-when-publishing-accelerated-mobile-pages-9ea61abf530f) 
-  4. [http://go.rangle.io/webinar-intro-to-react-native](http://go.rangle.io/webinar-intro-to-react-native) 
-  6. [http://www.benfarrell.com/2016/02/26/progressive-web-apps/](http://www.benfarrell.com/2016/02/26/progressive-web-apps/) 
-  7. [http://zellwk.com/blog/media-query-units/](http://zellwk.com/blog/media-query-units/) 
-  8. [https://www.toptal.com/ionic/most-common-ionic-development-mistakes](https://www.toptal.com/ionic/most-common-ionic-development-mistakes) 
-  9. [http://blog.ionic.io/announcing-windows-support-in-ionic-2/](http://blog.ionic.io/announcing-windows-support-in-ionic-2/) 
-  10. [http://venturebeat.com/2016/03/16/google-will-start-ranking-mobile-friendly-sites-even-higher-in-may/](http://venturebeat.com/2016/03/16/google-will-start-ranking-mobile-friendly-sites-even-higher-in-may/) 
-  11. [https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first/](https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first/) 
-  12. [http://eclipsesource.com/blogs/2016/03/29/announcement-windows-10-support-coming-to-tabris-js/](http://eclipsesource.com/blogs/2016/03/29/announcement-windows-10-support-coming-to-tabris-js/) 
-  13. [http://cordova.apache.org/news/2016/03/23/tools-release.html](http://cordova.apache.org/news/2016/03/23/tools-release.html) 
-  14. [https://speckyboy.com/2016/03/28/tips-creating-beautiful-engaging-ui/](https://speckyboy.com/2016/03/28/tips-creating-beautiful-engaging-ui/) 
-  15. [http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/) 
-  16. [http://www.raymondcamden.com/2016/03/28/tesing-the-new-ionic-user-service/](http://www.raymondcamden.com/2016/03/28/tesing-the-new-ionic-user-service/) 
-  17. [https://paulbakaus.com/2016/03/28/amp-and-the-sandbox-policy/](https://paulbakaus.com/2016/03/28/amp-and-the-sandbox-policy/) 
-  18. [http://blog.avisi.nl/2016/03/08/cross-platform-certificate-access-with-cordova-part-2-ios/](http://blog.avisi.nl/2016/03/08/cross-platform-certificate-access-with-cordova-part-2-ios/) 
-  19. [http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-7/](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-7/) 
-  20. [http://bradmartin.net/2016/03/23/chrome-custom-tabs-with-nativescript/](http://bradmartin.net/2016/03/23/chrome-custom-tabs-with-nativescript/) 
-  21. [https://hired.com/](https://hired.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
