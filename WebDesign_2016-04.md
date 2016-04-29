@@ -1,6 +1,12 @@
-## Updated news for 2016-04-28 
+## Updated news for 2016-04-29 
 
 ==========
+## Diffee
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/U8hRqVgoJmY/
+
+==========
+
+====
 ## Introducing Little Island
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TCbTDeIgEKc/
 
@@ -52,12 +58,6 @@
 ====
 ## Web Design Weekly #227
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/UKbX6CWrbJw/
-
-==========
-
-====
-## Web Design Weekly #226
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/A0FHFCxSM-g/
 
 ==========
 
