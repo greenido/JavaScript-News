@@ -1,6 +1,32 @@
 ## Updated news for 2016-05-04 
 
 ==========
+## This Week in Mobile Web Development (#106)
+#### http://mobilewebweekly.co/issues/106
+
+==========
+  1. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/) 
+  2. [http://tutorials.pluralsight.com/front-end-javascript/ionic-framework-a-definitive-10-000-word-guide](http://tutorials.pluralsight.com/front-end-javascript/ionic-framework-a-definitive-10-000-word-guide) 
+  3. [https://channel9.msdn.com/Events/Build/2016/T627](https://channel9.msdn.com/Events/Build/2016/T627) 
+  4. [http://stoneriverelearning.com/courses/unlimited-subscription-stone-river-elearning](http://stoneriverelearning.com/courses/unlimited-subscription-stone-river-elearning) 
+  6. [https://twitter.com/davidbellona/status/727247047481380864](https://twitter.com/davidbellona/status/727247047481380864) 
+  7. [https://www.broken-links.com/2016/04/29/interesting-change-chrome-android/](https://www.broken-links.com/2016/04/29/interesting-change-chrome-android/) 
+  8. [http://www.theverge.com/2016/5/3/11580182/spotify-design-change-says-so-much-about-the-hamburger-button](http://www.theverge.com/2016/5/3/11580182/spotify-design-change-says-so-much-about-the-hamburger-button) 
+  9. [http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html) 
+  10. [http://blog.ionic.io/a-baseline-for-hybrid-mobile-developers/](http://blog.ionic.io/a-baseline-for-hybrid-mobile-developers/) 
+  11. [http://bitsofco.de/iframe-responsive/](http://bitsofco.de/iframe-responsive/) 
+  12. [https://onsen.io/v2/](https://onsen.io/v2/) 
+  13. [https://hired.com/](https://hired.com/) 
+  16. [http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) 
+  17. [http://developer.telerik.com/featured/creating-an-ionic-theme-for-nativescript/](http://developer.telerik.com/featured/creating-an-ionic-theme-for-nativescript/) 
+  18. [https://www.thepolyglotdeveloper.com/2016/04/my-experience-developing-with-telerik-nativescript/](https://www.thepolyglotdeveloper.com/2016/04/my-experience-developing-with-telerik-nativescript/) 
+  19. [http://blog.nparashuram.com/2016/04/using-cordova-plugins-in-reactnative.html](http://blog.nparashuram.com/2016/04/using-cordova-plugins-in-reactnative.html) 
+  20. [http://venturebeat.com/2016/04/28/ionic-funding/](http://venturebeat.com/2016/04/28/ionic-funding/) 
+  21. [https://rason.com/](https://rason.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#105)
 #### http://mobilewebweekly.co/issues/105
 
@@ -82,34 +108,6 @@
   21. [https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/](https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/) 
   22. [https://medium.com/net-magazine/the-web-cryptography-api-15d052271494](https://medium.com/net-magazine/the-web-cryptography-api-15d052271494) 
   23. [http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/](http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#102)
-#### http://mobilewebweekly.co/issues/102
-
-==========
-  1. [http://1stwebdesigner.com/responsive-design-breakpoints/](http://1stwebdesigner.com/responsive-design-breakpoints/) 
-  2. [http://babich.biz/perfect-bottom-navigation-for-mobile-app/](http://babich.biz/perfect-bottom-navigation-for-mobile-app/) 
-  4. [https://gonative.io/](https://gonative.io/) 
-  5. [https://gonative.io/examples](https://gonative.io/examples) 
-  6. [https://gonative.io/](https://gonative.io/) 
-  7. [https://opensource.com/life/16/4/accelerated-mobile-pages-amp-open-or-closed](https://opensource.com/life/16/4/accelerated-mobile-pages-amp-open-or-closed) 
-  8. [http://angularjs.blogspot.com/2016/03/code-reuse-in-angular-2-native-mobile.html](http://angularjs.blogspot.com/2016/03/code-reuse-in-angular-2-native-mobile.html) 
-  9. [http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/](http://recode.net/2016/04/01/how-mobile-and-facebook-ate-the-media-world-in-five-charts/) 
-  10. [https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/](https://studio.uxpin.com/blog/10-shortcuts-for-effective-responsive-design/) 
-  11. [https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/](https://www.smashingmagazine.com/2016/04/improve-user-experience-real-time-features/) 
-  12. [https://onsen.io/blog/react-onsen-ui-navigator-tabs/](https://onsen.io/blog/react-onsen-ui-navigator-tabs/) 
-  13. [https://reactstrap.github.io/](https://reactstrap.github.io/) 
-  14. [http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/) 
-  15. [https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/](https://alexdisler.com/2016/04/04/testing-cordova-in-app-purchases-on-ios-android/) 
-  16. [https://onsen.io/blog/react-onsen-ui-preview/](https://onsen.io/blog/react-onsen-ui-preview/) 
-  17. [https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/](https://alexdisler.com/2016/04/01/tips-for-signing-installing-cordova-apps-on-android/) 
-  18. [http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/](http://developer.telerik.com/featured/building-polished-mobile-apps-telerik-ui-nativescript/) 
-  19. [http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/](http://www.raymondcamden.com/2016/03/22/the-cordova-browser-platform/) 
-  20. [https://hired.com/](https://hired.com/) 
-  22. [http://app.jobvite.com/m](http://app.jobvite.com/m) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
