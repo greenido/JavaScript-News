@@ -1,6 +1,12 @@
-## Updated news for 2016-05-09 
+## Updated news for 2016-05-10 
 
 ==========
+## Web Design Weekly #234
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Z5oR5qUHUvE/
+
+==========
+
+====
 ## Web Design Weekly #233
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SGcEAMM0-0c/
 
@@ -52,12 +58,6 @@
 ====
 ## CSS and Scalability
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/ww4FcT4BM-Q/
-
-==========
-
-====
-## Web Design Weekly #228
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/mFdi3wF9nro/
 
 ==========
 
