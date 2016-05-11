@@ -1,6 +1,34 @@
 ## Updated news for 2016-05-11 
 
 ==========
+## This Week in Mobile Web Development (#107)
+#### http://mobilewebweekly.co/issues/107
+
+==========
+  1. [https://www.smashingmagazine.com/2016/05/fluid-typography/](https://www.smashingmagazine.com/2016/05/fluid-typography/) 
+  2. [https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/](https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/) 
+  3. [https://speckyboy.com/2016/05/09/web-developers-can-adapt-mobile-app-world/](https://speckyboy.com/2016/05/09/web-developers-can-adapt-mobile-app-world/) 
+  4. [http://go.stormpath.com/webinar-stormpath-for-ios-apps](http://go.stormpath.com/webinar-stormpath-for-ios-apps) 
+  6. [http://mumbrella.com.au/mobile-site-or-app-with-progressive-web-apps-you-can-get-the-best-of-both-364054](http://mumbrella.com.au/mobile-site-or-app-with-progressive-web-apps-you-can-get-the-best-of-both-364054) 
+  7. [https://mobile.angular.io/](https://mobile.angular.io/) 
+  8. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/) 
+  9. [https://www.nativescript.org/blog/nativescript-2.0---the-best-way-to-build-cross-platform-native-mobile-apps](https://www.nativescript.org/blog/nativescript-2.0---the-best-way-to-build-cross-platform-native-mobile-apps) 
+  10. [https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript](https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript) 
+  11. [http://liliputing.com/2016/05/operas-ad-blocker-goes-live-desktop-mobile-web-browsers.html](http://liliputing.com/2016/05/operas-ad-blocker-goes-live-desktop-mobile-web-browsers.html) 
+  12. [http://europa.eu/rapid/press-release_IP-16-1654_en.htm](http://europa.eu/rapid/press-release_IP-16-1654_en.htm) 
+  13. [http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) 
+  14. [https://gonative.io/](https://gonative.io/) 
+  15. [https://gonative.io/examples](https://gonative.io/examples) 
+  16. [https://gonative.io/](https://gonative.io/) 
+  18. [https://www.raymondcamden.com/2016/05/06/uploading-multiple-files-at-once-for-cordova/](https://www.raymondcamden.com/2016/05/06/uploading-multiple-files-at-once-for-cordova/) 
+  19. [http://ryanjsalva.com/2016/05/07/maintaining-different-release-configurations.html](http://ryanjsalva.com/2016/05/07/maintaining-different-release-configurations.html) 
+  20. [http://makeitopen.com/tutorials/building-the-f8-app/planning/](http://makeitopen.com/tutorials/building-the-f8-app/planning/) 
+  21. [https://olivermak.es/2016/05/jekyllconf-responsive-images/](https://olivermak.es/2016/05/jekyllconf-responsive-images/) 
+  22. [https://hired.com/](https://hired.com/) 
+  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#106)
 #### http://mobilewebweekly.co/issues/106
 
@@ -82,33 +110,5 @@
   18. [https://hired.com/](https://hired.com/) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#103)
-#### http://mobilewebweekly.co/issues/103
-
-==========
-  1. [https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e](https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e) 
-  2. [https://ampbyexample.com/](https://ampbyexample.com/) 
-  3. [http://developer.telerik.com/featured/are-progressive-web-apps-future/](http://developer.telerik.com/featured/are-progressive-web-apps-future/) 
-  4. [https://hired.com/](https://hired.com/) 
-  7. [https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md) 
-  8. [http://www.wsj.com/articles/facebook-says-users-show-preference-for-instant-articles-over-mobile-web-articles-1460497160](http://www.wsj.com/articles/facebook-says-users-show-preference-for-instant-articles-over-mobile-web-articles-1460497160) 
-  9. [http://www.quirksmode.org/blog/archives/2016/04/responsive_imag.html](http://www.quirksmode.org/blog/archives/2016/04/responsive_imag.html) 
-  10. [https://remysharp.com/2016/04/11/the-webapp-discovery-problem](https://remysharp.com/2016/04/11/the-webapp-discovery-problem) 
-  11. [http://phonegap.com/blog/2016/04/11/bitbucket-and-gitlab-repo-oauth-supported/](http://phonegap.com/blog/2016/04/11/bitbucket-and-gitlab-repo-oauth-supported/) 
-  12. [https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/) 
-  13. [http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/](http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/) 
-  14. [https://www.thepolyglotdeveloper.com/2016/04/send-emails-nativescript-app-via-rackspace-mailgun-api/](https://www.thepolyglotdeveloper.com/2016/04/send-emails-nativescript-app-via-rackspace-mailgun-api/) 
-  15. [https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/](https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/) 
-  16. [https://stanfy.com/blog/how-to-validate-your-mobile-app-idea-and-make-people-love-it/](https://stanfy.com/blog/how-to-validate-your-mobile-app-idea-and-make-people-love-it/) 
-  17. [https://gonative.io/](https://gonative.io/) 
-  18. [https://gonative.io/examples](https://gonative.io/examples) 
-  19. [https://gonative.io/](https://gonative.io/) 
-  21. [https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/](https://nolanlawson.com/2016/04/10/introducing-the-cordova-sqlite-plugin-2/) 
-  22. [https://medium.com/net-magazine/the-web-cryptography-api-15d052271494](https://medium.com/net-magazine/the-web-cryptography-api-15d052271494) 
-  23. [http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/](http://www.sitepoint.com/image-recognition-with-the-google-vision-api-and-ionic/) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
