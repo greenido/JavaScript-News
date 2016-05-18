@@ -1,6 +1,32 @@
 ## Updated news for 2016-05-18 
 
 ==========
+## This Week in Mobile Web Development (#108)
+#### http://mobilewebweekly.co/issues/108
+
+==========
+  1. [http://molily.de/mobile-web-performance/](http://molily.de/mobile-web-performance/) 
+  2. [http://autosend.io/blog/analytics-tools-web-mobile/](http://autosend.io/blog/analytics-tools-web-mobile/) 
+  3. [https://medium.com/mobile-first-news-how-people-use-smartphones-to](https://medium.com/mobile-first-news-how-people-use-smartphones-to) 
+  4. [https://kraken.io/](https://kraken.io/) 
+  7. [https://events.google.com/io2016/schedule](https://events.google.com/io2016/schedule) 
+  8. [https://ausi.github.io/respimagelint/](https://ausi.github.io/respimagelint/) 
+  9. [http://www.marketingcharts.com/online/what-are-the-most-important-factors-for-mobile-shoppers-67854/](http://www.marketingcharts.com/online/what-are-the-most-important-factors-for-mobile-shoppers-67854/) 
+  10. [https://blog.mozilla.org/blog/2016/05/11/firefox-for-ios-makes-it-faster-and-easier-to-use-the-mobile-web-the-way-you-want/](https://blog.mozilla.org/blog/2016/05/11/firefox-for-ios-makes-it-faster-and-easier-to-use-the-mobile-web-the-way-you-want/) 
+  11. [https://onsen.io/blog/creating-monaca-applications-with-es6/](https://onsen.io/blog/creating-monaca-applications-with-es6/) 
+  12. [https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/](https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/) 
+  15. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/) 
+  16. [http://blog.testnest.co/app-downloads-onboarding-process/](http://blog.testnest.co/app-downloads-onboarding-process/) 
+  17. [http://phonegap.com/blog/2016/05/13/augmented-reality-in-phonegap-dev-app/](http://phonegap.com/blog/2016/05/13/augmented-reality-in-phonegap-dev-app/) 
+  18. [https://www.raymondcamden.com/2016/05/16/thoughts-on-nativescript-20/](https://www.raymondcamden.com/2016/05/16/thoughts-on-nativescript-20/) 
+  19. [https://hired.com/](https://hired.com/) 
+  21. [https://onsen.io/blog/onsen-ui-environment-news/](https://onsen.io/blog/onsen-ui-environment-news/) 
+  22. [https://devdactic.com/ionic-2-sqlstorage/](https://devdactic.com/ionic-2-sqlstorage/) 
+  23. [http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486](http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#107)
 #### http://mobilewebweekly.co/issues/107
 
@@ -85,30 +111,5 @@
   25. [https://gonative.io/](https://gonative.io/) 
   27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#104)
-#### http://mobilewebweekly.co/issues/104
-
-==========
-  1. [http://thenextweb.com/insider/2016/04/07/first-world-problems-emerging-markets-dominating-mobile-browsing/](http://thenextweb.com/insider/2016/04/07/first-world-problems-emerging-markets-dominating-mobile-browsing/) 
-  2. [https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/](https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/) 
-  3. [http://motherboard.vice.com/blog/html5-is-quietly-changing-the-landscape](http://motherboard.vice.com/blog/html5-is-quietly-changing-the-landscape) 
-  4. [http://go.rangle.io/webinar-intro-to-react-native](http://go.rangle.io/webinar-intro-to-react-native) 
-  6. [http://www.quirksmode.org/blog/archives/2016/04/new_webview_sta.html](http://www.quirksmode.org/blog/archives/2016/04/new_webview_sta.html) 
-  7. [http://recode.net/2016/04/13/facebook-fast-mobile-internet/](http://recode.net/2016/04/13/facebook-fast-mobile-internet/) 
-  8. [https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/](https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/) 
-  9. [http://developer.telerik.com/featured/how-i-build-for-proprietary-platforms/](http://developer.telerik.com/featured/how-i-build-for-proprietary-platforms/) 
-  10. [http://www.soasta.com/blog/22-mobile-web-performance-stats/](http://www.soasta.com/blog/22-mobile-web-performance-stats/) 
-  11. [https://github.com/preboot/angular2-universal-windows-app](https://github.com/preboot/angular2-universal-windows-app) 
-  12. [http://phonegap.com/blog/2016/04/13/celebrate-phonegap-day-eu-2016/](http://phonegap.com/blog/2016/04/13/celebrate-phonegap-day-eu-2016/) 
-  13. [https://onsen.io/blog/boost-your-cordova-development-with-monaca-power-plugins/](https://onsen.io/blog/boost-your-cordova-development-with-monaca-power-plugins/) 
-  14. [https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798](https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798) 
-  15. [http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/](http://www.joshmorony.com/boosting-scroll-performance-in-ionic-2/) 
-  16. [http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/](http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/) 
-  17. [http://blog.couchbase.com/2016/april/couchbase-mobile-in-a-cross-platform-telerik-nativescript-app](http://blog.couchbase.com/2016/april/couchbase-mobile-in-a-cross-platform-telerik-nativescript-app) 
-  18. [https://hired.com/](https://hired.com/) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
