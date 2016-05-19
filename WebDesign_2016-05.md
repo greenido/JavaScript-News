@@ -1,4 +1,4 @@
-## Updated news for 2016-05-18 
+## Updated news for 2016-05-19 
 
 ==========
 ## Web Design Weekly #235
