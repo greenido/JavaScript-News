@@ -1,6 +1,37 @@
 ## Updated news for 2016-05-25 
 
 ==========
+## This Week in Mobile Web Development (#109)
+#### http://mobilewebweekly.co/issues/109
+
+==========
+  2. [https://www.ampproject.org/](https://www.ampproject.org/) 
+  3. [http://fortune.com/2016/05/19/google-mobile-web-project/](http://fortune.com/2016/05/19/google-mobile-web-project/) 
+  4. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/) 
+  5. [https://developers.googleblog.com/2016/05/the-mobile-web-is-open-for-business.html](https://developers.googleblog.com/2016/05/the-mobile-web-is-open-for-business.html) 
+  7. [https://hired.com/](https://hired.com/) 
+  10. [https://www.broken-links.com/2016/05/19/android-instant-apps-web/](https://www.broken-links.com/2016/05/19/android-instant-apps-web/) 
+  11. [https://developer.android.com/topic/instant-apps/index.html](https://developer.android.com/topic/instant-apps/index.html) 
+  12. [https://adactio.com/journal/10708](https://adactio.com/journal/10708) 
+  13. [https://amphtml.wordpress.com/2016/05/24/menus-sharing-and-dynamic-css-classes-in-amp/amp/](https://amphtml.wordpress.com/2016/05/24/menus-sharing-and-dynamic-css-classes-in-amp/amp/) 
+  15. [http://www.recode.net/2016/5/21/11724336/google-chrome-search-open-web](http://www.recode.net/2016/5/21/11724336/google-chrome-search-open-web) 
+  16. [http://digiday.com/platforms/wtf-progressive-web-apps/](http://digiday.com/platforms/wtf-progressive-web-apps/) 
+  17. [https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/](https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/) 
+  18. [http://www.brucelawson.co.uk/2016/on-urls-in-progressive-web-apps/](http://www.brucelawson.co.uk/2016/on-urls-in-progressive-web-apps/) 
+  19. [https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/](https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/) 
+  20. [http://hollyschinsky.github.io/pgday-eu-star-track/](http://hollyschinsky.github.io/pgday-eu-star-track/) 
+  21. [http://developer.telerik.com/featured/moving-vanilla-javascript-angular-2-nativescript/](http://developer.telerik.com/featured/moving-vanilla-javascript-angular-2-nativescript/) 
+  22. [http://eclipsesource.com/blogs/2016/05/18/tabris-js-1-8-is-here/](http://eclipsesource.com/blogs/2016/05/18/tabris-js-1-8-is-here/) 
+  23. [http://blog.ionic.io/ionic-2-fixing-date-inputs-for-the-mobile-web/](http://blog.ionic.io/ionic-2-fixing-date-inputs-for-the-mobile-web/) 
+  24. [http://me.eekay.nl/index.php/2016/phonegap-days-europe-2016-recap-pgday/](http://me.eekay.nl/index.php/2016/phonegap-days-europe-2016-recap-pgday/) 
+  25. [http://blog.backand.com/angular-2-nativescript-vs-react-native/](http://blog.backand.com/angular-2-nativescript-vs-react-native/) 
+  26. [http://simonmacdonald.blogspot.com/2016/05/apps-crashing-with-phonegap-plugin-push.html](http://simonmacdonald.blogspot.com/2016/05/apps-crashing-with-phonegap-plugin-push.html) 
+  27. [https://github.com/imhotep/PGDayEUWs2016](https://github.com/imhotep/PGDayEUWs2016) 
+  28. [https://rason.com](https://rason.com) 
+  30. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  31. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#108)
 #### http://mobilewebweekly.co/issues/108
 
@@ -79,37 +110,5 @@
   21. [https://rason.com/](https://rason.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#105)
-#### http://mobilewebweekly.co/issues/105
-
-==========
-  1. [https://mobiforge.com/research-analysis/the-web-is-doom](https://mobiforge.com/research-analysis/the-web-is-doom) 
-  2. [http://mashable.com/2016/04/20/google-chrome-50/](http://mashable.com/2016/04/20/google-chrome-50/) 
-  3. [http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093](http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093) 
-  4. [https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/](https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/) 
-  5. [https://hired.com/](https://hired.com/) 
-  7. [http://digiday.com/platforms/not-fast-google-ramps-amp-speedy-mobile-news-ads-still-lag/](http://digiday.com/platforms/not-fast-google-ramps-amp-speedy-mobile-news-ads-still-lag/) 
-  8. [https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb](https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb) 
-  9. [https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/](https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/) 
-  10. [https://github.com/vin-ni/hover-on-touch](https://github.com/vin-ni/hover-on-touch) 
-  11. [http://angularjs.blogspot.com/2016/04/angular-2-react-native.html](http://angularjs.blogspot.com/2016/04/angular-2-react-native.html) 
-  12. [http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/](http://scottjensen.design/2016/04/designing-an-alternative-to-the-hamburger-menu/) 
-  13. [http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/](http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/) 
-  14. [https://www.thepolyglotdeveloper.com/2016/04/use-the-device-camera-in-an-ionic-2-android-and-ios-app/](https://www.thepolyglotdeveloper.com/2016/04/use-the-device-camera-in-an-ionic-2-android-and-ios-app/) 
-  15. [http://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-2/](http://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-2/) 
-  16. [http://mashable.com/2016/04/22/mobile-ad-blocking-report/](http://mashable.com/2016/04/22/mobile-ad-blocking-report/) 
-  17. [http://mobilebusinessinsights.com/news/mobile-ux-design-the-importance-of-bottom-navigation/](http://mobilebusinessinsights.com/news/mobile-ux-design-the-importance-of-bottom-navigation/) 
-  18. [https://marco.org/2016/04/21/paid-app-store-search](https://marco.org/2016/04/21/paid-app-store-search) 
-  19. [https://devdactic.com/ionic-push-notifications-guide/](https://devdactic.com/ionic-push-notifications-guide/) 
-  20. [http://phonegap.com/blog/2016/04/25/windows-10-and-phonegap-cli-6_1-now-on-build/](http://phonegap.com/blog/2016/04/25/windows-10-and-phonegap-cli-6_1-now-on-build/) 
-  21. [http://www.theguardian.com/commentisfree/2016/apr/21/adblocking-digital-sharks-advertisers-mark-zuckerberg](http://www.theguardian.com/commentisfree/2016/apr/21/adblocking-digital-sharks-advertisers-mark-zuckerberg) 
-  22. [http://blog.ionic.io/announcing-the-release-of-ionic-2-beta-6/](http://blog.ionic.io/announcing-the-release-of-ionic-2-beta-6/) 
-  23. [https://gonative.io/](https://gonative.io/) 
-  24. [https://gonative.io/examples](https://gonative.io/examples) 
-  25. [https://gonative.io/](https://gonative.io/) 
-  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
