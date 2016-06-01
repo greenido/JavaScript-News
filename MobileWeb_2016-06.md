@@ -1,6 +1,33 @@
 ## Updated news for 2016-06-01 
 
 ==========
+## This Week in Mobile Web Development (#110)
+#### http://mobilewebweekly.co/issues/110
+
+==========
+  1. [https://remysharp.com/2016/05/28/state-of-the-gap](https://remysharp.com/2016/05/28/state-of-the-gap) 
+  2. [https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/](https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/) 
+  3. [https://css-tricks.com/couple-takes-sticky-footer/](https://css-tricks.com/couple-takes-sticky-footer/) 
+  4. [https://hired.com/](https://hired.com/) 
+  7. [https://events.withgoogle.com/progressive-web-app-dev-summit/](https://events.withgoogle.com/progressive-web-app-dev-summit/) 
+  8. [http://www.theverge.com/2016/5/31/11817476/mobile-ad-block-smartphone-pagefair-report](http://www.theverge.com/2016/5/31/11817476/mobile-ad-block-smartphone-pagefair-report) 
+  9. [https://medium.com/@redhoodsu/another-tool-to-make-mobile-web-debugging-easier-840099bfe10](https://medium.com/@redhoodsu/another-tool-to-make-mobile-web-debugging-easier-840099bfe10) 
+  10. [http://fortune.com/2016/05/27/google-apple-mobile-web/](http://fortune.com/2016/05/27/google-apple-mobile-web/) 
+  11. [https://www.sitepoint.com/quick-tip-installing-the-ionic-framework-for-html5-apps/](https://www.sitepoint.com/quick-tip-installing-the-ionic-framework-for-html5-apps/) 
+  12. [http://devblog.blackberry.com/2016/05/building-a-cross-platform-salesforce-powered-contact-list-app/](http://devblog.blackberry.com/2016/05/building-a-cross-platform-salesforce-powered-contact-list-app/) 
+  13. [http://media.bemyapp.com/web-developers-looking-get-mobile-space](http://media.bemyapp.com/web-developers-looking-get-mobile-space) 
+  14. [https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27](https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27) 
+  15. [https://www.thepolyglotdeveloper.com/2016/05/converting-ionic-2-mobile-app-nativescript/](https://www.thepolyglotdeveloper.com/2016/05/converting-ionic-2-mobile-app-nativescript/) 
+  16. [http://mobile.nytimes.com/2016/05/31/business/international/smartphone-ad-blocking-software-mobile.html](http://mobile.nytimes.com/2016/05/31/business/international/smartphone-ad-blocking-software-mobile.html) 
+  17. [https://www.elixel.co.uk/news/elixel-attends-phonegap-day-eu-2016/](https://www.elixel.co.uk/news/elixel-attends-phonegap-day-eu-2016/) 
+  18. [http://me.eekay.nl/index.php/2016/lightning-tip-2-renew-all-your-projects-cordova-plugins-at-once/](http://me.eekay.nl/index.php/2016/lightning-tip-2-renew-all-your-projects-cordova-plugins-at-once/) 
+  19. [https://chrisgriffith.wordpress.com/2016/05/17/configap-2-0a-released/](https://chrisgriffith.wordpress.com/2016/05/17/configap-2-0a-released/) 
+  20. [https://www.nativescript.org/blog/nativescript-android-application-package-size-revealed](https://www.nativescript.org/blog/nativescript-android-application-package-size-revealed) 
+  21. [https://rason.com/](https://rason.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#109)
 #### http://mobilewebweekly.co/issues/109
 
@@ -84,31 +111,5 @@
   22. [https://hired.com/](https://hired.com/) 
   25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#106)
-#### http://mobilewebweekly.co/issues/106
-
-==========
-  1. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/) 
-  2. [http://tutorials.pluralsight.com/front-end-javascript/ionic-framework-a-definitive-10-000-word-guide](http://tutorials.pluralsight.com/front-end-javascript/ionic-framework-a-definitive-10-000-word-guide) 
-  3. [https://channel9.msdn.com/Events/Build/2016/T627](https://channel9.msdn.com/Events/Build/2016/T627) 
-  4. [http://stoneriverelearning.com/courses/unlimited-subscription-stone-river-elearning](http://stoneriverelearning.com/courses/unlimited-subscription-stone-river-elearning) 
-  6. [https://twitter.com/davidbellona/status/727247047481380864](https://twitter.com/davidbellona/status/727247047481380864) 
-  7. [https://www.broken-links.com/2016/04/29/interesting-change-chrome-android/](https://www.broken-links.com/2016/04/29/interesting-change-chrome-android/) 
-  8. [http://www.theverge.com/2016/5/3/11580182/spotify-design-change-says-so-much-about-the-hamburger-button](http://www.theverge.com/2016/5/3/11580182/spotify-design-change-says-so-much-about-the-hamburger-button) 
-  9. [http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html) 
-  10. [http://blog.ionic.io/a-baseline-for-hybrid-mobile-developers/](http://blog.ionic.io/a-baseline-for-hybrid-mobile-developers/) 
-  11. [http://bitsofco.de/iframe-responsive/](http://bitsofco.de/iframe-responsive/) 
-  12. [https://onsen.io/v2/](https://onsen.io/v2/) 
-  13. [https://hired.com/](https://hired.com/) 
-  16. [http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) 
-  17. [http://developer.telerik.com/featured/creating-an-ionic-theme-for-nativescript/](http://developer.telerik.com/featured/creating-an-ionic-theme-for-nativescript/) 
-  18. [https://www.thepolyglotdeveloper.com/2016/04/my-experience-developing-with-telerik-nativescript/](https://www.thepolyglotdeveloper.com/2016/04/my-experience-developing-with-telerik-nativescript/) 
-  19. [http://blog.nparashuram.com/2016/04/using-cordova-plugins-in-reactnative.html](http://blog.nparashuram.com/2016/04/using-cordova-plugins-in-reactnative.html) 
-  20. [http://venturebeat.com/2016/04/28/ionic-funding/](http://venturebeat.com/2016/04/28/ionic-funding/) 
-  21. [https://rason.com/](https://rason.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
