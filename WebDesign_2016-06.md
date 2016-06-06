@@ -1,4 +1,4 @@
-## Updated news for 2016-06-05 
+## Updated news for 2016-06-06 
 
 ==========
 ## PostCSS – What It Is And What It Can Do
