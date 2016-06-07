@@ -1,6 +1,12 @@
-## Updated news for 2016-06-06 
+## Updated news for 2016-06-07 
 
 ==========
+## Web Design Weekly #238
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CmdPY85oYiM/
+
+==========
+
+====
 ## PostCSS – What It Is And What It Can Do
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/6cStpm9HYvs/
 
@@ -52,12 +58,6 @@
 ====
 ## Web Design Weekly #232
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/UYDmYow7EdI/
-
-==========
-
-====
-## Web Design Weekly #231
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/kxNUDLw9xvA/
 
 ==========
 
