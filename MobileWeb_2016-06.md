@@ -1,6 +1,32 @@
 ## Updated news for 2016-06-08 
 
 ==========
+## This Week in Mobile Web Development (#111)
+#### http://mobilewebweekly.co/issues/111
+
+==========
+  1. [https://arc.applause.com/2016/06/07/progressive-web-app-issues-and-concerns/](https://arc.applause.com/2016/06/07/progressive-web-app-issues-and-concerns/) 
+  2. [https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/](https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/) 
+  3. [https://medium.com/@stopsatgreen/the-crisis-facing-the-web-platform-4ab47515ed42](https://medium.com/@stopsatgreen/the-crisis-facing-the-web-platform-4ab47515ed42) 
+  4. [https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js](https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js) 
+  6. [https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb) 
+  7. [http://noborder.co/when-responsive-sites-are-just-not-enough/](http://noborder.co/when-responsive-sites-are-just-not-enough/) 
+  8. [https://developers.google.com/web/updates/2016/06/passive-event-listeners](https://developers.google.com/web/updates/2016/06/passive-event-listeners) 
+  9. [https://onsen.io/blog/react-webpack-hot-loader-onsenui/](https://onsen.io/blog/react-webpack-hot-loader-onsenui/) 
+  10. [http://techcrunch.com/2016/06/03/facebook-is-disabling-messaging-in-its-mobile-web-app-to-push-people-to-messenger/](http://techcrunch.com/2016/06/03/facebook-is-disabling-messaging-in-its-mobile-web-app-to-push-people-to-messenger/) 
+  11. [https://amphtml.wordpress.com/2016/06/07/ads-on-amp-where-faster-is-better/](https://amphtml.wordpress.com/2016/06/07/ads-on-amp-where-faster-is-better/) 
+  12. [https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/](https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/) 
+  13. [https://rason.com/](https://rason.com/) 
+  15. [https://trib.tv/2016/06/05/progressively-less-progressive/](https://trib.tv/2016/06/05/progressively-less-progressive/) 
+  16. [http://mercury.postlight.com/](http://mercury.postlight.com/) 
+  17. [http://phonegap.com/blog/2016/06/02/recapping-phonegap-day-eu-2016/](http://phonegap.com/blog/2016/06/02/recapping-phonegap-day-eu-2016/) 
+  18. [https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using-ionic-2-for-android-and-ios/](https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using-ionic-2-for-android-and-ios/) 
+  19. [https://dzone.com/articles/in-depth-with-nativescript-20](https://dzone.com/articles/in-depth-with-nativescript-20) 
+  20. [https://hired.com/](https://hired.com/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#110)
 #### http://mobilewebweekly.co/issues/110
 
@@ -83,33 +109,5 @@
   23. [http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486](http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#107)
-#### http://mobilewebweekly.co/issues/107
-
-==========
-  1. [https://www.smashingmagazine.com/2016/05/fluid-typography/](https://www.smashingmagazine.com/2016/05/fluid-typography/) 
-  2. [https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/](https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/) 
-  3. [https://speckyboy.com/2016/05/09/web-developers-can-adapt-mobile-app-world/](https://speckyboy.com/2016/05/09/web-developers-can-adapt-mobile-app-world/) 
-  4. [http://go.stormpath.com/webinar-stormpath-for-ios-apps](http://go.stormpath.com/webinar-stormpath-for-ios-apps) 
-  6. [http://mumbrella.com.au/mobile-site-or-app-with-progressive-web-apps-you-can-get-the-best-of-both-364054](http://mumbrella.com.au/mobile-site-or-app-with-progressive-web-apps-you-can-get-the-best-of-both-364054) 
-  7. [https://mobile.angular.io/](https://mobile.angular.io/) 
-  8. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/) 
-  9. [https://www.nativescript.org/blog/nativescript-2.0---the-best-way-to-build-cross-platform-native-mobile-apps](https://www.nativescript.org/blog/nativescript-2.0---the-best-way-to-build-cross-platform-native-mobile-apps) 
-  10. [https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript](https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript) 
-  11. [http://liliputing.com/2016/05/operas-ad-blocker-goes-live-desktop-mobile-web-browsers.html](http://liliputing.com/2016/05/operas-ad-blocker-goes-live-desktop-mobile-web-browsers.html) 
-  12. [http://europa.eu/rapid/press-release_IP-16-1654_en.htm](http://europa.eu/rapid/press-release_IP-16-1654_en.htm) 
-  13. [http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) 
-  14. [https://gonative.io/](https://gonative.io/) 
-  15. [https://gonative.io/examples](https://gonative.io/examples) 
-  16. [https://gonative.io/](https://gonative.io/) 
-  18. [https://www.raymondcamden.com/2016/05/06/uploading-multiple-files-at-once-for-cordova/](https://www.raymondcamden.com/2016/05/06/uploading-multiple-files-at-once-for-cordova/) 
-  19. [http://ryanjsalva.com/2016/05/07/maintaining-different-release-configurations.html](http://ryanjsalva.com/2016/05/07/maintaining-different-release-configurations.html) 
-  20. [http://makeitopen.com/tutorials/building-the-f8-app/planning/](http://makeitopen.com/tutorials/building-the-f8-app/planning/) 
-  21. [https://olivermak.es/2016/05/jekyllconf-responsive-images/](https://olivermak.es/2016/05/jekyllconf-responsive-images/) 
-  22. [https://hired.com/](https://hired.com/) 
-  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
