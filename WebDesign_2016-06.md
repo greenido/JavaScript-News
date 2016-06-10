@@ -1,6 +1,18 @@
-## Updated news for 2016-06-09 
+## Updated news for 2016-06-10 
 
 ==========
+## Rationalizing Functional CSS
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/R4bLB4pM5Ww/
+
+==========
+
+====
+## jQuery 3.0 Final Released!
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nYKIl2ymh3s/
+
+==========
+
+====
 ## Web Design Weekly #238
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CmdPY85oYiM/
 
@@ -45,19 +57,6 @@
 ====
 ## Diffee
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/U8hRqVgoJmY/
-
-==========
-
-====
-## Introducing Little Island
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/TCbTDeIgEKc/
-
-==========
-  1. [https://littleisland.io](https://littleisland.io) 
-
-====
-## Web Design Weekly #232
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/UYDmYow7EdI/
 
 ==========
 
