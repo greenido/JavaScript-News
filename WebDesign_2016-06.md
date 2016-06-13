@@ -1,4 +1,4 @@
-## Updated news for 2016-06-12 
+## Updated news for 2016-06-13 
 
 ==========
 ## Rationalizing Functional CSS
