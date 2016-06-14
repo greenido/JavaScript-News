@@ -1,6 +1,12 @@
-## Updated news for 2016-06-13 
+## Updated news for 2016-06-14 
 
 ==========
+## Web Design Weekly #239
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nOVv1Aluzjg/
+
+==========
+
+====
 ## Rationalizing Functional CSS
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/R4bLB4pM5Ww/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #233
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SGcEAMM0-0c/
-
-==========
-
-====
-## Diffee
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/U8hRqVgoJmY/
 
 ==========
 
