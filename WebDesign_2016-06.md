@@ -1,6 +1,13 @@
-## Updated news for 2016-06-14 
+## Updated news for 2016-06-15 
 
 ==========
+## Integrate Stylelint Into Your Workflow For Better CSS
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/0Goz3oPQKic/
+
+==========
+  1. [http://stylelint.io/](http://stylelint.io/) 
+
+====
 ## Web Design Weekly #239
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nOVv1Aluzjg/
 
@@ -51,12 +58,6 @@
 ====
 ## Web Design Weekly #234
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Z5oR5qUHUvE/
-
-==========
-
-====
-## Web Design Weekly #233
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/SGcEAMM0-0c/
 
 ==========
 
