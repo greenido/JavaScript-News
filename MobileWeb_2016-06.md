@@ -1,6 +1,33 @@
 ## Updated news for 2016-06-15 
 
 ==========
+## This Week in Mobile Web Development (#112)
+#### http://mobilewebweekly.co/issues/112
+
+==========
+  1. [https://www.engadget.com/2016/06/13/apple-pay-is-coming-to-the-mobile-web/](https://www.engadget.com/2016/06/13/apple-pay-is-coming-to-the-mobile-web/) 
+  2. [http://www.androidpolice.com/2016/06/13/google-preparing-big-optimizations-chrome-53-47-improvement-motion-mark-webkit/](http://www.androidpolice.com/2016/06/13/google-preparing-big-optimizations-chrome-53-47-improvement-motion-mark-webkit/) 
+  3. [https://medium.com/ben-and-dion/our-web-obesity-epidemic-a97e359d15b2](https://medium.com/ben-and-dion/our-web-obesity-epidemic-a97e359d15b2) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [http://purecontent.com/blog/page-speed-will-soon-affect-mobile-rankings/](http://purecontent.com/blog/page-speed-will-soon-affect-mobile-rankings/) 
+  7. [https://janezcadezblog.wordpress.com/2016/06/13/ionic-2-instagram-like-app/](https://janezcadezblog.wordpress.com/2016/06/13/ionic-2-instagram-like-app/) 
+  8. [http://digiday.com/publishers/mobile-overtaking-desktops-around-world-5-charts/](http://digiday.com/publishers/mobile-overtaking-desktops-around-world-5-charts/) 
+  9. [https://justmarkup.com/log/2016/06/progressive-web-apps-lets-not-repeat-the-errors-from-the-beginning-of-responsive-web-design/](https://justmarkup.com/log/2016/06/progressive-web-apps-lets-not-repeat-the-errors-from-the-beginning-of-responsive-web-design/) 
+  10. [http://www.mrc-productivity.com/blog/2016/06/the-mobile-app-comparison-chart-hybrid-vs-native-vs-mobile-web/](http://www.mrc-productivity.com/blog/2016/06/the-mobile-app-comparison-chart-hybrid-vs-native-vs-mobile-web/) 
+  11. [https://onsen.io/blog/react-redux-devtools-with-time-travel/](https://onsen.io/blog/react-redux-devtools-with-time-travel/) 
+  12. [http://www.recode.net/2016/6/7/11872790/mary-meeker-online-ads-suck-](http://www.recode.net/2016/6/7/11872790/mary-meeker-online-ads-suck-) 
+  13. [https://medium.com/@nekrtemplar/progressive-web-apps-aint-google-s-thing-31ca581e7a1](https://medium.com/@nekrtemplar/progressive-web-apps-aint-google-s-thing-31ca581e7a1) 
+  14. [https://rason.com/](https://rason.com/) 
+  16. [http://www.cnet.com/pictures/here-are-the-coolest-new-features-of-ios-10-pictures/](http://www.cnet.com/pictures/here-are-the-coolest-new-features-of-ios-10-pictures/) 
+  17. [https://www.thepolyglotdeveloper.com/2016/06/tpdp-episode-6-pouchdb-usefulness-browser-based-development/](https://www.thepolyglotdeveloper.com/2016/06/tpdp-episode-6-pouchdb-usefulness-browser-based-development/) 
+  18. [https://developer.apple.com/app-store/review/guidelines/](https://developer.apple.com/app-store/review/guidelines/) 
+  19. [https://www.thepolyglotdeveloper.com/2016/06/install-xcodeproj-nativescript-ios-development-mac-os/](https://www.thepolyglotdeveloper.com/2016/06/install-xcodeproj-nativescript-ios-development-mac-os/) 
+  20. [https://www.npmjs.com/package/vue-framework7](https://www.npmjs.com/package/vue-framework7) 
+  21. [https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB](https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#111)
 #### http://mobilewebweekly.co/issues/111
 
@@ -83,31 +110,5 @@
   28. [https://rason.com](https://rason.com) 
   30. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   31. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#108)
-#### http://mobilewebweekly.co/issues/108
-
-==========
-  1. [http://molily.de/mobile-web-performance/](http://molily.de/mobile-web-performance/) 
-  2. [http://autosend.io/blog/analytics-tools-web-mobile/](http://autosend.io/blog/analytics-tools-web-mobile/) 
-  3. [https://medium.com/mobile-first-news-how-people-use-smartphones-to](https://medium.com/mobile-first-news-how-people-use-smartphones-to) 
-  4. [https://kraken.io/](https://kraken.io/) 
-  7. [https://events.google.com/io2016/schedule](https://events.google.com/io2016/schedule) 
-  8. [https://ausi.github.io/respimagelint/](https://ausi.github.io/respimagelint/) 
-  9. [http://www.marketingcharts.com/online/what-are-the-most-important-factors-for-mobile-shoppers-67854/](http://www.marketingcharts.com/online/what-are-the-most-important-factors-for-mobile-shoppers-67854/) 
-  10. [https://blog.mozilla.org/blog/2016/05/11/firefox-for-ios-makes-it-faster-and-easier-to-use-the-mobile-web-the-way-you-want/](https://blog.mozilla.org/blog/2016/05/11/firefox-for-ios-makes-it-faster-and-easier-to-use-the-mobile-web-the-way-you-want/) 
-  11. [https://onsen.io/blog/creating-monaca-applications-with-es6/](https://onsen.io/blog/creating-monaca-applications-with-es6/) 
-  12. [https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/](https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/) 
-  15. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/) 
-  16. [http://blog.testnest.co/app-downloads-onboarding-process/](http://blog.testnest.co/app-downloads-onboarding-process/) 
-  17. [http://phonegap.com/blog/2016/05/13/augmented-reality-in-phonegap-dev-app/](http://phonegap.com/blog/2016/05/13/augmented-reality-in-phonegap-dev-app/) 
-  18. [https://www.raymondcamden.com/2016/05/16/thoughts-on-nativescript-20/](https://www.raymondcamden.com/2016/05/16/thoughts-on-nativescript-20/) 
-  19. [https://hired.com/](https://hired.com/) 
-  21. [https://onsen.io/blog/onsen-ui-environment-news/](https://onsen.io/blog/onsen-ui-environment-news/) 
-  22. [https://devdactic.com/ionic-2-sqlstorage/](https://devdactic.com/ionic-2-sqlstorage/) 
-  23. [http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486](http://code.tutsplus.com/tutorials/getting-started-with-ionic-navigation--cms-26486) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
