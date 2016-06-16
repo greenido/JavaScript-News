@@ -1,4 +1,4 @@
-## Updated news for 2016-06-15 
+## Updated news for 2016-06-16 
 
 ==========
 ## Integrate Stylelint Into Your Workflow For Better CSS
