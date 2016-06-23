@@ -1,6 +1,31 @@
-## Updated news for 2016-06-22 
+## Updated news for 2016-06-23 
 
 ==========
+## This Week in Mobile Web Development (#113)
+#### http://mobilewebweekly.co/issues/113
+
+==========
+  1. [https://medium.com/net-magazine/building-for-a-future-mobile-web-2e5069e0441f](https://medium.com/net-magazine/building-for-a-future-mobile-web-2e5069e0441f) 
+  2. [http://simplyaccessible.com/article/responsive-content/](http://simplyaccessible.com/article/responsive-content/) 
+  3. [http://www.recode.net/2016/6/20/11978474/display-ad-growth-decline-social-video](http://www.recode.net/2016/6/20/11978474/display-ad-growth-decline-social-video) 
+  4. [https://hired.com/](https://hired.com/) 
+  7. [http://mspoweruser.com/microsoft-research-project-ulink-brings-the-equivalent-of-web-urls-to-mobile-apps/](http://mspoweruser.com/microsoft-research-project-ulink-brings-the-equivalent-of-web-urls-to-mobile-apps/) 
+  8. [http://alistapart.com/article/the-future-of-the-web](http://alistapart.com/article/the-future-of-the-web) 
+  9. [http://alibaba.github.io/weex/index.html](http://alibaba.github.io/weex/index.html) 
+  10. [https://www.smashingmagazine.com/2016/06/complete-roadmap-building-delightful-onboarding-experience-mobile-app-users/](https://www.smashingmagazine.com/2016/06/complete-roadmap-building-delightful-onboarding-experience-mobile-app-users/) 
+  11. [https://medium.com/@chris.geirman/building-nativescript-apps-with-react-34417f02144c](https://medium.com/@chris.geirman/building-nativescript-apps-with-react-34417f02144c) 
+  12. [http://www.jasonclient.org/](http://www.jasonclient.org/) 
+  13. [http://babich.biz/mobile-ux-design-what-not-to-do/](http://babich.biz/mobile-ux-design-what-not-to-do/) 
+  14. [https://www.apperian.com/mam-blog/mobile-expert-interview-ionic-framework-ben-sperry-adam-bradley/](https://www.apperian.com/mam-blog/mobile-expert-interview-ionic-framework-ben-sperry-adam-bradley/) 
+  15. [http://developer.telerik.com/featured/virtual-insanity-nativescript-views-angular-2/](http://developer.telerik.com/featured/virtual-insanity-nativescript-views-angular-2/) 
+  16. [https://www.sitepoint.com/push-code-updates-to-apps-instantly-with-codepush/](https://www.sitepoint.com/push-code-updates-to-apps-instantly-with-codepush/) 
+  17. [https://blogs.msdn.microsoft.com/visualstudio/2016/06/16/apache-cordova-the-browser-based-workflow/](https://blogs.msdn.microsoft.com/visualstudio/2016/06/16/apache-cordova-the-browser-based-workflow/) 
+  18. [http://phonegap.com/blog/2016/06/15/tapbookauthor-guest-post/](http://phonegap.com/blog/2016/06/15/tapbookauthor-guest-post/) 
+  19. [https://rason.com/](https://rason.com/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#112)
 #### http://mobilewebweekly.co/issues/112
 
@@ -79,36 +104,5 @@
   21. [https://rason.com/](https://rason.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#109)
-#### http://mobilewebweekly.co/issues/109
-
-==========
-  2. [https://www.ampproject.org/](https://www.ampproject.org/) 
-  3. [http://fortune.com/2016/05/19/google-mobile-web-project/](http://fortune.com/2016/05/19/google-mobile-web-project/) 
-  4. [http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/](http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/) 
-  5. [https://developers.googleblog.com/2016/05/the-mobile-web-is-open-for-business.html](https://developers.googleblog.com/2016/05/the-mobile-web-is-open-for-business.html) 
-  7. [https://hired.com/](https://hired.com/) 
-  10. [https://www.broken-links.com/2016/05/19/android-instant-apps-web/](https://www.broken-links.com/2016/05/19/android-instant-apps-web/) 
-  11. [https://developer.android.com/topic/instant-apps/index.html](https://developer.android.com/topic/instant-apps/index.html) 
-  12. [https://adactio.com/journal/10708](https://adactio.com/journal/10708) 
-  13. [https://amphtml.wordpress.com/2016/05/24/menus-sharing-and-dynamic-css-classes-in-amp/amp/](https://amphtml.wordpress.com/2016/05/24/menus-sharing-and-dynamic-css-classes-in-amp/amp/) 
-  15. [http://www.recode.net/2016/5/21/11724336/google-chrome-search-open-web](http://www.recode.net/2016/5/21/11724336/google-chrome-search-open-web) 
-  16. [http://digiday.com/platforms/wtf-progressive-web-apps/](http://digiday.com/platforms/wtf-progressive-web-apps/) 
-  17. [https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/](https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/) 
-  18. [http://www.brucelawson.co.uk/2016/on-urls-in-progressive-web-apps/](http://www.brucelawson.co.uk/2016/on-urls-in-progressive-web-apps/) 
-  19. [https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/](https://www.kryogenix.org/days/2016/05/24/the-importance-of-urls/) 
-  20. [http://hollyschinsky.github.io/pgday-eu-star-track/](http://hollyschinsky.github.io/pgday-eu-star-track/) 
-  21. [http://developer.telerik.com/featured/moving-vanilla-javascript-angular-2-nativescript/](http://developer.telerik.com/featured/moving-vanilla-javascript-angular-2-nativescript/) 
-  22. [http://eclipsesource.com/blogs/2016/05/18/tabris-js-1-8-is-here/](http://eclipsesource.com/blogs/2016/05/18/tabris-js-1-8-is-here/) 
-  23. [http://blog.ionic.io/ionic-2-fixing-date-inputs-for-the-mobile-web/](http://blog.ionic.io/ionic-2-fixing-date-inputs-for-the-mobile-web/) 
-  24. [http://me.eekay.nl/index.php/2016/phonegap-days-europe-2016-recap-pgday/](http://me.eekay.nl/index.php/2016/phonegap-days-europe-2016-recap-pgday/) 
-  25. [http://blog.backand.com/angular-2-nativescript-vs-react-native/](http://blog.backand.com/angular-2-nativescript-vs-react-native/) 
-  26. [http://simonmacdonald.blogspot.com/2016/05/apps-crashing-with-phonegap-plugin-push.html](http://simonmacdonald.blogspot.com/2016/05/apps-crashing-with-phonegap-plugin-push.html) 
-  27. [https://github.com/imhotep/PGDayEUWs2016](https://github.com/imhotep/PGDayEUWs2016) 
-  28. [https://rason.com](https://rason.com) 
-  30. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  31. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
