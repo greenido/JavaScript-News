@@ -1,6 +1,30 @@
 ## Updated news for 2016-06-29 
 
 ==========
+## This Week in Mobile Web Development (#114)
+#### http://mobilewebweekly.co/issues/114
+
+==========
+  2. [https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd](https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd) 
+  3. [http://hood.ie/blog/beyond-progressive-web-apps-part-1.html](http://hood.ie/blog/beyond-progressive-web-apps-part-1.html) 
+  4. [https://rason.com](https://rason.com) 
+  6. [http://www.creativebloq.com/web-design/how-debug-performance-browser-61620960](http://www.creativebloq.com/web-design/how-debug-performance-browser-61620960) 
+  7. [https://www.ibm.com/developerworks/library/mo-assist-stray-dogs-1-premium/index.html](https://www.ibm.com/developerworks/library/mo-assist-stray-dogs-1-premium/index.html) 
+  8. [http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/](http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/) 
+  9. [http://www.nikola-breznjak.com/blog/javascript/ionic/introduction-tdd-ionic-framework/](http://www.nikola-breznjak.com/blog/javascript/ionic/introduction-tdd-ionic-framework/) 
+  10. [https://developers.google.com/web/showcase/2016/flipkart](https://developers.google.com/web/showcase/2016/flipkart) 
+  11. [http://simonmacdonald.blogspot.com/2016/06/using-es2015-code-in-your-phonegap.html](http://simonmacdonald.blogspot.com/2016/06/using-es2015-code-in-your-phonegap.html) 
+  12. [https://stormpath.com/blog/manage-authentication-lifecycle-mobile](https://stormpath.com/blog/manage-authentication-lifecycle-mobile) 
+  14. [http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/) 
+  15. [https://onsen.io/blog/angular-2-components-release/](https://onsen.io/blog/angular-2-components-release/) 
+  16. [http://cordova.apache.org/announcements/2016/06/23/ios-4.2.0.html](http://cordova.apache.org/announcements/2016/06/23/ios-4.2.0.html) 
+  17. [https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/](https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/) 
+  18. [https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html](https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html) 
+  19. [https://hired.com/](https://hired.com/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#113)
 #### http://mobilewebweekly.co/issues/113
 
@@ -77,32 +101,5 @@
   20. [https://hired.com/](https://hired.com/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#110)
-#### http://mobilewebweekly.co/issues/110
-
-==========
-  1. [https://remysharp.com/2016/05/28/state-of-the-gap](https://remysharp.com/2016/05/28/state-of-the-gap) 
-  2. [https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/](https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/) 
-  3. [https://css-tricks.com/couple-takes-sticky-footer/](https://css-tricks.com/couple-takes-sticky-footer/) 
-  4. [https://hired.com/](https://hired.com/) 
-  7. [https://events.withgoogle.com/progressive-web-app-dev-summit/](https://events.withgoogle.com/progressive-web-app-dev-summit/) 
-  8. [http://www.theverge.com/2016/5/31/11817476/mobile-ad-block-smartphone-pagefair-report](http://www.theverge.com/2016/5/31/11817476/mobile-ad-block-smartphone-pagefair-report) 
-  9. [https://medium.com/@redhoodsu/another-tool-to-make-mobile-web-debugging-easier-840099bfe10](https://medium.com/@redhoodsu/another-tool-to-make-mobile-web-debugging-easier-840099bfe10) 
-  10. [http://fortune.com/2016/05/27/google-apple-mobile-web/](http://fortune.com/2016/05/27/google-apple-mobile-web/) 
-  11. [https://www.sitepoint.com/quick-tip-installing-the-ionic-framework-for-html5-apps/](https://www.sitepoint.com/quick-tip-installing-the-ionic-framework-for-html5-apps/) 
-  12. [http://devblog.blackberry.com/2016/05/building-a-cross-platform-salesforce-powered-contact-list-app/](http://devblog.blackberry.com/2016/05/building-a-cross-platform-salesforce-powered-contact-list-app/) 
-  13. [http://media.bemyapp.com/web-developers-looking-get-mobile-space](http://media.bemyapp.com/web-developers-looking-get-mobile-space) 
-  14. [https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27](https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27) 
-  15. [https://www.thepolyglotdeveloper.com/2016/05/converting-ionic-2-mobile-app-nativescript/](https://www.thepolyglotdeveloper.com/2016/05/converting-ionic-2-mobile-app-nativescript/) 
-  16. [http://mobile.nytimes.com/2016/05/31/business/international/smartphone-ad-blocking-software-mobile.html](http://mobile.nytimes.com/2016/05/31/business/international/smartphone-ad-blocking-software-mobile.html) 
-  17. [https://www.elixel.co.uk/news/elixel-attends-phonegap-day-eu-2016/](https://www.elixel.co.uk/news/elixel-attends-phonegap-day-eu-2016/) 
-  18. [http://me.eekay.nl/index.php/2016/lightning-tip-2-renew-all-your-projects-cordova-plugins-at-once/](http://me.eekay.nl/index.php/2016/lightning-tip-2-renew-all-your-projects-cordova-plugins-at-once/) 
-  19. [https://chrisgriffith.wordpress.com/2016/05/17/configap-2-0a-released/](https://chrisgriffith.wordpress.com/2016/05/17/configap-2-0a-released/) 
-  20. [https://www.nativescript.org/blog/nativescript-android-application-package-size-revealed](https://www.nativescript.org/blog/nativescript-android-application-package-size-revealed) 
-  21. [https://rason.com/](https://rason.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
