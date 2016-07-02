@@ -1,6 +1,13 @@
-## Updated news for 2016-07-01 
+## Updated news for 2016-07-02 
 
 ==========
+## Install Google Fonts
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/79YJn2YObL4/
+
+==========
+  1. [http://font.google.com](http://font.google.com) 
+
+====
 ## Integration and Comparison for ES6
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Gbndkp8IrYo/
 
@@ -53,12 +60,6 @@
 ====
 ## PostCSS – What It Is And What It Can Do
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/6cStpm9HYvs/
-
-==========
-
-====
-## Web Design Weekly #237
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/3Uj__7E8ms8/
 
 ==========
 
