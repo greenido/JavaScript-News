@@ -1,4 +1,4 @@
-## Updated news for 2016-07-03 
+## Updated news for 2016-07-04 
 
 ==========
 ## Install Google Fonts
