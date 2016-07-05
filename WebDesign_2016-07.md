@@ -1,6 +1,12 @@
-## Updated news for 2016-07-04 
+## Updated news for 2016-07-05 
 
 ==========
+## Web Design Weekly #242
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/d8qep_L5jBA/
+
+==========
+
+====
 ## Install Google Fonts
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/79YJn2YObL4/
 
@@ -54,12 +60,6 @@
 ====
 ## Web Design Weekly #238
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/CmdPY85oYiM/
-
-==========
-
-====
-## PostCSS – What It Is And What It Can Do
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/6cStpm9HYvs/
 
 ==========
 
