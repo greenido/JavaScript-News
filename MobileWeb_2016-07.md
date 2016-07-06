@@ -1,6 +1,31 @@
 ## Updated news for 2016-07-06 
 
 ==========
+## This Week in Mobile Web Development (#115)
+#### http://mobilewebweekly.co/issues/115
+
+==========
+  1. [https://paulbakaus.com/2016/07/01/about-that-mobile-in-accelerated-mobile-pages/](https://paulbakaus.com/2016/07/01/about-that-mobile-in-accelerated-mobile-pages/) 
+  2. [http://moosylvania.com/blog/whats-progressive-web-app-build-one/](http://moosylvania.com/blog/whats-progressive-web-app-build-one/) 
+  3. [https://hpbn.co/](https://hpbn.co/) 
+  4. [https://rason.com](https://rason.com) 
+  6. [https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/](https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/) 
+  8. [https://dzone.com/articles/the-web-app-discovery-problem](https://dzone.com/articles/the-web-app-discovery-problem) 
+  9. [http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216) 
+  10. [https://medium.com/@pbakaus/doesnt-come-across-snarky-all-good-9d4269f7dbe6](https://medium.com/@pbakaus/doesnt-come-across-snarky-all-good-9d4269f7dbe6) 
+  11. [https://www.thepolyglotdeveloper.com/2016/07/give-nativescript-mobile-app-ionic-framework-theme/](https://www.thepolyglotdeveloper.com/2016/07/give-nativescript-mobile-app-ionic-framework-theme/) 
+  12. [http://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/](http://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/) 
+  13. [https://ishadeed.com/article/vertical-media-queries/](https://ishadeed.com/article/vertical-media-queries/) 
+  14. [https://amphtml.wordpress.com/2016/06/29/an-update-to-the-amp-roadmap-to-close-out-q2/](https://amphtml.wordpress.com/2016/06/29/an-update-to-the-amp-roadmap-to-close-out-q2/) 
+  15. [https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e](https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e) 
+  16. [https://dzone.com/articles/angular-2-nativescript-vs-react-native](https://dzone.com/articles/angular-2-nativescript-vs-react-native) 
+  17. [http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/](http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/) 
+  18. [https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/) 
+  19. [https://hired.com/](https://hired.com/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#114)
 #### http://mobilewebweekly.co/issues/114
 
@@ -75,31 +100,5 @@
   21. [https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB](https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#111)
-#### http://mobilewebweekly.co/issues/111
-
-==========
-  1. [https://arc.applause.com/2016/06/07/progressive-web-app-issues-and-concerns/](https://arc.applause.com/2016/06/07/progressive-web-app-issues-and-concerns/) 
-  2. [https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/](https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/) 
-  3. [https://medium.com/@stopsatgreen/the-crisis-facing-the-web-platform-4ab47515ed42](https://medium.com/@stopsatgreen/the-crisis-facing-the-web-platform-4ab47515ed42) 
-  4. [https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js](https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js) 
-  6. [https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb) 
-  7. [http://noborder.co/when-responsive-sites-are-just-not-enough/](http://noborder.co/when-responsive-sites-are-just-not-enough/) 
-  8. [https://developers.google.com/web/updates/2016/06/passive-event-listeners](https://developers.google.com/web/updates/2016/06/passive-event-listeners) 
-  9. [https://onsen.io/blog/react-webpack-hot-loader-onsenui/](https://onsen.io/blog/react-webpack-hot-loader-onsenui/) 
-  10. [http://techcrunch.com/2016/06/03/facebook-is-disabling-messaging-in-its-mobile-web-app-to-push-people-to-messenger/](http://techcrunch.com/2016/06/03/facebook-is-disabling-messaging-in-its-mobile-web-app-to-push-people-to-messenger/) 
-  11. [https://amphtml.wordpress.com/2016/06/07/ads-on-amp-where-faster-is-better/](https://amphtml.wordpress.com/2016/06/07/ads-on-amp-where-faster-is-better/) 
-  12. [https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/](https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/) 
-  13. [https://rason.com/](https://rason.com/) 
-  15. [https://trib.tv/2016/06/05/progressively-less-progressive/](https://trib.tv/2016/06/05/progressively-less-progressive/) 
-  16. [http://mercury.postlight.com/](http://mercury.postlight.com/) 
-  17. [http://phonegap.com/blog/2016/06/02/recapping-phonegap-day-eu-2016/](http://phonegap.com/blog/2016/06/02/recapping-phonegap-day-eu-2016/) 
-  18. [https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using-ionic-2-for-android-and-ios/](https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using-ionic-2-for-android-and-ios/) 
-  19. [https://dzone.com/articles/in-depth-with-nativescript-20](https://dzone.com/articles/in-depth-with-nativescript-20) 
-  20. [https://hired.com/](https://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
