@@ -1,4 +1,4 @@
-## Updated news for 2016-07-08 
+## Updated news for 2016-07-09 
 
 ==========
 ## Adding Google Analytics to your React Application
