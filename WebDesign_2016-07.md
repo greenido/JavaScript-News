@@ -1,6 +1,12 @@
-## Updated news for 2016-07-11 
+## Updated news for 2016-07-12 
 
 ==========
+## Web Design Weekly #243
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jXceZ_S9r3o/
+
+==========
+
+====
 ## Adding Google Analytics to your React Application
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/38LoJKxZTqE/
 
@@ -54,12 +60,6 @@
 ====
 ## Rationalizing Functional CSS
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/R4bLB4pM5Ww/
-
-==========
-
-====
-## jQuery 3.0 Final Released!
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nYKIl2ymh3s/
 
 ==========
 
