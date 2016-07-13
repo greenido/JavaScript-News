@@ -1,6 +1,32 @@
 ## Updated news for 2016-07-13 
 
 ==========
+## This Week in Mobile Web Development (#116)
+#### http://mobilewebweekly.co/issues/116
+
+==========
+  1. [https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733](https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733) 
+  2. [https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/](https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/) 
+  3. [https://zingchart.github.io/zingtouch/](https://zingchart.github.io/zingtouch/) 
+  4. [http://try.dropsource.com/beta1/](http://try.dropsource.com/beta1/) 
+  7. [http://www.telerik.com/blogs/hybrid-or-native-mobile-app-use-the-right-tool-for-the-job](http://www.telerik.com/blogs/hybrid-or-native-mobile-app-use-the-right-tool-for-the-job) 
+  8. [http://www.ebaytechblog.com/2016/06/30/browse-ebay-with-style-and-speed/](http://www.ebaytechblog.com/2016/06/30/browse-ebay-with-style-and-speed/) 
+  9. [https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/](https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/) 
+  10. [https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978) 
+  11. [https://www.developereconomics.com/reports/developer-economics-state-of-developer-nation-q1-2016](https://www.developereconomics.com/reports/developer-economics-state-of-developer-nation-q1-2016) 
+  12. [http://developerday.nativescript.org/](http://developerday.nativescript.org/) 
+  13. [https://www.nativescript.org/blog/what-is-new-in-nativescript-2.1](https://www.nativescript.org/blog/what-is-new-in-nativescript-2.1) 
+  14. [https://www.raymondcamden.com/2016/07/07/working-with-ionic-native-shake-rattle-and-roll/](https://www.raymondcamden.com/2016/07/07/working-with-ionic-native-shake-rattle-and-roll/) 
+  15. [https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2) 
+  16. [https://hired.com/](https://hired.com/) 
+  18. [http://simonmacdonald.blogspot.com/2016/07/pluginpub-publish-your-phonegap-plugins.html](http://simonmacdonald.blogspot.com/2016/07/pluginpub-publish-your-phonegap-plugins.html) 
+  19. [https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/](https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/) 
+  20. [http://developer.telerik.com/content-types/tutorials/how-do-mobile-emulators-even/](http://developer.telerik.com/content-types/tutorials/how-do-mobile-emulators-even/) 
+  21. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#115)
 #### http://mobilewebweekly.co/issues/115
 
@@ -73,32 +99,5 @@
   19. [https://rason.com/](https://rason.com/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#112)
-#### http://mobilewebweekly.co/issues/112
-
-==========
-  1. [https://www.engadget.com/2016/06/13/apple-pay-is-coming-to-the-mobile-web/](https://www.engadget.com/2016/06/13/apple-pay-is-coming-to-the-mobile-web/) 
-  2. [http://www.androidpolice.com/2016/06/13/google-preparing-big-optimizations-chrome-53-47-improvement-motion-mark-webkit/](http://www.androidpolice.com/2016/06/13/google-preparing-big-optimizations-chrome-53-47-improvement-motion-mark-webkit/) 
-  3. [https://medium.com/ben-and-dion/our-web-obesity-epidemic-a97e359d15b2](https://medium.com/ben-and-dion/our-web-obesity-epidemic-a97e359d15b2) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [http://purecontent.com/blog/page-speed-will-soon-affect-mobile-rankings/](http://purecontent.com/blog/page-speed-will-soon-affect-mobile-rankings/) 
-  7. [https://janezcadezblog.wordpress.com/2016/06/13/ionic-2-instagram-like-app/](https://janezcadezblog.wordpress.com/2016/06/13/ionic-2-instagram-like-app/) 
-  8. [http://digiday.com/publishers/mobile-overtaking-desktops-around-world-5-charts/](http://digiday.com/publishers/mobile-overtaking-desktops-around-world-5-charts/) 
-  9. [https://justmarkup.com/log/2016/06/progressive-web-apps-lets-not-repeat-the-errors-from-the-beginning-of-responsive-web-design/](https://justmarkup.com/log/2016/06/progressive-web-apps-lets-not-repeat-the-errors-from-the-beginning-of-responsive-web-design/) 
-  10. [http://www.mrc-productivity.com/blog/2016/06/the-mobile-app-comparison-chart-hybrid-vs-native-vs-mobile-web/](http://www.mrc-productivity.com/blog/2016/06/the-mobile-app-comparison-chart-hybrid-vs-native-vs-mobile-web/) 
-  11. [https://onsen.io/blog/react-redux-devtools-with-time-travel/](https://onsen.io/blog/react-redux-devtools-with-time-travel/) 
-  12. [http://www.recode.net/2016/6/7/11872790/mary-meeker-online-ads-suck-](http://www.recode.net/2016/6/7/11872790/mary-meeker-online-ads-suck-) 
-  13. [https://medium.com/@nekrtemplar/progressive-web-apps-aint-google-s-thing-31ca581e7a1](https://medium.com/@nekrtemplar/progressive-web-apps-aint-google-s-thing-31ca581e7a1) 
-  14. [https://rason.com/](https://rason.com/) 
-  16. [http://www.cnet.com/pictures/here-are-the-coolest-new-features-of-ios-10-pictures/](http://www.cnet.com/pictures/here-are-the-coolest-new-features-of-ios-10-pictures/) 
-  17. [https://www.thepolyglotdeveloper.com/2016/06/tpdp-episode-6-pouchdb-usefulness-browser-based-development/](https://www.thepolyglotdeveloper.com/2016/06/tpdp-episode-6-pouchdb-usefulness-browser-based-development/) 
-  18. [https://developer.apple.com/app-store/review/guidelines/](https://developer.apple.com/app-store/review/guidelines/) 
-  19. [https://www.thepolyglotdeveloper.com/2016/06/install-xcodeproj-nativescript-ios-development-mac-os/](https://www.thepolyglotdeveloper.com/2016/06/install-xcodeproj-nativescript-ios-development-mac-os/) 
-  20. [https://www.npmjs.com/package/vue-framework7](https://www.npmjs.com/package/vue-framework7) 
-  21. [https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB](https://williamhill.tal.net/vx/appcentre-1/brand-0/candidate/so/pm/1/pl/1/opp/5822-Web-Developer/en-GB) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
