@@ -1,6 +1,12 @@
-## Updated news for 2016-07-18 
+## Updated news for 2016-07-19 
 
 ==========
+## Web Design Weekly #244
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/DD2E4zC6d-M/
+
+==========
+
+====
 ## Web Design Weekly #243
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jXceZ_S9r3o/
 
@@ -54,12 +60,6 @@
 ====
 ## Web Design Weekly #239
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nOVv1Aluzjg/
-
-==========
-
-====
-## Rationalizing Functional CSS
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/R4bLB4pM5Ww/
 
 ==========
 
