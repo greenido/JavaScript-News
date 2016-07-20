@@ -1,6 +1,33 @@
 ## Updated news for 2016-07-20 
 
 ==========
+## This Week in Mobile Web Development (#117)
+#### http://mobilewebweekly.co/issues/117
+
+==========
+  1. [https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e) 
+  2. [https://welance.de/journal/progressive-web-apps/](https://welance.de/journal/progressive-web-apps/) 
+  3. [https://ponyfoo.com/articles/backgroundsync](https://ponyfoo.com/articles/backgroundsync) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [http://phonegap.com/blog/2016/07/13/pgdayeu16-common-phonegap-gotchas/](http://phonegap.com/blog/2016/07/13/pgdayeu16-common-phonegap-gotchas/) 
+  7. [https://samiare.github.io/whitewater-mobile-video/](https://samiare.github.io/whitewater-mobile-video/) 
+  8. [http://ct-freebies.herokuapp.com/material-kit/index.html](http://ct-freebies.herokuapp.com/material-kit/index.html) 
+  9. [http://blog.beaconstac.com/2016/07/progressive-web-apps-why-it-matters-to-your-beacon-project/](http://blog.beaconstac.com/2016/07/progressive-web-apps-why-it-matters-to-your-beacon-project/) 
+  10. [http://developer.telerik.com/featured/will-pokemon-go-change-mobile-landscape/](http://developer.telerik.com/featured/will-pokemon-go-change-mobile-landscape/) 
+  11. [http://gonehybrid.com/a-beginners-guide-to-using-ngrx-in-an-ionic-2-app-part-2/](http://gonehybrid.com/a-beginners-guide-to-using-ngrx-in-an-ionic-2-app-part-2/) 
+  12. [https://www.sitepoint.com/access-platform-apis-with-react-native-modules/](https://www.sitepoint.com/access-platform-apis-with-react-native-modules/) 
+  13. [https://www.nativescript.org/blog/nativescript-and-xamarin](https://www.nativescript.org/blog/nativescript-and-xamarin) 
+  14. [https://medium.com/@schlimmson/nativescript-angular-2-introduction-why-nativescript-matters-655263dd7923](https://medium.com/@schlimmson/nativescript-angular-2-introduction-why-nativescript-matters-655263dd7923) 
+  15. [https://techcrunch.com/2016/07/13/facebook-lifts-the-veil-on-its-mobile-device-lab/](https://techcrunch.com/2016/07/13/facebook-lifts-the-veil-on-its-mobile-device-lab/) 
+  16. [http://yeoman.io/blog/generator-m-ionic-js-fatigue-and-transitioning-to-typescript-angular-2-and-ionic-2.html](http://yeoman.io/blog/generator-m-ionic-js-fatigue-and-transitioning-to-typescript-angular-2-and-ionic-2.html) 
+  17. [http://blog.ionic.io/advanced-workflows-for-building-rock-solid-ionic-apps-part-3/](http://blog.ionic.io/advanced-workflows-for-building-rock-solid-ionic-apps-part-3/) 
+  18. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
+  20. [https://moduscreate.com/sencha-viewmodel-tips/](https://moduscreate.com/sencha-viewmodel-tips/) 
+  21. [http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html](http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#116)
 #### http://mobilewebweekly.co/issues/116
 
@@ -72,31 +99,6 @@
   17. [https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/](https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/) 
   18. [https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html](https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html) 
   19. [https://hired.com/](https://hired.com/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#113)
-#### http://mobilewebweekly.co/issues/113
-
-==========
-  1. [https://medium.com/net-magazine/building-for-a-future-mobile-web-2e5069e0441f](https://medium.com/net-magazine/building-for-a-future-mobile-web-2e5069e0441f) 
-  2. [http://simplyaccessible.com/article/responsive-content/](http://simplyaccessible.com/article/responsive-content/) 
-  3. [http://www.recode.net/2016/6/20/11978474/display-ad-growth-decline-social-video](http://www.recode.net/2016/6/20/11978474/display-ad-growth-decline-social-video) 
-  4. [https://hired.com/](https://hired.com/) 
-  7. [http://mspoweruser.com/microsoft-research-project-ulink-brings-the-equivalent-of-web-urls-to-mobile-apps/](http://mspoweruser.com/microsoft-research-project-ulink-brings-the-equivalent-of-web-urls-to-mobile-apps/) 
-  8. [http://alistapart.com/article/the-future-of-the-web](http://alistapart.com/article/the-future-of-the-web) 
-  9. [http://alibaba.github.io/weex/index.html](http://alibaba.github.io/weex/index.html) 
-  10. [https://www.smashingmagazine.com/2016/06/complete-roadmap-building-delightful-onboarding-experience-mobile-app-users/](https://www.smashingmagazine.com/2016/06/complete-roadmap-building-delightful-onboarding-experience-mobile-app-users/) 
-  11. [https://medium.com/@chris.geirman/building-nativescript-apps-with-react-34417f02144c](https://medium.com/@chris.geirman/building-nativescript-apps-with-react-34417f02144c) 
-  12. [http://www.jasonclient.org/](http://www.jasonclient.org/) 
-  13. [http://babich.biz/mobile-ux-design-what-not-to-do/](http://babich.biz/mobile-ux-design-what-not-to-do/) 
-  14. [https://www.apperian.com/mam-blog/mobile-expert-interview-ionic-framework-ben-sperry-adam-bradley/](https://www.apperian.com/mam-blog/mobile-expert-interview-ionic-framework-ben-sperry-adam-bradley/) 
-  15. [http://developer.telerik.com/featured/virtual-insanity-nativescript-views-angular-2/](http://developer.telerik.com/featured/virtual-insanity-nativescript-views-angular-2/) 
-  16. [https://www.sitepoint.com/push-code-updates-to-apps-instantly-with-codepush/](https://www.sitepoint.com/push-code-updates-to-apps-instantly-with-codepush/) 
-  17. [https://blogs.msdn.microsoft.com/visualstudio/2016/06/16/apache-cordova-the-browser-based-workflow/](https://blogs.msdn.microsoft.com/visualstudio/2016/06/16/apache-cordova-the-browser-based-workflow/) 
-  18. [http://phonegap.com/blog/2016/06/15/tapbookauthor-guest-post/](http://phonegap.com/blog/2016/06/15/tapbookauthor-guest-post/) 
-  19. [https://rason.com/](https://rason.com/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
