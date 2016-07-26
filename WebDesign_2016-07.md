@@ -1,6 +1,12 @@
-## Updated news for 2016-07-25 
+## Updated news for 2016-07-26 
 
 ==========
+## Web Design Weekly #245
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/l0jiKEj--TM/
+
+==========
+
+====
 ## Web Design Weekly #244
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/DD2E4zC6d-M/
 
@@ -56,11 +62,5 @@
 
 ==========
   1. [http://stylelint.io/](http://stylelint.io/) 
-
-====
-## Web Design Weekly #239
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/nOVv1Aluzjg/
-
-==========
 
 ====
