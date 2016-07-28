@@ -1,6 +1,37 @@
-## Updated news for 2016-07-27 
+## Updated news for 2016-07-28 
 
 ==========
+## This Week in Mobile Web Development (#118)
+#### http://mobilewebweekly.co/issues/118
+
+==========
+  1. [https://medium.com/the-mission/mobile-first-design-insights-from-a-month-without-a-computer-c18e7ada25d](https://medium.com/the-mission/mobile-first-design-insights-from-a-month-without-a-computer-c18e7ada25d) 
+  2. [https://medium.com/@wassimchegham/add-offline-support-to-any-web-app-c20edc4bea0e](https://medium.com/@wassimchegham/add-offline-support-to-any-web-app-c20edc4bea0e) 
+  3. [https://visualhierarchy.co/blog/mobile-web-navigation-best-practices/](https://visualhierarchy.co/blog/mobile-web-navigation-best-practices/) 
+  4. [https://www.pubnub.com/developers/angularjs/](https://www.pubnub.com/developers/angularjs/) 
+  7. [http://www.huffingtonpost.com/julie-ask/responsive-web-design-is-_b_10861340.html](http://www.huffingtonpost.com/julie-ask/responsive-web-design-is-_b_10861340.html) 
+  8. [https://www.thinkwithgoogle.com/articles/mobile-page-speed-load-time.html](https://www.thinkwithgoogle.com/articles/mobile-page-speed-load-time.html) 
+  9. [https://www.thepolyglotdeveloper.com/2016/07/create-a-mobile-app-from-your-angular-2-web-app-with-nativescript/](https://www.thepolyglotdeveloper.com/2016/07/create-a-mobile-app-from-your-angular-2-web-app-with-nativescript/) 
+  10. [https://www.sitepoint.com/use-react-native-to-a-create-a-face-recognition-app/](https://www.sitepoint.com/use-react-native-to-a-create-a-face-recognition-app/) 
+  11. [https://onsen.io/blog/onsenui-horizon-rethinkdb-chat/](https://onsen.io/blog/onsenui-horizon-rethinkdb-chat/) 
+  12. [https://www.smashingmagazine.com/2016/07/conversational-interfaces-where-are-we-today-where-are-we-heading/](https://www.smashingmagazine.com/2016/07/conversational-interfaces-where-are-we-today-where-are-we-heading/) 
+  13. [https://medium.com/@tarkus/react-app-sdk-5ae59106215b](https://medium.com/@tarkus/react-app-sdk-5ae59106215b) 
+  14. [https://www.imperiojs.com/](https://www.imperiojs.com/) 
+  15. [https://bradmartin.net/2016/07/20/fact-checking-the-web-or-just-some-reddit-threads-about-nativescript/](https://bradmartin.net/2016/07/20/fact-checking-the-web-or-just-some-reddit-threads-about-nativescript/) 
+  16. [http://www.quirksmode.org/blog/archives/2016/07/q2_android_webv.html](http://www.quirksmode.org/blog/archives/2016/07/q2_android_webv.html) 
+  17. [https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67) 
+  18. [http://apmblog.dynatrace.com/2016/07/21/15174/](http://apmblog.dynatrace.com/2016/07/21/15174/) 
+  19. [http://www.joshmorony.com/part-2-creating-a-multiple-user-app-with-ionic-2-pouchdb-couchdb/](http://www.joshmorony.com/part-2-creating-a-multiple-user-app-with-ionic-2-pouchdb-couchdb/) 
+  20. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
+  22. [https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/) 
+  23. [https://ionic-bootstrap-theme.herokuapp.com/](https://ionic-bootstrap-theme.herokuapp.com/) 
+  24. [https://trib.tv/2016/07/15/the-best-of-google-io-2016/](https://trib.tv/2016/07/15/the-best-of-google-io-2016/) 
+  25. [http://www.joshmorony.com/tips-tricks-for-styling-ionic-2-applications/](http://www.joshmorony.com/tips-tricks-for-styling-ionic-2-applications/) 
+  26. [https://hired.com/](https://hired.com/) 
+  28. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  29. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#117)
 #### http://mobilewebweekly.co/issues/117
 
@@ -74,30 +105,6 @@
   16. [https://dzone.com/articles/angular-2-nativescript-vs-react-native](https://dzone.com/articles/angular-2-nativescript-vs-react-native) 
   17. [http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/](http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/) 
   18. [https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/) 
-  19. [https://hired.com/](https://hired.com/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#114)
-#### http://mobilewebweekly.co/issues/114
-
-==========
-  2. [https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd](https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd) 
-  3. [http://hood.ie/blog/beyond-progressive-web-apps-part-1.html](http://hood.ie/blog/beyond-progressive-web-apps-part-1.html) 
-  4. [https://rason.com](https://rason.com) 
-  6. [http://www.creativebloq.com/web-design/how-debug-performance-browser-61620960](http://www.creativebloq.com/web-design/how-debug-performance-browser-61620960) 
-  7. [https://www.ibm.com/developerworks/library/mo-assist-stray-dogs-1-premium/index.html](https://www.ibm.com/developerworks/library/mo-assist-stray-dogs-1-premium/index.html) 
-  8. [http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/](http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/) 
-  9. [http://www.nikola-breznjak.com/blog/javascript/ionic/introduction-tdd-ionic-framework/](http://www.nikola-breznjak.com/blog/javascript/ionic/introduction-tdd-ionic-framework/) 
-  10. [https://developers.google.com/web/showcase/2016/flipkart](https://developers.google.com/web/showcase/2016/flipkart) 
-  11. [http://simonmacdonald.blogspot.com/2016/06/using-es2015-code-in-your-phonegap.html](http://simonmacdonald.blogspot.com/2016/06/using-es2015-code-in-your-phonegap.html) 
-  12. [https://stormpath.com/blog/manage-authentication-lifecycle-mobile](https://stormpath.com/blog/manage-authentication-lifecycle-mobile) 
-  14. [http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/) 
-  15. [https://onsen.io/blog/angular-2-components-release/](https://onsen.io/blog/angular-2-components-release/) 
-  16. [http://cordova.apache.org/announcements/2016/06/23/ios-4.2.0.html](http://cordova.apache.org/announcements/2016/06/23/ios-4.2.0.html) 
-  17. [https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/](https://www.raymondcamden.com/2016/06/26/linking-to-pdfs-in-cordova-apps/) 
-  18. [https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html](https://www.seroundtable.com/google-adds-amp-web-validator-tool-22278.html) 
   19. [https://hired.com/](https://hired.com/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
