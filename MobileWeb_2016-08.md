@@ -1,6 +1,32 @@
 ## Updated news for 2016-08-03 
 
 ==========
+## This Week in Mobile Web Development (#119)
+#### http://mobilewebweekly.co/issues/119
+
+==========
+  1. [http://www.niemanlab.org/2016/08/google-amp-is-about-to-become-a-much-bigger-deal-showing-up-in-everybodys-mobile-search-results/](http://www.niemanlab.org/2016/08/google-amp-is-about-to-become-a-much-bigger-deal-showing-up-in-everybodys-mobile-search-results/) 
+  2. [https://speckyboy.com/2016/06/16/mastering-responsive-web-design/](https://speckyboy.com/2016/06/16/mastering-responsive-web-design/) 
+  3. [http://www.joshmorony.com/ionic-go-create-a-pokemon-go-style-interface-in-ionic-2/](http://www.joshmorony.com/ionic-go-create-a-pokemon-go-style-interface-in-ionic-2/) 
+  4. [https://medium.freecodecamp.com/stop-the-overuse-of-overflow-menus-5caa4b54e843](https://medium.freecodecamp.com/stop-the-overuse-of-overflow-menus-5caa4b54e843) 
+  5. [https://hired.com/](https://hired.com/) 
+  7. [https://www.sitepoint.com/throttle-scroll-events/](https://www.sitepoint.com/throttle-scroll-events/) 
+  8. [http://mobileinputtypes.com/](http://mobileinputtypes.com/) 
+  9. [https://www.sitepoint.com/authenticating-users-via-oauth-with-cordova-and-ionic/](https://www.sitepoint.com/authenticating-users-via-oauth-with-cordova-and-ionic/) 
+  10. [https://www.sitepoint.com/mobile-seo-starter-guide/](https://www.sitepoint.com/mobile-seo-starter-guide/) 
+  12. [https://www.raymondcamden.com/2016/08/02/working-with-ionic-native-using-the-diagnostics-plugin/](https://www.raymondcamden.com/2016/08/02/working-with-ionic-native-using-the-diagnostics-plugin/) 
+  13. [https://webcake.co/exploring-nav-hierarchy-in-the-ionic-2-tabs-page/](https://webcake.co/exploring-nav-hierarchy-in-the-ionic-2-tabs-page/) 
+  14. [http://developer.telerik.com/featured/nativescript-hybrid-choose/](http://developer.telerik.com/featured/nativescript-hybrid-choose/) 
+  15. [http://web-perf.github.io/react-worker-dom/](http://web-perf.github.io/react-worker-dom/) 
+  16. [http://cyberomin.github.io/engineering/2016/07/30/pwa-and-konga.html](http://cyberomin.github.io/engineering/2016/07/30/pwa-and-konga.html) 
+  17. [https://www.smashingmagazine.com/2016/07/cross-platform-native-apps-single-code-set-telerik-nativescript/](https://www.smashingmagazine.com/2016/07/cross-platform-native-apps-single-code-set-telerik-nativescript/) 
+  18. [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/) 
+  19. [https://chrisgriffith.wordpress.com/2016/08/01/learn-apache-cordova-the-basics-released/](https://chrisgriffith.wordpress.com/2016/08/01/learn-apache-cordova-the-basics-released/) 
+  20. [http://go.rangle.io/angular2-ebook](http://go.rangle.io/angular2-ebook) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#118)
 #### http://mobilewebweekly.co/issues/118
 
@@ -83,30 +109,5 @@
   21. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#115)
-#### http://mobilewebweekly.co/issues/115
-
-==========
-  1. [https://paulbakaus.com/2016/07/01/about-that-mobile-in-accelerated-mobile-pages/](https://paulbakaus.com/2016/07/01/about-that-mobile-in-accelerated-mobile-pages/) 
-  2. [http://moosylvania.com/blog/whats-progressive-web-app-build-one/](http://moosylvania.com/blog/whats-progressive-web-app-build-one/) 
-  3. [https://hpbn.co/](https://hpbn.co/) 
-  4. [https://rason.com](https://rason.com) 
-  6. [https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/](https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/) 
-  8. [https://dzone.com/articles/the-web-app-discovery-problem](https://dzone.com/articles/the-web-app-discovery-problem) 
-  9. [http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216) 
-  10. [https://medium.com/@pbakaus/doesnt-come-across-snarky-all-good-9d4269f7dbe6](https://medium.com/@pbakaus/doesnt-come-across-snarky-all-good-9d4269f7dbe6) 
-  11. [https://www.thepolyglotdeveloper.com/2016/07/give-nativescript-mobile-app-ionic-framework-theme/](https://www.thepolyglotdeveloper.com/2016/07/give-nativescript-mobile-app-ionic-framework-theme/) 
-  12. [http://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/](http://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/) 
-  13. [https://ishadeed.com/article/vertical-media-queries/](https://ishadeed.com/article/vertical-media-queries/) 
-  14. [https://amphtml.wordpress.com/2016/06/29/an-update-to-the-amp-roadmap-to-close-out-q2/](https://amphtml.wordpress.com/2016/06/29/an-update-to-the-amp-roadmap-to-close-out-q2/) 
-  15. [https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e](https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e) 
-  16. [https://dzone.com/articles/angular-2-nativescript-vs-react-native](https://dzone.com/articles/angular-2-nativescript-vs-react-native) 
-  17. [http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/](http://www.webdesignermag.co.uk/build-a-hybrid-app-with-the-ionic-framework/) 
-  18. [https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/) 
-  19. [https://hired.com/](https://hired.com/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
