@@ -1,6 +1,32 @@
 ## Updated news for 2016-08-10 
 
 ==========
+## This Week in Mobile Web Development (#120)
+#### http://mobilewebweekly.co/issues/120
+
+==========
+  1. [http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085](http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085) 
+  2. [http://www.techrepublic.com/article/how-progressive-web-apps-promise-to-upend-native-mobile-apps/](http://www.techrepublic.com/article/how-progressive-web-apps-promise-to-upend-native-mobile-apps/) 
+  3. [http://blog.chromium.org/2016/08/chrome-53-beta-shadow-dom.html](http://blog.chromium.org/2016/08/chrome-53-beta-shadow-dom.html) 
+  4. [http://w3c.github.io/webcomponents/spec/shadow/](http://w3c.github.io/webcomponents/spec/shadow/) 
+  5. [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/) 
+  6. [https://attendee.gotowebinar.com/register/8442541036058193156](https://attendee.gotowebinar.com/register/8442541036058193156) 
+  9. [https://tompetersononline.wordpress.com/2016/07/19/the-death-of-the-natives-a-progressive-shift-for-apps-web-marketers/](https://tompetersononline.wordpress.com/2016/07/19/the-death-of-the-natives-a-progressive-shift-for-apps-web-marketers/) 
+  10. [http://www.joshmorony.com/using-the-web-animations-api-in-ionic-2/](http://www.joshmorony.com/using-the-web-animations-api-in-ionic-2/) 
+  11. [https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/](https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/) 
+  12. [http://www.creativebloq.com/how-to/11-tips-for-ergonomic-mobile-interfaces](http://www.creativebloq.com/how-to/11-tips-for-ergonomic-mobile-interfaces) 
+  13. [http://babich.biz/principles-of-mobile-site-design/](http://babich.biz/principles-of-mobile-site-design/) 
+  14. [https://medium.com/@maxlynch/how-to-write-cordova-plugins-864e40025f2](https://medium.com/@maxlynch/how-to-write-cordova-plugins-864e40025f2) 
+  15. [http://code.tutsplus.com/tutorials/create-your-first-nativescript-app--cms-26957](http://code.tutsplus.com/tutorials/create-your-first-nativescript-app--cms-26957) 
+  16. [https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1](https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1) 
+  17. [http://engineering.pivotal.io/post/writing-an-ionic2-app-for-production/](http://engineering.pivotal.io/post/writing-an-ionic2-app-for-production/) 
+  18. [http://eclipsesource.com/blogs/2016/08/03/tabris-js-1-9-is-here/](http://eclipsesource.com/blogs/2016/08/03/tabris-js-1-9-is-here/) 
+  19. [https://developers.google.com/web/updates/2016/04/scroll-anchoring](https://developers.google.com/web/updates/2016/04/scroll-anchoring) 
+  20. [https://hired.com/](https://hired.com/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#119)
 #### http://mobilewebweekly.co/issues/119
 
@@ -83,31 +109,5 @@
   21. [http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html](http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#116)
-#### http://mobilewebweekly.co/issues/116
-
-==========
-  1. [https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733](https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733) 
-  2. [https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/](https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/) 
-  3. [https://zingchart.github.io/zingtouch/](https://zingchart.github.io/zingtouch/) 
-  4. [http://try.dropsource.com/beta1/](http://try.dropsource.com/beta1/) 
-  7. [http://www.telerik.com/blogs/hybrid-or-native-mobile-app-use-the-right-tool-for-the-job](http://www.telerik.com/blogs/hybrid-or-native-mobile-app-use-the-right-tool-for-the-job) 
-  8. [http://www.ebaytechblog.com/2016/06/30/browse-ebay-with-style-and-speed/](http://www.ebaytechblog.com/2016/06/30/browse-ebay-with-style-and-speed/) 
-  9. [https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/](https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/) 
-  10. [https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978) 
-  11. [https://www.developereconomics.com/reports/developer-economics-state-of-developer-nation-q1-2016](https://www.developereconomics.com/reports/developer-economics-state-of-developer-nation-q1-2016) 
-  12. [http://developerday.nativescript.org/](http://developerday.nativescript.org/) 
-  13. [https://www.nativescript.org/blog/what-is-new-in-nativescript-2.1](https://www.nativescript.org/blog/what-is-new-in-nativescript-2.1) 
-  14. [https://www.raymondcamden.com/2016/07/07/working-with-ionic-native-shake-rattle-and-roll/](https://www.raymondcamden.com/2016/07/07/working-with-ionic-native-shake-rattle-and-roll/) 
-  15. [https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2) 
-  16. [https://hired.com/](https://hired.com/) 
-  18. [http://simonmacdonald.blogspot.com/2016/07/pluginpub-publish-your-phonegap-plugins.html](http://simonmacdonald.blogspot.com/2016/07/pluginpub-publish-your-phonegap-plugins.html) 
-  19. [https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/](https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/) 
-  20. [http://developer.telerik.com/content-types/tutorials/how-do-mobile-emulators-even/](http://developer.telerik.com/content-types/tutorials/how-do-mobile-emulators-even/) 
-  21. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
