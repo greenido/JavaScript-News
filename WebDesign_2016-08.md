@@ -1,6 +1,12 @@
-## Updated news for 2016-08-15 
+## Updated news for 2016-08-16 
 
 ==========
+## Web Design Weekly #248
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/bl0gH7lbFKs/
+
+==========
+
+====
 ## Web Design Weekly #247
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/p6f8xK7_uFM/
 
@@ -55,11 +61,5 @@
 
 ==========
   1. [http://www.ecmascript.org/docs.php](http://www.ecmascript.org/docs.php) 
-
-====
-## Web Design Weekly #241
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/1oGOW0eiCdM/
-
-==========
 
 ====
