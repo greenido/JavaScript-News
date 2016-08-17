@@ -1,6 +1,31 @@
 ## Updated news for 2016-08-17 
 
 ==========
+## This Week in Mobile Web Development (#121)
+#### http://mobilewebweekly.co/issues/121
+
+==========
+  1. [https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108) 
+  2. [http://techbeacon.com/web-native-mobile-app-frameworks-how-sort-through-choices](http://techbeacon.com/web-native-mobile-app-frameworks-how-sort-through-choices) 
+  3. [https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) 
+  4. [https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/](https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/) 
+  5. [https://hired.com/](https://hired.com/) 
+  7. [https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) 
+  8. [https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw](https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw) 
+  9. [https://www.infoq.com/news/2016/08/survey-android-ios](https://www.infoq.com/news/2016/08/survey-android-ios) 
+  10. [http://javebratt.com/firebase-storage-ionic-camera/](http://javebratt.com/firebase-storage-ionic-camera/) 
+  11. [http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/](http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/) 
+  12. [https://www.nativescript.org/blog/using-android-background-services-in-nativescript](https://www.nativescript.org/blog/using-android-background-services-in-nativescript) 
+  13. [http://developer.mobilecaddy.net/2016/08/why-ionic-is-ideal-for-enterprise/](http://developer.mobilecaddy.net/2016/08/why-ionic-is-ideal-for-enterprise/) 
+  14. [https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/](https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/) 
+  15. [https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/](https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/) 
+  16. [https://dev.opera.com/articles/pwa-desktop/](https://dev.opera.com/articles/pwa-desktop/) 
+  17. [https://blogs.msdn.microsoft.com/visualstudio/2016/08/03/create-high-quality-mobile-apps-with-ionic-visual-studio/](https://blogs.msdn.microsoft.com/visualstudio/2016/08/03/create-high-quality-mobile-apps-with-ionic-visual-studio/) 
+  18. [http://go.rangle.io/angular-2-online-training](http://go.rangle.io/angular-2-online-training) 
+  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#120)
 #### http://mobilewebweekly.co/issues/120
 
@@ -82,32 +107,5 @@
   26. [https://hired.com/](https://hired.com/) 
   28. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   29. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#117)
-#### http://mobilewebweekly.co/issues/117
-
-==========
-  1. [https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e) 
-  2. [https://welance.de/journal/progressive-web-apps/](https://welance.de/journal/progressive-web-apps/) 
-  3. [https://ponyfoo.com/articles/backgroundsync](https://ponyfoo.com/articles/backgroundsync) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [http://phonegap.com/blog/2016/07/13/pgdayeu16-common-phonegap-gotchas/](http://phonegap.com/blog/2016/07/13/pgdayeu16-common-phonegap-gotchas/) 
-  7. [https://samiare.github.io/whitewater-mobile-video/](https://samiare.github.io/whitewater-mobile-video/) 
-  8. [http://ct-freebies.herokuapp.com/material-kit/index.html](http://ct-freebies.herokuapp.com/material-kit/index.html) 
-  9. [http://blog.beaconstac.com/2016/07/progressive-web-apps-why-it-matters-to-your-beacon-project/](http://blog.beaconstac.com/2016/07/progressive-web-apps-why-it-matters-to-your-beacon-project/) 
-  10. [http://developer.telerik.com/featured/will-pokemon-go-change-mobile-landscape/](http://developer.telerik.com/featured/will-pokemon-go-change-mobile-landscape/) 
-  11. [http://gonehybrid.com/a-beginners-guide-to-using-ngrx-in-an-ionic-2-app-part-2/](http://gonehybrid.com/a-beginners-guide-to-using-ngrx-in-an-ionic-2-app-part-2/) 
-  12. [https://www.sitepoint.com/access-platform-apis-with-react-native-modules/](https://www.sitepoint.com/access-platform-apis-with-react-native-modules/) 
-  13. [https://www.nativescript.org/blog/nativescript-and-xamarin](https://www.nativescript.org/blog/nativescript-and-xamarin) 
-  14. [https://medium.com/@schlimmson/nativescript-angular-2-introduction-why-nativescript-matters-655263dd7923](https://medium.com/@schlimmson/nativescript-angular-2-introduction-why-nativescript-matters-655263dd7923) 
-  15. [https://techcrunch.com/2016/07/13/facebook-lifts-the-veil-on-its-mobile-device-lab/](https://techcrunch.com/2016/07/13/facebook-lifts-the-veil-on-its-mobile-device-lab/) 
-  16. [http://yeoman.io/blog/generator-m-ionic-js-fatigue-and-transitioning-to-typescript-angular-2-and-ionic-2.html](http://yeoman.io/blog/generator-m-ionic-js-fatigue-and-transitioning-to-typescript-angular-2-and-ionic-2.html) 
-  17. [http://blog.ionic.io/advanced-workflows-for-building-rock-solid-ionic-apps-part-3/](http://blog.ionic.io/advanced-workflows-for-building-rock-solid-ionic-apps-part-3/) 
-  18. [http://komodoide.com/web-ide/](http://komodoide.com/web-ide/) 
-  20. [https://moduscreate.com/sencha-viewmodel-tips/](https://moduscreate.com/sencha-viewmodel-tips/) 
-  21. [http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html](http://www.quirksmode.org/blog/archives/2016/07/the_backgrounda.html) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
