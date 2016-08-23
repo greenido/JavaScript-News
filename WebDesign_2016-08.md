@@ -1,6 +1,12 @@
-## Updated news for 2016-08-22 
+## Updated news for 2016-08-23 
 
 ==========
+## Web Design Weekly #249
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/5yfkM0TWEr4/
+
+==========
+
+====
 ## Web Design Weekly #248
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/bl0gH7lbFKs/
 
@@ -54,12 +60,5 @@
 
 ==========
   1. [http://font.google.com](http://font.google.com) 
-
-====
-## Integration and Comparison for ES6
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Gbndkp8IrYo/
-
-==========
-  1. [http://www.ecmascript.org/docs.php](http://www.ecmascript.org/docs.php) 
 
 ====
