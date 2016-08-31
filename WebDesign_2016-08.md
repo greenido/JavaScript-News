@@ -1,6 +1,12 @@
-## Updated news for 2016-08-30 
+## Updated news for 2016-08-31 
 
 ==========
+## Web Design Weekly #250
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VgDaBmFn5r4/
+
+==========
+
+====
 ## Web Design Weekly #249
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/5yfkM0TWEr4/
 
@@ -53,12 +59,5 @@
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/d8qep_L5jBA/
 
 ==========
-
-====
-## Install Google Fonts
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/79YJn2YObL4/
-
-==========
-  1. [http://font.google.com](http://font.google.com) 
 
 ====
