@@ -1,6 +1,34 @@
 ## Updated news for 2016-09-07 
 
 ==========
+## This Week in Mobile Web Development (#124)
+#### http://mobilewebweekly.co/issues/124
+
+==========
+  1. [http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456](http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456) 
+  2. [https://medium.com/dev-channel/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb](https://medium.com/dev-channel/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb) 
+  3. [https://news.greylock.com/the-next-great-platform-is-the-one-that-we-already-have-9c33a1236c37](https://news.greylock.com/the-next-great-platform-is-the-one-that-we-already-have-9c33a1236c37) 
+  4. [https://gonative.io/](https://gonative.io/) 
+  5. [https://gonative.io/examples](https://gonative.io/examples) 
+  6. [https://gonative.io/](https://gonative.io/) 
+  8. [https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/](https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/) 
+  9. [http://www.erikschierboom.com/2016/09/02/ionic2-audio-recorder/](http://www.erikschierboom.com/2016/09/02/ionic2-audio-recorder/) 
+  10. [https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/) 
+  11. [https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e](https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e) 
+  12. [http://clearleft.com/thinks/403](http://clearleft.com/thinks/403) 
+  13. [https://github.com/gokulkrishh/demo-progressive-web-app](https://github.com/gokulkrishh/demo-progressive-web-app) 
+  14. [https://uxplanet.org/little-big-details-for-your-mobile-app-6ec1ca615abc](https://uxplanet.org/little-big-details-for-your-mobile-app-6ec1ca615abc) 
+  15. [http://eclipsesource.com/blogs/2016/08/30/tabris-maps-2-0-released/](http://eclipsesource.com/blogs/2016/08/30/tabris-maps-2-0-released/) 
+  16. [https://uxplanet.org/mobile-design-techinques-e0212ac66765](https://uxplanet.org/mobile-design-techinques-e0212ac66765) 
+  17. [http://www.creativebloq.com/features/the-future-of-web-apps](http://www.creativebloq.com/features/the-future-of-web-apps) 
+  18. [https://www.infoq.com/news/2016/08/visual-studio-code-ios-debug](https://www.infoq.com/news/2016/08/visual-studio-code-ios-debug) 
+  19. [http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/) 
+  20. [https://onsen.io/blog/preview-vue-support-onsen-ui/](https://onsen.io/blog/preview-vue-support-onsen-ui/) 
+  21. [https://hired.com/](https://hired.com/) 
+  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#123)
 #### http://mobilewebweekly.co/issues/123
 
@@ -80,31 +108,5 @@
   18. [http://go.rangle.io/angular-2-online-training](http://go.rangle.io/angular-2-online-training) 
   20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#120)
-#### http://mobilewebweekly.co/issues/120
-
-==========
-  1. [http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085](http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085) 
-  2. [http://www.techrepublic.com/article/how-progressive-web-apps-promise-to-upend-native-mobile-apps/](http://www.techrepublic.com/article/how-progressive-web-apps-promise-to-upend-native-mobile-apps/) 
-  3. [http://blog.chromium.org/2016/08/chrome-53-beta-shadow-dom.html](http://blog.chromium.org/2016/08/chrome-53-beta-shadow-dom.html) 
-  4. [http://w3c.github.io/webcomponents/spec/shadow/](http://w3c.github.io/webcomponents/spec/shadow/) 
-  5. [https://www.w3.org/TR/payment-request/](https://www.w3.org/TR/payment-request/) 
-  6. [https://attendee.gotowebinar.com/register/8442541036058193156](https://attendee.gotowebinar.com/register/8442541036058193156) 
-  9. [https://tompetersononline.wordpress.com/2016/07/19/the-death-of-the-natives-a-progressive-shift-for-apps-web-marketers/](https://tompetersononline.wordpress.com/2016/07/19/the-death-of-the-natives-a-progressive-shift-for-apps-web-marketers/) 
-  10. [http://www.joshmorony.com/using-the-web-animations-api-in-ionic-2/](http://www.joshmorony.com/using-the-web-animations-api-in-ionic-2/) 
-  11. [https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/](https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/) 
-  12. [http://www.creativebloq.com/how-to/11-tips-for-ergonomic-mobile-interfaces](http://www.creativebloq.com/how-to/11-tips-for-ergonomic-mobile-interfaces) 
-  13. [http://babich.biz/principles-of-mobile-site-design/](http://babich.biz/principles-of-mobile-site-design/) 
-  14. [https://medium.com/@maxlynch/how-to-write-cordova-plugins-864e40025f2](https://medium.com/@maxlynch/how-to-write-cordova-plugins-864e40025f2) 
-  15. [http://code.tutsplus.com/tutorials/create-your-first-nativescript-app--cms-26957](http://code.tutsplus.com/tutorials/create-your-first-nativescript-app--cms-26957) 
-  16. [https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1](https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1) 
-  17. [http://engineering.pivotal.io/post/writing-an-ionic2-app-for-production/](http://engineering.pivotal.io/post/writing-an-ionic2-app-for-production/) 
-  18. [http://eclipsesource.com/blogs/2016/08/03/tabris-js-1-9-is-here/](http://eclipsesource.com/blogs/2016/08/03/tabris-js-1-9-is-here/) 
-  19. [https://developers.google.com/web/updates/2016/04/scroll-anchoring](https://developers.google.com/web/updates/2016/04/scroll-anchoring) 
-  20. [https://hired.com/](https://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
