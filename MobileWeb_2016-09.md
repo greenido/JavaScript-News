@@ -1,6 +1,39 @@
 ## Updated news for 2016-09-14 
 
 ==========
+## This Week in Mobile Web Development (#125)
+#### http://mobilewebweekly.co/issues/125
+
+==========
+  1. [https://arc.applause.com/newsletters/progressive-web-apps/](https://arc.applause.com/newsletters/progressive-web-apps/) 
+  2. [http://www.theverge.com/2016/9/8/12845964/android-pay-mobile-web-coming-soon](http://www.theverge.com/2016/9/8/12845964/android-pay-mobile-web-coming-soon) 
+  3. [https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6](https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6) 
+  4. [https://www.pubnub.com/developers/webinars/2016-08-17-android-dev-training-how-to-build-a-full-featured-chat-app/](https://www.pubnub.com/developers/webinars/2016-08-17-android-dev-training-how-to-build-a-full-featured-chat-app/) 
+  7. [http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/The-2016-US-Mobile-App-Report](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/The-2016-US-Mobile-App-Report) 
+  8. [https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/](https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/) 
+  9. [https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313](https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313) 
+  10. [http://michael-gannon.com/media/index.html](http://michael-gannon.com/media/index.html) 
+  11. [http://blog.ionic.io/announcing-pwa-support-in-ionic-2/](http://blog.ionic.io/announcing-pwa-support-in-ionic-2/) 
+  12. [http://www.joshmorony.com/integrating-native-google-maps-into-an-ionic-2-application/](http://www.joshmorony.com/integrating-native-google-maps-into-an-ionic-2-application/) 
+  13. [https://www.raymondcamden.com/2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator/](https://www.raymondcamden.com/2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator/) 
+  14. [http://photography.tutsplus.com/articles/how-to-use-to-amp-img-and-amp-video-to-speed-up-your-website--cms-27164](http://photography.tutsplus.com/articles/how-to-use-to-amp-img-and-amp-video-to-speed-up-your-website--cms-27164) 
+  15. [http://venturebeat.com/2016/09/06/mobile-commerce-wars-apps-versus-mobile-web/](http://venturebeat.com/2016/09/06/mobile-commerce-wars-apps-versus-mobile-web/) 
+  16. [https://github.com/react-native-community/React-Native-Elements](https://github.com/react-native-community/React-Native-Elements) 
+  17. [https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/](https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/) 
+  18. [https://coligo.io/building-a-mobile-app-with-cordova-vuejs/](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) 
+  19. [http://phonegap.com/blog/2016/09/12/upcoming-phonegap-events/](http://phonegap.com/blog/2016/09/12/upcoming-phonegap-events/) 
+  20. [https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe](https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe) 
+  21. [https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/) 
+  22. [http://www.fastcompany.com/3063420/elasticity/how-google-and-others-are-plotting-the-revenge-of-the-web-app](http://www.fastcompany.com/3063420/elasticity/how-google-and-others-are-plotting-the-revenge-of-the-web-app) 
+  23. [https://css-tricks.com/building-resizeable-components-relative-css-units/](https://css-tricks.com/building-resizeable-components-relative-css-units/) 
+  24. [https://medium.com/@jrejaud/developing-for-android-vs-ios-material-vs-flat-design-fb341b05b0f0](https://medium.com/@jrejaud/developing-for-android-vs-ios-material-vs-flat-design-fb341b05b0f0) 
+  25. [https://gonative.io/](https://gonative.io/) 
+  26. [https://gonative.io/examples](https://gonative.io/examples) 
+  27. [https://gonative.io/](https://gonative.io/) 
+  28. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  29. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#124)
 #### http://mobilewebweekly.co/issues/124
 
@@ -83,30 +116,5 @@
   23. [https://hired.com/](https://hired.com/) 
   25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#121)
-#### http://mobilewebweekly.co/issues/121
-
-==========
-  1. [https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108) 
-  2. [http://techbeacon.com/web-native-mobile-app-frameworks-how-sort-through-choices](http://techbeacon.com/web-native-mobile-app-frameworks-how-sort-through-choices) 
-  3. [https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) 
-  4. [https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/](https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/) 
-  5. [https://hired.com/](https://hired.com/) 
-  7. [https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) 
-  8. [https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw](https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw) 
-  9. [https://www.infoq.com/news/2016/08/survey-android-ios](https://www.infoq.com/news/2016/08/survey-android-ios) 
-  10. [http://javebratt.com/firebase-storage-ionic-camera/](http://javebratt.com/firebase-storage-ionic-camera/) 
-  11. [http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/](http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/) 
-  12. [https://www.nativescript.org/blog/using-android-background-services-in-nativescript](https://www.nativescript.org/blog/using-android-background-services-in-nativescript) 
-  13. [http://developer.mobilecaddy.net/2016/08/why-ionic-is-ideal-for-enterprise/](http://developer.mobilecaddy.net/2016/08/why-ionic-is-ideal-for-enterprise/) 
-  14. [https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/](https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/) 
-  15. [https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/](https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/) 
-  16. [https://dev.opera.com/articles/pwa-desktop/](https://dev.opera.com/articles/pwa-desktop/) 
-  17. [https://blogs.msdn.microsoft.com/visualstudio/2016/08/03/create-high-quality-mobile-apps-with-ionic-visual-studio/](https://blogs.msdn.microsoft.com/visualstudio/2016/08/03/create-high-quality-mobile-apps-with-ionic-visual-studio/) 
-  18. [http://go.rangle.io/angular-2-online-training](http://go.rangle.io/angular-2-online-training) 
-  20. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  21. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
