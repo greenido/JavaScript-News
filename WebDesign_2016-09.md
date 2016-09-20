@@ -1,6 +1,12 @@
-## Updated news for 2016-09-19 
+## Updated news for 2016-09-20 
 
 ==========
+## Web Design Weekly #252
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/_QWCnVIMWOs/
+
+==========
+
+====
 ## Web Design Weekly #251
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/sBWkvuzJA3c/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #243
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/jXceZ_S9r3o/
-
-==========
-
-====
-## Adding Google Analytics to your React Application
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/38LoJKxZTqE/
 
 ==========
 
