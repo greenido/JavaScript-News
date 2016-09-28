@@ -1,6 +1,31 @@
 ## Updated news for 2016-09-28 
 
 ==========
+## This Week in Mobile Web Development (#127)
+#### http://mobilewebweekly.co/issues/127
+
+==========
+  1. [http://www.javascripttuts.com/native-app-combining-angular-2-react-native/](http://www.javascripttuts.com/native-app-combining-angular-2-react-native/) 
+  2. [https://developers.googleblog.com/2016/09/how-to-set-up-analytics-on-your-amp-pages.html](https://developers.googleblog.com/2016/09/how-to-set-up-analytics-on-your-amp-pages.html) 
+  4. [https://hired.com/](https://hired.com/) 
+  6. [https://moz.com/blog/responsive-design-fix-conversions](https://moz.com/blog/responsive-design-fix-conversions) 
+  7. [http://www.wsj.com/articles/apple-and-google-browser-tweaks-could-boost-mobile-video-1474452060](http://www.wsj.com/articles/apple-and-google-browser-tweaks-could-boost-mobile-video-1474452060) 
+  8. [https://www.thecssninja.com/html5/stop-ios10-safari-auto-locking](https://www.thecssninja.com/html5/stop-ios10-safari-auto-locking) 
+  9. [https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294](https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294) 
+  10. [https://medium.com/@jeffwhelpley/angular-native-77e82687c579](https://medium.com/@jeffwhelpley/angular-native-77e82687c579) 
+  11. [https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin) 
+  12. [https://blog.creativesdk.com/2016/09/phonegap-plugin-roundup/](https://blog.creativesdk.com/2016/09/phonegap-plugin-roundup/) 
+  13. [https://www.smashingmagazine.com/2016/09/building-hybrid-apps-with-chakracore/](https://www.smashingmagazine.com/2016/09/building-hybrid-apps-with-chakracore/) 
+  14. [http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) 
+  15. [https://uxplanet.org/visual-dividers-in-mobile-ui-design-53208de5426f](https://uxplanet.org/visual-dividers-in-mobile-ui-design-53208de5426f) 
+  16. [http://www.theverge.com/2016/9/27/13070856/chrome-android-data-saver](http://www.theverge.com/2016/9/27/13070856/chrome-android-data-saver) 
+  17. [http://www.creativebloq.com/features/14-top-web-app-resources](http://www.creativebloq.com/features/14-top-web-app-resources) 
+  18. [https://moz.com/blog/introducing-progressive-web-apps](https://moz.com/blog/introducing-progressive-web-apps) 
+  19. [https://gonative.io/](https://gonative.io/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#126)
 #### http://mobilewebweekly.co/issues/126
 
@@ -90,31 +115,5 @@
   21. [https://hired.com/](https://hired.com/) 
   23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#123)
-#### http://mobilewebweekly.co/issues/123
-
-==========
-  1. [http://www.remotesynthesis.com/general/2016/08/25/on-mobile-web/](http://www.remotesynthesis.com/general/2016/08/25/on-mobile-web/) 
-  2. [https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) 
-  3. [https://medium.com/@urish/start-building-with-web-bluetooth-and-progressive-web-apps-6534835959a6](https://medium.com/@urish/start-building-with-web-bluetooth-and-progressive-web-apps-6534835959a6) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://onsen.io/blog/meteor-mobile-app-onsenui/](https://onsen.io/blog/meteor-mobile-app-onsenui/) 
-  7. [https://www.sitepoint.com/adding-analytics-to-a-react-native-app/](https://www.sitepoint.com/adding-analytics-to-a-react-native-app/) 
-  8. [http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945) 
-  9. [https://www.toptal.com/mobile/comparing-react-native-to-cordova](https://www.toptal.com/mobile/comparing-react-native-to-cordova) 
-  10. [https://developers.googleblog.com/2016/08/modernizing-oauth-interactions-in-native-apps.html](https://developers.googleblog.com/2016/08/modernizing-oauth-interactions-in-native-apps.html) 
-  11. [https://www.thepolyglotdeveloper.com/2016/08/use-mozillas-localforage-library-key-value-storage-ionic-framework/](https://www.thepolyglotdeveloper.com/2016/08/use-mozillas-localforage-library-key-value-storage-ionic-framework/) 
-  12. [https://medium.com/@devillex/automate-your-ionic-package-build-with-wercker-5047f2f6d1e1](https://medium.com/@devillex/automate-your-ionic-package-build-with-wercker-5047f2f6d1e1) 
-  13. [http://developer.telerik.com/featured/scanning-barcodes-nativescript-angular-2/](http://developer.telerik.com/featured/scanning-barcodes-nativescript-angular-2/) 
-  14. [https://www.theguardian.com/info/developer-blog/2016/aug/19/how-we-made-the-riorun-progressive-web-app](https://www.theguardian.com/info/developer-blog/2016/aug/19/how-we-made-the-riorun-progressive-web-app) 
-  15. [http://www.creativebloq.com/how-to/15-tips-for-cross-device-optimisation](http://www.creativebloq.com/how-to/15-tips-for-cross-device-optimisation) 
-  16. [https://www.browserstack.com/test-on-the-right-mobile-devices](https://www.browserstack.com/test-on-the-right-mobile-devices) 
-  17. [https://medium.com/@dandv/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb](https://medium.com/@dandv/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb) 
-  18. [http://code.tutsplus.com/tutorials/installing-amp-in-wordpress--cms-26272](http://code.tutsplus.com/tutorials/installing-amp-in-wordpress--cms-26272) 
-  19. [http://go.rangle.io/angular-2-online-training](http://go.rangle.io/angular-2-online-training) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
