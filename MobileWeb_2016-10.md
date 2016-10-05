@@ -1,6 +1,33 @@
 ## Updated news for 2016-10-05 
 
 ==========
+## This Week in Mobile Web Development (#128)
+#### http://mobilewebweekly.co/issues/128
+
+==========
+  1. [http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/](http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/) 
+  2. [https://medium.com/@Localytics_58363/the-future-of-apps-in-our-own-words-7e8613cbda1b](https://medium.com/@Localytics_58363/the-future-of-apps-in-our-own-words-7e8613cbda1b) 
+  3. [http://searchengineland.com/google-amp-will-override-app-deep-links-foreseeable-future-259905](http://searchengineland.com/google-amp-will-override-app-deep-links-foreseeable-future-259905) 
+  4. [https://events.withgoogle.com/firebase-dev-summit/](https://events.withgoogle.com/firebase-dev-summit/) 
+  6. [http://www.developer.com/ws/other/has-the-time-for-progressive-web-apps-already-come.html](http://www.developer.com/ws/other/has-the-time-for-progressive-web-apps-already-come.html) 
+  7. [https://benfrain.com/the-ios-safari-menu-bar-is-hostile-to-web-apps-discuss/](https://benfrain.com/the-ios-safari-menu-bar-is-hostile-to-web-apps-discuss/) 
+  8. [https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/](https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/) 
+  9. [https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) 
+  10. [http://blog.js.cytoscape.org/2016/09/28/cordova/](http://blog.js.cytoscape.org/2016/09/28/cordova/) 
+  11. [https://realm.io/products/realm-mobile-platform/](https://realm.io/products/realm-mobile-platform/) 
+  12. [http://ryanchristiani.com/service-workers/](http://ryanchristiani.com/service-workers/) 
+  13. [https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221](https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221) 
+  14. [https://www.smashingmagazine.com/2016/10/finding-better-mobile-analytics/](https://www.smashingmagazine.com/2016/10/finding-better-mobile-analytics/) 
+  15. [https://www.infoq.com/news/2016/09/w3c-web-payments-working-draft](https://www.infoq.com/news/2016/09/w3c-web-payments-working-draft) 
+  16. [https://medium.com/ionic-and-the-mobile-web/smart-bulbs-in-the-angularconnect-iot-workshop-845a41882dfb](https://medium.com/ionic-and-the-mobile-web/smart-bulbs-in-the-angularconnect-iot-workshop-845a41882dfb) 
+  17. [https://developers.googleblog.com/2016/09/how-to-set-up-ads-on-your-amp-pages.html](https://developers.googleblog.com/2016/09/how-to-set-up-ads-on-your-amp-pages.html) 
+  18. [http://www.creativebloq.com/news/online-tool-takes-the-guesswork-out-of-css-media-queries](http://www.creativebloq.com/news/online-tool-takes-the-guesswork-out-of-css-media-queries) 
+  19. [https://paperplanes.world/](https://paperplanes.world/) 
+  20. [http://hired.com/](http://hired.com/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#127)
 #### http://mobilewebweekly.co/issues/127
 
@@ -87,33 +114,5 @@
   27. [https://gonative.io/](https://gonative.io/) 
   28. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   29. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#124)
-#### http://mobilewebweekly.co/issues/124
-
-==========
-  1. [http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456](http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456) 
-  2. [https://medium.com/dev-channel/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb](https://medium.com/dev-channel/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb) 
-  3. [https://news.greylock.com/the-next-great-platform-is-the-one-that-we-already-have-9c33a1236c37](https://news.greylock.com/the-next-great-platform-is-the-one-that-we-already-have-9c33a1236c37) 
-  4. [https://gonative.io/](https://gonative.io/) 
-  5. [https://gonative.io/examples](https://gonative.io/examples) 
-  6. [https://gonative.io/](https://gonative.io/) 
-  8. [https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/](https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/) 
-  9. [http://www.erikschierboom.com/2016/09/02/ionic2-audio-recorder/](http://www.erikschierboom.com/2016/09/02/ionic2-audio-recorder/) 
-  10. [https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/) 
-  11. [https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e](https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e) 
-  12. [http://clearleft.com/thinks/403](http://clearleft.com/thinks/403) 
-  13. [https://github.com/gokulkrishh/demo-progressive-web-app](https://github.com/gokulkrishh/demo-progressive-web-app) 
-  14. [https://uxplanet.org/little-big-details-for-your-mobile-app-6ec1ca615abc](https://uxplanet.org/little-big-details-for-your-mobile-app-6ec1ca615abc) 
-  15. [http://eclipsesource.com/blogs/2016/08/30/tabris-maps-2-0-released/](http://eclipsesource.com/blogs/2016/08/30/tabris-maps-2-0-released/) 
-  16. [https://uxplanet.org/mobile-design-techinques-e0212ac66765](https://uxplanet.org/mobile-design-techinques-e0212ac66765) 
-  17. [http://www.creativebloq.com/features/the-future-of-web-apps](http://www.creativebloq.com/features/the-future-of-web-apps) 
-  18. [https://www.infoq.com/news/2016/08/visual-studio-code-ios-debug](https://www.infoq.com/news/2016/08/visual-studio-code-ios-debug) 
-  19. [http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/) 
-  20. [https://onsen.io/blog/preview-vue-support-onsen-ui/](https://onsen.io/blog/preview-vue-support-onsen-ui/) 
-  21. [https://hired.com/](https://hired.com/) 
-  23. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  24. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
