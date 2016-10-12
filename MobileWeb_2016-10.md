@@ -1,6 +1,38 @@
 ## Updated news for 2016-10-12 
 
 ==========
+## This Week in Mobile Web Development (#129)
+#### http://mobilewebweekly.co/issues/129
+
+==========
+  1. [https://css-tricks.com/annoying-mobile-double-tap-link-issue/](https://css-tricks.com/annoying-mobile-double-tap-link-issue/) 
+  2. [http://searchengineland.com/amp-one-year-old-growing-fast-will-ultimately-trump-responsive-design-260691](http://searchengineland.com/amp-one-year-old-growing-fast-will-ultimately-trump-responsive-design-260691) 
+  3. [http://phonegap.com/blog/2016/10/07/cli-projects-now-supported/](http://phonegap.com/blog/2016/10/07/cli-projects-now-supported/) 
+  4. [https://events.withgoogle.com/firebase-dev-summit/](https://events.withgoogle.com/firebase-dev-summit/) 
+  6. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
+  7. [https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/) 
+  8. [http://digiday.com/brands/pressing-buy-state-mobile-commerce-5-charts/](http://digiday.com/brands/pressing-buy-state-mobile-commerce-5-charts/) 
+  9. [http://searchengineland.com/google-progressive-web-apps-mobile-experience-seo-259866](http://searchengineland.com/google-progressive-web-apps-mobile-experience-seo-259866) 
+  10. [http://rocksdigital.com/mobile-web-amp/](http://rocksdigital.com/mobile-web-amp/) 
+  11. [http://www.theverge.com/2016/10/6/13188306/refreshing-the-verge-facebook-video-google-amp-future-of-the-web](http://www.theverge.com/2016/10/6/13188306/refreshing-the-verge-facebook-video-google-amp-future-of-the-web) 
+  12. [http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2](http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2) 
+  13. [https://www.raywenderlich.com/136047/react-native-existing-app](https://www.raywenderlich.com/136047/react-native-existing-app) 
+  14. [http://blog.zuehlke.com/en/xamarin4cordova/](http://blog.zuehlke.com/en/xamarin4cordova/) 
+  15. [http://cordova.apache.org/news/2016/10/01/0.x-4.x-deprecation-timeline.html](http://cordova.apache.org/news/2016/10/01/0.x-4.x-deprecation-timeline.html) 
+  16. [http://phonegap.com/blog/2016/10/06/appsee-guest-post/](http://phonegap.com/blog/2016/10/06/appsee-guest-post/) 
+  17. [https://segment.com/mobile-app-size-calculator](https://segment.com/mobile-app-size-calculator) 
+  18. [https://github.com/Bertrand31/Monitaure](https://github.com/Bertrand31/Monitaure) 
+  19. [https://monitaure.io/](https://monitaure.io/) 
+  20. [https://javebratt.com/ionic-2-firebase-3-facebook/](https://javebratt.com/ionic-2-firebase-3-facebook/) 
+  21. [http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/](http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/) 
+  22. [https://getflywheel.com/layout/css-feature-queries-how-to/](https://getflywheel.com/layout/css-feature-queries-how-to/) 
+  23. [https://www.sitepoint.com/atoz-css-media-queries/](https://www.sitepoint.com/atoz-css-media-queries/) 
+  24. [https://en.blog.wordpress.com/2016/10/06/a-faster-mobile-web-wordpress-com-updates-for-accelerated-mobile-pages/](https://en.blog.wordpress.com/2016/10/06/a-faster-mobile-web-wordpress-com-updates-for-accelerated-mobile-pages/) 
+  25. [http://hired.com/](http://hired.com/) 
+  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#128)
 #### http://mobilewebweekly.co/issues/128
 
@@ -81,38 +113,5 @@
   23. [https://gonative.io/](https://gonative.io/) 
   25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#125)
-#### http://mobilewebweekly.co/issues/125
-
-==========
-  1. [https://arc.applause.com/newsletters/progressive-web-apps/](https://arc.applause.com/newsletters/progressive-web-apps/) 
-  2. [http://www.theverge.com/2016/9/8/12845964/android-pay-mobile-web-coming-soon](http://www.theverge.com/2016/9/8/12845964/android-pay-mobile-web-coming-soon) 
-  3. [https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6](https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6) 
-  4. [https://www.pubnub.com/developers/webinars/2016-08-17-android-dev-training-how-to-build-a-full-featured-chat-app/](https://www.pubnub.com/developers/webinars/2016-08-17-android-dev-training-how-to-build-a-full-featured-chat-app/) 
-  7. [http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/The-2016-US-Mobile-App-Report](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/The-2016-US-Mobile-App-Report) 
-  8. [https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/](https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/) 
-  9. [https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313](https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313) 
-  10. [http://michael-gannon.com/media/index.html](http://michael-gannon.com/media/index.html) 
-  11. [http://blog.ionic.io/announcing-pwa-support-in-ionic-2/](http://blog.ionic.io/announcing-pwa-support-in-ionic-2/) 
-  12. [http://www.joshmorony.com/integrating-native-google-maps-into-an-ionic-2-application/](http://www.joshmorony.com/integrating-native-google-maps-into-an-ionic-2-application/) 
-  13. [https://www.raymondcamden.com/2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator/](https://www.raymondcamden.com/2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator/) 
-  14. [http://photography.tutsplus.com/articles/how-to-use-to-amp-img-and-amp-video-to-speed-up-your-website--cms-27164](http://photography.tutsplus.com/articles/how-to-use-to-amp-img-and-amp-video-to-speed-up-your-website--cms-27164) 
-  15. [http://venturebeat.com/2016/09/06/mobile-commerce-wars-apps-versus-mobile-web/](http://venturebeat.com/2016/09/06/mobile-commerce-wars-apps-versus-mobile-web/) 
-  16. [https://github.com/react-native-community/React-Native-Elements](https://github.com/react-native-community/React-Native-Elements) 
-  17. [https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/](https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/) 
-  18. [https://coligo.io/building-a-mobile-app-with-cordova-vuejs/](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) 
-  19. [http://phonegap.com/blog/2016/09/12/upcoming-phonegap-events/](http://phonegap.com/blog/2016/09/12/upcoming-phonegap-events/) 
-  20. [https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe](https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe) 
-  21. [https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/) 
-  22. [http://www.fastcompany.com/3063420/elasticity/how-google-and-others-are-plotting-the-revenge-of-the-web-app](http://www.fastcompany.com/3063420/elasticity/how-google-and-others-are-plotting-the-revenge-of-the-web-app) 
-  23. [https://css-tricks.com/building-resizeable-components-relative-css-units/](https://css-tricks.com/building-resizeable-components-relative-css-units/) 
-  24. [https://medium.com/@jrejaud/developing-for-android-vs-ios-material-vs-flat-design-fb341b05b0f0](https://medium.com/@jrejaud/developing-for-android-vs-ios-material-vs-flat-design-fb341b05b0f0) 
-  25. [https://gonative.io/](https://gonative.io/) 
-  26. [https://gonative.io/examples](https://gonative.io/examples) 
-  27. [https://gonative.io/](https://gonative.io/) 
-  28. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  29. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
