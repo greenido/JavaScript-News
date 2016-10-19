@@ -1,6 +1,33 @@
 ## Updated news for 2016-10-19 
 
 ==========
+## This Week in Mobile Web Development (#130)
+#### http://mobilewebweekly.co/issues/130
+
+==========
+  1. [https://www.oreilly.com/ideas/mobile-web-performance-checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) 
+  2. [https://blog.chromium.org/2016/10/canary-channel-for-chrome-on-android.html](https://blog.chromium.org/2016/10/canary-channel-for-chrome-on-android.html) 
+  3. [http://eclipsesource.com/blogs/2016/10/19/tabris-js-1-10-is-here-with-websockets/](http://eclipsesource.com/blogs/2016/10/19/tabris-js-1-10-is-here-with-websockets/) 
+  5. [https://amphtml.wordpress.com/2015/12/16/why-amp-is-fast/](https://amphtml.wordpress.com/2015/12/16/why-amp-is-fast/) 
+  6. [https://github.com/paulsonnentag/swip](https://github.com/paulsonnentag/swip) 
+  7. [https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/](https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/) 
+  8. [http://venturebeat.com/2016/10/17/google-launches-firebase-cloud-messaging-for-the-web/](http://venturebeat.com/2016/10/17/google-launches-firebase-cloud-messaging-for-the-web/) 
+  9. [https://css-tricks.com/priority-navigation-scrolling-dropdowns/](https://css-tricks.com/priority-navigation-scrolling-dropdowns/) 
+  10. [https://medium.com/mobgen/making-mobile-apps-smarter-with-geofence-technology-36c6442ab406](https://medium.com/mobgen/making-mobile-apps-smarter-with-geofence-technology-36c6442ab406) 
+  11. [https://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-2/](https://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-2/) 
+  12. [https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/) 
+  13. [https://medium.com/@yvoschaap/googles-amp-reviewed-as-a-developer-19734198c9b1](https://medium.com/@yvoschaap/googles-amp-reviewed-as-a-developer-19734198c9b1) 
+  14. [https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/](https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/) 
+  15. [http://developer.telerik.com/featured/kendo-ui-grid-filtering-querystrings/](http://developer.telerik.com/featured/kendo-ui-grid-filtering-querystrings/) 
+  16. [https://www.gizra.com/content/jekyll-starter-kit/](https://www.gizra.com/content/jekyll-starter-kit/) 
+  17. [https://cloudfour.com/thinks/why-does-the-washington-posts-progressive-web-app-increase-engagement-on-ios/](https://cloudfour.com/thinks/why-does-the-washington-posts-progressive-web-app-increase-engagement-on-ios/) 
+  18. [http://searchengineland.com/mobile-impacted-way-search-based-10-years-eye-tracking-studies-260052](http://searchengineland.com/mobile-impacted-way-search-based-10-years-eye-tracking-studies-260052) 
+  19. [http://www.eweek.com/enterprise-apps/amp-project-to-enable-faster-mobile-web-off-to-good-start-google-says.html](http://www.eweek.com/enterprise-apps/amp-project-to-enable-faster-mobile-web-off-to-good-start-google-says.html) 
+  20. [http://hired.com/](http://hired.com/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#129)
 #### http://mobilewebweekly.co/issues/129
 
@@ -83,35 +110,5 @@
   19. [https://gonative.io/](https://gonative.io/) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#126)
-#### http://mobilewebweekly.co/issues/126
-
-==========
-  1. [http://mediatemple.net/blog/tips/wordpress-apple-news-instant-articles-amp/](http://mediatemple.net/blog/tips/wordpress-apple-news-instant-articles-amp/) 
-  2. [https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 
-  3. [https://search.googleblog.com/2016/09/search-results-are-officially-ampd.html](https://search.googleblog.com/2016/09/search-results-are-officially-ampd.html) 
-  4. [https://www.ampproject.org/](https://www.ampproject.org/) 
-  5. [https://hired.com/](https://hired.com/) 
-  7. [https://onsen.io/](https://onsen.io/) 
-  8. [http://www.recode.net/2016/9/16/12933780/average-app-downloads-per-month-comscore](http://www.recode.net/2016/9/16/12933780/average-app-downloads-per-month-comscore) 
-  9. [https://www.smashingmagazine.com/2016/09/driving-app-engagement-with-personalization-techniques/](https://www.smashingmagazine.com/2016/09/driving-app-engagement-with-personalization-techniques/) 
-  10. [https://www.smashingmagazine.com/2016/09/how-to-design-error-states-for-mobile-apps/](https://www.smashingmagazine.com/2016/09/how-to-design-error-states-for-mobile-apps/) 
-  11. [http://matthewdaly.co.uk/blog/2016/09/11/building-a-phonegap-app-with-laravel-and-angular-part-1/](http://matthewdaly.co.uk/blog/2016/09/11/building-a-phonegap-app-with-laravel-and-angular-part-1/) 
-  12. [https://cloudfour.com/thinks/progressive-web-apps-simply-make-sense/](https://cloudfour.com/thinks/progressive-web-apps-simply-make-sense/) 
-  13. [https://shoutem.github.io/ui/](https://shoutem.github.io/ui/) 
-  14. [http://meandmax.github.io/lory/](http://meandmax.github.io/lory/) 
-  15. [https://dollarshaveclub.github.io/reframe.js/](https://dollarshaveclub.github.io/reframe.js/) 
-  16. [http://slides.com/simonmacdonald/push-7](http://slides.com/simonmacdonald/push-7) 
-  17. [https://www.nativescript.org/blog/announcing-nativescript-2.3](https://www.nativescript.org/blog/announcing-nativescript-2.3) 
-  18. [https://uxplanet.org/mobile-form-usability-2279f672917d](https://uxplanet.org/mobile-form-usability-2279f672917d) 
-  19. [https://devdactic.com/ionic-2-tinder-cards/](https://devdactic.com/ionic-2-tinder-cards/) 
-  20. [https://www.sitepoint.com/intersectionobserver-api/](https://www.sitepoint.com/intersectionobserver-api/) 
-  21. [http://www.recode.net/2016/9/6/12818596/apple-ios-10-imessage-visual-messaging-secret-browser](http://www.recode.net/2016/9/6/12818596/apple-ios-10-imessage-visual-messaging-secret-browser) 
-  22. [https://www.soasta.com/blog/google-mobile-web-performance-study/](https://www.soasta.com/blog/google-mobile-web-performance-study/) 
-  23. [https://gonative.io/](https://gonative.io/) 
-  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
