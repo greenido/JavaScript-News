@@ -1,4 +1,4 @@
-## Updated news for 2016-10-18 
+## Updated news for 2016-10-19 
 
 ==========
 ## Web Design Weekly #256
