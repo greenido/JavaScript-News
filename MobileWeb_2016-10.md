@@ -1,6 +1,34 @@
 ## Updated news for 2016-10-26 
 
 ==========
+## This Week in Mobile Web Development (#131)
+#### http://mobilewebweekly.co/issues/131
+
+==========
+  2. [https://medium.com/ben-and-dion/its-game-time-for-the-web-ca8a1ab753e0](https://medium.com/ben-and-dion/its-game-time-for-the-web-ca8a1ab753e0) 
+  3. [http://www.recode.net/2016/10/20/13318746/online-publishing-platform-amp-facebook-instant-articles-apple-news](http://www.recode.net/2016/10/20/13318746/online-publishing-platform-amp-facebook-instant-articles-apple-news) 
+  4. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  6. [https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58](https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58) 
+  7. [https://www.sitepoint.com/progressive-web-apps-bridging-the-gap-between-web-and-mobile/](https://www.sitepoint.com/progressive-web-apps-bridging-the-gap-between-web-and-mobile/) 
+  8. [https://blog.smamarketing.net/google-update-the-great-index-divide](https://blog.smamarketing.net/google-update-the-great-index-divide) 
+  9. [http://daringfireball.net/linked/2016/10/21/google-amp](http://daringfireball.net/linked/2016/10/21/google-amp) 
+  10. [https://css-tricks.com/websites-publish-amp-pages/](https://css-tricks.com/websites-publish-amp-pages/) 
+  11. [https://javebratt.com/hybrid-app-development-get-started/](https://javebratt.com/hybrid-app-development-get-started/) 
+  12. [http://www.stucox.com/blog/you-cant-detect-a-touchscreen/](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 
+  13. [https://blog.google/topics/shopping-payments/android-pay-partners-visa-checkout-and-masterpass/](https://blog.google/topics/shopping-payments/android-pay-partners-visa-checkout-and-masterpass/) 
+  14. [https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 
+  15. [https://onsen.io/blog/monaca-with-wikitude-pokemon-app/](https://onsen.io/blog/monaca-with-wikitude-pokemon-app/) 
+  16. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/) 
+  17. [https://www.sitepoint.com/atoz-css-quick-tip-browser-support/](https://www.sitepoint.com/atoz-css-quick-tip-browser-support/) 
+  18. [https://onsen.io/blog/framework-comparison/](https://onsen.io/blog/framework-comparison/) 
+  19. [http://twinprime.com/lte-has-slowed-by-50-in-the-us/](http://twinprime.com/lte-has-slowed-by-50-in-the-us/) 
+  20. [http://goshakkk.name/react-native-camera-roll-image-picker/](http://goshakkk.name/react-native-camera-roll-image-picker/) 
+  21. [http://www.marketingdive.com/news/google-struggles-with-accreditation-for-mobile-web-metrics/428391/](http://www.marketingdive.com/news/google-struggles-with-accreditation-for-mobile-web-metrics/428391/) 
+  22. [http://hired.com/](http://hired.com/) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#130)
 #### http://mobilewebweekly.co/issues/130
 
@@ -85,30 +113,5 @@
   20. [http://hired.com/](http://hired.com/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#127)
-#### http://mobilewebweekly.co/issues/127
-
-==========
-  1. [http://www.javascripttuts.com/native-app-combining-angular-2-react-native/](http://www.javascripttuts.com/native-app-combining-angular-2-react-native/) 
-  2. [https://developers.googleblog.com/2016/09/how-to-set-up-analytics-on-your-amp-pages.html](https://developers.googleblog.com/2016/09/how-to-set-up-analytics-on-your-amp-pages.html) 
-  4. [https://hired.com/](https://hired.com/) 
-  6. [https://moz.com/blog/responsive-design-fix-conversions](https://moz.com/blog/responsive-design-fix-conversions) 
-  7. [http://www.wsj.com/articles/apple-and-google-browser-tweaks-could-boost-mobile-video-1474452060](http://www.wsj.com/articles/apple-and-google-browser-tweaks-could-boost-mobile-video-1474452060) 
-  8. [https://www.thecssninja.com/html5/stop-ios10-safari-auto-locking](https://www.thecssninja.com/html5/stop-ios10-safari-auto-locking) 
-  9. [https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294](https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294) 
-  10. [https://medium.com/@jeffwhelpley/angular-native-77e82687c579](https://medium.com/@jeffwhelpley/angular-native-77e82687c579) 
-  11. [https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin) 
-  12. [https://blog.creativesdk.com/2016/09/phonegap-plugin-roundup/](https://blog.creativesdk.com/2016/09/phonegap-plugin-roundup/) 
-  13. [https://www.smashingmagazine.com/2016/09/building-hybrid-apps-with-chakracore/](https://www.smashingmagazine.com/2016/09/building-hybrid-apps-with-chakracore/) 
-  14. [http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) 
-  15. [https://uxplanet.org/visual-dividers-in-mobile-ui-design-53208de5426f](https://uxplanet.org/visual-dividers-in-mobile-ui-design-53208de5426f) 
-  16. [http://www.theverge.com/2016/9/27/13070856/chrome-android-data-saver](http://www.theverge.com/2016/9/27/13070856/chrome-android-data-saver) 
-  17. [http://www.creativebloq.com/features/14-top-web-app-resources](http://www.creativebloq.com/features/14-top-web-app-resources) 
-  18. [https://moz.com/blog/introducing-progressive-web-apps](https://moz.com/blog/introducing-progressive-web-apps) 
-  19. [https://gonative.io/](https://gonative.io/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
