@@ -1,6 +1,36 @@
 ## Updated news for 2016-11-02 
 
 ==========
+## This Week in Mobile Web Development (#132)
+#### http://mobilewebweekly.co/issues/132
+
+==========
+  1. [http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide](http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide) 
+  2. [http://developer.telerik.com/content-types/podcast/lap-around-push-notifications/](http://developer.telerik.com/content-types/podcast/lap-around-push-notifications/) 
+  3. [https://www.smashingmagazine.com/2016/10/in-app-gestures-and-mobile-app-user-experience/](https://www.smashingmagazine.com/2016/10/in-app-gestures-and-mobile-app-user-experience/) 
+  4. [https://services.google.com/fb/forms/firebasedevsummit/](https://services.google.com/fb/forms/firebasedevsummit/) 
+  5. [https://events.withgoogle.com/firebase-dev-summit/](https://events.withgoogle.com/firebase-dev-summit/) 
+  6. [https://services.google.com/fb/forms/firebasedevsummit/](https://services.google.com/fb/forms/firebasedevsummit/) 
+  8. [http://www.theverge.com/2016/10/26/13418012/google-material-design-stage-gallery-pixate](http://www.theverge.com/2016/10/26/13418012/google-material-design-stage-gallery-pixate) 
+  9. [https://material.io/](https://material.io/) 
+  10. [https://www.theguardian.com/technology/2016/nov/01/firefox-disable-battery-status-api-tracking](https://www.theguardian.com/technology/2016/nov/01/firefox-disable-battery-status-api-tracking) 
+  11. [http://cordova.apache.org/news/2016/10/25/tools-release.html](http://cordova.apache.org/news/2016/10/25/tools-release.html) 
+  12. [http://blog.ionic.io/new-to-the-command-line/](http://blog.ionic.io/new-to-the-command-line/) 
+  13. [https://javebratt.com/social-sharing-with-ionic/](https://javebratt.com/social-sharing-with-ionic/) 
+  14. [http://developer.telerik.com/featured/nativescript-for-the-net-developer/](http://developer.telerik.com/featured/nativescript-for-the-net-developer/) 
+  15. [https://medium.com/@Aquro/developers-here-are-6-technologies-app-users-will-expect-you-to-consider-in-2017-3fa592ed5c96](https://medium.com/@Aquro/developers-here-are-6-technologies-app-users-will-expect-you-to-consider-in-2017-3fa592ed5c96) 
+  16. [https://blog.intercom.com/create-effective-push-notifications/](https://blog.intercom.com/create-effective-push-notifications/) 
+  17. [http://www.creativebloq.com/features/the-state-of-ux-in-2016](http://www.creativebloq.com/features/the-state-of-ux-in-2016) 
+  18. [https://blogs.adobe.com/creativecloud/12-tips-for-mobile-design/](https://blogs.adobe.com/creativecloud/12-tips-for-mobile-design/) 
+  19. [https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps](https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps) 
+  20. [http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) 
+  21. [https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253) 
+  22. [https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418](https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418) 
+  23. [http://hired.com/](http://hired.com/) 
+  25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#131)
 #### http://mobilewebweekly.co/issues/131
 
@@ -86,32 +116,5 @@
   25. [http://hired.com/](http://hired.com/) 
   27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#128)
-#### http://mobilewebweekly.co/issues/128
-
-==========
-  1. [http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/](http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/) 
-  2. [https://medium.com/@Localytics_58363/the-future-of-apps-in-our-own-words-7e8613cbda1b](https://medium.com/@Localytics_58363/the-future-of-apps-in-our-own-words-7e8613cbda1b) 
-  3. [http://searchengineland.com/google-amp-will-override-app-deep-links-foreseeable-future-259905](http://searchengineland.com/google-amp-will-override-app-deep-links-foreseeable-future-259905) 
-  4. [https://events.withgoogle.com/firebase-dev-summit/](https://events.withgoogle.com/firebase-dev-summit/) 
-  6. [http://www.developer.com/ws/other/has-the-time-for-progressive-web-apps-already-come.html](http://www.developer.com/ws/other/has-the-time-for-progressive-web-apps-already-come.html) 
-  7. [https://benfrain.com/the-ios-safari-menu-bar-is-hostile-to-web-apps-discuss/](https://benfrain.com/the-ios-safari-menu-bar-is-hostile-to-web-apps-discuss/) 
-  8. [https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/](https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/) 
-  9. [https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) 
-  10. [http://blog.js.cytoscape.org/2016/09/28/cordova/](http://blog.js.cytoscape.org/2016/09/28/cordova/) 
-  11. [https://realm.io/products/realm-mobile-platform/](https://realm.io/products/realm-mobile-platform/) 
-  12. [http://ryanchristiani.com/service-workers/](http://ryanchristiani.com/service-workers/) 
-  13. [https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221](https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221) 
-  14. [https://www.smashingmagazine.com/2016/10/finding-better-mobile-analytics/](https://www.smashingmagazine.com/2016/10/finding-better-mobile-analytics/) 
-  15. [https://www.infoq.com/news/2016/09/w3c-web-payments-working-draft](https://www.infoq.com/news/2016/09/w3c-web-payments-working-draft) 
-  16. [https://medium.com/ionic-and-the-mobile-web/smart-bulbs-in-the-angularconnect-iot-workshop-845a41882dfb](https://medium.com/ionic-and-the-mobile-web/smart-bulbs-in-the-angularconnect-iot-workshop-845a41882dfb) 
-  17. [https://developers.googleblog.com/2016/09/how-to-set-up-ads-on-your-amp-pages.html](https://developers.googleblog.com/2016/09/how-to-set-up-ads-on-your-amp-pages.html) 
-  18. [http://www.creativebloq.com/news/online-tool-takes-the-guesswork-out-of-css-media-queries](http://www.creativebloq.com/news/online-tool-takes-the-guesswork-out-of-css-media-queries) 
-  19. [https://paperplanes.world/](https://paperplanes.world/) 
-  20. [http://hired.com/](http://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
