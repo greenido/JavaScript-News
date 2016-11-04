@@ -1,4 +1,4 @@
-## Updated news for 2016-11-03 
+## Updated news for 2016-11-04 
 
 ==========
 ## This Week in Mobile Web Development (#132)
