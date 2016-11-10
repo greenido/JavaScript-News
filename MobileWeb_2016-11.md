@@ -1,6 +1,34 @@
-## Updated news for 2016-11-09 
+## Updated news for 2016-11-10 
 
 ==========
+## This Week in Mobile Web Development (#133)
+#### http://mobilewebweekly.co/issues/133
+
+==========
+  1. [https://webmasters.googleblog.com//2016/11/mobile-first-indexing.html](https://webmasters.googleblog.com//2016/11/mobile-first-indexing.html) 
+  2. [https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/](https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/) 
+  3. [https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0) 
+  4. [https://heapanalytics.com/enterprise](https://heapanalytics.com/enterprise) 
+  6. [http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/](http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/) 
+  7. [https://speckyboy.com/progressive-web-applications/](https://speckyboy.com/progressive-web-applications/) 
+  8. [https://medium.com/movr/state-of-mobile-web-q3-2016-e1aea62007f0](https://medium.com/movr/state-of-mobile-web-q3-2016-e1aea62007f0) 
+  10. [https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/](https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/) 
+  11. [https://css-tricks.com/state-responsive-3d-shapes/](https://css-tricks.com/state-responsive-3d-shapes/) 
+  12. [https://medium.com/@unakravets/rethinking-responsive-d557ef1745bd](https://medium.com/@unakravets/rethinking-responsive-d557ef1745bd) 
+  13. [http://thenewstack.io/new-relic-adds-infrastructure-mobile-app-tracking/](http://thenewstack.io/new-relic-adds-infrastructure-mobile-app-tracking/) 
+  14. [http://phonegap.com/blog/2016/11/03/phonegap-plugin-push-1.9.0/](http://phonegap.com/blog/2016/11/03/phonegap-plugin-push-1.9.0/) 
+  15. [http://blog.ionic.io/announcing-ionic-2-rc-2/](http://blog.ionic.io/announcing-ionic-2-rc-2/) 
+  16. [https://github.com/driftyco/ionic/blob/master/CHANGELOG.md](https://github.com/driftyco/ionic/blob/master/CHANGELOG.md) 
+  17. [https://www.raymondcamden.com/2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2](https://www.raymondcamden.com/2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2) 
+  18. [https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/) 
+  19. [https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation](https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation) 
+  20. [https://www.smashingmagazine.com/2016/11/the-golden-rules-of-mobile-navigation-design/](https://www.smashingmagazine.com/2016/11/the-golden-rules-of-mobile-navigation-design/) 
+  21. [https://medium.com/bpxl-craft/how-to-debug-android-webview-content-526f7c4bf665](https://medium.com/bpxl-craft/how-to-debug-android-webview-content-526f7c4bf665) 
+  22. [http://hired.com/](http://hired.com/) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#132)
 #### http://mobilewebweekly.co/issues/132
 
@@ -84,37 +112,5 @@
   20. [http://hired.com/](http://hired.com/) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#129)
-#### http://mobilewebweekly.co/issues/129
-
-==========
-  1. [https://css-tricks.com/annoying-mobile-double-tap-link-issue/](https://css-tricks.com/annoying-mobile-double-tap-link-issue/) 
-  2. [http://searchengineland.com/amp-one-year-old-growing-fast-will-ultimately-trump-responsive-design-260691](http://searchengineland.com/amp-one-year-old-growing-fast-will-ultimately-trump-responsive-design-260691) 
-  3. [http://phonegap.com/blog/2016/10/07/cli-projects-now-supported/](http://phonegap.com/blog/2016/10/07/cli-projects-now-supported/) 
-  4. [https://events.withgoogle.com/firebase-dev-summit/](https://events.withgoogle.com/firebase-dev-summit/) 
-  6. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  7. [https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/](https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/) 
-  8. [http://digiday.com/brands/pressing-buy-state-mobile-commerce-5-charts/](http://digiday.com/brands/pressing-buy-state-mobile-commerce-5-charts/) 
-  9. [http://searchengineland.com/google-progressive-web-apps-mobile-experience-seo-259866](http://searchengineland.com/google-progressive-web-apps-mobile-experience-seo-259866) 
-  10. [http://rocksdigital.com/mobile-web-amp/](http://rocksdigital.com/mobile-web-amp/) 
-  11. [http://www.theverge.com/2016/10/6/13188306/refreshing-the-verge-facebook-video-google-amp-future-of-the-web](http://www.theverge.com/2016/10/6/13188306/refreshing-the-verge-facebook-video-google-amp-future-of-the-web) 
-  12. [http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2](http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2) 
-  13. [https://www.raywenderlich.com/136047/react-native-existing-app](https://www.raywenderlich.com/136047/react-native-existing-app) 
-  14. [http://blog.zuehlke.com/en/xamarin4cordova/](http://blog.zuehlke.com/en/xamarin4cordova/) 
-  15. [http://cordova.apache.org/news/2016/10/01/0.x-4.x-deprecation-timeline.html](http://cordova.apache.org/news/2016/10/01/0.x-4.x-deprecation-timeline.html) 
-  16. [http://phonegap.com/blog/2016/10/06/appsee-guest-post/](http://phonegap.com/blog/2016/10/06/appsee-guest-post/) 
-  17. [https://segment.com/mobile-app-size-calculator](https://segment.com/mobile-app-size-calculator) 
-  18. [https://github.com/Bertrand31/Monitaure](https://github.com/Bertrand31/Monitaure) 
-  19. [https://monitaure.io/](https://monitaure.io/) 
-  20. [https://javebratt.com/ionic-2-firebase-3-facebook/](https://javebratt.com/ionic-2-firebase-3-facebook/) 
-  21. [http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/](http://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-1/) 
-  22. [https://getflywheel.com/layout/css-feature-queries-how-to/](https://getflywheel.com/layout/css-feature-queries-how-to/) 
-  23. [https://www.sitepoint.com/atoz-css-media-queries/](https://www.sitepoint.com/atoz-css-media-queries/) 
-  24. [https://en.blog.wordpress.com/2016/10/06/a-faster-mobile-web-wordpress-com-updates-for-accelerated-mobile-pages/](https://en.blog.wordpress.com/2016/10/06/a-faster-mobile-web-wordpress-com-updates-for-accelerated-mobile-pages/) 
-  25. [http://hired.com/](http://hired.com/) 
-  27. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  28. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
