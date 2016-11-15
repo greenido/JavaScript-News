@@ -1,6 +1,12 @@
-## Updated news for 2016-11-14 
+## Updated news for 2016-11-15 
 
 ==========
+## Web Design Weekly #259
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/Q4bv1d0AKgQ/
+
+==========
+
+====
 ## Web Design Weekly #258
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fLnDE3G0bwQ/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #250
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/VgDaBmFn5r4/
-
-==========
-
-====
-## Web Design Weekly #249
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/5yfkM0TWEr4/
 
 ==========
 
