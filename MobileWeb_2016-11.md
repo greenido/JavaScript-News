@@ -1,6 +1,29 @@
-## Updated news for 2016-11-16 
+## Updated news for 2016-11-17 
 
 ==========
+## This Week in Mobile Web Development (#134)
+#### http://mobilewebweekly.co/issues/134
+
+==========
+  1. [http://developer.telerik.com/featured/diminishing-use-case-hybrid-apps/](http://developer.telerik.com/featured/diminishing-use-case-hybrid-apps/) 
+  2. [https://two-wrongs.com/rethinking-text-input-on-touchscreens](https://two-wrongs.com/rethinking-text-input-on-touchscreens) 
+  3. [https://css-tricks.com/lazy-loading-responsive-adsense-ads/](https://css-tricks.com/lazy-loading-responsive-adsense-ads/) 
+  4. [http://info.rangle.io/angular-2-online-training](http://info.rangle.io/angular-2-online-training) 
+  6. [https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/](https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/) 
+  8. [https://blog.nightly.mozilla.org/2016/11/07/simulate-slow-connections-with-the-network-throttling-tool/](https://blog.nightly.mozilla.org/2016/11/07/simulate-slow-connections-with-the-network-throttling-tool/) 
+  9. [http://digiday.com/publishers/google-expands-amp-presents-friendly-face-publishers/](http://digiday.com/publishers/google-expands-amp-presents-friendly-face-publishers/) 
+  10. [https://apppresser.com/3-announcement/](https://apppresser.com/3-announcement/) 
+  11. [http://developer.mobilecaddy.net/2016/11/desktop-hybrid-apps-plugins-and-ionicnative/](http://developer.mobilecaddy.net/2016/11/desktop-hybrid-apps-plugins-and-ionicnative/) 
+  12. [http://phonegap.com/blog/2016/11/15/phonegap-europe-tour/](http://phonegap.com/blog/2016/11/15/phonegap-europe-tour/) 
+  13. [http://una.im/rethinking-responsive/](http://una.im/rethinking-responsive/) 
+  14. [https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/](https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/) 
+  15. [https://dev.opera.com/articles/pwa-resources/](https://dev.opera.com/articles/pwa-resources/) 
+  16. [https://webmasters.googleblog.com/2016/11/building-indexable-progressive-web-apps.html](https://webmasters.googleblog.com/2016/11/building-indexable-progressive-web-apps.html) 
+  17. [http://hired.com/](http://hired.com/) 
+  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#133)
 #### http://mobilewebweekly.co/issues/133
 
@@ -85,32 +108,5 @@
   22. [http://hired.com/](http://hired.com/) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#130)
-#### http://mobilewebweekly.co/issues/130
-
-==========
-  1. [https://www.oreilly.com/ideas/mobile-web-performance-checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) 
-  2. [https://blog.chromium.org/2016/10/canary-channel-for-chrome-on-android.html](https://blog.chromium.org/2016/10/canary-channel-for-chrome-on-android.html) 
-  3. [http://eclipsesource.com/blogs/2016/10/19/tabris-js-1-10-is-here-with-websockets/](http://eclipsesource.com/blogs/2016/10/19/tabris-js-1-10-is-here-with-websockets/) 
-  5. [https://amphtml.wordpress.com/2015/12/16/why-amp-is-fast/](https://amphtml.wordpress.com/2015/12/16/why-amp-is-fast/) 
-  6. [https://github.com/paulsonnentag/swip](https://github.com/paulsonnentag/swip) 
-  7. [https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/](https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/) 
-  8. [http://venturebeat.com/2016/10/17/google-launches-firebase-cloud-messaging-for-the-web/](http://venturebeat.com/2016/10/17/google-launches-firebase-cloud-messaging-for-the-web/) 
-  9. [https://css-tricks.com/priority-navigation-scrolling-dropdowns/](https://css-tricks.com/priority-navigation-scrolling-dropdowns/) 
-  10. [https://medium.com/mobgen/making-mobile-apps-smarter-with-geofence-technology-36c6442ab406](https://medium.com/mobgen/making-mobile-apps-smarter-with-geofence-technology-36c6442ab406) 
-  11. [https://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-2/](https://www.joshmorony.com/creating-role-based-authentication-with-passport-in-ionic-2-part-2/) 
-  12. [https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/) 
-  13. [https://medium.com/@yvoschaap/googles-amp-reviewed-as-a-developer-19734198c9b1](https://medium.com/@yvoschaap/googles-amp-reviewed-as-a-developer-19734198c9b1) 
-  14. [https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/](https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/) 
-  15. [http://developer.telerik.com/featured/kendo-ui-grid-filtering-querystrings/](http://developer.telerik.com/featured/kendo-ui-grid-filtering-querystrings/) 
-  16. [https://www.gizra.com/content/jekyll-starter-kit/](https://www.gizra.com/content/jekyll-starter-kit/) 
-  17. [https://cloudfour.com/thinks/why-does-the-washington-posts-progressive-web-app-increase-engagement-on-ios/](https://cloudfour.com/thinks/why-does-the-washington-posts-progressive-web-app-increase-engagement-on-ios/) 
-  18. [http://searchengineland.com/mobile-impacted-way-search-based-10-years-eye-tracking-studies-260052](http://searchengineland.com/mobile-impacted-way-search-based-10-years-eye-tracking-studies-260052) 
-  19. [http://www.eweek.com/enterprise-apps/amp-project-to-enable-faster-mobile-web-off-to-good-start-google-says.html](http://www.eweek.com/enterprise-apps/amp-project-to-enable-faster-mobile-web-off-to-good-start-google-says.html) 
-  20. [http://hired.com/](http://hired.com/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
