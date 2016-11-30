@@ -1,6 +1,32 @@
 ## Updated news for 2016-11-30 
 
 ==========
+## This Week in Mobile Web Development (#135)
+#### http://mobilewebweekly.co/issues/135
+
+==========
+  1. [https://developers.google.com/web/progressive-web-apps/checklist](https://developers.google.com/web/progressive-web-apps/checklist) 
+  2. [https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9) 
+  3. [https://shkspr.mobi/blog/2016/11/removing-your-site-from-amp/](https://shkspr.mobi/blog/2016/11/removing-your-site-from-amp/) 
+  4. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  6. [https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8) 
+  8. [https://www.nativescript.org/blog/nativescript-2.4-announcement](https://www.nativescript.org/blog/nativescript-2.4-announcement) 
+  9. [https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/](https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/) 
+  10. [https://hacks.mozilla.org/2016/11/new-responsive-design-mode-rdm-lands-in-firefox-dev-tools/](https://hacks.mozilla.org/2016/11/new-responsive-design-mode-rdm-lands-in-firefox-dev-tools/) 
+  11. [http://developer.telerik.com/featured/working-with-restful-data-in-angular-2-and-nativescript/](http://developer.telerik.com/featured/working-with-restful-data-in-angular-2-and-nativescript/) 
+  12. [https://css-tricks.com/pure-css-horizontal-scrolling/](https://css-tricks.com/pure-css-horizontal-scrolling/) 
+  13. [https://ionicthemes.com/tutorials/about/ionic2-app-with-socialsharing-and-deeplinking](https://ionicthemes.com/tutorials/about/ionic2-app-with-socialsharing-and-deeplinking) 
+  16. [https://medium.com/outsystems-experts/10-rules-for-creating-a-mobile-look-and-feel-dc81341660e4](https://medium.com/outsystems-experts/10-rules-for-creating-a-mobile-look-and-feel-dc81341660e4) 
+  17. [https://realm.io/news/realm-object-centric-present-day-database-mobile-applications/](https://realm.io/news/realm-object-centric-present-day-database-mobile-applications/) 
+  18. [https://webflow.com/blog/responsive-web-design-tricks-and-tips](https://webflow.com/blog/responsive-web-design-tricks-and-tips) 
+  19. [https://www.sitepoint.com/irefox-os-post-mortem-interview-with-andre-garzia/](https://www.sitepoint.com/irefox-os-post-mortem-interview-with-andre-garzia/) 
+  20. [http://hired.com/](http://hired.com/) 
+  22. [https://github.com/BendingSpoons/katana-swift](https://github.com/BendingSpoons/katana-swift) 
+  23. [https://css3wizardry.com/2016/11/17/chocolatechip-ui-4/](https://css3wizardry.com/2016/11/17/chocolatechip-ui-4/) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#134)
 #### http://mobilewebweekly.co/issues/134
 
@@ -80,33 +106,5 @@
   23. [http://hired.com/](http://hired.com/) 
   25. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   26. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#131)
-#### http://mobilewebweekly.co/issues/131
-
-==========
-  2. [https://medium.com/ben-and-dion/its-game-time-for-the-web-ca8a1ab753e0](https://medium.com/ben-and-dion/its-game-time-for-the-web-ca8a1ab753e0) 
-  3. [http://www.recode.net/2016/10/20/13318746/online-publishing-platform-amp-facebook-instant-articles-apple-news](http://www.recode.net/2016/10/20/13318746/online-publishing-platform-amp-facebook-instant-articles-apple-news) 
-  4. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
-  6. [https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58](https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58) 
-  7. [https://www.sitepoint.com/progressive-web-apps-bridging-the-gap-between-web-and-mobile/](https://www.sitepoint.com/progressive-web-apps-bridging-the-gap-between-web-and-mobile/) 
-  8. [https://blog.smamarketing.net/google-update-the-great-index-divide](https://blog.smamarketing.net/google-update-the-great-index-divide) 
-  9. [http://daringfireball.net/linked/2016/10/21/google-amp](http://daringfireball.net/linked/2016/10/21/google-amp) 
-  10. [https://css-tricks.com/websites-publish-amp-pages/](https://css-tricks.com/websites-publish-amp-pages/) 
-  11. [https://javebratt.com/hybrid-app-development-get-started/](https://javebratt.com/hybrid-app-development-get-started/) 
-  12. [http://www.stucox.com/blog/you-cant-detect-a-touchscreen/](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 
-  13. [https://blog.google/topics/shopping-payments/android-pay-partners-visa-checkout-and-masterpass/](https://blog.google/topics/shopping-payments/android-pay-partners-visa-checkout-and-masterpass/) 
-  14. [https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 
-  15. [https://onsen.io/blog/monaca-with-wikitude-pokemon-app/](https://onsen.io/blog/monaca-with-wikitude-pokemon-app/) 
-  16. [https://css-tricks.com/responsive-images-css/](https://css-tricks.com/responsive-images-css/) 
-  17. [https://www.sitepoint.com/atoz-css-quick-tip-browser-support/](https://www.sitepoint.com/atoz-css-quick-tip-browser-support/) 
-  18. [https://onsen.io/blog/framework-comparison/](https://onsen.io/blog/framework-comparison/) 
-  19. [http://twinprime.com/lte-has-slowed-by-50-in-the-us/](http://twinprime.com/lte-has-slowed-by-50-in-the-us/) 
-  20. [http://goshakkk.name/react-native-camera-roll-image-picker/](http://goshakkk.name/react-native-camera-roll-image-picker/) 
-  21. [http://www.marketingdive.com/news/google-struggles-with-accreditation-for-mobile-web-metrics/428391/](http://www.marketingdive.com/news/google-struggles-with-accreditation-for-mobile-web-metrics/428391/) 
-  22. [http://hired.com/](http://hired.com/) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
