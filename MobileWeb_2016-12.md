@@ -1,6 +1,35 @@
 ## Updated news for 2016-12-14 
 
 ==========
+## This Week in Mobile Web Development (#137)
+#### http://mobilewebweekly.co/issues/137
+
+==========
+  1. [https://medium.com/greenhouseci/testing-your-app-on-real-devices-9585eaafd7e4](https://medium.com/greenhouseci/testing-your-app-on-real-devices-9585eaafd7e4) 
+  2. [https://24ways.org/2016/what-next-for-css-grid-layout/](https://24ways.org/2016/what-next-for-css-grid-layout/) 
+  3. [http://qa-financial.com/testing/companies/eu-ready-set-laws-accessibility-testing/](http://qa-financial.com/testing/companies/eu-ready-set-laws-accessibility-testing/) 
+  4. [http://hired.com/](http://hired.com/) 
+  6. [https://medium.com/@arunsasidharan/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8](https://medium.com/@arunsasidharan/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8) 
+  7. [https://code.facebook.com/posts/354469174916519/](https://code.facebook.com/posts/354469174916519/) 
+  8. [https://github.com/facebookincubator/Keyframes](https://github.com/facebookincubator/Keyframes) 
+  9. [https://www.sitepoint.com/adaptive-design-different-responsive-design/](https://www.sitepoint.com/adaptive-design-different-responsive-design/) 
+  10. [https://www.smashingmagazine.com/2016/12/progressive-web-amps/](https://www.smashingmagazine.com/2016/12/progressive-web-amps/) 
+  11. [http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world](http://ben-evans.com/benedictevans/2016/12/8/mobile-is-eating-the-world) 
+  12. [https://github.com/ragingwind/learning-pwa](https://github.com/ragingwind/learning-pwa) 
+  13. [https://deanhume.com/Home/BlogPost/5-awesome-progressive-web-apps-worth-exploring/10153](https://deanhume.com/Home/BlogPost/5-awesome-progressive-web-apps-worth-exploring/10153) 
+  14. [https://github.com/BosNaufal/react-simple-pwa/](https://github.com/BosNaufal/react-simple-pwa/) 
+  15. [http://saniyusuf.com/ionic-by-component-page-lifecycle/](http://saniyusuf.com/ionic-by-component-page-lifecycle/) 
+  16. [http://slides.com/simonmacdonald/deck-6-9-10-12](http://slides.com/simonmacdonald/deck-6-9-10-12) 
+  17. [https://code.tutsplus.com/tutorials/common-react-native-app-layouts-gallery-page--cms-27642](https://code.tutsplus.com/tutorials/common-react-native-app-layouts-gallery-page--cms-27642) 
+  18. [http://testinggeek.com/2016/12/05/top-10-challenges-of-maintaining-the-mobile-device-lab/](http://testinggeek.com/2016/12/05/top-10-challenges-of-maintaining-the-mobile-device-lab/) 
+  19. [http://www.joshmorony.com/high-performance-parallax-animation-in-ionic-2/](http://www.joshmorony.com/high-performance-parallax-animation-in-ionic-2/) 
+  20. [http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/](http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/) 
+  21. [https://www.sitepoint.com/browser-trends-december-2016-mobile-overtakes-desktop/](https://www.sitepoint.com/browser-trends-december-2016-mobile-overtakes-desktop/) 
+  22. [http://info.rangle.io/angular-2-online-training](http://info.rangle.io/angular-2-online-training) 
+  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#136)
 #### http://mobilewebweekly.co/issues/136
 
@@ -73,33 +102,5 @@
   17. [http://hired.com/](http://hired.com/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#133)
-#### http://mobilewebweekly.co/issues/133
-
-==========
-  1. [https://webmasters.googleblog.com//2016/11/mobile-first-indexing.html](https://webmasters.googleblog.com//2016/11/mobile-first-indexing.html) 
-  2. [https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/](https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/) 
-  3. [https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0) 
-  4. [https://heapanalytics.com/enterprise](https://heapanalytics.com/enterprise) 
-  6. [http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/](http://developer.telerik.com/featured/building-angular-2-web-native-apps-single-codebase/) 
-  7. [https://speckyboy.com/progressive-web-applications/](https://speckyboy.com/progressive-web-applications/) 
-  8. [https://medium.com/movr/state-of-mobile-web-q3-2016-e1aea62007f0](https://medium.com/movr/state-of-mobile-web-q3-2016-e1aea62007f0) 
-  10. [https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/](https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/) 
-  11. [https://css-tricks.com/state-responsive-3d-shapes/](https://css-tricks.com/state-responsive-3d-shapes/) 
-  12. [https://medium.com/@unakravets/rethinking-responsive-d557ef1745bd](https://medium.com/@unakravets/rethinking-responsive-d557ef1745bd) 
-  13. [http://thenewstack.io/new-relic-adds-infrastructure-mobile-app-tracking/](http://thenewstack.io/new-relic-adds-infrastructure-mobile-app-tracking/) 
-  14. [http://phonegap.com/blog/2016/11/03/phonegap-plugin-push-1.9.0/](http://phonegap.com/blog/2016/11/03/phonegap-plugin-push-1.9.0/) 
-  15. [http://blog.ionic.io/announcing-ionic-2-rc-2/](http://blog.ionic.io/announcing-ionic-2-rc-2/) 
-  16. [https://github.com/driftyco/ionic/blob/master/CHANGELOG.md](https://github.com/driftyco/ionic/blob/master/CHANGELOG.md) 
-  17. [https://www.raymondcamden.com/2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2](https://www.raymondcamden.com/2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2) 
-  18. [https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/) 
-  19. [https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation](https://ionicthemes.com/tutorials/about/ionic2-form-handling-and-validation) 
-  20. [https://www.smashingmagazine.com/2016/11/the-golden-rules-of-mobile-navigation-design/](https://www.smashingmagazine.com/2016/11/the-golden-rules-of-mobile-navigation-design/) 
-  21. [https://medium.com/bpxl-craft/how-to-debug-android-webview-content-526f7c4bf665](https://medium.com/bpxl-craft/how-to-debug-android-webview-content-526f7c4bf665) 
-  22. [http://hired.com/](http://hired.com/) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
