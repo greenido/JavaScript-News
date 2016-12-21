@@ -1,6 +1,32 @@
 ## Updated news for 2016-12-21 
 
 ==========
+## 2016's best mobile web development links
+#### http://mobilewebweekly.co/issues/138
+
+==========
+  1. [http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/](http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/) 
+  2. [https://remysharp.com/2016/05/28/state-of-the-gap](https://remysharp.com/2016/05/28/state-of-the-gap) 
+  3. [https://developers.google.com/web/updates/2016/03/device-mode-v2](https://developers.google.com/web/updates/2016/03/device-mode-v2) 
+  4. [http://molily.de/mobile-web-performance/](http://molily.de/mobile-web-performance/) 
+  5. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  7. [https://www.codementor.io/react-js/tutorial/react-native-vs-ionic](https://www.codementor.io/react-js/tutorial/react-native-vs-ionic) 
+  8. [https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e](https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e) 
+  9. [https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733](https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733) 
+  10. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
+  11. [http://1stwebdesigner.com/responsive-design-breakpoints/](http://1stwebdesigner.com/responsive-design-breakpoints/) 
+  12. [https://www.oreilly.com/ideas/mobile-web-performance-checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) 
+  13. [https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58](https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58) 
+  14. [http://www.soasta.com/blog/22-mobile-web-performance-stats/](http://www.soasta.com/blog/22-mobile-web-performance-stats/) 
+  15. [http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085](http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085) 
+  16. [https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/](https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/) 
+  17. [http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456](http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456) 
+  18. [http://fortune.com/2016/05/19/google-mobile-web-project/](http://fortune.com/2016/05/19/google-mobile-web-project/) 
+  19. [http://hired.com/](http://hired.com/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#137)
 #### http://mobilewebweekly.co/issues/137
 
@@ -79,28 +105,5 @@
   23. [https://css3wizardry.com/2016/11/17/chocolatechip-ui-4/](https://css3wizardry.com/2016/11/17/chocolatechip-ui-4/) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#134)
-#### http://mobilewebweekly.co/issues/134
-
-==========
-  1. [http://developer.telerik.com/featured/diminishing-use-case-hybrid-apps/](http://developer.telerik.com/featured/diminishing-use-case-hybrid-apps/) 
-  2. [https://two-wrongs.com/rethinking-text-input-on-touchscreens](https://two-wrongs.com/rethinking-text-input-on-touchscreens) 
-  3. [https://css-tricks.com/lazy-loading-responsive-adsense-ads/](https://css-tricks.com/lazy-loading-responsive-adsense-ads/) 
-  4. [http://info.rangle.io/angular-2-online-training](http://info.rangle.io/angular-2-online-training) 
-  6. [https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/](https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/) 
-  8. [https://blog.nightly.mozilla.org/2016/11/07/simulate-slow-connections-with-the-network-throttling-tool/](https://blog.nightly.mozilla.org/2016/11/07/simulate-slow-connections-with-the-network-throttling-tool/) 
-  9. [http://digiday.com/publishers/google-expands-amp-presents-friendly-face-publishers/](http://digiday.com/publishers/google-expands-amp-presents-friendly-face-publishers/) 
-  10. [https://apppresser.com/3-announcement/](https://apppresser.com/3-announcement/) 
-  11. [http://developer.mobilecaddy.net/2016/11/desktop-hybrid-apps-plugins-and-ionicnative/](http://developer.mobilecaddy.net/2016/11/desktop-hybrid-apps-plugins-and-ionicnative/) 
-  12. [http://phonegap.com/blog/2016/11/15/phonegap-europe-tour/](http://phonegap.com/blog/2016/11/15/phonegap-europe-tour/) 
-  13. [http://una.im/rethinking-responsive/](http://una.im/rethinking-responsive/) 
-  14. [https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/](https://www.smashingmagazine.com/2016/11/worlds-best-open-device-labs/) 
-  15. [https://dev.opera.com/articles/pwa-resources/](https://dev.opera.com/articles/pwa-resources/) 
-  16. [https://webmasters.googleblog.com/2016/11/building-indexable-progressive-web-apps.html](https://webmasters.googleblog.com/2016/11/building-indexable-progressive-web-apps.html) 
-  17. [http://hired.com/](http://hired.com/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
