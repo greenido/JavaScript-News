@@ -1,4 +1,4 @@
-## Updated news for 2017-01-01 
+## Updated news for 2017-01-02 
 
 ==========
 ## 2016's best mobile web development links
