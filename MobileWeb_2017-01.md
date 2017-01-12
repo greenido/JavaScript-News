@@ -1,15 +1,15 @@
-## Updated news for 2017-01-11 
+## Updated news for 2017-01-12 
 
 ==========
 ## This Week in Mobile Web Development (#140)
 #### http://mobilewebweekly.co/issues/140
 
 ==========
-  1. [https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f) 
+  1. [https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e](https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e) 
   2. [https://hackernoon.com/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a](https://hackernoon.com/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a) 
   3. [https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html](https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html) 
   4. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  6. [https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e](https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e) 
+  6. [https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f) 
   7. [http://www.smartinsights.com/search-engine-optimisation-seo/mobile-seo/googles-mobile-index-will-change-seo-2017/](http://www.smartinsights.com/search-engine-optimisation-seo/mobile-seo/googles-mobile-index-will-change-seo-2017/) 
   8. [https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2](https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2) 
   9. [https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b](https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b) 
