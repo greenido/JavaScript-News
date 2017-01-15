@@ -1,4 +1,4 @@
-## Updated news for 2017-01-14 
+## Updated news for 2017-01-15 
 
 ==========
 ## 2016 in Review
