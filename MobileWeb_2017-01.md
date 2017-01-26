@@ -1,6 +1,33 @@
-## Updated news for 2017-01-25 
+## Updated news for 2017-01-26 
 
 ==========
+## This Week in Mobile Web Development (#142)
+#### http://mobilewebweekly.co/issues/142
+
+==========
+  1. [https://techbeacon.com/offline-first-web-mobile-apps-top-frameworks-components](https://techbeacon.com/offline-first-web-mobile-apps-top-frameworks-components) 
+  2. [https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/) 
+  3. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
+  5. [http://babich.biz/best-practices-for-long-scrolling/](http://babich.biz/best-practices-for-long-scrolling/) 
+  6. [http://www.digitaltrends.com/mobile/progressive-apps-live/](http://www.digitaltrends.com/mobile/progressive-apps-live/) 
+  7. [https://www.smashingmagazine.com/2017/01/case-study-app-indexing-google-worth-the-effort/](https://www.smashingmagazine.com/2017/01/case-study-app-indexing-google-worth-the-effort/) 
+  8. [http://searchengineland.com/google-amp-carousels-multiplying-267572](http://searchengineland.com/google-amp-carousels-multiplying-267572) 
+  9. [https://blog.jscrambler.com/protecting-hybrid-mobile-apps-with-ionic-and-jscrambler/](https://blog.jscrambler.com/protecting-hybrid-mobile-apps-with-ionic-and-jscrambler/) 
+  10. [http://developer.telerik.com/products/nativescript/adding-unit-tests-to-your-nativescript-app/](http://developer.telerik.com/products/nativescript/adding-unit-tests-to-your-nativescript-app/) 
+  11. [https://www.joshmorony.com/creating-a-music-player-interface-in-ionic-2/](https://www.joshmorony.com/creating-a-music-player-interface-in-ionic-2/) 
+  12. [https://www.raymondcamden.com/2017/01/19/working-with-ionicdb](https://www.raymondcamden.com/2017/01/19/working-with-ionicdb) 
+  13. [https://medium.com/@amoghbanta/write-once-use-everywhere-with-react-native-d6e575efe58e](https://medium.com/@amoghbanta/write-once-use-everywhere-with-react-native-d6e575efe58e) 
+  14. [https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c) 
+  15. [https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a](https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a) 
+  16. [https://realm.io/news/realm-mobile-platform-1-0-general-availability/](https://realm.io/news/realm-mobile-platform-1-0-general-availability/) 
+  17. [https://medium.com/parasut/add-to-homescreen-prototype-77ce0f050ac4](https://medium.com/parasut/add-to-homescreen-prototype-77ce0f050ac4) 
+  18. [https://www.youtube.com/playlist](https://www.youtube.com/playlist) 
+  19. [https://blog.flennik.com/a-challenger-for-ionic-aurelia-framework7-63a53e736b8a](https://blog.flennik.com/a-challenger-for-ionic-aurelia-framework7-63a53e736b8a) 
+  20. [https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6](https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#141)
 #### http://mobilewebweekly.co/issues/141
 
@@ -81,31 +108,5 @@
   21. [https://github.com/material-components](https://github.com/material-components) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## 2016's best mobile web development links
-#### http://mobilewebweekly.co/issues/138
-
-==========
-  1. [http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/](http://www.agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/) 
-  2. [https://remysharp.com/2016/05/28/state-of-the-gap](https://remysharp.com/2016/05/28/state-of-the-gap) 
-  3. [https://developers.google.com/web/updates/2016/03/device-mode-v2](https://developers.google.com/web/updates/2016/03/device-mode-v2) 
-  4. [http://molily.de/mobile-web-performance/](http://molily.de/mobile-web-performance/) 
-  5. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
-  7. [https://www.codementor.io/react-js/tutorial/react-native-vs-ionic](https://www.codementor.io/react-js/tutorial/react-native-vs-ionic) 
-  8. [https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e](https://medium.com/net-magazine/10-steps-to-better-hybrid-apps-e8e33831ea5e) 
-  9. [https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733](https://medium.com/outsystems-experts/mobile-web-applications-top-css-techniques-for-optimal-performance-b66e3111c733) 
-  10. [http://www.lukew.com/ff/entry.asp](http://www.lukew.com/ff/entry.asp) 
-  11. [http://1stwebdesigner.com/responsive-design-breakpoints/](http://1stwebdesigner.com/responsive-design-breakpoints/) 
-  12. [https://www.oreilly.com/ideas/mobile-web-performance-checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) 
-  13. [https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58](https://blog.prototypr.io/the-best-mobile-interaction-designs-of-2016-18bc345bfa58) 
-  14. [http://www.soasta.com/blog/22-mobile-web-performance-stats/](http://www.soasta.com/blog/22-mobile-web-performance-stats/) 
-  15. [http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085](http://www.creativebloq.com/rwd/responsive-web-design-tutorials-71410085) 
-  16. [https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/](https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/) 
-  17. [http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456](http://www.wsj.com/articles/washington-post-unveils-lightning-fast-mobile-website-1473152456) 
-  18. [http://fortune.com/2016/05/19/google-mobile-web-project/](http://fortune.com/2016/05/19/google-mobile-web-project/) 
-  19. [http://hired.com/](http://hired.com/) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
