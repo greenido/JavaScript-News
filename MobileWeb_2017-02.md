@@ -1,6 +1,34 @@
-## Updated news for 2017-02-01 
+## Updated news for 2017-02-02 
 
 ==========
+## This Week in Mobile Web Development (#143)
+#### http://mobilewebweekly.co/issues/143
+
+==========
+  1. [http://blog.ionic.io/announcing-ionic-2-0-0-final/](http://blog.ionic.io/announcing-ionic-2-0-0-final/) 
+  2. [http://ionicframework.com/](http://ionicframework.com/) 
+  3. [https://webmasters.googleblog.com/2017/01/introducing-mobile-friendly-test-api.html](https://webmasters.googleblog.com/2017/01/introducing-mobile-friendly-test-api.html) 
+  4. [https://cabbageapps.com/mobile-app-development-landscape/](https://cabbageapps.com/mobile-app-development-landscape/) 
+  5. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  7. [https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html](https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html) 
+  8. [https://www.infoq.com/news/2017/01/ionic-2](https://www.infoq.com/news/2017/01/ionic-2) 
+  9. [https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/](https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/) 
+  10. [https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css](https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css) 
+  11. [https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a](https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a) 
+  12. [https://hackernoon.com/getting-started-with-ionic-2-by-building-a-markdown-app-53c4022cf236](https://hackernoon.com/getting-started-with-ionic-2-by-building-a-markdown-app-53c4022cf236) 
+  13. [https://blog.couchbase.com/2017/january/syncing-with-couchbase-in-an-ionic-2-app-using-pouchdb](https://blog.couchbase.com/2017/january/syncing-with-couchbase-in-an-ionic-2-app-using-pouchdb) 
+  14. [https://snook.ca/archives/html_and_css/mixed-content-responsive-images](https://snook.ca/archives/html_and_css/mixed-content-responsive-images) 
+  15. [https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/) 
+  16. [http://www.recode.net/2017/1/25/14378610/mossberg-whats-up-with-firefox-the-browser-that-time-forgot](http://www.recode.net/2017/1/25/14378610/mossberg-whats-up-with-firefox-the-browser-that-time-forgot) 
+  17. [https://reactnavigation.org/](https://reactnavigation.org/) 
+  18. [http://coenraets.org/blog/2017/01/react-native-salesforce-mobile-sdk/](http://coenraets.org/blog/2017/01/react-native-salesforce-mobile-sdk/) 
+  19. [https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard) 
+  20. [https://github.com/aaronksaunders/Ionic2-Ionic.io-Auth-mobx](https://github.com/aaronksaunders/Ionic2-Ionic.io-Auth-mobx) 
+  21. [https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp](https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#142)
 #### http://mobilewebweekly.co/issues/142
 
@@ -81,32 +109,5 @@
   18. [https://source.opennews.org/en-US/articles/what-amp-maybe-means-news-developers/](https://source.opennews.org/en-US/articles/what-amp-maybe-means-news-developers/) 
   19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#139)
-#### http://mobilewebweekly.co/issues/139
-
-==========
-  1. [https://www.smashingmagazine.com/2016/12/strategies-for-effective-mobile-landing-pages/](https://www.smashingmagazine.com/2016/12/strategies-for-effective-mobile-landing-pages/) 
-  2. [https://www.smashingmagazine.com/2016/12/the-not-so-secret-powers-of-the-mobile-browser/](https://www.smashingmagazine.com/2016/12/the-not-so-secret-powers-of-the-mobile-browser/) 
-  3. [http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/) 
-  4. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  6. [https://testmysite.thinkwithgoogle.com/](https://testmysite.thinkwithgoogle.com/) 
-  7. [https://24ways.org/2016/taking-device-orientation-for-a-spin/](https://24ways.org/2016/taking-device-orientation-for-a-spin/) 
-  8. [http://blog.ionic.io/help-us-test-the-super-starter/](http://blog.ionic.io/help-us-test-the-super-starter/) 
-  9. [https://developers.google.com/web/fundamentals/performance/prpl-pattern/](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) 
-  10. [https://www.smashingmagazine.com/2016/12/app-development-showdown-native-hybrid-debate/](https://www.smashingmagazine.com/2016/12/app-development-showdown-native-hybrid-debate/) 
-  11. [https://css-tricks.com/reactive-audio-webvr/](https://css-tricks.com/reactive-audio-webvr/) 
-  12. [https://saniyusuf.com/ionic-by-component-navigation/](https://saniyusuf.com/ionic-by-component-navigation/) 
-  14. [http://www.nytimes.com/2017/01/01/technology/google-amp-mobile-publishing.html](http://www.nytimes.com/2017/01/01/technology/google-amp-mobile-publishing.html) 
-  15. [https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24) 
-  16. [https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f](https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f) 
-  17. [https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4](https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4) 
-  18. [http://framework7.io/vue/](http://framework7.io/vue/) 
-  19. [https://github.com/AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 
-  20. [https://github.com/GoogleChrome/rowing-monitor](https://github.com/GoogleChrome/rowing-monitor) 
-  21. [https://github.com/material-components](https://github.com/material-components) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====

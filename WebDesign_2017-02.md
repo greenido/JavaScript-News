@@ -1,4 +1,4 @@
-## Updated news for 2017-02-01 
+## Updated news for 2017-02-02 
 
 ==========
 ## Web Design Weekly #265
