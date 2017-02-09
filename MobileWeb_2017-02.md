@@ -1,6 +1,32 @@
-## Updated news for 2017-02-08 
+## Updated news for 2017-02-09 
 
 ==========
+## This Week in Mobile Web Development (#144)
+#### http://mobilewebweekly.co/issues/144
+
+==========
+  1. [https://blog.hospodarets.com/web-share-api](https://blog.hospodarets.com/web-share-api) 
+  2. [https://developers.googleblog.com/2017/02/whats-in-amp-url.html](https://developers.googleblog.com/2017/02/whats-in-amp-url.html) 
+  3. [https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc](https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc) 
+  4. [https://www.bugsnag.com/platforms/react-native-error-reporting/](https://www.bugsnag.com/platforms/react-native-error-reporting/) 
+  7. [https://www.filamentgroup.com/lab/accessible-responsive.html](https://www.filamentgroup.com/lab/accessible-responsive.html) 
+  8. [https://www.nativescript.org/blog/nativescript-25-is-now-available](https://www.nativescript.org/blog/nativescript-25-is-now-available) 
+  9. [https://twitter.com/necolas/status/829128165314306048](https://twitter.com/necolas/status/829128165314306048) 
+  10. [https://javebratt.com/angular-translate-ionic/](https://javebratt.com/angular-translate-ionic/) 
+  12. [http://shoptalkshow.com/episodes/248-amp/](http://shoptalkshow.com/episodes/248-amp/) 
+  13. [https://github.com/bencompton/framework7-redux](https://github.com/bencompton/framework7-redux) 
+  14. [https://balzss.github.io/luxbar/](https://balzss.github.io/luxbar/) 
+  15. [http://blog.ionic.io/help-us-test-ionic-native-3-x/](http://blog.ionic.io/help-us-test-ionic-native-3-x/) 
+  16. [https://github.com/sudipta169/Ionic2-Instagram](https://github.com/sudipta169/Ionic2-Instagram) 
+  17. [https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences](https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences) 
+  18. [https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html) 
+  19. [https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle](https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle) 
+  20. [https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e) 
+  21. [https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/](https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#143)
 #### http://mobilewebweekly.co/issues/143
 
@@ -84,30 +110,5 @@
   23. [https://medium.com/@saniyusuf/the-power-of-collaboration-f6dd11d8b262](https://medium.com/@saniyusuf/the-power-of-collaboration-f6dd11d8b262) 
   24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#140)
-#### http://mobilewebweekly.co/issues/140
-
-==========
-  1. [https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e](https://medium.com/@karanperi/a-2017-wishlist-for-progressive-web-apps-and-mobile-web-dff3a91e667e) 
-  2. [https://hackernoon.com/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a](https://hackernoon.com/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a) 
-  3. [https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html](https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html) 
-  4. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  6. [https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f) 
-  7. [http://www.smartinsights.com/search-engine-optimisation-seo/mobile-seo/googles-mobile-index-will-change-seo-2017/](http://www.smartinsights.com/search-engine-optimisation-seo/mobile-seo/googles-mobile-index-will-change-seo-2017/) 
-  8. [https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2](https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2) 
-  9. [https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b](https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b) 
-  10. [https://www.thepolyglotdeveloper.com/2017/01/communicate-with-websockets-in-a-nativescript-angular-application/](https://www.thepolyglotdeveloper.com/2017/01/communicate-with-websockets-in-a-nativescript-angular-application/) 
-  11. [https://hackernoon.com/playing-with-react-native-animations-d065e7e97391](https://hackernoon.com/playing-with-react-native-animations-d065e7e97391) 
-  12. [https://blog.izooto.com/progressive-web-apps-mobile-push-e-commerce/](https://blog.izooto.com/progressive-web-apps-mobile-push-e-commerce/) 
-  13. [http://webagility.com/posts/building-a-progressive-web-app-part-1-background-and-back-end](http://webagility.com/posts/building-a-progressive-web-app-part-1-background-and-back-end) 
-  14. [https://www.raymondcamden.com/2017/01/05/an-example-of-the-ionic-2-menu-component](https://www.raymondcamden.com/2017/01/05/an-example-of-the-ionic-2-menu-component) 
-  15. [http://devgirl.org/2017/01/10/phonegap-apps-with-vue-js-yes-please/](http://devgirl.org/2017/01/10/phonegap-apps-with-vue-js-yes-please/) 
-  16. [http://mashable.com/2017/01/05/ad-blocking-slowing-possibly/](http://mashable.com/2017/01/05/ad-blocking-slowing-possibly/) 
-  17. [https://blog.couchbase.com/2017/january/querying-for-couchbase-documents-in-a-nativescript-angular-mobile-application](https://blog.couchbase.com/2017/january/querying-for-couchbase-documents-in-a-nativescript-angular-mobile-application) 
-  18. [https://source.opennews.org/en-US/articles/what-amp-maybe-means-news-developers/](https://source.opennews.org/en-US/articles/what-amp-maybe-means-news-developers/) 
-  19. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  20. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
