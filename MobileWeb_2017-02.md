@@ -1,6 +1,33 @@
-## Updated news for 2017-02-15 
+## Updated news for 2017-02-16 
 
 ==========
+## This Week in Mobile Web Development (#145)
+#### http://mobilewebweekly.co/issues/145
+
+==========
+  1. [https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3/](https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3/) 
+  2. [https://www.smashingmagazine.com/2017/02/touch-gesture-controls-mobile-interfaces/](https://www.smashingmagazine.com/2017/02/touch-gesture-controls-mobile-interfaces/) 
+  3. [https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types](https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types) 
+  4. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  6. [http://ben-evans.com/benedictevans/2017/1/30/mobile-20](http://ben-evans.com/benedictevans/2017/1/30/mobile-20) 
+  7. [http://eclipsesource.com/blogs/2017/02/08/tabris-js-2-0-beta-1-is-here/](http://eclipsesource.com/blogs/2017/02/08/tabris-js-2-0-beta-1-is-here/) 
+  8. [http://filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins](http://filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins) 
+  9. [https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380](https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380) 
+  10. [https://cordova.apache.org/announcements/2017/02/13/cordova-windows-5.0.0.html](https://cordova.apache.org/announcements/2017/02/13/cordova-windows-5.0.0.html) 
+  11. [https://blog.pusher.com/build-an-android-realtime-feed-with-pusher/](https://blog.pusher.com/build-an-android-realtime-feed-with-pusher/) 
+  12. [https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4](https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4) 
+  13. [http://modemlooper.me/how-to-create-a-wordpress-mobile-app/](http://modemlooper.me/how-to-create-a-wordpress-mobile-app/) 
+  14. [https://medium.freecodecamp.com/how-to-build-cross-platform-mobile-apps-using-nothing-more-than-a-json-markup-f493abec1873](https://medium.freecodecamp.com/how-to-build-cross-platform-mobile-apps-using-nothing-more-than-a-json-markup-f493abec1873) 
+  15. [https://crosswalk-project.org/blog/crosswalk-final-release.html](https://crosswalk-project.org/blog/crosswalk-final-release.html) 
+  16. [https://github.com/GuillaumeBiton/contacts7v](https://github.com/GuillaumeBiton/contacts7v) 
+  17. [https://github.com/alflennik/au7](https://github.com/alflennik/au7) 
+  18. [http://webjunto.com/5-tricks-make-ionic-app-look-better/](http://webjunto.com/5-tricks-make-ionic-app-look-better/) 
+  19. [https://www.thepolyglotdeveloper.com/2017/02/use-visually-appealing-fancy-alerts-nativescript-angular-application/](https://www.thepolyglotdeveloper.com/2017/02/use-visually-appealing-fancy-alerts-nativescript-angular-application/) 
+  20. [http://ui-patterns.com/blog/mobile-navigation-the-battle-between-content-and-chrome](http://ui-patterns.com/blog/mobile-navigation-the-battle-between-content-and-chrome) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#144)
 #### http://mobilewebweekly.co/issues/144
 
@@ -80,35 +107,5 @@
   20. [https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6](https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#141)
-#### http://mobilewebweekly.co/issues/141
-
-==========
-  1. [http://www.techrepublic.com/article/why-native-apps-arent-really-doomed-for-now/](http://www.techrepublic.com/article/why-native-apps-arent-really-doomed-for-now/) 
-  2. [http://thewebjuice.com/battery-status-api-hardware-access-api/](http://thewebjuice.com/battery-status-api-hardware-access-api/) 
-  3. [https://80x24.net/post/the-problem-with-amp/](https://80x24.net/post/the-problem-with-amp/) 
-  4. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  6. [https://www.g2crowd.com/categories/mobile-development-frameworks](https://www.g2crowd.com/categories/mobile-development-frameworks) 
-  7. [https://hackernoon.com/how-i-built-a-super-fast-uber-clone-for-mobile-web-863680d2100f](https://hackernoon.com/how-i-built-a-super-fast-uber-clone-for-mobile-web-863680d2100f) 
-  8. [https://medium.com/@alexaustin/amp-is-googles-last-hope-for-relevance-in-mobile-search-94253f437d83](https://medium.com/@alexaustin/amp-is-googles-last-hope-for-relevance-in-mobile-search-94253f437d83) 
-  9. [http://moduscreate.com/writing-a-cordova-plugin-in-swift-3-for-ios/](http://moduscreate.com/writing-a-cordova-plugin-in-swift-3-for-ios/) 
-  10. [https://www.timo-ernst.net/blog/2017/01/09/tutorial-create-a-twitter-app-with-vuejs-framework7-phonegap-and-webpack-episode-01/](https://www.timo-ernst.net/blog/2017/01/09/tutorial-create-a-twitter-app-with-vuejs-framework7-phonegap-and-webpack-episode-01/) 
-  11. [https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6) 
-  12. [https://auth0.com/blog/introduction-to-progressive-apps-part-one/](https://auth0.com/blog/introduction-to-progressive-apps-part-one/) 
-  13. [https://github.com/glennwedin/Progressive-Web-App](https://github.com/glennwedin/Progressive-Web-App) 
-  14. [https://github.com/AppointmentGuru/webpack-mobile-f7](https://github.com/AppointmentGuru/webpack-mobile-f7) 
-  15. [https://tomitm.github.io/appmanifest/](https://tomitm.github.io/appmanifest/) 
-  16. [http://quasar-framework.org/](http://quasar-framework.org/) 
-  17. [https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/) 
-  18. [http://developer.telerik.com/topics/mobile-development/your-guide-to-app-store-images/](http://developer.telerik.com/topics/mobile-development/your-guide-to-app-store-images/) 
-  19. [https://medium.com/outsystems-experts/gestures-glamour-setting-up-a-touch-menu-6d9b94039997](https://medium.com/outsystems-experts/gestures-glamour-setting-up-a-touch-menu-6d9b94039997) 
-  20. [https://developers.googleblog.com/2017/01/google-amp-cache-amp-lite-and-need-for.html](https://developers.googleblog.com/2017/01/google-amp-cache-amp-lite-and-need-for.html) 
-  21. [http://gonehybrid.com/exploring-app-module-and-app-component-in-an-ionic-2-app/](http://gonehybrid.com/exploring-app-module-and-app-component-in-an-ionic-2-app/) 
-  22. [https://www.oreilly.com/ideas/5-web-trends-for-2017](https://www.oreilly.com/ideas/5-web-trends-for-2017) 
-  23. [https://medium.com/@saniyusuf/the-power-of-collaboration-f6dd11d8b262](https://medium.com/@saniyusuf/the-power-of-collaboration-f6dd11d8b262) 
-  24. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  25. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
