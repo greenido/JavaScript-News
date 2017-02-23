@@ -1,6 +1,32 @@
-## Updated news for 2017-02-22 
+## Updated news for 2017-02-23 
 
 ==========
+## This Week in Mobile Web Development (#146)
+#### http://mobilewebweekly.co/issues/146
+
+==========
+  1. [https://www.sitepoint.com/responsive-css-patterns-without-media-queries/](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/) 
+  2. [https://www.sitepoint.com/use-mobile-emulation-mode-chrome/](https://www.sitepoint.com/use-mobile-emulation-mode-chrome/) 
+  3. [http://www.uxmatters.com/mt/archives/2017/02/8-best-practices-for-mobile-form-design.php](http://www.uxmatters.com/mt/archives/2017/02/8-best-practices-for-mobile-form-design.php) 
+  4. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
+  6. [https://medium.com/samsung-internet-dev/toolbars-keyboards-and-the-viewports-10abcc6c3769](https://medium.com/samsung-internet-dev/toolbars-keyboards-and-the-viewports-10abcc6c3769) 
+  7. [http://phonegap.com/blog/2017/02/14/continued-commitment/](http://phonegap.com/blog/2017/02/14/continued-commitment/) 
+  8. [https://blog.itnig.net/what-app-to-build-in-2017-native-hybrid-or-progressive-web-apps-e1dd31c11aa5](https://blog.itnig.net/what-app-to-build-in-2017-native-hybrid-or-progressive-web-apps-e1dd31c11aa5) 
+  9. [https://uxplanet.org/3-key-uses-for-animation-in-mobile-ui-design-4d7c482dd84b](https://uxplanet.org/3-key-uses-for-animation-in-mobile-ui-design-4d7c482dd84b) 
+  10. [https://www.infoq.com/news/2017/02/twitter-react-mobile-stack](https://www.infoq.com/news/2017/02/twitter-react-mobile-stack) 
+  11. [https://www.viget.com/articles/do-responsive-sites-have-to-be-so-tall-on-mobile](https://www.viget.com/articles/do-responsive-sites-have-to-be-so-tall-on-mobile) 
+  12. [https://css-tricks.com/css-grid-one-layout-multiple-ways/](https://css-tricks.com/css-grid-one-layout-multiple-ways/) 
+  13. [https://developers.google.com/web/updates/2017/02/improved-add-to-home-screen](https://developers.google.com/web/updates/2017/02/improved-add-to-home-screen) 
+  14. [http://devgirl.org/2017/02/22/phonegap-plugins-end-to-end/](http://devgirl.org/2017/02/22/phonegap-plugins-end-to-end/) 
+  15. [https://code.tutsplus.com/tutorials/how-to-create-a-camera-app-with-ionic-2--cms-28205](https://code.tutsplus.com/tutorials/how-to-create-a-camera-app-with-ionic-2--cms-28205) 
+  16. [https://www.joshmorony.com/how-to-create-a-sliding-drawer-component-for-ionic-2/](https://www.joshmorony.com/how-to-create-a-sliding-drawer-component-for-ionic-2/) 
+  17. [http://gonehybrid.com/how-to-create-a-node-js-microservice-for-your-ionic-app/](http://gonehybrid.com/how-to-create-a-node-js-microservice-for-your-ionic-app/) 
+  19. [https://github.com/bencompton/framework7-react](https://github.com/bencompton/framework7-react) 
+  20. [https://www.thepolyglotdeveloper.com/2017/02/device-clipboard-nativescript-angular-application/](https://www.thepolyglotdeveloper.com/2017/02/device-clipboard-nativescript-angular-application/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#145)
 #### http://mobilewebweekly.co/issues/145
 
@@ -80,32 +106,5 @@
   21. [https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp](https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#142)
-#### http://mobilewebweekly.co/issues/142
-
-==========
-  1. [https://techbeacon.com/offline-first-web-mobile-apps-top-frameworks-components](https://techbeacon.com/offline-first-web-mobile-apps-top-frameworks-components) 
-  2. [https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/) 
-  3. [http://www.hybridtonative.com/](http://www.hybridtonative.com/) 
-  5. [http://babich.biz/best-practices-for-long-scrolling/](http://babich.biz/best-practices-for-long-scrolling/) 
-  6. [http://www.digitaltrends.com/mobile/progressive-apps-live/](http://www.digitaltrends.com/mobile/progressive-apps-live/) 
-  7. [https://www.smashingmagazine.com/2017/01/case-study-app-indexing-google-worth-the-effort/](https://www.smashingmagazine.com/2017/01/case-study-app-indexing-google-worth-the-effort/) 
-  8. [http://searchengineland.com/google-amp-carousels-multiplying-267572](http://searchengineland.com/google-amp-carousels-multiplying-267572) 
-  9. [https://blog.jscrambler.com/protecting-hybrid-mobile-apps-with-ionic-and-jscrambler/](https://blog.jscrambler.com/protecting-hybrid-mobile-apps-with-ionic-and-jscrambler/) 
-  10. [http://developer.telerik.com/products/nativescript/adding-unit-tests-to-your-nativescript-app/](http://developer.telerik.com/products/nativescript/adding-unit-tests-to-your-nativescript-app/) 
-  11. [https://www.joshmorony.com/creating-a-music-player-interface-in-ionic-2/](https://www.joshmorony.com/creating-a-music-player-interface-in-ionic-2/) 
-  12. [https://www.raymondcamden.com/2017/01/19/working-with-ionicdb](https://www.raymondcamden.com/2017/01/19/working-with-ionicdb) 
-  13. [https://medium.com/@amoghbanta/write-once-use-everywhere-with-react-native-d6e575efe58e](https://medium.com/@amoghbanta/write-once-use-everywhere-with-react-native-d6e575efe58e) 
-  14. [https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c) 
-  15. [https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a](https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a) 
-  16. [https://realm.io/news/realm-mobile-platform-1-0-general-availability/](https://realm.io/news/realm-mobile-platform-1-0-general-availability/) 
-  17. [https://medium.com/parasut/add-to-homescreen-prototype-77ce0f050ac4](https://medium.com/parasut/add-to-homescreen-prototype-77ce0f050ac4) 
-  18. [https://www.youtube.com/playlist](https://www.youtube.com/playlist) 
-  19. [https://blog.flennik.com/a-challenger-for-ionic-aurelia-framework7-63a53e736b8a](https://blog.flennik.com/a-challenger-for-ionic-aurelia-framework7-63a53e736b8a) 
-  20. [https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6](https://github.com/driftyco/ionic/releases/tag/v2.0.0-rc.6) 
-  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
