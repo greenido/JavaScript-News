@@ -1,6 +1,12 @@
-## Updated news for 2017-02-27 
+## Updated news for 2017-02-28 
 
 ==========
+## Web Design Weekly #269
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/qXie5IDo9_c/
+
+==========
+
+====
 ## Web Design Weekly #268
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/1JWeJIkTG2Q/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #261
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/XOpUFPAf_Uk/
-
-==========
-
-====
-## Web Design Weekly #260
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/gbEcjt1hk1k/
 
 ==========
 
