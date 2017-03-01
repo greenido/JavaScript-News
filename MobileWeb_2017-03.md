@@ -1,6 +1,33 @@
 ## Updated news for 2017-03-01 
 
 ==========
+## This Week in Mobile Web Development (#147)
+#### http://mobilewebweekly.co/issues/147
+
+==========
+  1. [https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34) 
+  2. [https://css-tricks.com/touch-devices-not-judged-size/](https://css-tricks.com/touch-devices-not-judged-size/) 
+  3. [http://www.theverge.com/2017/2/24/14722830/google-amp-traffic-publishers-up](http://www.theverge.com/2017/2/24/14722830/google-amp-traffic-publishers-up) 
+  4. [http://info.rangle.io/react-online-training](http://info.rangle.io/react-online-training) 
+  6. [https://www.sitepoint.com/how-to-build-your-own-progressive-image-loader/](https://www.sitepoint.com/how-to-build-your-own-progressive-image-loader/) 
+  7. [https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uyy000m7m53dsyeghst](https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uyy000m7m53dsyeghst) 
+  8. [http://www.theverge.com/2017/2/26/14742150/nokia-3310-mwc-2017](http://www.theverge.com/2017/2/26/14742150/nokia-3310-mwc-2017) 
+  9. [http://codingsans.com/blog/ionic-2-app-with-native-plugin-integrations](http://codingsans.com/blog/ionic-2-app-with-native-plugin-integrations) 
+  10. [https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd) 
+  11. [https://www.nativescript.org/blog/sneak-preview-of-nativescript-3.0](https://www.nativescript.org/blog/sneak-preview-of-nativescript-3.0) 
+  12. [https://blog.elpassion.com/how-to-make-your-app-a-pwa-e449caee37f8](https://blog.elpassion.com/how-to-make-your-app-a-pwa-e449caee37f8) 
+  13. [https://www.joshmorony.com/increasing-performance-with-efficient-dom-writes-in-ionic-2/](https://www.joshmorony.com/increasing-performance-with-efficient-dom-writes-in-ionic-2/) 
+  14. [https://code.tutsplus.com/articles/introduction-to-ionic-2--cms-28193](https://code.tutsplus.com/articles/introduction-to-ionic-2--cms-28193) 
+  15. [https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/](https://chrisgriffith.wordpress.com/2017/02/25/ionic-split-panel-component/) 
+  17. [https://bocoup.com/blog/css-grid-learning-new-layout](https://bocoup.com/blog/css-grid-learning-new-layout) 
+  18. [https://alligator.io/vuejs/roundup-mobile-hybrid-frameworks/](https://alligator.io/vuejs/roundup-mobile-hybrid-frameworks/) 
+  19. [http://blog.nparashuram.com/2017/02/exponent-apps-testing-on-multiple-form.html](http://blog.nparashuram.com/2017/02/exponent-apps-testing-on-multiple-form.html) 
+  20. [https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c) 
+  21. [https://jonathanspeek.github.io/spacegrid/](https://jonathanspeek.github.io/spacegrid/) 
+  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#146)
 #### http://mobilewebweekly.co/issues/146
 
@@ -76,34 +103,6 @@
   19. [https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle](https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle) 
   20. [https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e) 
   21. [https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/](https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#143)
-#### http://mobilewebweekly.co/issues/143
-
-==========
-  1. [http://blog.ionic.io/announcing-ionic-2-0-0-final/](http://blog.ionic.io/announcing-ionic-2-0-0-final/) 
-  2. [http://ionicframework.com/](http://ionicframework.com/) 
-  3. [https://webmasters.googleblog.com/2017/01/introducing-mobile-friendly-test-api.html](https://webmasters.googleblog.com/2017/01/introducing-mobile-friendly-test-api.html) 
-  4. [https://cabbageapps.com/mobile-app-development-landscape/](https://cabbageapps.com/mobile-app-development-landscape/) 
-  5. [https://welcome.linode.com/mobile-web-weekly/](https://welcome.linode.com/mobile-web-weekly/) 
-  7. [https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html](https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html) 
-  8. [https://www.infoq.com/news/2017/01/ionic-2](https://www.infoq.com/news/2017/01/ionic-2) 
-  9. [https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/](https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/) 
-  10. [https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css](https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css) 
-  11. [https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a](https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a) 
-  12. [https://hackernoon.com/getting-started-with-ionic-2-by-building-a-markdown-app-53c4022cf236](https://hackernoon.com/getting-started-with-ionic-2-by-building-a-markdown-app-53c4022cf236) 
-  13. [https://blog.couchbase.com/2017/january/syncing-with-couchbase-in-an-ionic-2-app-using-pouchdb](https://blog.couchbase.com/2017/january/syncing-with-couchbase-in-an-ionic-2-app-using-pouchdb) 
-  14. [https://snook.ca/archives/html_and_css/mixed-content-responsive-images](https://snook.ca/archives/html_and_css/mixed-content-responsive-images) 
-  15. [https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/) 
-  16. [http://www.recode.net/2017/1/25/14378610/mossberg-whats-up-with-firefox-the-browser-that-time-forgot](http://www.recode.net/2017/1/25/14378610/mossberg-whats-up-with-firefox-the-browser-that-time-forgot) 
-  17. [https://reactnavigation.org/](https://reactnavigation.org/) 
-  18. [http://coenraets.org/blog/2017/01/react-native-salesforce-mobile-sdk/](http://coenraets.org/blog/2017/01/react-native-salesforce-mobile-sdk/) 
-  19. [https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard) 
-  20. [https://github.com/aaronksaunders/Ionic2-Ionic.io-Auth-mobx](https://github.com/aaronksaunders/Ionic2-Ionic.io-Auth-mobx) 
-  21. [https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp](https://dev.to/ben/what-are-your-thoughts-on-accelerated-mobile-pages-amp) 
   22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
