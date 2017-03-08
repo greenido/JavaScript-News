@@ -1,6 +1,32 @@
 ## Updated news for 2017-03-08 
 
 ==========
+## This Week in Mobile Web Development (#148)
+#### http://mobilewebweekly.co/issues/148
+
+==========
+  1. [https://css-tricks.com/introduction-web-audio-api/](https://css-tricks.com/introduction-web-audio-api/) 
+  2. [https://bocoup.com/blog/css-grid-responsive-and-accessibility](https://bocoup.com/blog/css-grid-responsive-and-accessibility) 
+  3. [https://www.sitepoint.com/offline-web-apps-service-workers-pouchdb/](https://www.sitepoint.com/offline-web-apps-service-workers-pouchdb/) 
+  4. [https://rayedwards.leadpages.co/tca-lesson-2-b/](https://rayedwards.leadpages.co/tca-lesson-2-b/) 
+  6. [https://www.enchant.com/blog/app-clarity](https://www.enchant.com/blog/app-clarity) 
+  7. [http://www.niemanlab.org/2017/03/forbes-rebuilt-its-new-mobile-website-as-a-progressive-web-app/](http://www.niemanlab.org/2017/03/forbes-rebuilt-its-new-mobile-website-as-a-progressive-web-app/) 
+  8. [https://amphtml.wordpress.com/2017/03/07/amp-grows-its-footprint/](https://amphtml.wordpress.com/2017/03/07/amp-grows-its-footprint/) 
+  9. [https://medium.com/@samthor/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638](https://medium.com/@samthor/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638) 
+  10. [https://www.thepolyglotdeveloper.com/2017/03/nested-routing-in-a-nativescript-angular-application/](https://www.thepolyglotdeveloper.com/2017/03/nested-routing-in-a-nativescript-angular-application/) 
+  11. [https://www.sitepoint.com/push-notifications-in-your-ionic-app-with-onesignal/](https://www.sitepoint.com/push-notifications-in-your-ionic-app-with-onesignal/) 
+  12. [https://kelvindart.com/controlling-page-navigation/](https://kelvindart.com/controlling-page-navigation/) 
+  14. [https://medium.freecodecamp.com/i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b](https://medium.freecodecamp.com/i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b) 
+  15. [http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison](http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison) 
+  16. [https://cloudfour.com/thinks/state-of-responsive-images-2017/](https://cloudfour.com/thinks/state-of-responsive-images-2017/) 
+  17. [https://ethanmarcotte.com/wrote/on-container-queries/](https://ethanmarcotte.com/wrote/on-container-queries/) 
+  18. [http://www.roblouie.com/article/296/ionic-2-environment-variables-the-best-way/](http://www.roblouie.com/article/296/ionic-2-environment-variables-the-best-way/) 
+  19. [https://www.thepolyglotdeveloper.com/2017/03/device-geolocation-nativescript-angular-application/](https://www.thepolyglotdeveloper.com/2017/03/device-geolocation-nativescript-angular-application/) 
+  20. [http://phonegap.com/blog/2017/02/28/webvr-pwas-and-more/](http://phonegap.com/blog/2017/02/28/webvr-pwas-and-more/) 
+  21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
+  22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
+
+====
 ## This Week in Mobile Web Development (#147)
 #### http://mobilewebweekly.co/issues/147
 
@@ -79,31 +105,5 @@
   20. [http://ui-patterns.com/blog/mobile-navigation-the-battle-between-content-and-chrome](http://ui-patterns.com/blog/mobile-navigation-the-battle-between-content-and-chrome) 
   21. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
   22. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
-
-====
-## This Week in Mobile Web Development (#144)
-#### http://mobilewebweekly.co/issues/144
-
-==========
-  1. [https://blog.hospodarets.com/web-share-api](https://blog.hospodarets.com/web-share-api) 
-  2. [https://developers.googleblog.com/2017/02/whats-in-amp-url.html](https://developers.googleblog.com/2017/02/whats-in-amp-url.html) 
-  3. [https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc](https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc) 
-  4. [https://www.bugsnag.com/platforms/react-native-error-reporting/](https://www.bugsnag.com/platforms/react-native-error-reporting/) 
-  7. [https://www.filamentgroup.com/lab/accessible-responsive.html](https://www.filamentgroup.com/lab/accessible-responsive.html) 
-  8. [https://www.nativescript.org/blog/nativescript-25-is-now-available](https://www.nativescript.org/blog/nativescript-25-is-now-available) 
-  9. [https://twitter.com/necolas/status/829128165314306048](https://twitter.com/necolas/status/829128165314306048) 
-  10. [https://javebratt.com/angular-translate-ionic/](https://javebratt.com/angular-translate-ionic/) 
-  12. [http://shoptalkshow.com/episodes/248-amp/](http://shoptalkshow.com/episodes/248-amp/) 
-  13. [https://github.com/bencompton/framework7-redux](https://github.com/bencompton/framework7-redux) 
-  14. [https://balzss.github.io/luxbar/](https://balzss.github.io/luxbar/) 
-  15. [http://blog.ionic.io/help-us-test-ionic-native-3-x/](http://blog.ionic.io/help-us-test-ionic-native-3-x/) 
-  16. [https://github.com/sudipta169/Ionic2-Instagram](https://github.com/sudipta169/Ionic2-Instagram) 
-  17. [https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences](https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences) 
-  18. [https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html) 
-  19. [https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle](https://www.scientiamobile.com/page/adaptive-design-vs-responsive-web-design-rwd-pundits-come-full-circle) 
-  20. [https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e) 
-  21. [https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/](https://onsen.io/blog/vuejs-2-binding-alpha-version-is-here/) 
-  22. [https://twitter.com/remotesynth](https://twitter.com/remotesynth) 
-  23. [https://twitter.com/devgirlFL](https://twitter.com/devgirlFL) 
 
 ====
