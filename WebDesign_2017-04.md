@@ -1,4 +1,4 @@
-## Updated news for 2017-04-01 
+## Updated news for 2017-04-02 
 
 ==========
 ## Web Design Weekly #273
