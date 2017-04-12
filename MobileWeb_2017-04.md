@@ -1,4 +1,4 @@
-## Updated news for 2017-04-11 
+## Updated news for 2017-04-12 
 
 ==========
 ## #152: Mobile insights from the Stack Overflow 2017 Developer Survey
