@@ -1,4 +1,4 @@
-## Updated news for 2017-04-25 
+## Updated news for 2017-04-26 
 
 ==========
 ## #154: Mobile Web Video Playback Best Practices
