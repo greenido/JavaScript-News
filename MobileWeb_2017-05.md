@@ -1,4 +1,4 @@
-## Updated news for 2017-05-01 
+## Updated news for 2017-05-02 
 
 ==========
 ## #155: Why 'Mobile First' May Already Be Outdated
