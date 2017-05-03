@@ -1,6 +1,29 @@
 ## Updated news for 2017-05-03 
 
 ==========
+## #156: A 5 minute guide to mobile design for non-designers
+#### https://mobilewebweekly.com/issues/156
+
+==========
+  1. [https://mobilewebweekly.com/link/12805/rss](https://mobilewebweekly.com/link/12805/rss) 
+  2. [https://mobilewebweekly.com/link/12806/rss](https://mobilewebweekly.com/link/12806/rss) 
+  3. [https://mobilewebweekly.com/link/12807/rss](https://mobilewebweekly.com/link/12807/rss) 
+  4. [https://mobilewebweekly.com/link/12808/rss](https://mobilewebweekly.com/link/12808/rss) 
+  5. [https://mobilewebweekly.com/link/12809/rss](https://mobilewebweekly.com/link/12809/rss) 
+  7. [https://mobilewebweekly.com/link/12810/rss](https://mobilewebweekly.com/link/12810/rss) 
+  8. [https://mobilewebweekly.com/link/12811/rss](https://mobilewebweekly.com/link/12811/rss) 
+  9. [https://mobilewebweekly.com/link/12812/rss](https://mobilewebweekly.com/link/12812/rss) 
+  10. [https://mobilewebweekly.com/link/12813/rss](https://mobilewebweekly.com/link/12813/rss) 
+  11. [https://mobilewebweekly.com/link/12814/rss](https://mobilewebweekly.com/link/12814/rss) 
+  12. [https://mobilewebweekly.com/link/12815/rss](https://mobilewebweekly.com/link/12815/rss) 
+  13. [https://mobilewebweekly.com/link/12816/rss](https://mobilewebweekly.com/link/12816/rss) 
+  14. [https://mobilewebweekly.com/link/12817/rss](https://mobilewebweekly.com/link/12817/rss) 
+  15. [https://mobilewebweekly.com/link/12818/rss](https://mobilewebweekly.com/link/12818/rss) 
+  16. [https://mobilewebweekly.com/link/12819/rss](https://mobilewebweekly.com/link/12819/rss) 
+  17. [https://mobilewebweekly.com/link/12820/rss](https://mobilewebweekly.com/link/12820/rss) 
+  18. [https://mobilewebweekly.com/link/12821/rss](https://mobilewebweekly.com/link/12821/rss) 
+
+====
 ## #155: Why 'Mobile First' May Already Be Outdated
 #### https://mobilewebweekly.com/issues/155
 
@@ -84,31 +107,5 @@
   22. [https://mobilewebweekly.com/link/9134/rss](https://mobilewebweekly.com/link/9134/rss) 
   23. [https://mobilewebweekly.com/link/9135/rss](https://mobilewebweekly.com/link/9135/rss) 
   24. [https://mobilewebweekly.com/link/9136/rss](https://mobilewebweekly.com/link/9136/rss) 
-
-====
-## #152: Mobile insights from the Stack Overflow 2017 Developer Survey
-#### https://mobilewebweekly.com/issues/152
-
-==========
-  1. [https://mobilewebweekly.com/link/7529/rss](https://mobilewebweekly.com/link/7529/rss) 
-  2. [https://mobilewebweekly.com/link/7530/rss](https://mobilewebweekly.com/link/7530/rss) 
-  3. [https://mobilewebweekly.com/link/7531/rss](https://mobilewebweekly.com/link/7531/rss) 
-  4. [https://mobilewebweekly.com/link/7532/rss](https://mobilewebweekly.com/link/7532/rss) 
-  5. [https://mobilewebweekly.com/link/7533/rss](https://mobilewebweekly.com/link/7533/rss) 
-  7. [https://mobilewebweekly.com/link/7534/rss](https://mobilewebweekly.com/link/7534/rss) 
-  8. [https://mobilewebweekly.com/link/7535/rss](https://mobilewebweekly.com/link/7535/rss) 
-  9. [https://mobilewebweekly.com/link/7536/rss](https://mobilewebweekly.com/link/7536/rss) 
-  10. [https://mobilewebweekly.com/link/7537/rss](https://mobilewebweekly.com/link/7537/rss) 
-  11. [https://mobilewebweekly.com/link/7538/rss](https://mobilewebweekly.com/link/7538/rss) 
-  12. [https://mobilewebweekly.com/link/7539/rss](https://mobilewebweekly.com/link/7539/rss) 
-  13. [https://mobilewebweekly.com/link/7540/rss](https://mobilewebweekly.com/link/7540/rss) 
-  14. [https://mobilewebweekly.com/link/7541/rss](https://mobilewebweekly.com/link/7541/rss) 
-  15. [https://mobilewebweekly.com/link/7542/rss](https://mobilewebweekly.com/link/7542/rss) 
-  16. [https://mobilewebweekly.com/link/7543/rss](https://mobilewebweekly.com/link/7543/rss) 
-  17. [https://mobilewebweekly.com/link/7544/rss](https://mobilewebweekly.com/link/7544/rss) 
-  18. [https://mobilewebweekly.com/link/7545/rss](https://mobilewebweekly.com/link/7545/rss) 
-  19. [https://mobilewebweekly.com/link/7546/rss](https://mobilewebweekly.com/link/7546/rss) 
-  20. [https://mobilewebweekly.com/link/7547/rss](https://mobilewebweekly.com/link/7547/rss) 
-  21. [https://mobilewebweekly.com/link/7548/rss](https://mobilewebweekly.com/link/7548/rss) 
 
 ====
