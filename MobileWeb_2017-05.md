@@ -1,4 +1,4 @@
-## Updated news for 2017-05-05 
+## Updated news for 2017-05-06 
 
 ==========
 ## #156: A 5 minute guide to mobile design for non-designers
