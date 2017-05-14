@@ -1,4 +1,4 @@
-## Updated news for 2017-05-13 
+## Updated news for 2017-05-14 
 
 ==========
 ## #157: Have Web Standards on Mobile Caught Up to PhoneGap in 2017?
