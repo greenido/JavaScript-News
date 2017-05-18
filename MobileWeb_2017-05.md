@@ -1,4 +1,4 @@
-## Updated news for 2017-05-17 
+## Updated news for 2017-05-18 
 
 ==========
 ##  #158:Creating Native Cross-platform Apps With Fuse
