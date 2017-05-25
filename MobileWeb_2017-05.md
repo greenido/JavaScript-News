@@ -1,4 +1,4 @@
-## Updated news for 2017-05-24 
+## Updated news for 2017-05-25 
 
 ==========
 ## #159: The Modern Mobile Web: State of the Union
