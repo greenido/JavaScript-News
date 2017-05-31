@@ -1,4 +1,4 @@
-## Updated news for 2017-05-30 
+## Updated news for 2017-05-31 
 
 ==========
 ## Web Design Weekly #280
