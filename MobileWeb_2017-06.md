@@ -1,4 +1,4 @@
-## Updated news for 2017-06-05 
+## Updated news for 2017-06-06 
 
 ==========
 ## #160: Production Progressive Web Apps with JS Frameworks
