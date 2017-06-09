@@ -1,4 +1,4 @@
-## Updated news for 2017-06-08 
+## Updated news for 2017-06-09 
 
 ==========
 ## #161: WebRTC Support in Safari 11 and in iOS 11
