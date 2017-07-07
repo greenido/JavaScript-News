@@ -1,4 +1,4 @@
-## Updated news for 2017-07-06 
+## Updated news for 2017-07-07 
 
 ==========
 ## #165: How Desktop-Era Frameworks Can Thrive on Mobile
