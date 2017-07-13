@@ -1,6 +1,29 @@
-## Updated news for 2017-07-07 
+## Updated news for 2017-07-13 
 
 ==========
+## #166: The Impact of Google AMP on a Major Sports Team's Traffic
+#### https://mobilewebweekly.com/issues/166
+
+==========
+  1. [https://mobilewebweekly.com/link/19735/rss](https://mobilewebweekly.com/link/19735/rss) 
+  2. [https://mobilewebweekly.com/link/19736/rss](https://mobilewebweekly.com/link/19736/rss) 
+  3. [https://mobilewebweekly.com/link/19737/rss](https://mobilewebweekly.com/link/19737/rss) 
+  4. [https://mobilewebweekly.com/link/19738/rss](https://mobilewebweekly.com/link/19738/rss) 
+  6. [https://mobilewebweekly.com/link/19739/rss](https://mobilewebweekly.com/link/19739/rss) 
+  7. [https://mobilewebweekly.com/link/19740/rss](https://mobilewebweekly.com/link/19740/rss) 
+  8. [https://mobilewebweekly.com/link/19741/rss](https://mobilewebweekly.com/link/19741/rss) 
+  9. [https://mobilewebweekly.com/link/19742/rss](https://mobilewebweekly.com/link/19742/rss) 
+  10. [https://mobilewebweekly.com/link/19743/rss](https://mobilewebweekly.com/link/19743/rss) 
+  11. [https://mobilewebweekly.com/link/19744/rss](https://mobilewebweekly.com/link/19744/rss) 
+  12. [https://mobilewebweekly.com/link/19745/rss](https://mobilewebweekly.com/link/19745/rss) 
+  13. [https://mobilewebweekly.com/link/19746/rss](https://mobilewebweekly.com/link/19746/rss) 
+  14. [https://mobilewebweekly.com/link/19747/rss](https://mobilewebweekly.com/link/19747/rss) 
+  15. [https://mobilewebweekly.com/link/19748/rss](https://mobilewebweekly.com/link/19748/rss) 
+  16. [https://mobilewebweekly.com/link/19749/rss](https://mobilewebweekly.com/link/19749/rss) 
+  17. [https://mobilewebweekly.com/link/19750/rss](https://mobilewebweekly.com/link/19750/rss) 
+  18. [https://mobilewebweekly.com/link/19751/rss](https://mobilewebweekly.com/link/19751/rss) 
+
+====
 ## #165: How Desktop-Era Frameworks Can Thrive on Mobile
 #### https://mobilewebweekly.com/issues/165
 
@@ -63,27 +86,5 @@
   16. [https://mobilewebweekly.com/link/19113/rss](https://mobilewebweekly.com/link/19113/rss) 
   17. [https://mobilewebweekly.com/link/19114/rss](https://mobilewebweekly.com/link/19114/rss) 
   18. [https://mobilewebweekly.com/link/19115/rss](https://mobilewebweekly.com/link/19115/rss) 
-
-====
-## #162: How to Build an Android App using Cordova and Vue.js
-#### https://mobilewebweekly.com/issues/162
-
-==========
-  1. [https://mobilewebweekly.com/link/14981/rss](https://mobilewebweekly.com/link/14981/rss) 
-  2. [https://mobilewebweekly.com/link/14982/rss](https://mobilewebweekly.com/link/14982/rss) 
-  3. [https://mobilewebweekly.com/link/14983/rss](https://mobilewebweekly.com/link/14983/rss) 
-  4. [https://mobilewebweekly.com/link/14984/rss](https://mobilewebweekly.com/link/14984/rss) 
-  5. [https://mobilewebweekly.com/link/14985/rss](https://mobilewebweekly.com/link/14985/rss) 
-  7. [https://mobilewebweekly.com/link/14986/rss](https://mobilewebweekly.com/link/14986/rss) 
-  8. [https://mobilewebweekly.com/link/14987/rss](https://mobilewebweekly.com/link/14987/rss) 
-  9. [https://mobilewebweekly.com/link/14988/rss](https://mobilewebweekly.com/link/14988/rss) 
-  10. [https://mobilewebweekly.com/link/14989/rss](https://mobilewebweekly.com/link/14989/rss) 
-  11. [https://mobilewebweekly.com/link/14990/rss](https://mobilewebweekly.com/link/14990/rss) 
-  12. [https://mobilewebweekly.com/link/14991/rss](https://mobilewebweekly.com/link/14991/rss) 
-  13. [https://mobilewebweekly.com/link/14992/rss](https://mobilewebweekly.com/link/14992/rss) 
-  14. [https://mobilewebweekly.com/link/14993/rss](https://mobilewebweekly.com/link/14993/rss) 
-  15. [https://mobilewebweekly.com/link/14994/rss](https://mobilewebweekly.com/link/14994/rss) 
-  16. [https://mobilewebweekly.com/link/14995/rss](https://mobilewebweekly.com/link/14995/rss) 
-  17. [https://mobilewebweekly.com/link/14996/rss](https://mobilewebweekly.com/link/14996/rss) 
 
 ====
