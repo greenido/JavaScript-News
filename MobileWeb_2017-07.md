@@ -1,6 +1,55 @@
-## Updated news for 2017-07-13 
+## Updated news for 2017-07-30 
 
 ==========
+## #168: Progressive Web Apps Are A Toolkit, Not A Recipe
+#### https://mobilewebweekly.com/issues/168
+
+==========
+  1. [https://mobilewebweekly.com/link/20145/rss](https://mobilewebweekly.com/link/20145/rss) 
+  2. [https://mobilewebweekly.com/link/20146/rss](https://mobilewebweekly.com/link/20146/rss) 
+  3. [https://mobilewebweekly.com/link/20147/rss](https://mobilewebweekly.com/link/20147/rss) 
+  4. [https://mobilewebweekly.com/link/20148/rss](https://mobilewebweekly.com/link/20148/rss) 
+  6. [https://mobilewebweekly.com/link/20149/rss](https://mobilewebweekly.com/link/20149/rss) 
+  7. [https://mobilewebweekly.com/link/20150/rss](https://mobilewebweekly.com/link/20150/rss) 
+  8. [https://mobilewebweekly.com/link/20151/rss](https://mobilewebweekly.com/link/20151/rss) 
+  9. [https://mobilewebweekly.com/link/20152/rss](https://mobilewebweekly.com/link/20152/rss) 
+  10. [https://mobilewebweekly.com/link/20153/rss](https://mobilewebweekly.com/link/20153/rss) 
+  11. [https://mobilewebweekly.com/link/20154/rss](https://mobilewebweekly.com/link/20154/rss) 
+  12. [https://mobilewebweekly.com/link/20155/rss](https://mobilewebweekly.com/link/20155/rss) 
+  13. [https://mobilewebweekly.com/link/20156/rss](https://mobilewebweekly.com/link/20156/rss) 
+  14. [https://mobilewebweekly.com/link/20157/rss](https://mobilewebweekly.com/link/20157/rss) 
+  15. [https://mobilewebweekly.com/link/20158/rss](https://mobilewebweekly.com/link/20158/rss) 
+  16. [https://mobilewebweekly.com/link/20159/rss](https://mobilewebweekly.com/link/20159/rss) 
+  17. [https://mobilewebweekly.com/link/20160/rss](https://mobilewebweekly.com/link/20160/rss) 
+  18. [https://mobilewebweekly.com/link/20161/rss](https://mobilewebweekly.com/link/20161/rss) 
+  20. [https://mobilewebweekly.com/link/20162/rss](https://mobilewebweekly.com/link/20162/rss) 
+  21. [https://mobilewebweekly.com/link/20163/rss](https://mobilewebweekly.com/link/20163/rss) 
+
+====
+## #167: A Beginner’s Guide to Progressive Web Apps
+#### https://mobilewebweekly.com/issues/167
+
+==========
+  1. [https://mobilewebweekly.com/link/19963/rss](https://mobilewebweekly.com/link/19963/rss) 
+  2. [https://mobilewebweekly.com/link/19964/rss](https://mobilewebweekly.com/link/19964/rss) 
+  3. [https://mobilewebweekly.com/link/19965/rss](https://mobilewebweekly.com/link/19965/rss) 
+  4. [https://mobilewebweekly.com/link/19966/rss](https://mobilewebweekly.com/link/19966/rss) 
+  6. [https://mobilewebweekly.com/link/19967/rss](https://mobilewebweekly.com/link/19967/rss) 
+  7. [https://mobilewebweekly.com/link/19968/rss](https://mobilewebweekly.com/link/19968/rss) 
+  8. [https://mobilewebweekly.com/link/19969/rss](https://mobilewebweekly.com/link/19969/rss) 
+  9. [https://mobilewebweekly.com/link/19970/rss](https://mobilewebweekly.com/link/19970/rss) 
+  10. [https://mobilewebweekly.com/link/19971/rss](https://mobilewebweekly.com/link/19971/rss) 
+  11. [https://mobilewebweekly.com/link/19972/rss](https://mobilewebweekly.com/link/19972/rss) 
+  12. [https://mobilewebweekly.com/link/19973/rss](https://mobilewebweekly.com/link/19973/rss) 
+  13. [https://mobilewebweekly.com/link/19974/rss](https://mobilewebweekly.com/link/19974/rss) 
+  14. [https://mobilewebweekly.com/link/19975/rss](https://mobilewebweekly.com/link/19975/rss) 
+  15. [https://mobilewebweekly.com/link/19976/rss](https://mobilewebweekly.com/link/19976/rss) 
+  16. [https://mobilewebweekly.com/link/19977/rss](https://mobilewebweekly.com/link/19977/rss) 
+  18. [https://mobilewebweekly.com/link/19978/rss](https://mobilewebweekly.com/link/19978/rss) 
+  19. [https://mobilewebweekly.com/link/19979/rss](https://mobilewebweekly.com/link/19979/rss) 
+  20. [https://mobilewebweekly.com/link/19980/rss](https://mobilewebweekly.com/link/19980/rss) 
+
+====
 ## #166: The Impact of Google AMP on a Major Sports Team's Traffic
 #### https://mobilewebweekly.com/issues/166
 
@@ -40,51 +89,5 @@
   10. [https://mobilewebweekly.com/link/19555/rss](https://mobilewebweekly.com/link/19555/rss) 
   11. [https://mobilewebweekly.com/link/19556/rss](https://mobilewebweekly.com/link/19556/rss) 
   12. [https://mobilewebweekly.com/link/19557/rss](https://mobilewebweekly.com/link/19557/rss) 
-
-====
-## #164: Any Web Site Can Become A PWA
-#### https://mobilewebweekly.com/issues/164
-
-==========
-  1. [https://mobilewebweekly.com/link/19327/rss](https://mobilewebweekly.com/link/19327/rss) 
-  2. [https://mobilewebweekly.com/link/19328/rss](https://mobilewebweekly.com/link/19328/rss) 
-  3. [https://mobilewebweekly.com/link/19329/rss](https://mobilewebweekly.com/link/19329/rss) 
-  4. [https://mobilewebweekly.com/link/19330/rss](https://mobilewebweekly.com/link/19330/rss) 
-  6. [https://mobilewebweekly.com/link/19331/rss](https://mobilewebweekly.com/link/19331/rss) 
-  7. [https://mobilewebweekly.com/link/19332/rss](https://mobilewebweekly.com/link/19332/rss) 
-  8. [https://mobilewebweekly.com/link/19333/rss](https://mobilewebweekly.com/link/19333/rss) 
-  9. [https://mobilewebweekly.com/link/19334/rss](https://mobilewebweekly.com/link/19334/rss) 
-  10. [https://mobilewebweekly.com/link/19335/rss](https://mobilewebweekly.com/link/19335/rss) 
-  11. [https://mobilewebweekly.com/link/19336/rss](https://mobilewebweekly.com/link/19336/rss) 
-  12. [https://mobilewebweekly.com/link/19337/rss](https://mobilewebweekly.com/link/19337/rss) 
-  13. [https://mobilewebweekly.com/link/19338/rss](https://mobilewebweekly.com/link/19338/rss) 
-  14. [https://mobilewebweekly.com/link/19339/rss](https://mobilewebweekly.com/link/19339/rss) 
-  15. [https://mobilewebweekly.com/link/19340/rss](https://mobilewebweekly.com/link/19340/rss) 
-  16. [https://mobilewebweekly.com/link/19341/rss](https://mobilewebweekly.com/link/19341/rss) 
-  17. [https://mobilewebweekly.com/link/19342/rss](https://mobilewebweekly.com/link/19342/rss) 
-  18. [https://mobilewebweekly.com/link/19343/rss](https://mobilewebweekly.com/link/19343/rss) 
-
-====
-## #163: Hybrid Apps And React Native: A Time To Transition?
-#### https://mobilewebweekly.com/issues/163
-
-==========
-  1. [https://mobilewebweekly.com/link/19098/rss](https://mobilewebweekly.com/link/19098/rss) 
-  2. [https://mobilewebweekly.com/link/19099/rss](https://mobilewebweekly.com/link/19099/rss) 
-  3. [https://mobilewebweekly.com/link/19100/rss](https://mobilewebweekly.com/link/19100/rss) 
-  4. [https://mobilewebweekly.com/link/19101/rss](https://mobilewebweekly.com/link/19101/rss) 
-  5. [https://mobilewebweekly.com/link/19102/rss](https://mobilewebweekly.com/link/19102/rss) 
-  7. [https://mobilewebweekly.com/link/19103/rss](https://mobilewebweekly.com/link/19103/rss) 
-  8. [https://mobilewebweekly.com/link/19104/rss](https://mobilewebweekly.com/link/19104/rss) 
-  9. [https://mobilewebweekly.com/link/19105/rss](https://mobilewebweekly.com/link/19105/rss) 
-  10. [https://mobilewebweekly.com/link/19106/rss](https://mobilewebweekly.com/link/19106/rss) 
-  11. [https://mobilewebweekly.com/link/19107/rss](https://mobilewebweekly.com/link/19107/rss) 
-  12. [https://mobilewebweekly.com/link/19108/rss](https://mobilewebweekly.com/link/19108/rss) 
-  13. [https://mobilewebweekly.com/link/19109/rss](https://mobilewebweekly.com/link/19109/rss) 
-  14. [https://mobilewebweekly.com/link/19110/rss](https://mobilewebweekly.com/link/19110/rss) 
-  15. [https://mobilewebweekly.com/link/19111/rss](https://mobilewebweekly.com/link/19111/rss) 
-  16. [https://mobilewebweekly.com/link/19113/rss](https://mobilewebweekly.com/link/19113/rss) 
-  17. [https://mobilewebweekly.com/link/19114/rss](https://mobilewebweekly.com/link/19114/rss) 
-  18. [https://mobilewebweekly.com/link/19115/rss](https://mobilewebweekly.com/link/19115/rss) 
 
 ====
