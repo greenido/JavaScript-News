@@ -1,4 +1,4 @@
-## Updated news for 2017-07-31 
+## Updated news for 2017-08-02 
 
 ==========
 ## #168: Progressive Web Apps Are A Toolkit, Not A Recipe
