@@ -1,4 +1,4 @@
-## Updated news for 2017-08-11 
+## Updated news for 2017-08-16 
 
 ==========
 ## #170: Make Sites Look Native Without The App Store
