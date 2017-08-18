@@ -1,6 +1,31 @@
-## Updated news for 2017-08-16 
+## Updated news for 2017-08-18 
 
 ==========
+## #171: Can AR Solve Mobile Visualization?
+#### https://mobilewebweekly.com/issues/171
+
+==========
+  1. [https://mobilewebweekly.com/link/20775/rss](https://mobilewebweekly.com/link/20775/rss) 
+  2. [https://mobilewebweekly.com/link/20776/rss](https://mobilewebweekly.com/link/20776/rss) 
+  3. [https://mobilewebweekly.com/link/20777/rss](https://mobilewebweekly.com/link/20777/rss) 
+  4. [https://mobilewebweekly.com/link/20778/rss](https://mobilewebweekly.com/link/20778/rss) 
+  5. [https://mobilewebweekly.com/link/20779/rss](https://mobilewebweekly.com/link/20779/rss) 
+  7. [https://mobilewebweekly.com/link/20780/rss](https://mobilewebweekly.com/link/20780/rss) 
+  8. [https://mobilewebweekly.com/link/20781/rss](https://mobilewebweekly.com/link/20781/rss) 
+  9. [https://mobilewebweekly.com/link/20782/rss](https://mobilewebweekly.com/link/20782/rss) 
+  10. [https://mobilewebweekly.com/link/20783/rss](https://mobilewebweekly.com/link/20783/rss) 
+  11. [https://mobilewebweekly.com/link/20784/rss](https://mobilewebweekly.com/link/20784/rss) 
+  12. [https://mobilewebweekly.com/link/20785/rss](https://mobilewebweekly.com/link/20785/rss) 
+  13. [https://mobilewebweekly.com/link/20786/rss](https://mobilewebweekly.com/link/20786/rss) 
+  14. [https://mobilewebweekly.com/link/20787/rss](https://mobilewebweekly.com/link/20787/rss) 
+  15. [https://mobilewebweekly.com/link/20788/rss](https://mobilewebweekly.com/link/20788/rss) 
+  16. [https://mobilewebweekly.com/link/20789/rss](https://mobilewebweekly.com/link/20789/rss) 
+  17. [https://mobilewebweekly.com/link/20790/rss](https://mobilewebweekly.com/link/20790/rss) 
+  19. [https://mobilewebweekly.com/link/20791/rss](https://mobilewebweekly.com/link/20791/rss) 
+  20. [https://mobilewebweekly.com/link/20792/rss](https://mobilewebweekly.com/link/20792/rss) 
+  21. [https://mobilewebweekly.com/link/20793/rss](https://mobilewebweekly.com/link/20793/rss) 
+
+====
 ## #170: Make Sites Look Native Without The App Store
 #### https://mobilewebweekly.com/issues/170
 
@@ -73,29 +98,5 @@
   18. [https://mobilewebweekly.com/link/20161/rss](https://mobilewebweekly.com/link/20161/rss) 
   20. [https://mobilewebweekly.com/link/20162/rss](https://mobilewebweekly.com/link/20162/rss) 
   21. [https://mobilewebweekly.com/link/20163/rss](https://mobilewebweekly.com/link/20163/rss) 
-
-====
-## #167: A Beginner’s Guide to Progressive Web Apps
-#### https://mobilewebweekly.com/issues/167
-
-==========
-  1. [https://mobilewebweekly.com/link/19963/rss](https://mobilewebweekly.com/link/19963/rss) 
-  2. [https://mobilewebweekly.com/link/19964/rss](https://mobilewebweekly.com/link/19964/rss) 
-  3. [https://mobilewebweekly.com/link/19965/rss](https://mobilewebweekly.com/link/19965/rss) 
-  4. [https://mobilewebweekly.com/link/19966/rss](https://mobilewebweekly.com/link/19966/rss) 
-  6. [https://mobilewebweekly.com/link/19967/rss](https://mobilewebweekly.com/link/19967/rss) 
-  7. [https://mobilewebweekly.com/link/19968/rss](https://mobilewebweekly.com/link/19968/rss) 
-  8. [https://mobilewebweekly.com/link/19969/rss](https://mobilewebweekly.com/link/19969/rss) 
-  9. [https://mobilewebweekly.com/link/19970/rss](https://mobilewebweekly.com/link/19970/rss) 
-  10. [https://mobilewebweekly.com/link/19971/rss](https://mobilewebweekly.com/link/19971/rss) 
-  11. [https://mobilewebweekly.com/link/19972/rss](https://mobilewebweekly.com/link/19972/rss) 
-  12. [https://mobilewebweekly.com/link/19973/rss](https://mobilewebweekly.com/link/19973/rss) 
-  13. [https://mobilewebweekly.com/link/19974/rss](https://mobilewebweekly.com/link/19974/rss) 
-  14. [https://mobilewebweekly.com/link/19975/rss](https://mobilewebweekly.com/link/19975/rss) 
-  15. [https://mobilewebweekly.com/link/19976/rss](https://mobilewebweekly.com/link/19976/rss) 
-  16. [https://mobilewebweekly.com/link/19977/rss](https://mobilewebweekly.com/link/19977/rss) 
-  18. [https://mobilewebweekly.com/link/19978/rss](https://mobilewebweekly.com/link/19978/rss) 
-  19. [https://mobilewebweekly.com/link/19979/rss](https://mobilewebweekly.com/link/19979/rss) 
-  20. [https://mobilewebweekly.com/link/19980/rss](https://mobilewebweekly.com/link/19980/rss) 
 
 ====
