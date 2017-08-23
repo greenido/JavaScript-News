@@ -1,4 +1,4 @@
-## Updated news for 2017-08-18 
+## Updated news for 2017-08-23 
 
 ==========
 ## #171: Can AR Solve Mobile Visualization?
