@@ -1,4 +1,4 @@
-## Updated news for 2017-08-31 
+## Updated news for 2017-09-01 
 
 ==========
 ## #173: A Progressive Roadmap for your PWA

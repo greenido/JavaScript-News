@@ -1,6 +1,12 @@
-## Updated news for 2017-08-28 
+## Updated news for 2017-09-01 
 
 ==========
+## Web Design Weekly #288
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/4IeFO9cexDU/
+
+==========
+
+====
 ## Web Design Weekly #287
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/b3DQ2SJOA2g/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #279
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/G_rbnAhcaaI/
-
-==========
-
-====
-## Web Design Weekly #278
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/j2B9NMpplx8/
 
 ==========
 
