@@ -1,6 +1,32 @@
-## Updated news for 2017-10-10 
+## Updated news for 2017-10-15 
 
 ==========
+## 📱 #179: Microsoft Edge Coming to iOS and Android
+#### https://mobilewebweekly.com/issues/179
+
+==========
+  1. [https://mobilewebweekly.com/link/30934/rss](https://mobilewebweekly.com/link/30934/rss) 
+  2. [https://mobilewebweekly.com/link/30935/rss](https://mobilewebweekly.com/link/30935/rss) 
+  3. [https://mobilewebweekly.com/link/30936/rss](https://mobilewebweekly.com/link/30936/rss) 
+  4. [https://mobilewebweekly.com/link/30937/rss](https://mobilewebweekly.com/link/30937/rss) 
+  6. [https://mobilewebweekly.com/link/30938/rss](https://mobilewebweekly.com/link/30938/rss) 
+  7. [https://mobilewebweekly.com/link/30939/rss](https://mobilewebweekly.com/link/30939/rss) 
+  8. [https://mobilewebweekly.com/link/30940/rss](https://mobilewebweekly.com/link/30940/rss) 
+  9. [https://mobilewebweekly.com/link/30941/rss](https://mobilewebweekly.com/link/30941/rss) 
+  10. [https://mobilewebweekly.com/link/30942/rss](https://mobilewebweekly.com/link/30942/rss) 
+  11. [https://mobilewebweekly.com/link/30943/rss](https://mobilewebweekly.com/link/30943/rss) 
+  12. [https://mobilewebweekly.com/link/30944/rss](https://mobilewebweekly.com/link/30944/rss) 
+  13. [https://mobilewebweekly.com/link/30945/rss](https://mobilewebweekly.com/link/30945/rss) 
+  14. [https://mobilewebweekly.com/link/30946/rss](https://mobilewebweekly.com/link/30946/rss) 
+  15. [https://mobilewebweekly.com/link/30947/rss](https://mobilewebweekly.com/link/30947/rss) 
+  16. [https://mobilewebweekly.com/link/30948/rss](https://mobilewebweekly.com/link/30948/rss) 
+  17. [https://mobilewebweekly.com/link/30949/rss](https://mobilewebweekly.com/link/30949/rss) 
+  18. [https://mobilewebweekly.com/link/30950/rss](https://mobilewebweekly.com/link/30950/rss) 
+  19. [https://mobilewebweekly.com/link/30951/rss](https://mobilewebweekly.com/link/30951/rss) 
+  20. [https://mobilewebweekly.com/link/30952/rss](https://mobilewebweekly.com/link/30952/rss) 
+  21. [https://mobilewebweekly.com/link/30953/rss](https://mobilewebweekly.com/link/30953/rss) 
+
+====
 ## #178: Cross-Platform App Dev Tools Compared
 #### https://mobilewebweekly.com/issues/178
 
@@ -64,33 +90,5 @@
   17. [https://mobilewebweekly.com/link/25495/rss](https://mobilewebweekly.com/link/25495/rss) 
   18. [https://mobilewebweekly.com/link/25496/rss](https://mobilewebweekly.com/link/25496/rss) 
   19. [https://mobilewebweekly.com/link/25497/rss](https://mobilewebweekly.com/link/25497/rss) 
-
-====
-## #175: Putting the 'App' in Progressive Web Apps
-#### https://mobilewebweekly.com/issues/175
-
-==========
-  1. [https://mobilewebweekly.com/link/25247/rss](https://mobilewebweekly.com/link/25247/rss) 
-  2. [https://mobilewebweekly.com/link/25248/rss](https://mobilewebweekly.com/link/25248/rss) 
-  3. [https://mobilewebweekly.com/link/25249/rss](https://mobilewebweekly.com/link/25249/rss) 
-  4. [https://mobilewebweekly.com/link/25250/rss](https://mobilewebweekly.com/link/25250/rss) 
-  6. [https://mobilewebweekly.com/link/25251/rss](https://mobilewebweekly.com/link/25251/rss) 
-  7. [https://mobilewebweekly.com/link/25252/rss](https://mobilewebweekly.com/link/25252/rss) 
-  8. [https://mobilewebweekly.com/link/25253/rss](https://mobilewebweekly.com/link/25253/rss) 
-  9. [https://mobilewebweekly.com/link/25254/rss](https://mobilewebweekly.com/link/25254/rss) 
-  10. [https://mobilewebweekly.com/link/25255/rss](https://mobilewebweekly.com/link/25255/rss) 
-  11. [https://mobilewebweekly.com/link/25256/rss](https://mobilewebweekly.com/link/25256/rss) 
-  12. [https://mobilewebweekly.com/link/25257/rss](https://mobilewebweekly.com/link/25257/rss) 
-  13. [https://mobilewebweekly.com/link/25258/rss](https://mobilewebweekly.com/link/25258/rss) 
-  14. [https://mobilewebweekly.com/link/25259/rss](https://mobilewebweekly.com/link/25259/rss) 
-  15. [https://mobilewebweekly.com/link/25260/rss](https://mobilewebweekly.com/link/25260/rss) 
-  16. [https://mobilewebweekly.com/link/25261/rss](https://mobilewebweekly.com/link/25261/rss) 
-  17. [https://mobilewebweekly.com/link/25262/rss](https://mobilewebweekly.com/link/25262/rss) 
-  18. [https://mobilewebweekly.com/link/25263/rss](https://mobilewebweekly.com/link/25263/rss) 
-  19. [https://mobilewebweekly.com/link/25264/rss](https://mobilewebweekly.com/link/25264/rss) 
-  20. [https://mobilewebweekly.com/link/25265/rss](https://mobilewebweekly.com/link/25265/rss) 
-  22. [https://mobilewebweekly.com/link/25266/rss](https://mobilewebweekly.com/link/25266/rss) 
-  23. [https://mobilewebweekly.com/link/25267/rss](https://mobilewebweekly.com/link/25267/rss) 
-  24. [https://mobilewebweekly.com/link/25268/rss](https://mobilewebweekly.com/link/25268/rss) 
 
 ====
