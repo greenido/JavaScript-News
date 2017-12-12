@@ -1,4 +1,4 @@
-## Updated news for 2017-10-15 
+## Updated news for 2017-10-18 
 
 ==========
 ## 📱 #179: Microsoft Edge Coming to iOS and Android
