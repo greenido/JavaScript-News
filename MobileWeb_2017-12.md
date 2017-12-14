@@ -1,6 +1,35 @@
-## Updated news for 2017-12-13 
+## Updated news for 2017-12-14 
 
 ==========
+## #187: How To Make Your Web App Work Offline
+#### https://mobilewebweekly.com/issues/187
+
+==========
+  1. [https://mobilewebweekly.com/link/34087/rss](https://mobilewebweekly.com/link/34087/rss) 
+  2. [https://mobilewebweekly.com/link/34088/rss](https://mobilewebweekly.com/link/34088/rss) 
+  3. [https://mobilewebweekly.com/link/34089/rss](https://mobilewebweekly.com/link/34089/rss) 
+  4. [https://mobilewebweekly.com/link/34090/rss](https://mobilewebweekly.com/link/34090/rss) 
+  5. [https://mobilewebweekly.com/link/34091/rss](https://mobilewebweekly.com/link/34091/rss) 
+  7. [https://mobilewebweekly.com/link/34092/rss](https://mobilewebweekly.com/link/34092/rss) 
+  8. [https://mobilewebweekly.com/link/34093/rss](https://mobilewebweekly.com/link/34093/rss) 
+  9. [https://mobilewebweekly.com/link/34094/rss](https://mobilewebweekly.com/link/34094/rss) 
+  10. [https://mobilewebweekly.com/link/34095/rss](https://mobilewebweekly.com/link/34095/rss) 
+  11. [https://mobilewebweekly.com/link/34096/rss](https://mobilewebweekly.com/link/34096/rss) 
+  12. [https://mobilewebweekly.com/link/34097/rss](https://mobilewebweekly.com/link/34097/rss) 
+  13. [https://mobilewebweekly.com/link/34098/rss](https://mobilewebweekly.com/link/34098/rss) 
+  14. [https://mobilewebweekly.com/link/34099/rss](https://mobilewebweekly.com/link/34099/rss) 
+  15. [https://mobilewebweekly.com/link/34100/rss](https://mobilewebweekly.com/link/34100/rss) 
+  16. [https://mobilewebweekly.com/link/34101/rss](https://mobilewebweekly.com/link/34101/rss) 
+  17. [https://mobilewebweekly.com/link/34102/rss](https://mobilewebweekly.com/link/34102/rss) 
+  18. [https://mobilewebweekly.com/link/34103/rss](https://mobilewebweekly.com/link/34103/rss) 
+  19. [https://mobilewebweekly.com/link/34104/rss](https://mobilewebweekly.com/link/34104/rss) 
+  20. [https://mobilewebweekly.com/link/34105/rss](https://mobilewebweekly.com/link/34105/rss) 
+  21. [https://mobilewebweekly.com/link/34106/rss](https://mobilewebweekly.com/link/34106/rss) 
+  22. [https://mobilewebweekly.com/link/34107/rss](https://mobilewebweekly.com/link/34107/rss) 
+  24. [https://mobilewebweekly.com/link/34108/rss](https://mobilewebweekly.com/link/34108/rss) 
+  25. [https://mobilewebweekly.com/link/34109/rss](https://mobilewebweekly.com/link/34109/rss) 
+
+====
 ## #186: Microsoft Edge Browser Now Available for Android and iOS
 #### https://mobilewebweekly.com/issues/186
 
@@ -75,32 +104,5 @@
   19. [https://mobilewebweekly.com/link/32544/rss](https://mobilewebweekly.com/link/32544/rss) 
   20. [https://mobilewebweekly.com/link/32545/rss](https://mobilewebweekly.com/link/32545/rss) 
   21. [https://mobilewebweekly.com/link/32546/rss](https://mobilewebweekly.com/link/32546/rss) 
-
-====
-## #183: Kickstarting Your Journey to Progressive Web Apps
-#### https://mobilewebweekly.com/issues/183
-
-==========
-  1. [https://mobilewebweekly.com/link/32053/rss](https://mobilewebweekly.com/link/32053/rss) 
-  2. [https://mobilewebweekly.com/link/32054/rss](https://mobilewebweekly.com/link/32054/rss) 
-  3. [https://mobilewebweekly.com/link/32055/rss](https://mobilewebweekly.com/link/32055/rss) 
-  4. [https://mobilewebweekly.com/link/32056/rss](https://mobilewebweekly.com/link/32056/rss) 
-  5. [https://mobilewebweekly.com/link/32057/rss](https://mobilewebweekly.com/link/32057/rss) 
-  6. [https://mobilewebweekly.com/link/32056/rss](https://mobilewebweekly.com/link/32056/rss) 
-  7. [https://mobilewebweekly.com/link/32058/rss](https://mobilewebweekly.com/link/32058/rss) 
-  8. [https://mobilewebweekly.com/link/32059/rss](https://mobilewebweekly.com/link/32059/rss) 
-  9. [https://mobilewebweekly.com/link/32060/rss](https://mobilewebweekly.com/link/32060/rss) 
-  10. [https://mobilewebweekly.com/link/32061/rss](https://mobilewebweekly.com/link/32061/rss) 
-  11. [https://mobilewebweekly.com/link/32062/rss](https://mobilewebweekly.com/link/32062/rss) 
-  12. [https://mobilewebweekly.com/link/32063/rss](https://mobilewebweekly.com/link/32063/rss) 
-  13. [https://mobilewebweekly.com/link/32064/rss](https://mobilewebweekly.com/link/32064/rss) 
-  15. [https://mobilewebweekly.com/link/32065/rss](https://mobilewebweekly.com/link/32065/rss) 
-  16. [https://mobilewebweekly.com/link/32066/rss](https://mobilewebweekly.com/link/32066/rss) 
-  17. [https://mobilewebweekly.com/link/32067/rss](https://mobilewebweekly.com/link/32067/rss) 
-  18. [https://mobilewebweekly.com/link/32068/rss](https://mobilewebweekly.com/link/32068/rss) 
-  19. [https://mobilewebweekly.com/link/32069/rss](https://mobilewebweekly.com/link/32069/rss) 
-  20. [https://mobilewebweekly.com/link/32070/rss](https://mobilewebweekly.com/link/32070/rss) 
-  21. [https://mobilewebweekly.com/link/32071/rss](https://mobilewebweekly.com/link/32071/rss) 
-  22. [https://mobilewebweekly.com/link/32072/rss](https://mobilewebweekly.com/link/32072/rss) 
 
 ====
