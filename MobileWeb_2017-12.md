@@ -1,4 +1,4 @@
-## Updated news for 2017-12-14 
+## Updated news for 2017-12-15 
 
 ==========
 ## #187: How To Make Your Web App Work Offline
