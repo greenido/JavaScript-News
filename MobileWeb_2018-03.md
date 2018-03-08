@@ -1,6 +1,32 @@
-## Updated news for 2018-03-07 
+## Updated news for 2018-03-08 
 
 ==========
+## #197: Choosing Mobility Options in 2018
+#### https://mobiledevweekly.com/issues/197
+
+==========
+  1. [https://mobiledevweekly.com/link/37187/rss](https://mobiledevweekly.com/link/37187/rss) 
+  2. [https://mobiledevweekly.com/link/37188/rss](https://mobiledevweekly.com/link/37188/rss) 
+  3. [https://mobiledevweekly.com/link/37189/rss](https://mobiledevweekly.com/link/37189/rss) 
+  4. [https://mobiledevweekly.com/link/37190/rss](https://mobiledevweekly.com/link/37190/rss) 
+  6. [https://mobiledevweekly.com/link/37191/rss](https://mobiledevweekly.com/link/37191/rss) 
+  7. [https://mobiledevweekly.com/link/37192/rss](https://mobiledevweekly.com/link/37192/rss) 
+  8. [https://mobiledevweekly.com/link/37193/rss](https://mobiledevweekly.com/link/37193/rss) 
+  9. [https://mobiledevweekly.com/link/37194/rss](https://mobiledevweekly.com/link/37194/rss) 
+  10. [https://mobiledevweekly.com/link/37195/rss](https://mobiledevweekly.com/link/37195/rss) 
+  11. [https://mobiledevweekly.com/link/37196/rss](https://mobiledevweekly.com/link/37196/rss) 
+  12. [https://mobiledevweekly.com/link/37197/rss](https://mobiledevweekly.com/link/37197/rss) 
+  13. [https://mobiledevweekly.com/link/37198/rss](https://mobiledevweekly.com/link/37198/rss) 
+  14. [https://mobiledevweekly.com/link/37199/rss](https://mobiledevweekly.com/link/37199/rss) 
+  15. [https://mobiledevweekly.com/link/37200/rss](https://mobiledevweekly.com/link/37200/rss) 
+  16. [https://mobiledevweekly.com/link/37201/rss](https://mobiledevweekly.com/link/37201/rss) 
+  17. [https://mobiledevweekly.com/link/37202/rss](https://mobiledevweekly.com/link/37202/rss) 
+  18. [https://mobiledevweekly.com/link/37203/rss](https://mobiledevweekly.com/link/37203/rss) 
+  19. [https://mobiledevweekly.com/link/37204/rss](https://mobiledevweekly.com/link/37204/rss) 
+  20. [https://mobiledevweekly.com/link/37205/rss](https://mobiledevweekly.com/link/37205/rss) 
+  21. [https://mobiledevweekly.com/link/37206/rss](https://mobiledevweekly.com/link/37206/rss) 
+
+====
 ## #196: Flutter beta arrives, Apple adds Service Worker support to Safari
 #### https://mobiledevweekly.com/issues/196
 
@@ -76,31 +102,5 @@
   19. [https://mobiledevweekly.com/link/36193/rss](https://mobiledevweekly.com/link/36193/rss) 
   20. [https://mobiledevweekly.com/link/36194/rss](https://mobiledevweekly.com/link/36194/rss) 
   21. [https://mobiledevweekly.com/link/36195/rss](https://mobiledevweekly.com/link/36195/rss) 
-
-====
-## #193: New Features in Android Studio 3.0
-#### https://mobiledevweekly.com/issues/193
-
-==========
-  1. [https://mobiledevweekly.com/link/35862/rss](https://mobiledevweekly.com/link/35862/rss) 
-  2. [https://mobiledevweekly.com/link/35863/rss](https://mobiledevweekly.com/link/35863/rss) 
-  3. [https://mobiledevweekly.com/link/35864/rss](https://mobiledevweekly.com/link/35864/rss) 
-  4. [https://mobiledevweekly.com/link/35865/rss](https://mobiledevweekly.com/link/35865/rss) 
-  7. [https://mobiledevweekly.com/link/35866/rss](https://mobiledevweekly.com/link/35866/rss) 
-  8. [https://mobiledevweekly.com/link/35867/rss](https://mobiledevweekly.com/link/35867/rss) 
-  9. [https://mobiledevweekly.com/link/35868/rss](https://mobiledevweekly.com/link/35868/rss) 
-  10. [https://mobiledevweekly.com/link/35869/rss](https://mobiledevweekly.com/link/35869/rss) 
-  11. [https://mobiledevweekly.com/link/35870/rss](https://mobiledevweekly.com/link/35870/rss) 
-  12. [https://mobiledevweekly.com/link/35871/rss](https://mobiledevweekly.com/link/35871/rss) 
-  13. [https://mobiledevweekly.com/link/35872/rss](https://mobiledevweekly.com/link/35872/rss) 
-  14. [https://mobiledevweekly.com/link/35873/rss](https://mobiledevweekly.com/link/35873/rss) 
-  16. [https://mobiledevweekly.com/link/35874/rss](https://mobiledevweekly.com/link/35874/rss) 
-  17. [https://mobiledevweekly.com/link/35875/rss](https://mobiledevweekly.com/link/35875/rss) 
-  18. [https://mobiledevweekly.com/link/35876/rss](https://mobiledevweekly.com/link/35876/rss) 
-  19. [https://mobiledevweekly.com/link/35877/rss](https://mobiledevweekly.com/link/35877/rss) 
-  20. [https://mobiledevweekly.com/link/35878/rss](https://mobiledevweekly.com/link/35878/rss) 
-  21. [https://mobiledevweekly.com/link/35879/rss](https://mobiledevweekly.com/link/35879/rss) 
-  22. [https://mobiledevweekly.com/link/35880/rss](https://mobiledevweekly.com/link/35880/rss) 
-  23. [https://mobiledevweekly.com/link/35881/rss](https://mobiledevweekly.com/link/35881/rss) 
 
 ====
