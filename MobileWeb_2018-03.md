@@ -1,4 +1,4 @@
-## Updated news for 2018-03-08 
+## Updated news for 2018-03-09 
 
 ==========
 ## #197: Choosing Mobility Options in 2018
