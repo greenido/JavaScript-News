@@ -1,4 +1,4 @@
-## Updated news for 2018-03-16 
+## Updated news for 2018-03-17 
 
 ==========
 ## #198 — Previewing Android P: The Next Version of Android
