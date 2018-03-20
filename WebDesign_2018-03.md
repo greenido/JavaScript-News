@@ -1,6 +1,12 @@
-## Updated news for 2018-03-19 
+## Updated news for 2018-03-20 
 
 ==========
+## Web Design Weekly #311
+#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/fvtylguVpdM/
+
+==========
+
+====
 ## Web Design Weekly #310
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/s8o_Dg0fP7s/
 
@@ -51,12 +57,6 @@
 ====
 ## Web Design Weekly #302
 #### http://feedproxy.google.com/~r/WebDesignWeekly/~3/kiQ8yfL9jYA/
-
-==========
-
-====
-## Web Design Weekly #301
-#### http://feedproxy.google.com/~r/WebDesignWeekly/~3/mylt2kChv0E/
 
 ==========
 
