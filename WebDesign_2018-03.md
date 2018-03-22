@@ -1,4 +1,4 @@
-## Updated news for 2018-03-21 
+## Updated news for 2018-03-22 
 
 ==========
 ## Web Design Weekly #311
