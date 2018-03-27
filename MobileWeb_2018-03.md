@@ -1,4 +1,4 @@
-## Updated news for 2018-03-26 
+## Updated news for 2018-03-27 
 
 ==========
 ## #199: Git for Mobile Development
